@@ -129,10 +129,10 @@
 - A [Discord account](https//discord.com/register).
 
 # <p align=center>Recommended Specs</p>
-- CPU Any multi-core processor (3.5GHz or more).
-- RAM 16GB+.
-- GPU 8GB+.
-- SSD Any SSD.
+- CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
+- RAM - 16gb or higher required.  Dual channel recommended.
+- GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA GPU recommended.
+- SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 180+gb of free space is required.
 
 # <p align=center>Setup Instructions</p>
 ## Disable Base Address Randomization 
