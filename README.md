@@ -273,18 +273,15 @@
 
 # Support, Feedback, & Updates:
 > [!caution]
-> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel!
+> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel, aside from the appropriate Uranium Fever channels!
 >
-> Altered lists **WILL NOT** receive support.
+> Altered Uranium Fever lists **WILL NOT** receive support.
 
 Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
 # FAQ:
-> [!note]
-> This section is still under construction!
-
 - Crashing - I am crashing, what can I do to fix it?
-	- Post your crashlog (found in the Uranium Fever > Stock Game > Crashlogs folder) in the Uranium Fever Support channel on discord (link provided above).
+	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
