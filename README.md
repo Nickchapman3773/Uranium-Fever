@@ -261,23 +261,12 @@
 	- The game CANNOT be launched outside of MO2, though a shortcut can be created and placed on your desktop:
 	- Navigate to MO2.
 	- Select Uranium Fever from the dropdown list on the right, then run.
+> 
 # deleting downloads and hidden files .mohidden
-> [!note]
-> This section is still under construction!
+
 # Updating the List:
-> [!note]
-> This section is still under construction!
-	- Reinstall the list from the Wabbajack tool and enable the "Overwrite Installation" checkbox.
-	- Reapply the 4GB Patch and BSA Decompressor as instructed above.
-	- Reapply the modlist and load order as instructed above.
-
-# Support, Feedback, & Updates:
-> [!caution]
-> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel, aside from the appropriate Uranium Fever channels!
->
-> Altered Uranium Fever lists **WILL NOT** receive support.
-
-Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
+- Reinstall the list from the Wabbajack tool and enable the "Overwrite Installation" checkbox.
+- Reapply the BSA Decompressor as instructed above.
 
 # FAQ:
 - Crashing - I am crashing, what can I do to fix it?
@@ -288,6 +277,14 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/
 	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- NO! The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+
+# Support, Feedback, & Updates:
+> [!caution]
+> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel, aside from the appropriate Uranium Fever channels!
+>
+> Altered Uranium Fever lists **WILL NOT** receive support.
+
+Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
 # Credits/Thanks:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
