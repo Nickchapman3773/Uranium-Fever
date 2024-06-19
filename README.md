@@ -283,7 +283,7 @@
 - Ragdolls no crash
 
 # Support, Feedback, & Updates: 
-Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/gV2XTbXm)!
+Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
 # Credits/Thanks:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
