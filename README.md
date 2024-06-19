@@ -291,7 +291,7 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/
 - Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram :D).
 - InTheGrave and Shabby Pirate for advising on compression and BSA packing to optimize the list.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
-- Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list (Armed to the Teeth, B42 Quickthrow, and B42 Inspect)
+- Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
 - PhysicsGaming for spending a substantial amount adjusting Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
