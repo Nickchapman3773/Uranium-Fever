@@ -247,7 +247,7 @@
 - Set framerate limiter to Front Edge Sync.
 
 ## BSA Decompressor - Reduces load time and stuttering:
-- In your Uranium Fever Installation Location, run FNV BSA Decompressor.exe.
+- In your Uranium Fever Installation Location, open the FNV BSA Decompressor folder and run FNV BSA Decompressor.exe.
 - The Fallout: New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
 - Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
