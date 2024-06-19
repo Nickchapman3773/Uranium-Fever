@@ -178,6 +178,9 @@
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 
 ## Tale of Two Wasteland Installation:
+> [!warning]
+> This mod is REQUIRED for Uranium Fever to function properly.
+
 - Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
 - In your Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
 - Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
@@ -186,6 +189,9 @@
 - Click Install.
   
 ## New Vegas Reloaded (NVR) Installation:
+> [!warning]
+> This mod is REQUIRED for Uranium Fever to function properly.
+
 - Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. **DO NOT** use the latest build.
 - Extract the download into the [NoDelete] NVR folder
@@ -193,54 +199,70 @@
 	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
   
 ## Stash Organizer Installation
+> [!warning]
+> This mod is REQUIRED for Uranium Fever to function properly.
+
 - [Download Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer.
 	- Select Manual download.
 	- Extract the download into the [NoDelete] Stash Organizer folder
 	- This can be found in Uranium Fever Installation Location > mods.
 	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths.
 
-## Creating Exclusions - Prevents windows from blocking MO2 and associated mod files from loading:
+## Creating Exclusions 
 > [!note]
-> This section is still under construction!
-	- Open Windows Security.
-	- Open Virus & Threat Protection.
-	- Click Manage Settings under Virus & Threat Protection Settings.
-	- Scroll down and select Add or Remove Exclusions under Exclusions.
-	- This will also need to be done for any third-party antivirus.
-## DXVK - Can yield significant performance gains, though can also cause visual artifacts as well as increase memory usage and precipitate crashes.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder.
-> [!note]
-> This section is still under construction!
-	- Regular users: Move the contents inside of the DXVK 2.3.1 folder into your game's Root folder.
-	- Intel iGPU users: Move the contents inside of the DXVK 1.10.1 folder into your game's Root folder.
-	- Vulkan-less GPU users: Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
-	- AMD users WITHOUT DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the AMD Cleanup Utility and google searching `previous YOUR CARD MODEL drivers`.
-## RivaTuner Statistics Server (RTSS) - An FPS limiter that can yield large performance gains:
-> [!note]
-> This section is still under construction!
-	- Install and launch RTSS - https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download.
-	- Open your System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon to open it.
-	- Press the green Add button and select FalloutNV.exe.
-	- Set Application Detection Level to Low.
-	- Set Framerate Limit to 59.95.
-	- Enter settings using the Setup button.
-	- Enable Passive Waiting.
-	- Set framerate limiter to Front Edge Sync.
+> This process prevents windows from blocking MO2 and associated mod files from loading.
+ 
+- Open Windows Security.
+- Open Virus & Threat Protection.
+- Click Manage Settings under Virus & Threat Protection Settings.
+- Scroll down and select Add or Remove Exclusions under Exclusions.
+- Select your Uranium Fever Installation Location.
+- Add another exclusion for your Wabbajack Installation location.
+- This process will also need to be done for any third-party antivirus.
+  
+## DXVK 
+> [!tip]
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the [AMD Cleanup Utility](https://www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
+
+- MOST users will not have to follow these instructions. The most updated version of DXVK has been provided alongside your Uranium Fever Installation. Those with specific older graphics cards should follow these instructions if unable to launch the game:
+	- Intel iGPU users: 
+		- Navigate to your Uranium Fever Installation Location > DXVK.
+		- Move the DXVK 1.10.1 folder into your game's Root folder, which can be found in your Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
+	- Vulkan-less GPU users:
+		- If you are not sure that this applies to you, ignore this section.
+		- Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
+
+## RivaTuner Statistics Server (RTSS) 
+> [!tip]
+> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than fluctuanting between 60 to 100 FPS rapidly.
+
+- Install and launch [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
+- Open your System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
+- Press the green Add button and select FalloutNV.exe.
+- Set Application Detection Level to Low.
+- Set Framerate Limit to 59.95.
+	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure this is > 0.05 LOWER than your monitors refresh rate.
+- Enter settings using the Setup button.
+- Enable Passive Waiting.
+- Set framerate limiter to Front Edge Sync.
+
 ## BSA Decompressor - Reduces load time and stuttering:
-> [!note]
-> This section is still under construction!
-	- In your Installation Location, open the BSA Decompressor folder.
-	- Run FNV BSA Decompressor.exe.
-	- The Fallout: New Vegas and Decompressed Archives paths should be filled by default (Root folder and Data folder respectively). If they aren't, close the program and re-run your game launcher to generate the required registry key.
-	- Click Decompress, then exit the program once finished.
+- In your Uranium Fever Installation Location, run FNV BSA Decompressor.exe.
+- The Fallout: New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
+- Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data if you used the recommended filepaths).
+- Click Decompress, then exit the program once finished.
 
 # Launching The Game 
-> [!note]
-> This section is still under construction!
-	- The game CANNOT be launched outside of MO2, though a shortcut can be created and placed on your desktop:
-	- Navigate to MO2.
-	- Select Uranium Fever from the dropdown list on the right, then run.
-> 
-# deleting downloads and hidden files .mohidden
+- The game CANNOT be launched outside of MO2.
+- In MO2, select Uranium Fever from the dropdown list in the top right, then click run.
+ 
+# Cleaning Up 
+> [!tip]
+> This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
+
+- Confirm that your game launches and runs appropriately before following these steps.
+- Navigate to the Uranium Fever Installation Location > downloads folder (C:\Modding\Uranium Fever\downloads if you used the recommended filepaths).
+- Delete the downloads folder.
 
 # Updating the List:
 - Reinstall the list from the Wabbajack tool and enable the "Overwrite Installation" checkbox.
