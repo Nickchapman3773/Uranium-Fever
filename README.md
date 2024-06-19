@@ -6,7 +6,7 @@
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
 >
->The following is a brief, ***work in progress*** introduction to the liste. This document and Uranium Fever itself will undergo further revision prior to formal release.
+>The following is a brief, ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release.
 
 >[!CAUTION]
 >**Trigger Warning**
