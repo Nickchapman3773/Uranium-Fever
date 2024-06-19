@@ -147,26 +147,27 @@
 
 ## Installing Uranium Fever:
 > [!Note]
-> This section is not accurate yet, as the list has not been officially uploaded at this time. I want sufficient testing prior to it going live. Consider this a placeholder. The wabbajack installation file is available via discord DM for testers.
+> This section will not be accurate until I officially upload Uranium Fever to the wabbajack website. This will happen following sufficient testing.
 
-`- Open the settings cogwheel in Wabbajack and log into your Nexus account.
-- Go back and select Browse Modlists.
+```
+- Open the settings cogwheel in Wabbajack and log into your Nexus account.
+- Hit back and select Browse Modlists.
 - Select Fallout: New Vegas under games at the top of the page.
 - Toggle the "Show Unofficial Lists" filter.
-- **************************************Nav to list, press download mod list.
-- **************************************Download Directory, recommended C:\Modding\Wabbajack.
-- **************************************Installation directly, recommended C:\Modding\Uranium Fever (MUST not be installed in Steam folder, any default windows folder, the game folder, or the folder where you installed Wabbajack.exe.
-- **************************************Begin Installation.
-- **************************************Accept Nexus Mods API request.
-- **************************************If you are not a premium user you will need to manually click download for each mod.
-- **************************************When complete, you will receive confirmation via a green Installation Complete screen.
-- **************************************If you see a red Installation Failed screen, try to log-in again through the Wabbajack settings, then reinstall the list to the same folder.`
+- Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
+- Once finished, hit the play button (which has now replaced the download button).
+- Select your desired Resource Download Location. We recommend C:\Modding\Wabbajack.
+- Select your desired Modlist Installation Location. We Recommend C:\Modding\Uranium Fever.
+	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
+- Begin the installation and accept the Nexus Mods API request when prompted.
+- If you are not a Nexus Mods premium user, manually click download on each mod.
+- When complete, Wabbajack will display a green Installation Complete screen.
+- If a red Installation Failed screen appears, log in again through the Wabbajack settings, then reinstall the list to the same folder.
+```
 
 ## Launching Mod Organizer 2 (MO2):
-> [!note]
-> This section is still under construction!
-	- Launch ModOrganizer.exe from your Installation Location.
-	- If you see a pop-up called FalloutNV_lang.esp was found, select Yes.
+- Launch ModOrganizer.exe from your Installation Location.
+- If you see a pop-up called FalloutNV_lang.esp was found, select Yes.
 	- If you see a pop-up called Register?, select Yes.
 ## Configuring Game's Settings
 > [!note]
