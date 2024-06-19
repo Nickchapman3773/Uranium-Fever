@@ -188,14 +188,17 @@
 ## New Vegas Reloaded (NVR) Installation:
 - Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. **DO NOT** use the latest build.
-- Extract this into the [NoDelete] NVR folder (this can be found in Uranium Fever Installation Location > mods. C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
+- Extract the download into the [NoDelete] NVR folder
+	- This can be found in Uranium Fever Installation Location > mods.
+	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
   
-## Other Manual Installations:
-> [!note]
-> This section is still under construction!
-	- Download Stash Organizer - https://mod.pub/falloutnv/4-stash-organizer.
-		- In MO2, select Install New Mod from Archive (the CD icon), and select your Stash Organizer download.
-		- Name it [NoDelete] Stash Organizer.
+## Stash Organizer Installation
+- [Download Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer.
+	- Select Manual download.
+	- Extract the download into the [NoDelete] Stash Organizer folder
+	- This can be found in Uranium Fever Installation Location > mods.
+	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths.
+
 ## Creating Exclusions - Prevents windows from blocking MO2 and associated mod files from loading:
 > [!note]
 > This section is still under construction!
