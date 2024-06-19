@@ -26,7 +26,7 @@
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
 # Mod Highlights:
-## UI:
+## 	UI:
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
