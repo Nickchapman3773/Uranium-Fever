@@ -25,7 +25,7 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
-# <p align=center>Mod Highlights:</p>:
+# <p align=center>Mod Highlights:</p>
 ## UI:
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
