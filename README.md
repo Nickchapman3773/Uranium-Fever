@@ -166,7 +166,7 @@
 ```
 
 ## Launching Mod Organizer 2 (MO2):
-- Launch ModOrganizer.exe from your Installation Location (C:\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
+- Launch ModOrganizer.exe from your Uranium Fever Installation Location (C:\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
 - If you see prompt to register, select Yes.
   
@@ -179,17 +179,16 @@
 
 ## Tale of Two Wasteland Installation:
 - Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
-- In your installation, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address.
+- In your Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
 - Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
 - Verify that the file paths for your Fallout 3 and Fallout: New Vegas are correct.
 - Paste the copied file path from your [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
 - Click Install.
   
 ## New Vegas Reloaded (NVR) Installation:
-- Navigate to the TES Reloaded Discord Server - https://discord.com/invite/r8EFG5YGBj.
-- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. DO NOT use the latest build.
-- In MO2, select Install New Mod from Archive (the CD icon), and select your NVR download.
-- Name it [NoDelete] NVR.
+- Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
+- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. **DO NOT** use the latest build.
+- Extract this into the [NoDelete] NVR folder (this can be found in Uranium Fever Installation Location > mods. C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
   
 ## Other Manual Installations:
 > [!note]
