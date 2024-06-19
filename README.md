@@ -113,7 +113,7 @@
 	- Both versions must be on the same platform.
 	- The Epic Games version WILL NOT work.
 - Windows 10 or higher (64-bit).
-- *************** GB of free drive space, preferably on a SSD.
+- ~150 GB of free drive space, preferably on a SSD.
 	- This is a comprehensive estimate, including MO2, Fallout: New Vegas, Fallout 3, all DLCs for both games, TTW, and the Uranium Fever installation itself.
 	- Please note, many of the files involved in this installation can be deleted post-installation to free up extra space.
 - [Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
