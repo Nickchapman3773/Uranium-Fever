@@ -1,10 +1,10 @@
 ## Kamchatka, Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious present: 
 # Uranium Fever!
 
-[!IMPORTANT]
-***Thank you for helping test Uranium Fever!***
-
-The following is a brief introduction to the list, though certainly not comprehensive. This document and Uranium Fever will undergo further revision prior to formal release.
+>[!IMPORTANT]
+>***Thank you for helping test Uranium Fever!***
+>
+>The following is a brief introduction to the list, though certainly not comprehensive. This document and Uranium Fever will undergo further revision prior to formal release.
 
 
 
