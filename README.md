@@ -148,21 +148,14 @@
 - Open App & Browser Control in the left sidebar.
 - Open Exploit Protection Settings under Exploit Protection.
 - Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
+- 
 ## Creating clean game installations:
 > [!note]
 > This section is still under construction!
 > 
 - Uninstall any current installation of Fallout: New Vegas and Fallout 3 in your Steam or GOG library
 - Ensure your game installation is OUTSIDE of any User Account Control protected folder (C:\Windows, C:\Users\username\Documents, C:\Users\username\Images, C:\Users\username\Videos, C:\Users\username\OneDrive, C:\Program Files,, C:\Program Files (x86)). A good location is "C:\Games\Steam.".
-## Generating Fresh INI Files:
-> [!note]
-> This section is still under construction!
-	- Open Fallout: New Vegas.
-	- Click OK to pop-ups that say "Detecting Video Hardware."
-	- Select Ultra.
-	- If said popup-ups do not appear, navigate to Documents\My Games\FalloutNV and delete all the files ending in .INI then retry.
-	- Exit the launcher.
-	- Repeat these steps for Fallout 3.
+
 ## Uranium Fever Wabbajack Installation:
 > [!note]
 > This section is still under construction!
