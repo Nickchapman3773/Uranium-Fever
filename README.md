@@ -166,37 +166,31 @@
 ```
 
 ## Launching Mod Organizer 2 (MO2):
-- Launch ModOrganizer.exe from your Installation Location.
-- If you see a pop-up called FalloutNV_lang.esp was found, select Yes.
-	- If you see a pop-up called Register?, select Yes.
+- Launch ModOrganizer.exe from your Installation Location (C:\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
+- If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
+- If you see prompt to register, select Yes.
+  
 ## Configuring Game's Settings
-> [!note]
-> This section is still under construction!
-	- In the top right corner of MO2, open the drop-down menu and select Fallout Launcher.
-	- Click Run, then navigate to Options.
-	- Inside the launcher, select the Ultra Preset.
-	- Uncheck the Windowed option, then select your monitor's resolution and exit the launcher.
-	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
+- In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select Fallout Launcher.
+- Click Run, then navigate to Options.
+- Inside the launcher, select the Ultra Preset.
+- Uncheck the Windowed option, then select your monitor's resolution.
+- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
+
 ## Tale of Two Wasteland Installation:
-> [!note]
-> This section is still under construction!
-	- Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
-	- Open MO2 in your Uranium Fever folder, and at the top select the folder icon, then select Open Mods folder.
-	- Create a folder named [NoDelete] Tale of Two Wastelands, then copy its file path.
-	- Refresh MO2 and move the newly created mod up to the top, above utilities.
-	- Close MO2.
-	- Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
-	- Verify that the file paths for your Fallout 3 and Fallout: New Vegas are correct.
-	- Paste the copied file path from your [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path.
-	- Click Install.
-	- Open MO2 and enable the Tale of Two Wastelands mod.
+- Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
+- In your installation, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address.
+- Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
+- Verify that the file paths for your Fallout 3 and Fallout: New Vegas are correct.
+- Paste the copied file path from your [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
+- Click Install.
+  
 ## New Vegas Reloaded (NVR) Installation:
-> [!note]
-> This section is still under construction!
-	- Navigate to the TES Reloaded Discord Server - https://discord.com/invite/r8EFG5YGBj.
-	- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. DO NOT use the latest build.
-	- In MO2, select Install New Mod from Archive (the CD icon), and select your NVR download.
-	- Name it [NoDelete] NVR.
+- Navigate to the TES Reloaded Discord Server - https://discord.com/invite/r8EFG5YGBj.
+- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. DO NOT use the latest build.
+- In MO2, select Install New Mod from Archive (the CD icon), and select your NVR download.
+- Name it [NoDelete] NVR.
+  
 ## Other Manual Installations:
 > [!note]
 > This section is still under construction!
