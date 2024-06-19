@@ -288,6 +288,8 @@
 	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- NO! The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+- Vortex - Can I install Uranium Fever with vortex?
+	- NO! Wabbajack is inherently incompatible with vortex.
 
 # <p align=center>Support, Feedback, & Updates</p>
 > [!caution]
