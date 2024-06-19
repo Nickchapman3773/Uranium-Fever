@@ -108,9 +108,9 @@
 - New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphical extender that injects various new effects into the game. Helios utilizes this framework to make uniquely customized and independent world space visuals. This is, arguably, the most beautiful expression of the DC and Mojave Wastelands.
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
-# A
-# A
 # Requirements:
+> [!note]
+> This section is still under construction!
 - Steam or GOG versions of Fallout: New Vegas and Fallout 3 with all DLCs for both games.
 	- Both versions must be on the same platform.
 	- The Epic Games version WILL NOT work.
@@ -143,10 +143,10 @@
 
 # Setup Instructions:
 ## Disable Base Address Randomization - Can prevent crashes:
-	- Open Windows Security from your Start Menu.
-	- Open App & Browser Control in the left sidebar.
-	- Open Exploit Protection Settings under Exploit Protection.
-	- Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
+- Open Windows Security from your Start Menu.
+- Open App & Browser Control in the left sidebar.
+- Open Exploit Protection Settings under Exploit Protection.
+- Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
 ## Creating clean game installations:
 	- Uninstall any current installation of Fallout: New Vegas and Fallout 3 in your Steam or GOG library
 	- Ensure your game installation is OUTSIDE of any User Account Control protected folder (C:\Windows, C:\Users\username\Documents, C:\Users\username\Images, C:\Users\username\Videos, C:\Users\username\OneDrive, C:\Program Files,, C:\Program Files (x86)). A good location is "C:\Games\Steam.".
