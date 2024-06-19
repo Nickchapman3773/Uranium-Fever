@@ -112,29 +112,23 @@
 > [!note]
 > This section is still under construction!
 
-- Steam or GOG versions of Fallout: New Vegas and Fallout 3 with all DLCs for both games.
+- English Steam or GOG versions of Fallout: New Vegas and Fallout 3 with all DLCs for both games.
 	- Both versions must be on the same platform.
 	- The Epic Games version WILL NOT work.
-- English Version of both games.
 - Windows 10 or higher (64-bit).
-- *************** GB of free drive space, preferably on a SSD 
-- This estimate includes MO2, Fallout: New Vegas, Fallout 3, all DLCs for both games, TTW, and the Uranium Fever installation itself.
+- *************** GB of free drive space, preferably on a SSD.
+	- This is a comprehensive estimate, including MO2, Fallout: New Vegas, Fallout 3, all DLCs for both games, TTW, and the Uranium Fever installation itself.
 	- Please note, many of the files involved in this installation can be deleted post-installation to free up extra space.
-- Visual C++ 
-- https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/ - 
-- Extract the archive, then run the included install_all.bat as administrator) - 
-- DirectX Runtime Libraries 
-- https://www.microsoft.com/en-us/download/details.aspx?id=8109
-- .NET Framework 4.8
-- https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
-- The latest drivers for your GPU.
-- An archiving tool (7-zip is recommended)
-- https://www.7-zip.org/
-- A text editor (notepad++ is recommended) 
-- https://notepad-plus-plus.org/
-- A Nexus Mods account (premium subscription is HIGHLY recommended, otherwise you will have to manually click download for all ~1,000 mods).
-- A ModPub account.
-- A discord account.
+- [Visual C++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
+	- Extract the archive, open the extracted folder, right click install_all.bat, and select run as administrator.
+- [DirectX Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
+- [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
+- The latest driver versions for your GPU.
+- An archiving tool - We recommend [7-zip](https://www.7-zip.org/).
+- A text editor - We recommend [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/).
+- A [Nexus Mods account](https://users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise you will have to manually click download for all ~1,000 mods.
+- A [ModPub account](https://mod.pub/account/register).
+- A [Discord account](https://discord.com/register).
 
 # Recommended Specs:
 > [!note]
@@ -280,6 +274,8 @@
 # Support, Feedback, & Updates:
 > [!caution]
 > DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel!
+>
+> Altered lists **WILL NOT** receive support.
 
 Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
@@ -287,6 +283,8 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/
 > [!note]
 > This section is still under construction!
 
+- Crashing - I am crashing, what can I do to fix it?
+	- Post your crashlog (found in the Uranium Fever > Stock Game > Crashlogs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
