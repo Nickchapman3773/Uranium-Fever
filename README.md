@@ -1,5 +1,5 @@
 ### <p align=center>Kamchatka, Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious present:</p>
-<p align=center># Uranium Fever!</p>
+# <p align=center>Uranium Fever!</p>
 
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
