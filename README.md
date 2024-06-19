@@ -8,8 +8,9 @@
 
 ***Uranium Fever*** is a massive full-game overhaul and expansion of the worlds of Fallout: New Vegas and Fallout 3. Focused on a hardcore and compelling gameplay experience, this list represents a dramatic deviation from the vanilla experience. Every single mod and setting included in this list was thoroughly vetted by a team of experts in various different New Vegas modding domains. Very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
 
->[!CAUTION - Trigger Warning]
->Trigger Warning - Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screaming. Please avoid this list if these topics alarm you.
+>[!CAUTION]
+>**Trigger Warning**
+>Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screaming. Please avoid this list if these topics alarm you.
 
 Features:
 - A robust assortment of utilities, frameworks, fixes, and quality of life mods.
