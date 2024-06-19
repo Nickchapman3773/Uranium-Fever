@@ -287,7 +287,9 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/
 > [!note]
 > This section is still under construction!
 
-- Why do I have to manually install TTW, NVR, and Stash Organizer?
+- Keybinds - How do I find Uranium Fever's Keybinds?
+	- Press K in the pause menu.
+- Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
 	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- NO! The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
