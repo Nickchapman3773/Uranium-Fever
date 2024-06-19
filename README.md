@@ -280,10 +280,10 @@
 
 # Support, Feedback, & Updates:
 > [!caution]
-> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel, aside from the officially supported Uranium Fever channels!
+> ***DO NOT*** ask for support in the Tale of Two Wasteland, Wasteland Supplemental, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel, aside from the officially supported Uranium Fever channels!
 
 > [!warning]
-> Altered Uranium Fever lists **WILL NOT** be supported.
+> Altered Uranium Fever lists ***WILL NOT*** be supported.
 
 Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
