@@ -293,7 +293,7 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https//discord.gg/U
 # <p align=center>Credits/Thanks</p>
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in substantial amounts of discussion, planning, patching, and testing in order to make Uranium Fever a reality.
-- Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram D).
+- Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - InTheGrave and Shabby Pirate for advising on compression and BSA packing to optimize the list.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
