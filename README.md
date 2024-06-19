@@ -26,14 +26,14 @@
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
 # Mod Highlights:
-## UI:
+## <p align=center>UI:</p>
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness when injured.
 
-	## Balance:
+## Balance:
 - Sweets Simple Settings - Adjustments to various gameplay settings to promote a more difficult hardcore experience. Includes changes to carry weight, crippled limb penalties, karma, AP, damage, health, skill tags, traits, and dismemberment.
 - Harder Barter Faster Stronger (Sicko Mode Version) - Rebalances the economy around barter, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
