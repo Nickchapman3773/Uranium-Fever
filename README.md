@@ -5,7 +5,7 @@
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
 >
->The following is a brief introduction to the list, though certainly not comprehensive. This document and Uranium Fever will undergo further revision prior to formal release.
+>The following is a brief, ***work in progress*** introduction to the liste. This document and Uranium Fever itself will undergo further revision prior to formal release.
 
 >[!CAUTION]
 >**Trigger Warning**
@@ -111,6 +111,7 @@
 # Requirements:
 > [!note]
 > This section is still under construction!
+
 - Steam or GOG versions of Fallout: New Vegas and Fallout 3 with all DLCs for both games.
 	- Both versions must be on the same platform.
 	- The Epic Games version WILL NOT work.
@@ -136,6 +137,9 @@
 - A discord account.
 
 # Recommended Specs:
+> [!note]
+> This section is still under construction!
+
 - CPU: Any multi-core processor (3.5GHz or more).
 - RAM: 16GB+.
 - GPU: 8GB+.
@@ -143,14 +147,22 @@
 
 # Setup Instructions:
 ## Disable Base Address Randomization - Can prevent crashes:
+> [!note]
+> This section is still under construction!
+
 - Open Windows Security from your Start Menu.
 - Open App & Browser Control in the left sidebar.
 - Open Exploit Protection Settings under Exploit Protection.
 - Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
 ## Creating clean game installations:
-	- Uninstall any current installation of Fallout: New Vegas and Fallout 3 in your Steam or GOG library
-	- Ensure your game installation is OUTSIDE of any User Account Control protected folder (C:\Windows, C:\Users\username\Documents, C:\Users\username\Images, C:\Users\username\Videos, C:\Users\username\OneDrive, C:\Program Files,, C:\Program Files (x86)). A good location is "C:\Games\Steam.".
+> [!note]
+> This section is still under construction!
+> 
+- Uninstall any current installation of Fallout: New Vegas and Fallout 3 in your Steam or GOG library
+- Ensure your game installation is OUTSIDE of any User Account Control protected folder (C:\Windows, C:\Users\username\Documents, C:\Users\username\Images, C:\Users\username\Videos, C:\Users\username\OneDrive, C:\Program Files,, C:\Program Files (x86)). A good location is "C:\Games\Steam.".
 ## Generating Fresh INI Files:
+> [!note]
+> This section is still under construction!
 	- Open Fallout: New Vegas.
 	- Click OK to pop-ups that say "Detecting Video Hardware."
 	- Select Ultra.
@@ -158,6 +170,8 @@
 	- Exit the launcher.
 	- Repeat these steps for Fallout 3.
 ## Uranium Fever Wabbajack Installation:
+> [!note]
+> This section is still under construction!
 	- Download the Wabbajack Installation file - https://www.wabbajack.org/#/.
 	- Move the file to the file path of your choice. A good location is "C:\Modding\Wabbajack".
 	- Run Wabbajack.exe. This will automatically install Wabbajack.
@@ -174,16 +188,22 @@
 	- **************************************When complete, you will receive confirmation via a green Installation Complete screen.
 	- **************************************If you see a red Installation Failed screen, try to log-in again through the Wabbajack settings, then reinstall the list to the same folder.
 ## Launching Mod Organizer 2 (MO2):
+> [!note]
+> This section is still under construction!
 	- Launch ModOrganizer.exe from your Installation Location.
 	- If you see a pop-up called FalloutNV_lang.esp was found, select Yes.
 	- If you see a pop-up called Register?, select Yes.
 ## Configuring Game's Settings
+> [!note]
+> This section is still under construction!
 	- In the top right corner of MO2, open the drop-down menu and select Fallout Launcher.
 	- Click Run, then navigate to Options.
 	- Inside the launcher, select the Ultra Preset.
 	- Uncheck the Windowed option, then select your monitor's resolution and exit the launcher.
 	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 ## Tale of Two Wasteland Installation:
+> [!note]
+> This section is still under construction!
 	- Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
 	- Open MO2 in your Uranium Fever folder, and at the top select the folder icon, then select Open Mods folder.
 	- Create a folder named [NoDelete] Tale of Two Wastelands, then copy its file path.
@@ -195,26 +215,36 @@
 	- Click Install.
 	- Open MO2 and enable the Tale of Two Wastelands mod.
 ## New Vegas Reloaded (NVR) Installation:
+> [!note]
+> This section is still under construction!
 	- Navigate to the TES Reloaded Discord Server - https://discord.com/invite/r8EFG5YGBj.
 	- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. DO NOT use the latest build.
 	- In MO2, select Install New Mod from Archive (the CD icon), and select your NVR download.
 	- Name it [NoDelete] NVR.
 ## Other Manual Installations:
+> [!note]
+> This section is still under construction!
 	- Download Stash Organizer - https://mod.pub/falloutnv/4-stash-organizer.
 		- In MO2, select Install New Mod from Archive (the CD icon), and select your Stash Organizer download.
 		- Name it [NoDelete] Stash Organizer.
 ## Creating Exclusions - Prevents windows from blocking MO2 and associated mod files from loading:
+> [!note]
+> This section is still under construction!
 	- Open Windows Security.
 	- Open Virus & Threat Protection.
 	- Click Manage Settings under Virus & Threat Protection Settings.
 	- Scroll down and select Add or Remove Exclusions under Exclusions.
 	- This will also need to be done for any third-party antivirus.
 ## DXVK - Can yield significant performance gains, though can also cause visual artifacts as well as increase memory usage and precipitate crashes.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder.
+> [!note]
+> This section is still under construction!
 	- Regular users: Move the contents inside of the DXVK 2.3.1 folder into your game's Root folder.
 	- Intel iGPU users: Move the contents inside of the DXVK 1.10.1 folder into your game's Root folder.
 	- Vulkan-less GPU users: Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
 	- AMD users WITHOUT DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the AMD Cleanup Utility and google searching `previous YOUR CARD MODEL drivers`.
 ## RivaTuner Statistics Server (RTSS) - An FPS limiter that can yield large performance gains:
+> [!note]
+> This section is still under construction!
 	- Install and launch RTSS - https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download.
 	- Open your System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon to open it.
 	- Press the green Add button and select FalloutNV.exe.
@@ -224,34 +254,48 @@
 	- Enable Passive Waiting.
 	- Set framerate limiter to Front Edge Sync.
 ## BSA Decompressor - Reduces load time and stuttering:
+> [!note]
+> This section is still under construction!
 	- In your Installation Location, open the BSA Decompressor folder.
 	- Run FNV BSA Decompressor.exe.
 	- The Fallout: New Vegas and Decompressed Archives paths should be filled by default (Root folder and Data folder respectively). If they aren't, close the program and re-run your game launcher to generate the required registry key.
 	- Click Decompress, then exit the program once finished.
 
 # Launching The Game 
+> [!note]
+> This section is still under construction!
 	- The game CANNOT be launched outside of MO2, though a shortcut can be created and placed on your desktop:
 	- Navigate to MO2.
 	- Select Uranium Fever from the dropdown list on the right, then run.
 # deleting downloads and hidden files .mohidden
+> [!note]
+> This section is still under construction!
 # Updating the List:
+> [!note]
+> This section is still under construction!
 	- Reinstall the list from the Wabbajack tool and enable the "Overwrite Installation" checkbox.
 	- Reapply the 4GB Patch and BSA Decompressor as instructed above.
 	- Reapply the modlist and load order as instructed above.
 
 # FAQ:
+> [!note]
+> This section is still under construction!
 - Ragdolls no crash
 
-# Support & Feedback: Visit our Uranium Fever discord channels in Sweets Retreat Server at https://discord.gg/gV2XTbXm.
+# Support & Feedback: 
+> [!note]
+> This section is still under construction!
+Visit our Uranium Fever discord channels in Sweets Retreat Server at https://discord.gg/gV2XTbXm.
 
 # Credits/Thanks:
-- All mod authors whose incredible content is included in Uranium Fever.
-- Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in substantial amounts of discussion, planning, patching, and testing.
-- Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as broken ram :D).
-- InTheGrave and Shabby Pirate for advising on BSA packing, compression, and generally being an incredibly wise, supportive, and patient individual.
-- Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on my behalf.
-- Xilando, Quicksilver5000, and PhysicsGaming for giving special permissions and alterations for their mods included in the list (Armed to the Teeth, B42 Quickthrow, B42 Inspect, Keybind Quick Display).
+- ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
+- Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in substantial amounts of discussion, planning, patching, and testing in order to make Uranium Fever a reality.
+- Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram :D).
+- InTheGrave and Shabby Pirate for advising on compression and BSA packing to optimize the list.
+- Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
+- Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list (Armed to the Teeth, B42 Quickthrow, and B42 Inspect)
+- PhysicsGaming for spending a substantial amount adjusting Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
-- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO process in the list.
-- Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in the instructions for Uranium Fever.
+- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process.
+- Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
