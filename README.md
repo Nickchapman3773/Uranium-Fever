@@ -11,7 +11,7 @@
 >**Trigger Warning**
 >Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screaming. Please avoid this list if these topics alarm you.
 
-# Features:
+# <p align=center>Features:</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life mods.
 - Carefully crafted settings for every single mod inclusion.
 - Significant modernizations of the UI, HUD, and Pip-Boy. Guided by Stentorious.
@@ -26,7 +26,7 @@
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
 # Mod Highlights:
-## <p align=center>UI:</p>
+## UI:
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
