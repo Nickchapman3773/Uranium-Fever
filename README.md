@@ -25,15 +25,15 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
-
-Highlighted UI Mods:
+## Mod Highlights
+# UI:
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness when injured.
 
-Highlighted Balance Mods:
+# Balance:
 - Sweets Simple Settings - Adjustments to various gameplay settings to promote a more difficult hardcore experience. Includes changes to carry weight, crippled limb penalties, karma, AP, damage, health, skill tags, traits, and dismemberment.
 - Harder Barter Faster Stronger (Sicko Mode Version) - Rebalances the economy around barter, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
@@ -55,7 +55,7 @@ Highlighted Balance Mods:
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-Highlighted Function Mods:
+# Function:
 - Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo and weapon condition.
@@ -66,7 +66,7 @@ Highlighted Function Mods:
 - Stash Organizer - A customizable framework to configure automatic organization of stored items.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
-Highlighted Comprehensive Overhaul Mods:
+# Comprehensive Overhaul:
 - Functional Post Game Ending - Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
@@ -77,25 +77,25 @@ Highlighted Comprehensive Overhaul Mods:
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on full-game cohesion and lore-friendliness.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
 
-Highlighted Dialogue Overhaul Mods:
+# Dialogue Overhaul:
 - Brave New World - A near complete professional revoicing of voice lines throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
 
-Highlighted NPC & Enemy Overhaul Mods:
+# NPC & Enemy Overhaul:
 - Companion Characteristics - Provides gameplay quirks derived from companion personality traits.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
-Highlighted Content Mods:
+# Content:
 - Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
 - Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
 - 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The first adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The second adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
 - Vegas Elysium Perk Pack - A perk and trait pack that introduces a new cabinet and flaw systems, inspired by the game Disco Elysium. These new systems typically take the form of the player having a conflicting thought that initially provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a substantial buff. The text prompts in this mod are typically very colorful, adding a great deal of depth and fun to the game.
 
-Highlighted Sound Mods:
+# Sound:
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified that they were spotted by enemies.
 
-Highlighted Animation & Visual Mods:
+# Animation & Visual:
 - 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 - Armed to the Teeth Redux - Allows you to holster 4 weapons on your body at once.
 - Titans of the New West 2.0 - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
