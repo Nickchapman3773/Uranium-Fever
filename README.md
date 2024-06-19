@@ -146,7 +146,7 @@
 - Run Wabbajack.exe. This will automatically install Wabbajack.
 
 ## Installing Uranium Fever:
-> [Note]
+> [!Note]
 > This section is not accurate yet, as the list has not been officially uploaded at this time. I want sufficient testing prior to it going live. Consider this a placeholder. The wabbajack installation file is available via discord DM for testers.
 
 `- Open the settings cogwheel in Wabbajack and log into your Nexus account.
