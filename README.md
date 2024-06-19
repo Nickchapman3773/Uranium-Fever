@@ -178,7 +178,7 @@
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 
 ## Tale of Two Wasteland Installation:
-> [!warning]
+> [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
@@ -189,7 +189,7 @@
 - Click Install.
   
 ## New Vegas Reloaded (NVR) Installation:
-> [!warning]
+> [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
@@ -199,7 +199,7 @@
 	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
   
 ## Stash Organizer Installation
-> [!warning]
+> [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - [Download Stash Organizer](https://mod.pub/falloutnv/4-stash-organizer.
