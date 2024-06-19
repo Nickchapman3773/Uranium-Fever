@@ -170,7 +170,7 @@
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
 - If you see prompt to register, select Yes.
   
-## Configuring Game's Settings
+## Configuring Game's Settings:
 - In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select Fallout Launcher.
 - Click Run, then navigate to Options.
 - Inside the launcher, select the Ultra Preset.
@@ -198,7 +198,7 @@
 	- This can be found in Uranium Fever Installation Location > mods.
 	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
   
-## Stash Organizer Installation
+## Stash Organizer Installation:
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
@@ -208,7 +208,7 @@
 	- This can be found in Uranium Fever Installation Location > mods.
 	- This will be C:\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths.
 
-## Creating Exclusions 
+## Creating Exclusions:
 > [!note]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
  
@@ -220,7 +220,7 @@
 - Add another exclusion for your Wabbajack Installation location.
 - This process will also need to be done for any third-party antivirus.
   
-## DXVK 
+## DXVK:
 > [!tip]
 > DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the [AMD Cleanup Utility](https://www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
 
@@ -232,7 +232,7 @@
 		- If you are not sure that this applies to you, ignore this section.
 		- Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
 
-## RivaTuner Statistics Server (RTSS) 
+## RivaTuner Statistics Server (RTSS):
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than fluctuanting between 60 to 100 FPS rapidly.
 
@@ -252,11 +252,11 @@
 - Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
 
-# Launching The Game 
+# Launching The Game:
 - The game CANNOT be launched outside of MO2.
 - In MO2, select Uranium Fever from the dropdown list in the top right, then click run.
  
-# Cleaning Up 
+# Cleaning Up:
 > [!tip]
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
