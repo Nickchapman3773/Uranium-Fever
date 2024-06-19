@@ -26,14 +26,14 @@
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
 # Mod Highlights:
-## 	UI:
+	## UI:
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
 - Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness when injured.
 
-## Balance:
+	## Balance:
 - Sweets Simple Settings - Adjustments to various gameplay settings to promote a more difficult hardcore experience. Includes changes to carry weight, crippled limb penalties, karma, AP, damage, health, skill tags, traits, and dismemberment.
 - Harder Barter Faster Stronger (Sicko Mode Version) - Rebalances the economy around barter, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
@@ -55,7 +55,7 @@
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-## Function:
+	## Function:
 - Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo and weapon condition.
