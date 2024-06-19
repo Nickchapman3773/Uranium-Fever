@@ -156,9 +156,9 @@
 - Toggle the "Show Unofficial Lists" filter.
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
-- Select your desired Resource Download Location. We recommend C:\Modding\Wabbajack.
 - Select your desired Modlist Installation Location. We Recommend C:\Modding\Uranium Fever.
 	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
+- Select your desired Resource Download Location. We recommend C:\Modding\Uranium Fever/downloads.
 - Begin the installation and accept the Nexus Mods API request when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green Installation Complete screen.
