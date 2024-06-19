@@ -277,13 +277,17 @@
 	- Reapply the 4GB Patch and BSA Decompressor as instructed above.
 	- Reapply the modlist and load order as instructed above.
 
+# Support, Feedback, & Updates: 
+Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
+
 # FAQ:
 > [!note]
 > This section is still under construction!
-- Ragdolls no crash
 
-# Support, Feedback, & Updates: 
-Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
+- Why do I have to manually install TTW, NVR, and Stash Organizer?
+	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience.
+- Ragdolls - Doesn't Ragdolls cause crashes?
+	- NO! The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 
 # Credits/Thanks:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
