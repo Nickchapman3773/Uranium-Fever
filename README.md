@@ -131,10 +131,13 @@
 - GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA GPU recommended.
 - SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
 
+> [!note]
+> For those concerned by the large installation size, an optional clean up step is included following successful installation and launch. 
+
 # <p align=center>Setup Instructions</p>
 ## Disable Base Address Randomization 
 > [!Tip]
-> This can prevent unforeseen crashes.
+> This step can prevent unforeseen crashes.
 
 - Open Windows Security from your Start Menu.
 - Open App & Browser Control in the left sidebar.
@@ -210,7 +213,7 @@
 	- This will be C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths.
 
 ## Creating Exclusions
-> [!note]
+> [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
  
 - Open Windows Security.
@@ -278,7 +281,11 @@
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
-	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience.
+	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience..
+- Manual Installs - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
+	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
+- Size - Why is the installation requirement so large?
+	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- NO! The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 
@@ -303,3 +310,4 @@ Visit our Uranium Fever discord channels in [Sweets Retreat](https//discord.gg/U
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
+- Very for simultaneously being Uranium Fevers mascot and biggest cheerleader.
