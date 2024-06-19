@@ -277,7 +277,10 @@
 	- Reapply the 4GB Patch and BSA Decompressor as instructed above.
 	- Reapply the modlist and load order as instructed above.
 
-# Support, Feedback, & Updates: 
+# Support, Feedback, & Updates:
+> [!caution]
+> DO NOT ask for support in the Tale of Two Wasteland, Wasteland Supplemental, or any other discord channel!
+
 Visit our Uranium Fever discord channels in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA)!
 
 # FAQ:
