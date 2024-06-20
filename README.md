@@ -9,7 +9,7 @@
 >The following is a brief, ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release.
 
 >[!CAUTION]
->**Trigger Warning**
+>**Trigger Warning:**
 >
 >Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screaming. Please avoid this list if these topics alarm you.
 
