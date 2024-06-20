@@ -335,4 +335,4 @@
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
-- Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess helping me figure out Github ;).
+- Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
