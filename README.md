@@ -229,10 +229,10 @@
 > DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the [AMD Cleanup Utility](https//www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has been provided alongside your Uranium Fever Installation. Those with specific older graphics cards should follow these instructions if unable to launch the game
-	- Intel iGPU users 
+	- Intel iGPU users:
 		- Navigate to your Uranium Fever Installation Location > DXVK.
 		- Move the DXVK 1.10.1 folder into your game's Root folder, which can be found in your Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
-	- Vulkan-less GPU users
+	- Vulkan-less GPU users:
 		- If you are not sure that this applies to you, ignore this section.
 		- Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
 
