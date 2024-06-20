@@ -56,7 +56,7 @@
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-## Function
+## Functions
 - Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This makes the player choose between using different scarce resources, lockpicks or ammo and weapon condition.
@@ -67,7 +67,7 @@
 - Stash Organizer - A customizable framework to configure automatic organization of stored items.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
-## Comprehensive Overhaul
+## Comprehensive Overhauls
 - Functional Post Game Ending - Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
@@ -78,11 +78,11 @@
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on full-game cohesion and lore-friendliness.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
 
-## Dialogue Overhaul
+## Dialogue Overhauls
 - Brave New World - A near complete professional revoicing of voice lines throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
 
-## NPC & Enemy Overhaul
+## NPC & Enemy Overhauls
 - Companion Characteristics - Provides gameplay quirks derived from companion personality traits.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
