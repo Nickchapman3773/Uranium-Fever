@@ -130,6 +130,8 @@
 
 > [!note]
 > A GOG version is coming at a later date, after the initial kinks are ironed out.
+>
+> A Performance profile is also coming at a later date.
 
 # <p align=center>Recommended Specs</p>
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
