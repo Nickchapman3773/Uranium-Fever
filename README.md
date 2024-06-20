@@ -172,7 +172,7 @@
 ## Launching Mod Organizer 2 (MO2)
 - Launch ModOrganizer.exe from your Uranium Fever Installation Location (C\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
-- If you see prompt to register, select Yes.
+- If you see a prompt to register, select Yes.
   
 ## Configuring Game's Settings
 - In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select Fallout Launcher.
