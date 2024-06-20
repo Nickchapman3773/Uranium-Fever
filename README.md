@@ -232,6 +232,7 @@
 	- Select Manual download.
 - Extract the download into the `[NoDelete] Stash Organizer folder`.
 	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
+- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
 ## Installing Capital Wasteland Hideouts
 > [!important]
@@ -240,15 +241,19 @@
 - Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
 - Extract the download into the `[NoDelete] Capital Wasteland Hideouts folder`.
 	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Capital Wasteland Hideouts` if you used the recommended file paths).
+ - In the plugins tab (the right pane in MO2)
+ - In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
 > These mods will not REMAIN manual installations. This is a necessary temporary approach while Google Drive link inclusion troubleshooting is happening on the official Wabbajack side.
 
-- Tammers
+- Tammer
 	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 	- Extract the download into the `[NoDelete] Tammer folder`.
 		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Tammer` if you used the recommended file paths).
+    		- If your receive a "catastrophic error" message, click the Install from Archive icon, select the Tammer download from the downloads folder, name it `[NoDelete] Tammer`, and select yes when prompted to replace file.
+      		- Click the refresh icon at the top of MO2, right click the Tammers mod, click information, right click, Tammer's NIF-Bashed Armor Mega-Pack.esm, and click hide.
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
 	- Extract the download into the `[NoDelete] ghouls folder`.
 		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] ghouls` if you used the recommended file paths).
