@@ -197,7 +197,7 @@
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Navigate to the [TES Reloaded Discord Server](https//discord.com/invite/r8EFG5YGBj).
-- In the Nightly Builds channel, download the NVR Nightly release from March 28th, 2024. **DO NOT** use the latest build.
+- In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
 - Extract the download into the [NoDelete] NVR folder
 	- This can be found in Uranium Fever Installation Location > mods.
 	- This will be C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
