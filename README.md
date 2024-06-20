@@ -327,3 +327,10 @@
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader.
+
+test
+<a href="https://www.google.com/" onclick="window.open('[example.html](https://www.google.com/)', '_self');">
+Google
+
+
+</a>
