@@ -286,6 +286,8 @@
 	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
 - Size - Why is the installation requirement so large?
 	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
+- Start Location - Can I start in the Mojave Wasteland?
+	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Vortex - Can I install Uranium Fever with vortex?
