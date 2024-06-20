@@ -117,13 +117,13 @@
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click install_all.bat, and select run as administrator.
 - <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109" onclick="window.open('https://www.microsoft.com/en-us/download/details.aspx?id=8109', '_self');">DirectX Runtime Librarie</a>.
-- [.NET Framework 4.8](dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
+- <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
 - The latest driver versions for your GPU.
-- An archiving tool - We recommend [7-zip](https//www.7-zip.org/).
-- A text editor - We recommend [Notepad++](https//notepad-plus-plus.org/downloads/v8.6.7/).
-- A [Nexus Mods account](https//users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise you will have to manually click download for all ~1,000 mods.
-- A [ModPub account](https//mod.pub/account/register).
-- A [Discord account](https//discord.com/register).
+- An archiving tool - We recommend <a href="https//www.7-zip.org/" onclick="window.open('https//www.7-zip.org/', '_self');">7-zip</a>.
+- A text editor - We recommend <a href="https//notepad-plus-plus.org/downloads/v8.6.7/" onclick="window.open('https//notepad-plus-plus.org/downloads/v8.6.7/', '_self');">Notepad++</a>.
+- A <a href="https//users.nexusmods.com/register" onclick="window.open('https//users.nexusmods.com/register', '_self');">Nexus Mods account</a>. - Premium subscription is **HIGHLY** recommended, otherwise you will have to manually click download for all ~1,000 mods.
+- A <a href="https//mod.pub/account/register" onclick="window.open('https//mod.pub/account/register', '_self');">ModPub account</a>.
+- A <a href="https//discord.com/register" onclick="window.open('https//discord.com/register', '_self');">Discord account</a>.
 
 # <p align=center>Recommended Specs</p>
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
@@ -145,7 +145,7 @@
 - Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
 
 ## Downloading Wabbajack
-- Download the [Wabbajack Installation file](https//www.wabbajack.org/).
+- Download the <a href="https//www.wabbajack.org/" onclick="window.open('https//www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
 - Move the downloaded Wabbajack file to the file path of choice. The recommended location is "C\Modding\Wabbajack".
 - Run Wabbajack.exe. This will automatically install Wabbajack.
 
@@ -185,7 +185,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the contents of the archive anywhere outside of the default Windows folders.
+- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
 - In the Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
 - Navigate to the extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
 - Verify that the file path for the Fallout 3 matches your normal Fallout 3 installation path.
@@ -200,7 +200,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Navigate to the [TES Reloaded Discord Server](https//discord.com/invite/r8EFG5YGBj).
+- Navigate to the <a href="https//discord.com/invite/r8EFG5YGBj" onclick="window.open('https//discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
 - Extract the download into the [NoDelete] NVR folder.
 	- This can be found in Uranium Fever Installation Location > mods (C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
@@ -209,7 +209,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Download [Stash Organizer](https//mod.pub/falloutnv/4-stash-organizer).
+- Download <a href="https//mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https//mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
 - Extract the download into the [NoDelete] Stash Organizer folder.
 	- This can be found in Uranium Fever Installation Location > mod (C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths).
@@ -228,7 +228,7 @@
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the [AMD Cleanup Utility](https//www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https//www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https//www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been pre-installed by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
@@ -242,7 +242,7 @@
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
 
-- Install and launch [RTSS](https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
+- Install and launch <a href="https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
 - Press the green Add button and select FalloutNV.exe.
 - Set Application Detection Level to Low.
@@ -309,7 +309,7 @@
 >
 > ***DO NOT*** ping OR DM any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
 >
-> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in [Sweets Retreat](https//discord.gg/Uu6gZZSaeA)
+> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https//discord.gg/Uu6gZZSaeA" onclick="window.open('https//discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
