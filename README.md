@@ -116,7 +116,7 @@
 	- The Epic Games version WILL NOT work.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
-	- Extract the archive, open the extracted folder, right click install_all.bat, and select run as administrator.
+	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
 - <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109" onclick="window.open('https://www.microsoft.com/en-us/download/details.aspx?id=8109', '_self');">DirectX Runtime Libraries</a>.
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
 - The latest driver versions for your GPU.
@@ -195,11 +195,12 @@
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
-- In the Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (`C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` if you used the recommended file paths).
-- Navigate to the extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
+- In the Uranium Fever Installation Location, navigate to the mods folder, then open `[NoDelete] Tale of Two Wastelands`.
+- Right click on the filepath at the top and select Copy Address (`C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` if you used the recommended file paths).
+- Navigate to the extracted `Tale of Two Wastelands Installer folder`, right click `TTW Install.exe`, and select Run as Administrator.
 - Verify that the file path for the Fallout 3 matches your normal Fallout 3 installation path.
-- ***CHANGE*** the Fallout New Vegas file path to reflect the New Vegas Installation in the Uranium Fever > Stock Game > New Vegas folder (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended file paths).
-- Paste the copied file path from the [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
+- ***CHANGE*** the Fallout New Vegas file path to reflect the New Vegas Installation in the Uranium Fever > Stock Game > New Vegas folder (`C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended file paths).
+- Paste the copied file path from the `[NoDelete] Tale of Two Wastelands folder` into the Tale of Two Wastelands Installation Path. 
 - Click Install.
 
 > [!caution]
@@ -211,7 +212,7 @@
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
-- Extract the download into the [NoDelete] NVR folder.
+- Extract the download into the `[NoDelete] NVR folder`.
 	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] NVR` if you used the recommended file paths).
   
 ## Installing Stash Organizer
@@ -220,7 +221,7 @@
 
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
-- Extract the download into the [NoDelete] Stash Organizer folder.
+- Extract the download into the `[NoDelete] Stash Organizer folder`.
 	- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
 
 ## Creating Exclusions
@@ -237,7 +238,8 @@
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever 
+ > Stock Game > New Vegas folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been pre-installed by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
@@ -265,7 +267,7 @@
 > [!tip]
 > Decompressing base game BSAs reduces load time and stuttering.
 
-- In the Uranium Fever Installation Location, open the FNV BSA Decompressor folder and run FNV BSA Decompressor.exe.
+- In the `Uranium Fever Installation Location`, open the `FNV BSA Decompressor folder` and run `FNV BSA Decompressor.exe`.
 - The Fallout New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
 - Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data` if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
