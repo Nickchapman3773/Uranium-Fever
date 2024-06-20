@@ -229,7 +229,7 @@
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
 - Extract the download into the `[NoDelete] Stash Organizer folder`.
-	- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
+	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
 
 ## Installing Capital Wasteland Hideouts
 > [!important]
@@ -237,7 +237,7 @@
 
 - Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
 - Extract the download into the `[NoDelete] Capital Wasteland Hideouts folder`.
-	- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Capital Wasteland Hideouts` if you used the recommended file paths).
+	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Capital Wasteland Hideouts` if you used the recommended file paths).
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
@@ -246,16 +246,16 @@
 - Tammers
 	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 	- Extract the download into the `[NoDelete] Tammer folder`.
-		- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Tammer` if you used the recommended file paths).
+		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Tammer` if you used the recommended file paths).
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
 	- Extract the download into the `[NoDelete] ghouls folder`.
-		- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] ghouls` if you used the recommended file paths).
+		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] ghouls` if you used the recommended file paths).
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- Extract the download into the `[NoDelete] FeralGhoulsHD folder`.
-		- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] FeralGhoulsHD` if you used the recommended file paths).
+		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] FeralGhoulsHD` if you used the recommended file paths).
 	- Download <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
 	- Extract the download into the `[NoDelete] Wasteland Clothing HD folder`.
-		- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Wasteland Clothing HD` if you used the recommended file paths).
+		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Wasteland Clothing HD` if you used the recommended file paths).
 
 ## Creating Exclusions
 > [!tip]
