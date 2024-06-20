@@ -27,6 +27,9 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
+# <p align=center>Uranium Fever Modlist</p>
+- <a href="https://loadorderlibrary.com/lists/uranium-fever" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">Uranium Fever Modlist</a>.
+
 # <p align=center>Mod Highlights</p>
 ## UI
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
