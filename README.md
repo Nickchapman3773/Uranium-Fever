@@ -185,7 +185,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Download the 3.3.2a Tale of Two Wastelands Installer and extract the contents of the archive anywhere outside of the default Windows folders.
+- Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the contents of the archive anywhere outside of the default Windows folders.
 - In your Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
 - Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
 - Verify that the file paths for your Fallout 3 and Fallout New Vegas are correct.
