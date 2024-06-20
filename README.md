@@ -1,6 +1,6 @@
 ### <p align=center>The Uranium Fever Team presents:</p>
 
-# <p align=center>**Uranium Fever!**</p>
+<p align=center>**Uranium Fever!**</p>
 ***Uranium Fever*** is a massive, full-game overhaul and expansion of the worlds of Fallout New Vegas and Fallout 3. Focused on a hardcore and compelling gameplay experience, this list represents a dramatic deviation from the vanilla experience. Every single mod and setting included in this list was carefully considered by a team of experts in various different New Vegas modding domains. Very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
 
 >[!IMPORTANT]
