@@ -27,7 +27,7 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
-# <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">Uranium Fever Modlist</a></p>
+# <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever-test-version" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">https://loadorderlibrary.com/lists/uranium-fever-test-version</a></p>
 
 # <p align=center>Mod Highlights</p>
 ## UI
