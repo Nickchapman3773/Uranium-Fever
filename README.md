@@ -188,10 +188,13 @@
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the contents of the archive anywhere outside of the default Windows folders.
 - In your Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
 - Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
-- Verify that the file paths for your Fallout 3 matches your normal Fallout 3 installation path.
-- ***CHANGE*** your Fallout New Vegas path to reflect the New Vegas Installation in your Uranium Fever > Stock Game > New Vegas folder. (C:\Modding\Uranium Fever - Test Install\Stock Game\Fallout New Vegas if you used the recommended file paths).
+- Verify that the file path for your Fallout 3 matches your normal Fallout 3 installation path.
+- ***CHANGE*** your Fallout New Vegas file path to reflect the New Vegas Installation in your Uranium Fever > Stock Game > New Vegas folder. (C:\Modding\Uranium Fever - Test Install\Stock Game\Fallout New Vegas if you used the recommended file paths).
 - Paste the copied file path from your [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
 - Click Install.
+
+> [!caution]
+> Your game **WILL NOT WORK** if you fail to change your TTW Fallout New Vegas file path to reflect the New Vegas installation provided in your Stock Game folder. 
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
