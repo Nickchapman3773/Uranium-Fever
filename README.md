@@ -114,7 +114,11 @@
 	- Both versions must be on the same platform.
 	- The Epic Games version WILL NOT work.
 - Windows 10 or higher (64-bit).
-- [Visual C++](www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
+- <a href="www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">
+Visual C++
+
+
+</a>.
 	- Extract the archive, open the extracted folder, right click install_all.bat, and select run as administrator.
 - [DirectX Runtime Libraries](www.microsoft.com/en-us/download/details.aspx?id=8109).
 - [.NET Framework 4.8](dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
