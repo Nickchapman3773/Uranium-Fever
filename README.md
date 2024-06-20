@@ -138,7 +138,9 @@
 - SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
 
 > [!note]
-> For those concerned by the large installation size, an optional clean up step is included following successful installation and launch. 
+> For those concerned by the large installation size, an optional clean up step is included following successful installation and launch.
+>
+> For those concerned that they might have performance issues, rest assured, a performance profile is included in the Uranium Fever installation. Instructions on activating this profile can be found below.
 
 # <p align=center>Setup Instructions</p>
 ## Disable Base Address Randomization 
