@@ -221,31 +221,33 @@
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
-- Extract the download into the `[NoDelete] NVR folder`.
-	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] NVR` if you used the recommended file paths).
+- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the NVR download from your Downloads folder.
+- Name it `[NoDelete] NVR`.
+- Select Replace when prompted "Mod Exists".
   
 ## Installing Stash Organizer
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
-	- Select Manual download.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the Stash Organizer download from your Downloads folder.
-	- Name it `[NoDelete] Stash Organizer`.
-	- Select Replace when prompted "Mod Exists".
-	- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
+- Select Manual download.
+- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the Stash Organizer download from your Downloads folder.
+- Name it `[NoDelete] Stash Organizer`.
+- Select Replace when prompted "Mod Exists".
+- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
 ## Installing Capital Wasteland Hideouts
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the Capital Wasteland Hideouts download from your Downloads folder.
-	- Name it `[NoDelete] Capital Wasteland Hideouts`.
-	- Select Replace when prompted "Mod Exists".
-	- In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
+- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the Capital Wasteland Hideouts download from your Downloads folder.
+- Name it `[NoDelete] Capital Wasteland Hideouts`.
+- Select Replace when prompted "Mod Exists".
+- In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
