@@ -112,7 +112,8 @@
 
 # <p align=center>Requirements</p>
 - English Steam version of Fallout New Vegas and Fallout 3 with all DLCs for both games.
-	- The Epic Games version WILL NOT work.
+	- The Epic Games version **DOES NOT** work with Wabbajack
+	- The PCR Game version **DOES NOT** work with Wabbajack.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
