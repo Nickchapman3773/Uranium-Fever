@@ -145,7 +145,7 @@
 - Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
 
 ## Downloading Wabbajack
-- Download the <a href="https//www.wabbajack.org/" onclick="window.open('https//www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
+- Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
 - Move the downloaded Wabbajack file to the file path of choice. The recommended location is "C\Modding\Wabbajack".
 - Run Wabbajack.exe. This will automatically install Wabbajack.
 
@@ -200,7 +200,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Navigate to the <a href="https//discord.com/invite/r8EFG5YGBj" onclick="window.open('https//discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
+- Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
 - Extract the download into the [NoDelete] NVR folder.
 	- This can be found in Uranium Fever Installation Location > mods (C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
@@ -209,7 +209,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Download <a href="https//mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https//mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
+- Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
 - Extract the download into the [NoDelete] Stash Organizer folder.
 	- This can be found in Uranium Fever Installation Location > mod (C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths).
@@ -228,7 +228,7 @@
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https//www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https//www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been pre-installed by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
@@ -242,7 +242,7 @@
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
 
-- Install and launch <a href="https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
+- Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
 - Press the green Add button and select FalloutNV.exe.
 - Set Application Detection Level to Low.
@@ -309,7 +309,7 @@
 >
 > ***DO NOT*** ping OR DM any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
 >
-> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https//discord.gg/Uu6gZZSaeA" onclick="window.open('https//discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
