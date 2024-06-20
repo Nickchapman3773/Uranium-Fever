@@ -28,7 +28,7 @@
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
 # <p align=center>Uranium Fever Modlist</p>
-- <a href="https://loadorderlibrary.com/lists/uranium-fever" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">Uranium Fever Modlist</a>.
+## <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">Uranium Fever Modlist</a></p>
 
 # <p align=center>Mod Highlights</p>
 ## UI
