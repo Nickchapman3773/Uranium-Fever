@@ -259,7 +259,7 @@
 	- Select the Tammer download from your Downloads folder.
 	- Name it `[NoDelete] Tammer`.
 	- Select `Replace` when prompted "Mod Exists".
-	- Click the refresh icon at the top of MO2, right click the Tammers mod, click information, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click hide.
+	- Right click the Tammers mod, click information, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click hide.
 - ghouls:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
 	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
