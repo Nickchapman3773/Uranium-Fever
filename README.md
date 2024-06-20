@@ -1,4 +1,4 @@
-<p align=center>Kamchatka, Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious present:</p>
+## <p align=center>The Uranium Fever Team presents:</p>
 
 # <p align=center>**Uranium Fever!**</p>
 ***Uranium Fever*** is a massive, full-game overhaul and expansion of the worlds of Fallout New Vegas and Fallout 3. Focused on a hardcore and compelling gameplay experience, this list represents a dramatic deviation from the vanilla experience. Every single mod and setting included in this list was carefully considered by a team of experts in various different New Vegas modding domains. Very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
@@ -327,14 +327,16 @@
 
 # <p align=center>Credits/Thanks</p>
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
-- Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in substantial amounts of discussion, planning, patching, and testing in order to make Uranium Fever a reality.
+- The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
+- Sweet6Shooter for extensive balance related planning, patch making, and general willingness to help in any and all ways.
+- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
+- Stentorious for making patches and updating several of his mods specifically for Uranium Fever.
+- InTheGrave and Shabby Pirate for extensive advising on compression and BSA packing to optimize the list.
 - Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
-- InTheGrave and Shabby Pirate for advising on compression and BSA packing to optimize the list.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
 - PhysicsGaming for spending a substantial amount adjusting Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
-- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
