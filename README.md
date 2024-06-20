@@ -305,6 +305,14 @@
 - Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data` if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
 
+# Performance Profile
+> [!tip]
+> This is an OPTIONAL step for those with weaker computers. If you do not get poor performance in game, please **DO NOT** follow this step.
+
+> Use the Performance Profile for better performance in exchange for worse visuals. This profile disables Real Time Reflections New Vegas Reloaded, and associated mods.
+
+- In MO2, select Uranium Fever from the large dropdown list in the top middle, then click the Uranium Fever Performance Profile.
+
 # Launching The Game
 - The game CANNOT be launched outside of MO2. Launching from Steam or GOG **WILL** fail.
 - In MO2, select Uranium Fever from the dropdown list in the top right, then click run.
