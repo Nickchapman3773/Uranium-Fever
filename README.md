@@ -209,7 +209,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- Download [Stash Organizer](https//mod.pub/falloutnv/4-stash-organizer.
+- Download [Stash Organizer](https//mod.pub/falloutnv/4-stash-organizer).
 	- Select Manual download.
 - Extract the download into the [NoDelete] Stash Organizer folder.
 	- This can be found in Uranium Fever Installation Location > mod (C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths).
