@@ -224,7 +224,7 @@
 - Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 - Select the NVR download from your Downloads folder.
 - Name it `[NoDelete] NVR`.
-- Select Replace when prompted "Mod Exists".
+- Select `Replace` when prompted "Mod Exists".
   
 ## Installing Stash Organizer
 > [!important]
@@ -235,7 +235,7 @@
 - Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 - Select the Stash Organizer download from your Downloads folder.
 - Name it `[NoDelete] Stash Organizer`.
-- Select Replace when prompted "Mod Exists".
+- Select `Replace` when prompted "Mod Exists".
 - In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
 ## Installing Capital Wasteland Hideouts
@@ -246,7 +246,7 @@
 - Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 - Select the Capital Wasteland Hideouts download from your Downloads folder.
 - Name it `[NoDelete] Capital Wasteland Hideouts`.
-- Select Replace when prompted "Mod Exists".
+- Select `Replace` when prompted "Mod Exists".
 - In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
 
 ## Other **TEMPORARY** Manual Installations:
@@ -258,14 +258,14 @@
 	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 	- Select the Tammer download from your Downloads folder.
 	- Name it `[NoDelete] Tammer`.
-	- Select Replace when prompted "Mod Exists".
+	- Select `Replace` when prompted "Mod Exists".
 	- Click the refresh icon at the top of MO2, right click the Tammers mod, click information, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click hide.
 - ghouls:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
 	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 	- Select the ghouls download from your Downloads folder.
 	- Name it `[NoDelete] ghouls`.
-	- Select Replace when prompted "Mod Exists".
+	- Select `Replace` when prompted "Mod Exists".
 - FeralGhoulsHD:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
@@ -277,7 +277,7 @@
 	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
 	- Select the Wasteland Clothing HD download from your Downloads folder.
 	- Name it `[NoDelete] Wasteland Clothing HD`.
-	- Select Replace when prompted "Mod Exists".
+	- Select `Replace` when prompted "Mod Exists".
 
 ## Creating Exclusions
 > [!tip]
