@@ -98,7 +98,7 @@
 
 ## Animation & Visual
 - 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
-- Armed to the Teeth Redux - Allows you to holster 4 weapons on your body at once.
+- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body at once.
 - Titans of the New West 2.0 - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
 - B42 Optics - Seamlessly adds dual-render scopes into the game.
 - B42 True Learning - Adds contextual lean when aiming out from corners.
@@ -139,14 +139,14 @@
 > [!Tip]
 > This step can prevent unforeseen crashes.
 
-- Open Windows Security from your Start Menu.
+- Open Windows Security from the Start Menu.
 - Open App & Browser Control in the left sidebar.
 - Open Exploit Protection Settings under Exploit Protection.
 - Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
 
 ## Downloading Wabbajack
 - Download the [Wabbajack Installation file](https//www.wabbajack.org/).
-- Move the downloaded Wabbajack file to the file path of your choice. A good location is "C\Modding\Wabbajack".
+- Move the downloaded Wabbajack file to the file path of choice. The recommended location is "C\Modding\Wabbajack".
 - Run Wabbajack.exe. This will automatically install Wabbajack.
 
 ## Installing Uranium Fever
@@ -160,9 +160,9 @@
 - Toggle the "Show Unofficial Lists" filter.
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
-- Select your desired Modlist Installation Location. We Recommend C\Modding\Uranium Fever.
+- Select the desired Modlist Installation Location. We recommend C\Modding\Uranium Fever.
 	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
-- Select your desired Resource Download Location. We recommend C\Modding\Uranium Fever/downloads.
+- Select the desired Resource Download Location. We recommend C\Modding\Uranium Fever/downloads.
 - Begin the installation and accept the Nexus Mods API request when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green Installation Complete screen.
@@ -170,7 +170,7 @@
 ```
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch ModOrganizer.exe from your Uranium Fever Installation Location (C\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
+- Launch ModOrganizer.exe from the Uranium Fever Installation Location (C\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
 - If you see a prompt to register, select Yes.
   
@@ -187,14 +187,14 @@
 
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the contents of the archive anywhere outside of the default Windows folders.
 - In the Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
-- Navigate to your extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
-- Verify that the file path for your Fallout 3 matches your normal Fallout 3 installation path.
-- ***CHANGE*** your Fallout New Vegas file path to reflect the New Vegas Installation in your Uranium Fever > Stock Game > New Vegas folder (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended file paths).
-- Paste the copied file path from your [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
+- Navigate to the extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
+- Verify that the file path for the Fallout 3 matches your normal Fallout 3 installation path.
+- ***CHANGE*** the Fallout New Vegas file path to reflect the New Vegas Installation in the Uranium Fever > Stock Game > New Vegas folder (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended file paths).
+- Paste the copied file path from the [NoDelete] Tale of Two Wastelands folder into the Tale of Two Wastelands Installation Path. 
 - Click Install.
 
 > [!caution]
-> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in your Stock Game folder. 
+> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder. 
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
@@ -202,19 +202,17 @@
 
 - Navigate to the [TES Reloaded Discord Server](https//discord.com/invite/r8EFG5YGBj).
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
-- Extract the download into the [NoDelete] NVR folder
-	- This can be found in Uranium Fever Installation Location > mods.
-	- This will be C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths.
+- Extract the download into the [NoDelete] NVR folder.
+	- This can be found in Uranium Fever Installation Location > mods (C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
   
 ## Installing Stash Organizer
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
-- [Download Stash Organizer](https//mod.pub/falloutnv/4-stash-organizer.
+- Download [Stash Organizer](https//mod.pub/falloutnv/4-stash-organizer.
 	- Select Manual download.
-	- Extract the download into the [NoDelete] Stash Organizer folder
-	- This can be found in Uranium Fever Installation Location > mods.
-	- This will be C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths.
+- Extract the download into the [NoDelete] Stash Organizer folder.
+	- This can be found in Uranium Fever Installation Location > mod (C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths).
 
 ## Creating Exclusions
 > [!tip]
@@ -224,28 +222,28 @@
 - Open Virus & Threat Protection.
 - Click Manage Settings under Virus & Threat Protection Settings.
 - Scroll down and select Add or Remove Exclusions under Exclusions.
-- Select your Uranium Fever Installation Location.
-- Add another exclusion for your Wabbajack Installation location.
+- Select the Uranium Fever Installation Location.
+- Add another exclusion for the Wabbajack Installation location.
 - This process will also need to be done for any third-party antivirus.
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from your root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. You can accomplish this by using the [AMD Cleanup Utility](https//www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use.  If crashing frequently, REMOVE d3d9.dll and dxvk.conf from the root folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the [AMD Cleanup Utility](https//www.amd.com/en/support/kb/faq/gpu-601) and google searching `previous YOUR CARD MODEL drivers`.
 
-- MOST users will not have to follow these instructions. The most updated version of DXVK has been provided alongside your Uranium Fever Installation. Those with specific older graphics cards should follow these instructions if unable to launch the game
+- MOST users will not have to follow these instructions. The most updated version of DXVK has been pre-installed inside in Uranium Fever. Those with specific older graphics cards should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
-		- Navigate to your Uranium Fever Installation Location > DXVK.
-		- Move the DXVK 1.10.1 folder into your game's Root folder, which can be found in your Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
+		- Navigate to the Uranium Fever Installation Location > DXVK.
+		- Move the DXVK 1.10.1 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
 	- Vulkan-less GPU users:
 		- If you are not sure that this applies to you, ignore this section.
-		- Move the contents inside of the DXVK 1.10.3 folder into your game's Root folder.
+		- Move the contents inside of the DXVK 1.10.3 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
 
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
 
 - Install and launch [RTSS](https//www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
-- Open your System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
+- Open the System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
 - Press the green Add button and select FalloutNV.exe.
 - Set Application Detection Level to Low.
 - Set Framerate Limit to 59.95.
@@ -258,7 +256,7 @@
 > [!tip]
 > Decompressing base game BSAs reduces load time and stuttering.
 
-- In your Uranium Fever Installation Location, open the FNV BSA Decompressor folder and run FNV BSA Decompressor.exe.
+- In the Uranium Fever Installation Location, open the FNV BSA Decompressor folder and run FNV BSA Decompressor.exe.
 - The Fallout New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
 - Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
@@ -271,7 +269,7 @@
 > [!tip]
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
-- Confirm that your game launches and runs appropriately before following these steps.
+- Confirm that the game launches and runs appropriately before following these steps.
 - Navigate to the Uranium Fever Installation Location > downloads folder (C\Modding\Uranium Fever\downloads if you used the recommended filepaths).
 - Delete the downloads folder.
 
@@ -299,7 +297,7 @@
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 - Stock Game - What is the Stock Game Folder and why do I need it?
-	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering your main Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
+	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the main Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Vortex - Can I install Uranium Fever with vortex?
