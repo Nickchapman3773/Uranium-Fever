@@ -116,7 +116,7 @@
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click install_all.bat, and select run as administrator.
-- <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109" onclick="window.open('https://www.microsoft.com/en-us/download/details.aspx?id=8109', '_self');">DirectX Runtime Librarie</a>.
+- <a href="https://www.microsoft.com/en-us/download/details.aspx?id=8109" onclick="window.open('https://www.microsoft.com/en-us/download/details.aspx?id=8109', '_self');">DirectX Runtime Libraries</a>.
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
 - The latest driver versions for your GPU.
 - An archiving tool - We recommend <a href="https://www.7-zip.org/" onclick="window.open('https://www.7-zip.org/', '_self');">7-zip</a>.
@@ -169,13 +169,21 @@
 - If a red Installation Failed screen appears, log in again through the Wabbajack settings, then reinstall the list to the same folder.
 ```
 
+## Generating Fresh INI Files
+- Launch Fallout: New Vegas from Steam/GOG.
+- Click OK to pop-ups saying "Detecting Video Hardware."
+- Exit the launcher.
+- Launch Fallout 3 from Steam/GOG.
+- Click OK to pop-ups saying "Detecting Video Hardware."
+- Exit the launcher.
+
 ## Launching Mod Organizer 2 (MO2)
 - Launch ModOrganizer.exe from the Uranium Fever Installation Location (`C\Modding\Uranium Fever\ModOrganizer.exe` if you used the recommended file paths).
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
 - If you see a prompt to register, select Yes.
-  
+
 ## Configuring Game's Settings
-- In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select Fallout Launcher.
+- In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select "Uranium Fever Launcher."
 - Click Run, then navigate to Options.
 - Inside the launcher, select the Ultra Preset.
 - Uncheck the Windowed option, then select your monitor's resolution.
