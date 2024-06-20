@@ -193,6 +193,8 @@
 ## Installing Tale of Two Wastelands
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
+>
+> You **CANNOT** just move your TTW installation from a different location, as the installer edits New Vegas Files included in the Stock Games folder of the Wabbajack.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
 - In the Uranium Fever Installation Location, navigate to the mods folder, then open `[NoDelete] Tale of Two Wastelands`.
