@@ -278,6 +278,8 @@
 # <p align=center>FAQ</p>
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
+- First Time Playing - Is the list appropriate for a person who has never played Fallout before?
+	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
