@@ -230,39 +230,52 @@
 
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
-- Extract the download into the `[NoDelete] Stash Organizer folder`.
-	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
-- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the Stash Organizer download from your Downloads folder.
+	- Name it `[NoDelete] Stash Organizer`.
+	- Select Replace when prompted "Mod Exists".
+	- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
 ## Installing Capital Wasteland Hideouts
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
-- Extract the download into the `[NoDelete] Capital Wasteland Hideouts folder`.
-	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Capital Wasteland Hideouts` if you used the recommended file paths).
- - In the plugins tab (the right pane in MO2)
- - In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the Capital Wasteland Hideouts download from your Downloads folder.
+	- Name it `[NoDelete] Capital Wasteland Hideouts`.
+	- Select Replace when prompted "Mod Exists".
+	- In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
 > These mods will not REMAIN manual installations. This is a necessary temporary approach while Google Drive link inclusion troubleshooting is happening on the official Wabbajack side.
 
-- Tammer
+- Tammer:
 	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
-	- Extract the download into the `[NoDelete] Tammer folder`.
-		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Tammer` if you used the recommended file paths).
-    		- If your receive a "catastrophic error" message, click the Install from Archive icon, select the Tammer download from the downloads folder, name it `[NoDelete] Tammer`, and select yes when prompted to replace file.
-      		- Click the refresh icon at the top of MO2, right click the Tammers mod, click information, right click, Tammer's NIF-Bashed Armor Mega-Pack.esm, and click hide.
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the Tammer download from your Downloads folder.
+	- Name it `[NoDelete] Tammer`.
+	- Select Replace when prompted "Mod Exists".
+	- Click the refresh icon at the top of MO2, right click the Tammers mod, click information, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click hide.
+- ghouls:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
-	- Extract the download into the `[NoDelete] ghouls folder`.
-		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] ghouls` if you used the recommended file paths).
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the ghouls download from your Downloads folder.
+	- Name it `[NoDelete] ghouls`.
+	- Select Replace when prompted "Mod Exists".
+- FeralGhoulsHD:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
-	- Extract the download into the `[NoDelete] FeralGhoulsHD folder`.
-		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] FeralGhoulsHD` if you used the recommended file paths).
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the FeralGhoulsHD download from your Downloads folder.
+	- Name it `[NoDelete] FeralGhoulsHD`.
+	- Select Replace when prompted "Mod Exists".
+- Wasteland Clothing HD:
 	- Download <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
-	- Extract the download into the `[NoDelete] Wasteland Clothing HD folder`.
-		- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] Wasteland Clothing HD` if you used the recommended file paths).
+	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the Wasteland Clothing HD download from your Downloads folder.
+	- Name it `[NoDelete] Wasteland Clothing HD`.
+	- Select Replace when prompted "Mod Exists".
 
 ## Creating Exclusions
 > [!tip]
