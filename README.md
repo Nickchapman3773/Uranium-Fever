@@ -159,7 +159,7 @@
 
 ## Installing Uranium Fever
 > [!Note]
-> This section will not be accurate until I officially upload Uranium Fever to the wabbajack website. This will happen following sufficient testing.
+> This section will not be accurate until I officially upload Uranium Fever to the wabbajack website. This will happen following sufficient testing. For testers, begin at the "Select the desired Modlist Installation Location. We recommend `C\Modding\Uranium Fever`" step.
 
 ```
 - Open the settings cogwheel in Wabbajack and log into your Nexus account.
