@@ -290,10 +290,14 @@
 	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience..
 - Manual Installs - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
 	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
+- Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
+	- Yes. Uranium Fever is entirely self contained through the use of a Stock Game folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
 - Size - Why is the installation requirement so large?
 	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
+- Stock Game - What is the Stock Game Folder and why do I need it?
+	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering your main Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Vortex - Can I install Uranium Fever with vortex?
