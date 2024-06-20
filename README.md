@@ -295,12 +295,12 @@
 
 # <p align=center>Support, Feedback, & Updates</p>
 > [!caution]
-> ***DO NOT*** ask for support in the Tale of Two Wasteland, Wasteland Supplemental, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel, aside from the officially supported Uranium Fever channels!
+> ***DO NOT*** ask for support in the Tale of Two Wasteland, Wasteland Supplemental, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel.
+> ***DO NOT*** ping any members of the Uranium Fever team for support or questions. Do not ask non-support members for support.
+> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in [Sweets Retreat](https//discord.gg/Uu6gZZSaeA)
 
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
-
-Visit our Uranium Fever discord channels in [Sweets Retreat](https//discord.gg/Uu6gZZSaeA)!
 
 # <p align=center>Credits/Thanks</p>
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
