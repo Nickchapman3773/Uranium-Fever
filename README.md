@@ -146,7 +146,7 @@
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
-- Move the downloaded Wabbajack file to the file path of choice. The recommended location is "C\Modding\Wabbajack".
+- Move the downloaded Wabbajack file to the file path of choice. The recommended location is `C\Modding\Wabbajack`.
 - Run Wabbajack.exe. This will automatically install Wabbajack.
 
 ## Installing Uranium Fever
@@ -160,9 +160,9 @@
 - Toggle the "Show Unofficial Lists" filter.
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
-- Select the desired Modlist Installation Location. We recommend C\Modding\Uranium Fever.
+- Select the desired Modlist Installation Location. We recommend `C\Modding\Uranium Fever`.
 	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
-- Select the desired Resource Download Location. We recommend C\Modding\Uranium Fever/downloads.
+- Select the desired Resource Download Location. We recommend `C\Modding\Uranium Fever/downloads`.
 - Begin the installation and accept the Nexus Mods API request when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green Installation Complete screen.
@@ -170,7 +170,7 @@
 ```
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch ModOrganizer.exe from the Uranium Fever Installation Location (C\Modding\Uranium Fever\ModOrganizer.exe if you used the recommended file paths).
+- Launch ModOrganizer.exe from the Uranium Fever Installation Location (`C\Modding\Uranium Fever\ModOrganizer.exe` if you used the recommended file paths).
 - If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
 - If you see a prompt to register, select Yes.
   
@@ -186,7 +186,7 @@
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
-- In the Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands if you used the recommended file paths).
+- In the Uranium Fever Installation Location, navigate to the mods folder, then open [NoDelete] Tale of Two Wastelands. Right click on the filepath at the top and select Copy Address (`C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` if you used the recommended file paths).
 - Navigate to the extracted Tale of Two Wastelands Installer folder, right click TTW Install.exe, and select Run as Administrator.
 - Verify that the file path for the Fallout 3 matches your normal Fallout 3 installation path.
 - ***CHANGE*** the Fallout New Vegas file path to reflect the New Vegas Installation in the Uranium Fever > Stock Game > New Vegas folder (C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended file paths).
@@ -203,7 +203,7 @@
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
 - Extract the download into the [NoDelete] NVR folder.
-	- This can be found in Uranium Fever Installation Location > mods (C\Modding\Uranium Fever\mods\[NoDelete] NVR if you used the recommended file paths).
+	- This can be found in Uranium Fever Installation Location > mods (`C\Modding\Uranium Fever\mods\[NoDelete] NVR` if you used the recommended file paths).
   
 ## Installing Stash Organizer
 > [!important]
@@ -212,7 +212,7 @@
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 	- Select Manual download.
 - Extract the download into the [NoDelete] Stash Organizer folder.
-	- This can be found in Uranium Fever Installation Location > mod (C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer if you used the recommended file paths).
+	- This can be found in Uranium Fever Installation Location > mod (`C\Modding\Uranium Fever\mods\[NoDelete] Stash Organizer` if you used the recommended file paths).
 
 ## Creating Exclusions
 > [!tip]
@@ -233,10 +233,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been pre-installed by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the Uranium Fever Installation Location > DXVK.
-		- Move the DXVK 1.10.1 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
+		- Move the DXVK 1.10.1 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
 	- Vulkan-less GPU users:
 		- If you are not sure that this applies to you, ignore this section.
-		- Move the contents inside of the DXVK 1.10.3 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
+		- Move the contents inside of the DXVK 1.10.3 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
 
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
@@ -257,8 +257,8 @@
 > Decompressing base game BSAs reduces load time and stuttering.
 
 - In the Uranium Fever Installation Location, open the FNV BSA Decompressor folder and run FNV BSA Decompressor.exe.
-- The Fallout New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas if you used the recommended filepaths).
-- Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (C\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data if you used the recommended filepaths).
+- The Fallout New Vegas path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
+- Decompressed Archives path needs to be changed to Uranium Fever Installation Location > Stock Game > Fallout New Vegas > Data (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas\Data` if you used the recommended filepaths).
 - Click Decompress, then exit the program once finished.
 
 # Launching The Game
@@ -270,7 +270,7 @@
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
 - Confirm that the game launches and runs appropriately before following these steps.
-- Navigate to the Uranium Fever Installation Location > downloads folder (C\Modding\Uranium Fever\downloads if you used the recommended filepaths).
+- Navigate to the Uranium Fever Installation Location > downloads folder (`C\Modding\Uranium Fever\downloads` if you used the recommended filepaths).
 - Delete the downloads folder.
 
 # <p align=center>Updating Uranium Fever</p>
