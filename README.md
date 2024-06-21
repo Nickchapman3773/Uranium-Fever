@@ -302,6 +302,19 @@
 		- Navigate to the `Uranium Fever > DXVK folder`.
 		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 
+## Disabling DXVK Cache Storage
+> [!tip]
+> DXVK Cache growth is known to cause memory related issues. This process prevents DXVK from creating a cache.
+
+- Press the `windows button`.
+- Type `Env` in the search bar, and click `Edit the system environmental variables` that pops up.
+- Click `Environmental Variables`.
+- Click `New` under `User variables for USER NAME`.
+- Type `DXVK_STATE_CACHE` into the `Variable name`.
+- Type `disable` into the `Variable value`.
+- Click `OK`.
+- Exit `Environmental Variables`.
+
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than fluctuating between 50 to 100 FPS rapidly. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
