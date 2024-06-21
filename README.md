@@ -6,7 +6,7 @@
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
 >
->The following is a ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release. **Please share any constructive feedback pertaining to these instructions or Uranium Fever itself in the appropriate Uranium Fever discord channels (links provided below).
+>The following is a ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release. **Please share any constructive feedback pertaining to these instructions or Uranium Fever itself in the appropriate Uranium Fever discord channels (links provided below).**
 
 >[!CAUTION]
 >**Trigger Warning:**
