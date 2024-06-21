@@ -38,7 +38,7 @@
 - Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness to injuries.
 
 ## Balance
-- Sweets Simple Settings - Adjustments to various gameplay settings to promote a more difficult hardcore experience. Includes changes to carry weight, crippled limb penalties, karma, AP, damage, health, skill tags, traits, and dismemberment.
+- Sweets Simple Settings - Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode Version) - Rebalances the economy around barter, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
 - Armor Damage Overhaul - Replaces the nonsensical armor degradation system present in the base game with a system that is highly customizable and much more intuitive.
