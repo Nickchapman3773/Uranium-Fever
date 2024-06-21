@@ -156,7 +156,7 @@
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
-- Move the downloaded `Wabbajack` file to `C\Modding\Wabbajack`.
+- Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
 - Run `Wabbajack.exe`. This will automatically install `Wabbajack`.
 - Close `Wabbajack`.
 
@@ -183,8 +183,8 @@
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
 ```
-- Under `Modlist Installation Location`, enter `C\Modding\Uranium Fever`.
-- Under `Resource Download Location`, enter `C\Modding\Uranium Fever\downloads`.
+- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
+- Under `Resource Download Location`, enter `C:\Modding\Uranium Fever\downloads`.
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
@@ -200,7 +200,7 @@
 - Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch `ModOrganizer.exe`, which is located inside of `C\Modding\Uranium Fever\ModOrganizer.exe`.
+- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever\ModOrganizer.exe`.
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
 
@@ -219,11 +219,11 @@
 > You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** cannot be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
-- Copy `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
+- Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
-- **Enter** `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
+- **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
 - When complete, close the `Installer`.
 
@@ -297,10 +297,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 	- Vulkan-less GPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
@@ -352,7 +352,7 @@
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
 - Confirm that the game launches and runs appropriately before following this step.
-- Navigate to `C\Modding\Uranium Fever\downloads`.
+- Navigate to `C:\Modding\Uranium Fever\downloads`.
 - `Delete` the `downloads folder`.
 
 # <p align=center>Updating Uranium Fever</p>
