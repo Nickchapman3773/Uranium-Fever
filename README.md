@@ -382,8 +382,6 @@
 <details><summary>
 Click to Expand FAQ
 </summary>
-
-FAQ List:
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
