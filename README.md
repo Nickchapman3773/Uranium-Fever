@@ -25,7 +25,7 @@
 - Extensive, full-game retexturing and reimagining of both Wastelands.
 - Dramatically overhauled lighting to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
-- An expansive overhaul to music and sound to promote deeper immersion.
+- An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
 # <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever-test-version" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever-test-version', '_self');">Full Uranium Fever Modlist</a></p>
 
