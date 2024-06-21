@@ -138,9 +138,8 @@
 - SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
 
 > [!note]
-> Worried about the large installation size? An optional Clean Up step is discussed below.
-> 
-> Worried about having a poor performing computer? An optional Performance Profile is dicsussed below.
+> - Worried about the large installation size? An optional Clean Up step is discussed below.
+> - Worried about having a poor performing computer? An optional Performance Profile is dicsussed below.
 
 # <p align=center>Setup Instructions</p>
 ## Creating Appropriate File Paths
