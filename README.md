@@ -167,6 +167,10 @@
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
+	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
+
+> [!warning]
+> Failure to hide the Tammer plugin will result in your game behaving inappropriately.
 
 > [!warning]
 > Failure to complete this step will prevent the Uranium Fever Installer from functioning.
@@ -252,26 +256,6 @@
 - Name it `[NoDelete] Stash Organizer`.
 - Select `Replace` when prompted `Mod Exists`.
 - In the `plugins tab` (the right pane in MO2), find `Stash Organizer.esp`, click the check box to `enable it`, then drag it up to `priority #116` (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
-
-> [!note]
-> I am hopeful I will be able to simplify/automate this installation soon.
-
-## Installing Tammer
-> [!important]
-> This mod is **REQUIRED** for Uranium Fever to function properly.
-
-- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
-- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the `Tammer download` from your `Downloads folder`.
-- Name it `[NoDelete] Tammer`.
-- Select `Replace` when prompted `Mod Exists`.
-- `Right click the Tammer mod`, click `information`, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click `hide`.
-
-> [!warning]
-> Failure to hide the Tammer plugin will result in your game behaving inappropriately.
-
-> [!note]
-> I am hopeful I will be able to simplify/automate the hiding step soon.
 
 ## Disable Base Address Randomization 
 > [!Tip]
