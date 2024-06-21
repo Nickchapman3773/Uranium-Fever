@@ -139,6 +139,7 @@
 
 > [!note]
 > Worried about the large installation size? An optional Clean Up step is discussed below.
+> 
 > Worried about having a poor performing computer? An optional Performance Profile is dicsussed below.
 
 # <p align=center>Setup Instructions</p>
