@@ -45,7 +45,7 @@
 - New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
 - Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
 - RAD Radiation Is Actually Dangerous - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful 
-- Sweet Consumables - A top-to-bottom overhaul of consumables and misc items with a focus on a hardcore experience.
+- Sweet Consumables - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
 - Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
 - Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
 - SPARE Sweet Part and Ammo Rebalance and Expansion - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent naming scheme, a transition to vendor sold boxes of ammo, and economy improvements.
