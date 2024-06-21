@@ -213,7 +213,9 @@
 - Click Install.
 
 > [!caution]
-> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder. 
+> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder.
+>
+> You **CANNOT** copy another TTW installation over to the appropriate folder. The installation process NEEDS to be run.
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
