@@ -311,7 +311,7 @@
 > [!tip]
 > This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
  
-- Navigate to your `steam folder` (the same folder where your steam.exe is).
+- Navigate to your `Steam Folder` (the same folder where your steam.exe is).
 - Right click `GameOverlayRenderer.dll` and open properties.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
@@ -323,30 +323,37 @@
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever 
- > Stock Game > New Vegas folder. AMD users who REMOVE DXVK will need to downgrade their graphics card drivers to version 23.12.1. This can be accomplished by using the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a> and google searching `previous YOUR CARD MODEL drivers`.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > Stock Game > `New Vegas folder`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade their graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
 
-- MOST users will not have to follow these instructions. The most updated version of DXVK has already been pre-installed by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
+> [!warning]
+> ONLY follow these steps if your game crashes before fully booting up.
+
+- MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
-		- Navigate to the Uranium Fever Installation Location > DXVK.
-		- Move the DXVK 1.10.1 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
+		- Navigate to the `Uranium Fever > DXVK folder`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 	- Vulkan-less GPU users:
-		- If you are not sure that this applies to you, ignore this section.
-		- Move the contents inside of the DXVK 1.10.3 folder into the game's Root folder, which can be found in the Uranium Fever Installation Location > Stock Game > Fallout New Vegas (`C\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended filepaths).
+		- Navigate to the `Uranium Fever > DXVK folder`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
-> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
+> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than fluctuating between 50 to 100 FPS rapidly. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe`.
+- Press the green `Add` button and select `FalloutNV.exe` in `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
 - Enter settings using the `Setup` button.
-- Enable `Passive Waiting`.
-- Set `Framerate Limiter` to Front `Edge Sync`.
+- Scroll down and enable `Passive Waiting`.
+- Set `Framerate Limiter` to `Front Edge Sync`.'
+- Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
+- Minimize RTSS back to the System Tray.
+
+> [!warning]
+> RTSS can only be connected to a single instance of FalloutNV.exe at a time. This means that if you have it connected to a different modded installation of Fallout New Vegas, you need to delete that profile in RTSS and create a new profile.
 
 ## Performance Profile
 > [!tip]
@@ -357,7 +364,7 @@
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
 
 ## Launching The Game
-- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL** fail.
+- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL NOT** launch the modded game.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
  
 ## Cleaning Up
