@@ -208,7 +208,7 @@
 >
 > You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** cannot be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
-- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive.
+- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Copy `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
