@@ -16,14 +16,14 @@
 # <p align=center>Features</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life mods.
 - Carefully crafted settings for every single mod inclusion.
-- Significant modernizations of the UI, HUD, and Pip-Boy. Guided by Stentorious.
+- Significant modernizations of the UI, HUD, and Pip-Boy.
 - Many new functionalities seamlessly integrated into the gameplay experience, with clear notation of these functions and their associated hotkeys.
 - Large-scale, immersive overhauls and expansions to most locations.
-- Comprehensive hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion. Guided by Sweet6Shooter.
+- Comprehensive hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - Ample new items, armors, perks, quests, enemies, and creatures, all aimed to further explore and expand on the Fallout universe.
 - Substantial mesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and AI pathing.
-- Extensive, full-game retexturing and reimagining of both Wastelands. Guided by Salamand3r.
-- Dramatically overhauled lighting to improve the ambiance of both Wastelands. Guided by Salamand3r.
+- Extensive, full-game retexturing and reimagining of both Wastelands.
+- Dramatically overhauled lighting to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and sound to promote immersion into the Fallout universe.
 
