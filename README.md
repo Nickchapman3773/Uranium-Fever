@@ -31,11 +31,11 @@
 
 # <p align=center>Mod Highlights</p>
 ## UI
-- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid select menus.
-- Item Cards - Adds new, real-time, detailed stat menus to items when moused over.
+- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
+- Item Cards - Adds new, real-time, detailed stat menus to inspected items.
 - Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
-- Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness when injured.
+- Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness to injuries.
 
 ## Balance
 - Sweets Simple Settings - Adjustments to various gameplay settings to promote a more difficult hardcore experience. Includes changes to carry weight, crippled limb penalties, karma, AP, damage, health, skill tags, traits, and dismemberment.
