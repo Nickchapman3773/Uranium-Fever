@@ -129,7 +129,7 @@
 - A <a href="https://discord.com/register" onclick="window.open('https://discord.com/register', '_self');">Discord account</a>.
 
 > [!note]
-> A GOG version is coming at a later date, after the initial testing.
+> A GOG version is coming at a later date, following initial testing.
 
 # <p align=center>Recommended Specs</p>
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
@@ -138,24 +138,28 @@
 - SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
 
 > [!note]
-> For those concerned by the large installation size, an optional clean up step is included following successful installation and launch.
+> For those concerned by the large installation size, an optional Clean Up step is discussed below.
 >
-> For those concerned about poor performance, a performance profile is included in the Uranium Fever installation. Instructions on activating this profile can be found below.
+> For those concerned about poor performance, an optional Performance Profile is dicsussed below.
 
 # <p align=center>Setup Instructions</p>
-## Disable Base Address Randomization 
-> [!Tip]
-> This step can prevent unforeseen crashes.
+## Creating Appropriate File Paths
+- Navigate to the `Root Directory` (C:\, D:\, etc).
+- Create a folder named `Modding`, then open it.
+- Create a folder named `Wabbajack`.
+- Create another folder named `Uranium Fever`, then open it.
+- Create a folder named `downloads`.
 
-- Open Windows Security from the Start Menu.
-- Open App & Browser Control in the left sidebar.
-- Open Exploit Protection Settings under Exploit Protection.
-- Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
+> [!warning]
+> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ.
+>
+> File path related support requests that do not follow this convention **WILL BE IGNORED**.
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
-- Move the downloaded Wabbajack file to the file path of choice. The recommended location is `C\Modding\Wabbajack`.
-- Run Wabbajack.exe. This will automatically install Wabbajack.
+- Move the downloaded `Wabbajack` file to `C\Modding\Wabbajack`.
+- Run `Wabbajack.exe`. This will automatically install `Wabbajack`.
+- Close `Wabbajack`.
 
 ## Installing Uranium Fever
 > [!Note]
@@ -170,7 +174,7 @@
 - Once finished, hit the play button (which has now replaced the download button).
 - Select the desired Modlist Installation Location. We recommend `C\Modding\Uranium Fever`.
 	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
-- Select the desired Resource Download Location. We recommend `C\Modding\Uranium Fever/downloads`.
+- Select the desired Resource Download Location. We recommend `C\Modding\Uranium Fever\downloads`.
 - Begin the installation and accept the Nexus Mods API request when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green Installation Complete screen.
@@ -201,7 +205,7 @@
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 >
-> You **CANNOT** just move your TTW installation from a different location, as the installer edits New Vegas Files included in the Stock Games folder of the Wabbajack.
+> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** cannot be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process intrinsically includes BSA decompression of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
 - In the Uranium Fever Installation Location, navigate to the mods folder, then open `[NoDelete] Tale of Two Wastelands`.
@@ -283,6 +287,15 @@
 	- Name it `[NoDelete] Wasteland Clothing HD`.
 	- Select `Replace` when prompted "Mod Exists".
 
+## Disable Base Address Randomization 
+> [!Tip]
+> This step can prevent unforeseen crashes.
+
+- Open Windows Security from the Start Menu.
+- Open App & Browser Control in the left sidebar.
+- Open Exploit Protection Settings under Exploit Protection.
+- Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
+
 ## Creating Exclusions
 > [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
@@ -327,16 +340,16 @@
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 70 FPS is less jarring to the user than fluctuating between 60 to 100 FPS rapidly. This also prevents the timescale desync that can occur if you surpass your monitors refresh rate.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
-- Open the System Tray (the triangle pointing upwards on the taskbar) and click the RTSS icon (an image of a computer screen) to open it.
-- Press the green Add button and select FalloutNV.exe.
-- Set Application Detection Level to Low.
-- Set Framerate Limit to 59.95.
-	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure this is > 0.05 LOWER than your monitors refresh rate.
-- Enter settings using the Setup button.
-- Enable Passive Waiting.
-- Set framerate limiter to Front Edge Sync.
+- Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
+- Press the green `Add` button and select `FalloutNV.exe`.
+- Set `Application Detection Level` to `Low`.
+- Set `Framerate Limit` to `59.95`.
+	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
+- Enter settings using the `Setup` button.
+- Enable `Passive Waiting`.
+- Set `Framerate Limiter` to Front `Edge Sync`.
 
-# Performance Profile
+## Performance Profile
 > [!tip]
 > This is an OPTIONAL step for those with weaker computers. If you do not get poor performance in game, please **DO NOT** follow this step.
 >
@@ -344,11 +357,11 @@
 
 - In MO2, select Uranium Fever from the large dropdown list in the top middle, then click the Uranium Fever Performance Profile.
 
-# Launching The Game
-- The game CANNOT be launched outside of MO2. Launching from Steam or GOG **WILL** fail.
+## Launching The Game
+- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL** fail.
 - In MO2, select Uranium Fever from the dropdown list in the top right, then click run.
  
-# Cleaning Up
+## Cleaning Up
 > [!tip]
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
@@ -357,7 +370,7 @@
 - Delete the downloads folder.
 
 # <p align=center>Updating Uranium Fever</p>
-- Reinstall the list from the Wabbajack tool and enable the "Overwrite Installation" checkbox.
+- Reinstall the list from the Wabbajack tool and enable the `Overwrite Installation` checkbox.
 
 # <p align=center>FAQ</p>
 - Crashing - I am crashing, what can I do to fix it?
@@ -392,11 +405,11 @@
 > ***DO NOT*** ask for support in the Tale of Two Wasteland, Wasteland Supplemental, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel.
 >
 > ***DO NOT*** ping OR DM any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
->
-> ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
+
+- ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 # <p align=center>Credits/Thanks</p>
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
