@@ -21,11 +21,11 @@
 - Large-scale, immersive overhauls and expansions to most locations.
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
-- Substantial mesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and AI pathing.
+- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
 - Extensive, full-game retexturing and reimagining of both Wastelands.
 - Dramatically overhauled lighting to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
-- An expansive overhaul to music and sound to promote immersion into the Fallout universe.
+- An expansive overhaul to music and sound to promote deeper immersion.
 
 # <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever-test-version" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever-test-version', '_self');">Full Uranium Fever Modlist</a></p>
 
