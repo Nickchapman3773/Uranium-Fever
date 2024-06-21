@@ -379,6 +379,11 @@
 - `Reinstall the list from the Wabbajack tool` and enable the `Overwrite Installation` checkbox.
 
 # <p align=center>FAQ</p>
+<details><summary>
+[FAQ List](https://hello.ca)
+</summary>
+
+FAQ List:
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
@@ -405,6 +410,7 @@
 	- No. The TTW Installer edits Fallout New Vegas files in the _Stock Game folder_, this intentional to allow Uranium Fever to be entirely self contained.
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
+ </details>
 
 # <p align=center>Support, Feedback, & Updates</p>
 > [!caution]
