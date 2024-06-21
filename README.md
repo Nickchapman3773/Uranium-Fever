@@ -144,14 +144,14 @@
 
 # <p align=center>Setup Instructions</p>
 ## Creating Appropriate File Paths
-- Navigate to the `Root Directory` (C:\, D:\, etc).
+- Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`.
 - Create another folder named `Uranium Fever`, then open it.
 - Create a folder named `downloads`.
 
 > [!warning]
-> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ.
+> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ. These instructions will refer to the Root Directory as `C:\` moving forward.
 >
 > File path related support requests that do not follow this convention **WILL BE IGNORED**.
 
@@ -163,7 +163,7 @@
 
 ## Installing Uranium Fever
 > [!Note]
-> This section will not be accurate until I officially upload Uranium Fever to the wabbajack website. This will happen following sufficient testing. For testers, begin at the "Select the desired Modlist Installation Location. We recommend `C\Modding\Uranium Fever`" step.
+> Testers, please ignore the coded portion of these instructions until formal release of Uranium Fever.
 
 ```
 - Open the settings cogwheel in Wabbajack and log into your Nexus account.
@@ -172,58 +172,57 @@
 - Toggle the "Show Unofficial Lists" filter.
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
-- Select the desired Modlist Installation Location. We recommend `C\Modding\Uranium Fever`.
-	- The installation **CANNOT** be placed in any Windows OS managed folder, like Program Files, Downloads, or Desktop.
-- Select the desired Resource Download Location. We recommend `C\Modding\Uranium Fever\downloads`.
-- Begin the installation and accept the Nexus Mods API request when prompted.
-- If you are not a Nexus Mods premium user, manually click download on each mod.
-- When complete, Wabbajack will display a green Installation Complete screen.
-- If a red Installation Failed screen appears, log in again through the Wabbajack settings, then reinstall the list to the same folder.
 ```
+- Under `Modlist Installation Location`, enter `C\Modding\Uranium Fever`.
+- Under `Resource Download Location`, enter `C\Modding\Uranium Fever\downloads`.
+- Begin the installation and accept the `Nexus Mods API request` when prompted.
+- If you are not a Nexus Mods premium user, manually click download on each mod.
+- When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
+- If a red `Installation Failed` screen appears, repeat the above steps.
+- Close Wabbajack.
 
 ## Generating Fresh INI Files
-- Launch Fallout: New Vegas from Steam/GOG.
-- Click OK to pop-ups saying "Detecting Video Hardware."
-- Exit the launcher.
-- Launch Fallout 3 from Steam/GOG.
-- Click OK to pop-ups saying "Detecting Video Hardware."
-- Exit the launcher.
+- Launch `Fallout: New Vegas` from `Steam/GOG`.
+- Click `OK` to pop-ups saying `Detecting Video Hardware`.
+- Exit the `launcher`.
+- Launch` Fallout 3` from `Steam/GOG`.
+- Click `OK` to pop-ups saying `Detecting Video Hardware`.
+- Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch ModOrganizer.exe from the Uranium Fever Installation Location (`C\Modding\Uranium Fever\ModOrganizer.exe` if you used the recommended file paths).
-- If you see a prompt stating that FalloutNV_lang.esp was found, select Yes.
-- If you see a prompt to register, select Yes.
+- Launch `ModOrganizer.exe`, which is located inside of `C\Modding\Uranium Fever\ModOrganizer.exe`.
+- If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
+- If you see a prompt to `register`, select `Yes`.
 
 ## Configuring Game's Settings
-- In the top right corner of MO2, open the drop-down menu that says "Uranium Fever" and select "Uranium Fever Launcher."
-- Click Run, then navigate to Options.
-- Inside the launcher, select the Ultra Preset.
-- Uncheck the Windowed option, then select your monitor's resolution.
+- In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
+- Click `Run`, then navigate to `Options`.
+- Select the `Ultra Preset`.
+- Uncheck the `Windowed` option, then select your monitor's `resolution`.
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
+- Close the launcher.
 
 ## Installing Tale of Two Wastelands
 > [!important]
-> This mod is REQUIRED for Uranium Fever to function properly.
+> This mod is **REQUIRED** for Uranium Fever to function properly.
 >
-> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** cannot be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process intrinsically includes BSA decompression of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
+> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** cannot be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
-- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive anywhere outside of the default Windows folders.
-- In the Uranium Fever Installation Location, navigate to the mods folder, then open `[NoDelete] Tale of Two Wastelands`.
-- Right click on the filepath at the top and select Copy Address (`C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` if you used the recommended file paths).
-- Navigate to the extracted `Tale of Two Wastelands Installer folder`, right click `TTW Install.exe`, and select Run as Administrator.
-- Verify that the file path for the Fallout 3 matches your normal Fallout 3 installation path.
-- ***CHANGE*** the Fallout New Vegas file path to reflect the New Vegas Installation in the Uranium Fever > Stock Game > New Vegas folder (`C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas` if you used the recommended file paths).
-- Paste the copied file path from the `[NoDelete] Tale of Two Wastelands folder` into the Tale of Two Wastelands Installation Path. 
-- Click Install.
+- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and extract the contents of the archive.
+- Copy `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
+- Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
+- Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
+- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+- **Enter** `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
+- Click `Install`.
+- When complete, close the Installer.
 
 > [!caution]
 > The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder.
->
-> You **CANNOT** copy another TTW installation over to the appropriate folder. The installation process NEEDS to be run.
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
-> This mod is REQUIRED for Uranium Fever to function properly.
+> This mod is **REQUIRED** for Uranium Fever to function properly.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
@@ -234,7 +233,7 @@
   
 ## Installing Stash Organizer
 > [!important]
-> This mod is REQUIRED for Uranium Fever to function properly.
+> This mod is **REQUIRED** for Uranium Fever to function properly.
 
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
 - Select Manual download.
