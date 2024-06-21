@@ -39,12 +39,12 @@
 
 ## Balance
 - Sweets Simple Settings - Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
-- Harder Barter Faster Stronger (Sicko Mode Version) - Rebalances the economy around barter, functionally creating a much more punishing economy.
+- Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
-- Armor Damage Overhaul - Replaces the nonsensical armor degradation system present in the base game with a system that is highly customizable and much more intuitive.
-- New Blood - A complete overhaul and rebalancing to all aspects of damage. Adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun strikes.
-- Famine - A loot scarcity mod that forces the player to engage with the barter and crafting systems, functionally increasing the game's difficulty and promoting careful resources management.
-- RAD Radiation Is Actually Dangerous - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making them far more consequential. 
+- Armor Damage Overhaul - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
+- New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
+- Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
+- RAD Radiation Is Actually Dangerous - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful 
 - Sweet Consumables - A top-to-bottom overhaul of consumables and misc items with a focus on a hardcore experience.
 - Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
 - Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
