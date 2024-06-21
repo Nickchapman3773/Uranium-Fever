@@ -6,7 +6,7 @@
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
 >
->The following is a brief, ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release.
+>The following is a ***work in progress*** introduction to the list. This document and Uranium Fever itself will undergo further revision prior to formal release. **Please provide any constructive feedback on either the site, or the list itself, to Kamchatka via the Uranium Fever discord channels (links provided below).
 
 >[!CAUTION]
 >**Trigger Warning:**
