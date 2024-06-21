@@ -161,6 +161,16 @@
 - Run `Wabbajack.exe`. This will automatically install `Wabbajack`.
 - Close `Wabbajack`.
 
+## Manual Downloads
+- Download the following mods, and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder.
+	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
+	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
+	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
+	- <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
+
+> [!warning]
+> Failure to complete this step will prevent the Uranium Fever Installer from functioning.
+
 ## Installing Uranium Fever
 > [!Note]
 > Testers, please ignore the coded portion of these instructions until formal release of Uranium Fever.
@@ -243,48 +253,25 @@
 - Select `Replace` when prompted `Mod Exists`.
 - In the `plugins tab` (the right pane in MO2), find `Stash Organizer.esp`, click the check box to `enable it`, then drag it up to `priority #116` (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
-## Installing Capital Wasteland Hideouts
-> [!important]
-> This mod is REQUIRED for Uranium Fever to function properly.
+> [!note]
+> I am hopeful I will be able to simplify/automate this installation soon.
 
-- Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
+## Installing Tammer
+> [!important]
+> This mod is **REQUIRED** for Uranium Fever to function properly.
+
+- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the `Capital Wasteland Hideouts download` from your `Downloads folder`.
-- Name it `[NoDelete] Capital Wasteland Hideouts`.
+- Select the `Tammer download` from your `Downloads folder`.
+- Name it `[NoDelete] Tammer`.
 - Select `Replace` when prompted `Mod Exists`.
-- In the `plugins tab` (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to `enable it`. This plugin does not need to be moved.
+- `Right click the Tammer mod`, click `information`, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click `hide`.
 
-## Other **TEMPORARY** Manual Installations:
-> [!important]
-> These downloads should eventually become automated. Currently, however, this is a temporary and necessary approach.
-
-- Tammer:
-	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
-	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the `Tammer download` from your `Downloads folder`.
-	- Name it `[NoDelete] Tammer`.
-	- Select `Replace` when prompted `Mod Exists`.
-	- `Right click the Tammer mod`, click `information`, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click `hide`.
 > [!warning]
 > Failure to hide the Tammer plugin will result in your game behaving inappropriately.
-- Ghouls:
-	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
-	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the `Ghouls download` from your `Downloads folder`.
-	- Name it `[NoDelete] Ghouls`.
-	- Select `Replace` when prompted `Mod Exists`.
-- FeralGhoulsHD:
-	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
-	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the `FeralGhoulsHD download` from your `Downloads folde`r.
-	- Name it `[NoDelete] FeralGhoulsHD`.
-	- Select `Replace` when prompted `Mod Exists`.
-- Wasteland Clothing HD:
-	- Download <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
-	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the `Wasteland Clothing HD download` from your `Downloads folder`.
-	- Name it `[NoDelete] Wasteland Clothing HD`.
-	- Select `Replace` when prompted `Mod Exists`.
+
+> [!note]
+> I am hopeful I will be able to simplify/automate the hiding step soon.
 
 ## Disable Base Address Randomization 
 > [!Tip]
@@ -303,8 +290,7 @@
 - Open `Virus & Threat Protection`.
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- Select the `Uranium Fever Installation` location.
-- Add another exclusion for the `Wabbajack Installation` location.
+- `Add exclusions` for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
 - This process will also need to be done for any third-party antivirus.
   
 ## Disabling Steam Overlay
