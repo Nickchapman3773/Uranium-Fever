@@ -314,6 +314,7 @@
 - Type `disable` into the `Variable value`.
 - Click `OK`.
 - Exit `Environmental Variables`.
+- Restart your computer for this to take effect.
 
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
