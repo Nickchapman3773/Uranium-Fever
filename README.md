@@ -253,7 +253,7 @@
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
-> These mods will not REMAIN manual installations. This is a necessary temporary approach while Google Drive link inclusion troubleshooting is happening on the official Wabbajack side.
+> These downloads should eventually become automated. Currently, however, this is a temporary and necessary approach.
 
 - Tammer:
 	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
