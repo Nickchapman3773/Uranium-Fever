@@ -138,9 +138,8 @@
 - SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
 
 > [!note]
-> For those concerned by the large installation size, an optional Clean Up step is discussed below.
->
-> For those concerned about poor performance, an optional Performance Profile is dicsussed below.
+> Worried about the large installation size? An optional Clean Up step is discussed below.
+> Worried about having a poor performing computer? An optional Performance Profile is dicsussed below.
 
 # <p align=center>Setup Instructions</p>
 ## Creating Appropriate File Paths
@@ -168,9 +167,6 @@
 	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
-
-> [!warning]
-> Failure to hide the Tammer plugin will result in your game behaving inappropriately.
 
 > [!warning]
 > Failure to complete this step will prevent the Uranium Fever Installer from functioning.
