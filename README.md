@@ -179,7 +179,7 @@
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
-- Close Wabbajack.
+- Close `Wabbajack`.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
@@ -200,7 +200,7 @@
 - Select the `Ultra Preset`.
 - Uncheck the `Windowed` option, then select your monitor's `resolution`.
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
-- Close the launcher.
+- Close the `launcher`.
 
 ## Installing Tale of Two Wastelands
 > [!important]
@@ -215,7 +215,7 @@
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
 - **Enter** `C\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
-- When complete, close the Installer.
+- When complete, close the `Installer`.
 
 > [!caution]
 > The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder.
@@ -225,34 +225,34 @@
 > This mod is **REQUIRED** for Uranium Fever to function properly.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
-- In the Nightly Builds channel, download the NVR Nightly release from March 29th, 2024. **DO NOT** use the latest build.
-- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the NVR download from your Downloads folder.
+- In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
+- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the `NVR download` from your `Downloads folder`.
 - Name it `[NoDelete] NVR`.
-- Select `Replace` when prompted "Mod Exists".
+- Select `Replace` when prompted `Mod Exists`.
   
 ## Installing Stash Organizer
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
 
 - Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
-- Select Manual download.
-- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the Stash Organizer download from your Downloads folder.
+- Select `Manual download`.
+- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the `Stash Organizer download` from your `Downloads folder`.
 - Name it `[NoDelete] Stash Organizer`.
-- Select `Replace` when prompted "Mod Exists".
-- In the plugins tab (the right pane in MO2), find `Stash Organizer.esp`, click the check box to enable it, then drag it up to priority #116 (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
+- Select `Replace` when prompted `Mod Exists`.
+- In the `plugins tab` (the right pane in MO2), find `Stash Organizer.esp`, click the check box to `enable it`, then drag it up to `priority #116` (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
 
 ## Installing Capital Wasteland Hideouts
 > [!important]
 > This mod is REQUIRED for Uranium Fever to function properly.
 
 - Download <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
-- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the Capital Wasteland Hideouts download from your Downloads folder.
+- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+- Select the `Capital Wasteland Hideouts download` from your `Downloads folder`.
 - Name it `[NoDelete] Capital Wasteland Hideouts`.
-- Select `Replace` when prompted "Mod Exists".
-- In the plugins tab (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to enable it. This plugin does not need to be moved.
+- Select `Replace` when prompted `Mod Exists`.
+- In the `plugins tab` (the right pane in MO2), find `RRTV_FO3_capitalWasteland_Hideouts_TTW.esm` and click the check box to `enable it`. This plugin does not need to be moved.
 
 ## Other **TEMPORARY** Manual Installations:
 > [!important]
@@ -260,51 +260,51 @@
 
 - Tammer:
 	- Download <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the Tammer download from your Downloads folder.
+	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the `Tammer download` from your `Downloads folder`.
 	- Name it `[NoDelete] Tammer`.
-	- Select `Replace` when prompted "Mod Exists".
-	- Right click the Tammer mod, click information, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click hide.
+	- Select `Replace` when prompted `Mod Exists`.
+	- `Right click the Tammer mod`, click `information`, right click `Tammer's NIF-Bashed Armor Mega-Pack.esm`, and click `hide`.
 > [!warning]
-> Failure to hide the Tammer plugin wil lresult in your game behaving inappropriately.
-- ghouls:
-	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">ghouls</a>.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the ghouls download from your Downloads folder.
-	- Name it `[NoDelete] ghouls`.
-	- Select `Replace` when prompted "Mod Exists".
+> Failure to hide the Tammer plugin will result in your game behaving inappropriately.
+- Ghouls:
+	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
+	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the `Ghouls download` from your `Downloads folder`.
+	- Name it `[NoDelete] Ghouls`.
+	- Select `Replace` when prompted `Mod Exists`.
 - FeralGhoulsHD:
 	- Download <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the FeralGhoulsHD download from your Downloads folder.
+	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the `FeralGhoulsHD download` from your `Downloads folde`r.
 	- Name it `[NoDelete] FeralGhoulsHD`.
-	- Select Replace when prompted "Mod Exists".
+	- Select `Replace` when prompted `Mod Exists`.
 - Wasteland Clothing HD:
 	- Download <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
-	- Click the Install a New Mod from Archive icon in the top left corner of MO2 (it looks like a floppy disc).
-	- Select the Wasteland Clothing HD download from your Downloads folder.
+	- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
+	- Select the `Wasteland Clothing HD download` from your `Downloads folder`.
 	- Name it `[NoDelete] Wasteland Clothing HD`.
-	- Select `Replace` when prompted "Mod Exists".
+	- Select `Replace` when prompted `Mod Exists`.
 
 ## Disable Base Address Randomization 
 > [!Tip]
 > This step can prevent unforeseen crashes.
 
-- Open Windows Security from the Start Menu.
-- Open App & Browser Control in the left sidebar.
-- Open Exploit Protection Settings under Exploit Protection.
-- Set Force Randomization for Images (Mandatory ASLR) to "Use Default (Off)."
+- Open `Windows Security` from the `Start Menu`.
+- Open A`pp & Browser Control` in the left sidebar.
+- Open `Exploit Protection Settings` under `Exploit Protection`.
+- Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
 
 ## Creating Exclusions
 > [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
  
-- Open Windows Security.
-- Open Virus & Threat Protection.
-- Click Manage Settings under Virus & Threat Protection Settings.
-- Scroll down and select Add or Remove Exclusions under Exclusions.
-- Select the Uranium Fever Installation Location.
-- Add another exclusion for the Wabbajack Installation location.
+- Open `Windows Security`.
+- Open `Virus & Threat Protection`.
+- Click `Manage Settings` under `Virus & Threat Protection Settings`.
+- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
+- Select the `Uranium Fever Installation` location.
+- Add another exclusion for the `Wabbajack Installation` location.
 - This process will also need to be done for any third-party antivirus.
   
 ## Disabling Steam Overlay
@@ -316,7 +316,7 @@
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
-- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open properties.
+- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
@@ -354,22 +354,22 @@
 >
 > Use the Performance Profile for better performance in exchange for worse visuals. This profile disables Real Time Reflections New Vegas Reloaded, and associated mods.
 
-- In MO2, select Uranium Fever from the large dropdown list in the top middle, then click the Uranium Fever Performance Profile.
+- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
 
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL** fail.
-- In MO2, select Uranium Fever from the dropdown list in the top right, then click run.
+- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
  
 ## Cleaning Up
 > [!tip]
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
-- Confirm that the game launches and runs appropriately before following these steps.
-- Navigate to the Uranium Fever Installation Location > downloads folder (`C\Modding\Uranium Fever\downloads` if you used the recommended filepaths).
-- Delete the downloads folder.
+- Confirm that the game launches and runs appropriately before following this step.
+- Navigate to `C\Modding\Uranium Fever\downloads`.
+- `Delete` the `downloads folder`.
 
 # <p align=center>Updating Uranium Fever</p>
-- Reinstall the list from the Wabbajack tool and enable the `Overwrite Installation` checkbox.
+- `Reinstall the list from the Wabbajack tool` and enable the `Overwrite Installation` checkbox.
 
 # <p align=center>FAQ</p>
 - Crashing - I am crashing, what can I do to fix it?
