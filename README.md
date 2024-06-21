@@ -18,7 +18,7 @@
 - Carefully crafted settings for every single mod inclusion.
 - Significant modernizations of the UI, HUD, and Pip-Boy.
 - Many new functionalities seamlessly integrated into the gameplay experience, with clear notation of these functions and their associated hotkeys.
-- Large-scale, immersive overhauls and expansions to most locations.
+- Large-scale, immersive overhauls and expansions of most locations.
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
 - Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
