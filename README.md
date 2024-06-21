@@ -380,7 +380,7 @@
 
 # <p align=center>FAQ</p>
 <details><summary>
-[FAQ List](https://hello.ca)
+Click to Expand FAQ
 </summary>
 
 FAQ List:
