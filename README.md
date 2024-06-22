@@ -62,7 +62,7 @@
 ## Functions
 - Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
-- Forced Entry - Allows the player to bypass locks by attacking them. This forces the player choose between using different scarce resources to open locks, lockpicks, ammo, or melee weapon condition.
+- Forced Entry - Allows the player to bypass locks by attacking them. This forces the player to choose between using different scarce resources to open locks, lockpicks, ammo, or melee weapon condition.
 - Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding scarce resources to ameliorate said hardcore needs.
 - Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant minigames in favor of holding a hotkey with pre-determined odds of success.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
