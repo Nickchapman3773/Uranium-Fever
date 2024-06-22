@@ -64,7 +64,7 @@
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This forces the player to choose between using different scarce resources to open locks. sorry including lockpicks, ammo, or melee weapon condition.
 - Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding resource availability to ameliorate said hardcore needs.
-- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant minigames in favor of holding a hotkey with pre-determined odds of success. This method increases minigames difficulty.
+- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant minigames in favor of holding a hotkey with pre-determined odds of success. This also increases the difficulty of minigames.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
 - Stash Organizer - A customizable framework to configure automatic organization of stored items.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
@@ -398,7 +398,7 @@ Expand
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
 
-- ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+- ***DO*** post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 # <p align=center>Credits/Thanks</p>
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
