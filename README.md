@@ -203,7 +203,7 @@
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
 
-## Configuring Game's Settings
+## Configuring Game Settings
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`, then navigate to `Options`.
 - Select the `Ultra Preset`.
