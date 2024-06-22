@@ -69,7 +69,7 @@
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
 ## Comprehensive Overhauls
-- Functional Post Game Ending - Adds a fully functional post-game world to the game. You will no longer be brought to the credits after beating the game.
+- Functional Post Game Ending - Adds a fully functional, post-game world to the game. You will no longer be brought to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
 - The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
@@ -199,6 +199,7 @@
 
 ## Launching Mod Organizer 2 (MO2)
 - Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever\ModOrganizer.exe`.
+- When prompted that your INIs are read only, select `Clear the Read Only Flag`.
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
 
@@ -364,6 +365,8 @@ Expand
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock Game folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+- Selecting Perks - I cannot select a perk. Why?
+	- By design, you can only select perks at even levels (2, 4, 6, etc..). Due to the functionality of Vegas Elysium, the perk menu must pop-up every level, despite perks not always being available every level.
 - Size - Why is the installation requirement so large?
 	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
 - Start Location - Can I start in the Mojave Wasteland?
@@ -397,10 +400,11 @@ Expand
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - InTheGrave and Shabby Pirate for extensive advising on compression and BSA packing to optimize the list.
 - Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
+- Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - My broken ram for making the compilation process a little extra spicy.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
-- Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
+- Canadian𝓕𝓻𝓮𝓪𝓴oneer for making the 10mm and Friends - SWEEP compatibility patch for the list.
