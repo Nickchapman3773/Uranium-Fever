@@ -407,6 +407,7 @@ Expand
 - Sweet6Shooter for extensive balance related planning, patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
+- Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - InTheGrave and Shabby Pirate for extensive advising on compression and BSA packing to optimize the list.
 - Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - My broken ram for making the compilation process a little extra spicy.
@@ -416,4 +417,3 @@ Expand
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
-- Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
