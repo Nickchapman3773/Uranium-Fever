@@ -391,7 +391,7 @@ Expand
 
 # <p align=center>Support, Feedback, & Updates</p>
 > [!caution]
-> ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever related channels in Sweets Retreat, or any other discord channel.
+> ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever channels in Sweets Retreat, or any other unaffiliated discord channel.
 >
 > ***DO NOT*** ping OR DM any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
 
