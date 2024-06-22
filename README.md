@@ -412,7 +412,7 @@ Expand
 - My broken ram for making the compilation process a little extra spicy.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
-- PhysicsGaming for spending a substantial amount adjusting Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
+- PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
