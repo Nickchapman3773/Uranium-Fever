@@ -337,9 +337,7 @@
 
 ## Optional Performance Profile
 > [!tip]
-> This is an OPTIONAL step for those with weaker computers. If you do not get poor performance in game, please **DO NOT** follow this step.
->
-> Use the Performance Profile for better performance in exchange for worse visuals. This profile disables Real Time Reflections New Vegas Reloaded, and associated mods.
+> This is an OPTIONAL step for those with weaker computers. Use the Performance Profile for far better performance in exchange for far worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
  
