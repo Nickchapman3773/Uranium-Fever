@@ -321,7 +321,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` in `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+- Press the green `Add` button and select `FalloutNV.exe` from your Steam/GOG directory or from `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas` (as long as it detects any instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
@@ -330,9 +330,6 @@
 - Set `Framerate Limiter` to `Front Edge Sync`.'
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
-
-> [!warning]
-> RTSS can only be connected to a single instance of FalloutNV.exe at a time. This means that if you have it connected to a different modded installation of Fallout New Vegas, you need to delete that profile in RTSS and create a new profile.
 
 ## Performance Profile
 > [!tip]
@@ -366,6 +363,8 @@ Expand
 	- We do not support alterations of the list, however, if one were to add mods to the list and put [NoDelete] in front of the name, it would persist despite updating to new Uranium Fever versions. We would strongly advise against removing mods, though.
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
+- Disabled Mods - Should all of the mods that say (IP) after them be disabled?
+	- Yes. IP is my shorthand for Internally Patched, meaning I've merged them into the Uranium Fever Master Patch. They are still included despite being disabled so that the authors get DP and credit for their mod, given I used them as a resource.
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
 	- You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
 - First Time Playing - Is the list appropriate for a person who has never played Fallout before?
@@ -404,8 +403,9 @@ Expand
 - ***DO*** post your support requests and feedback in the provided Uranium Fever channels in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 # <p align=center>Credits/Thanks</p>
-- ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
+- ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
+- The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
 - Sweet6Shooter for extensive balance related planning, patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
