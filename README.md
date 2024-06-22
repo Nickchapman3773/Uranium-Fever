@@ -363,6 +363,7 @@
 Expand
 </summary>
 
+- Altering Uranium Fever - We do not support alterations of the list, however, if one were to add mods to the list and put [NoDelete] in front of the name, it would persist despite updates. We would strongly advise against removing mods, though.
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
