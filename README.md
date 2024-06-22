@@ -327,7 +327,7 @@
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
 - Enter settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
-- Set `Framerate Limiter` to `Front Edge Sync`.'
+- Set `Framerate Limiter` to `Front Edge Sync`.
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
