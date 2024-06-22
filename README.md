@@ -66,7 +66,6 @@
 - Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding resource availability to ameliorate said hardcore needs.
 - Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant minigames in favor of holding a hotkey with pre-determined odds of success. This also increases the difficulty of minigames.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
-- Stash Organizer - A customizable framework to configure automatic organization of stored items.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
 ## Comprehensive Overhauls
@@ -240,18 +239,6 @@
 - Name it `[NoDelete] NVR`.
 - Select `Replace` when prompted `Mod Exists`.
   
-## Installing Stash Organizer
-> [!important]
-> This mod is **REQUIRED** for Uranium Fever to function properly.
-
-- Download <a href="https://mod.pub/falloutnv/4-stash-organizer" onclick="window.open('https://mod.pub/falloutnv/4-stash-organizer', '_self');">Stash Organizer</a>.
-- Select `Manual download`.
-- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the `Stash Organizer download` from your `Downloads folder`.
-- Name it `[NoDelete] Stash Organizer`.
-- Select `Replace` when prompted `Mod Exists`.
-- In the `plugins tab` (the right pane in MO2), find `Stash Organizer.esp`, click the check box to `enable it`, then drag it up to `priority #116` (between `PurchaseDisplay.esp` and `JustAssortedMods.esp`).
-
 ## Disable Base Address Randomization 
 > [!Tip]
 > This step can prevent unforeseen crashes.
