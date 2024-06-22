@@ -331,19 +331,19 @@
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
-## Performance Profile
+## Launching The Game
+- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL NOT** launch the modded game.
+- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
+
+## Optional Performance Profile
 > [!tip]
 > This is an OPTIONAL step for those with weaker computers. If you do not get poor performance in game, please **DO NOT** follow this step.
 >
 > Use the Performance Profile for better performance in exchange for worse visuals. This profile disables Real Time Reflections New Vegas Reloaded, and associated mods.
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
-
-## Launching The Game
-- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL NOT** launch the modded game.
-- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
  
-## Cleaning Up
+## Optional Clean Up
 > [!tip]
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
