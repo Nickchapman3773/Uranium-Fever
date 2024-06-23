@@ -346,39 +346,39 @@ Expand
 </summary>
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
-	- We do not support alterations of the list, however, if one were to add mods to the list and put [NoDelete] in front of the name, it would persist despite updating to new Uranium Fever versions. We would strongly advise against removing mods, though.
+	- We do not support alterations of the list.
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Disabled Mods - Should all of the mods that say (IP) after them be disabled?
-	- Yes. IP is my shorthand for Internally Patched, meaning I've merged them into the Uranium Fever Master Patch. They are still included despite being disabled so that the authors get DP and credit for their mod, given I used them as a resource.
+	- Yes. IP is Uranium Fever's shorthand for Internally Patched, meaning the patch has been merged into the Uranium Fever Master Patch. Because they were used as a resource, these mods remain included so that the authors received the recognition they deserve.
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
-	- You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and log into your Nexus account.
+	- You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and connect to your Nexus account.
 - First Time Playing - Is the list appropriate for a person who has never played Fallout before?
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Manual Installs - Why do I have to manually install TTW and NVR?
-	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience..
-- Manual Installs - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
+	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind discord, which Wabbajack cannot interface with.
+- Manual Download Clicks - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
 	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
 - NoDelete - Why do some mods and folders say [NoDelete]?
-	- This is a tag that tells Wabbajack not to alter the contained files when updating.
+	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
 - Notification Size - Why are my notifications huge?
 	- Notification size is inappropriately large after starting a new game until the game is restarted.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
-	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
+	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Selecting Perks - I cannot select a perk. Why?
-	- By design, you can only select perks at even levels (2, 4, 6, etc..). Due to the functionality of Vegas Elysium, the perk menu must pop-up every level, despite perks not always being available every level.
+	- By design, you can only select perks at even levels (2, 4, 6, etc..). Due to the functionality of Vegas Elysium, the perk menu **MUST** be shown every level, despite perks not always being available every level.
 - Size - Why is the installation requirement so large?
-	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
+	- Uranium Fever is a robust list with a lot of texture enhancements. Despite our best attempts to consolidate and optimize (we compressed and BSA packed most textures), this ends up taking up a lot of space. The original downloads alone require 50gb of space. Please see the Optional Clean Up section if hard drive space is a limitation for you.
 - Skill Tagging - Why doesn't skill tagging work?
-	- It does! Uranium Fever uses the classic skill tagging approach, where instead of getting a flat boost in skill points, each skill points you input into a tagged skill increases it by two.
+	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill points you input into a tagged skill increases it by two.
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
-	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the main Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
+	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - Vortex - Can I install Uranium Fever with vortex?
