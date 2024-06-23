@@ -69,14 +69,14 @@
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
 ## Comprehensive Overhauls
-- Functional Post Game Ending - Adds a fully functional, post-game world to the game. You will no longer be brought to the credits after beating the game.
+- Functional Post Game Ending - Adds a fully functional, post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
-- Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following release.
+- Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following initial release.
 - The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
 - Sweet Pain - Adds many intense and unique locations throughout the game, all packed with lore and excitement.
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
-- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC including rebalancing, new gear, new weapons, new enemies, new encounters, and new boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on full-game cohesion and lore-friendliness.
-- DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing, new gear, new weapons, and new enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
+- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters,and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
+- DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing and new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
 
 ## Dialogue Overhauls
