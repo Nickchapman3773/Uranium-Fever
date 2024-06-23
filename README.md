@@ -221,7 +221,7 @@
 - Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
-- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game`.
 - **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
 - When complete, close the `Installer`.
@@ -284,10 +284,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game`.
 	- Vulkan-less GPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
@@ -309,7 +309,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\Stock Game\Fallout New Vegas` (as long as it detects any instance of `FalloutNV.exe` it will function).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\Stock Game` (as long as it detects any instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
