@@ -112,7 +112,7 @@
 
 # <p align=center>Requirements</p>
 - English Steam versions of Fallout New Vegas and Fallout 3, both with all DLCs.
-	- The Epic Games and PCR versions **DO NOT** work with Wabbajack
+	- The Epic Games and PCR versions are **INCOMPATIBLE** with Wabbajack
 > [!note]
 > A GOG version is coming at a later date, following initial testing.
 - Windows 10 or higher (64-bit).
