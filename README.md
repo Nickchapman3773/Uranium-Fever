@@ -64,7 +64,7 @@
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This forces the player to choose between using different scarce resources (lockpicks, ammo, or melee weapon condition) to open locks.
 - Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding resource availability to ameliorate said hardcore needs.
-- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant lockpicking and hacking minigames in favor of holding a hotkey with pre-determined odds of success. This mod increases minigame difficulty.
+- Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant lockpicking and hacking minigames in favor of holding a hotkey with pre-determined odds of success. This mod generally decreases minigame success rates, making associated resources more impactful.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Most mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
 
