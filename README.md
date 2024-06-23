@@ -84,7 +84,7 @@
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
 
 ## NPC & Enemy Overhauls
-- Companion Characteristics - Provides gameplay quirks derived from companion personality traits. often takes the form of personality-based debuffs.
+- Companion Characteristics - Provides gameplay quirks derived from companion personality traits, often taking the form of personality-based debuffs.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
 ## Content
@@ -99,15 +99,15 @@
 
 ## Animation & Visual
 - 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
-- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body at once.
-- Titans of the New West 2.0 - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
-- B42 Optics - Seamlessly adds dual-render scopes into the game.
+- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
+- Titans of the New West - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
+- B42 Optics - Seamlessly adds dual-rendered scopes into the game.
 - B42 True Learning - Adds contextual lean when aiming out from corners.
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
-- Modern Stagger Animations - A complete replacement for stagger animations made via motion capture. Greatly enhances the flow of combat.
-- Simple Attack Reactions - Adds animations to NPCs in response to being injured. Greatly enhances the flow of combat.
+- Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
+- Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
-- New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphical extender that injects various new effects into the game. Helios utilizes this framework to make uniquely customized and independent world space visuals. This is, arguably, the most beautiful expression of the DC and Mojave Wastelands.
+- New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphical extender that injects various new effects into the game. Helios utilizes this framework to make uniquely customized and independent world space visuals. This is, arguably, the most beautiful aesthetic expression available for Fallout.
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # <p align=center>Requirements</p>
