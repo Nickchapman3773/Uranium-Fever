@@ -221,13 +221,13 @@
 - Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
-- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\Stock Game`.
+- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
 - When complete, close the `Installer`.
 
 > [!caution]
-> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the Stock Game folder.
+> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the [NoDelete] Stock New Vegas folder.
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
@@ -276,7 +276,7 @@
   
 ## DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > Stock Game > `New Vegas folder`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade their graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > [NoDelete] Stock New Vegas > `New Vegas folder`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade their graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
 
 > [!warning]
 > ONLY follow these steps if your game crashes before fully booting up.
@@ -284,10 +284,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Vulkan-less GPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\Stock Game`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
@@ -309,7 +309,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\Stock Game` (as long as it detects any instance of `FalloutNV.exe` it will function).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (as long as it detects any instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
@@ -348,7 +348,7 @@ Expand
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- We do not support alterations of the list, however, if one were to add mods to the list and put [NoDelete] in front of the name, it would persist despite updating to new Uranium Fever versions. We would strongly advise against removing mods, though.
 - Crashing - I am crashing, what can I do to fix it?
-	- Post your crashlog (found in the Uranium Fever > Stock Game > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
+	- Post your crashlog (found in the Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Disabled Mods - Should all of the mods that say (IP) after them be disabled?
 	- Yes. IP is my shorthand for Internally Patched, meaning I've merged them into the Uranium Fever Master Patch. They are still included despite being disabled so that the authors get DP and credit for their mod, given I used them as a resource.
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
@@ -364,7 +364,7 @@ Expand
 - Notification Size - Why are my notifications huge?
 	- Notification size is inappropriately large after starting a new game until the game is restarted.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
-	- Yes. Uranium Fever is entirely self contained through the use of a Stock Game folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
+	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Selecting Perks - I cannot select a perk. Why?
@@ -373,10 +373,10 @@ Expand
 	- When Wabbajack compiles and installs a list, it requires simultaneously drive presence of the initial download, the unedited file, and the file after it has been altered (in our case, most large texture packs have been appropriately compressed, optimized, and BSA packed). Many of these files are automatically removed following installation, though if desired, around 50gb of download files can also be deleted. Deleting these download files will make updating more arduous, however.
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
-- Stock Game - What is the Stock Game Folder and why do I need it?
+- Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
 	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the main Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
-	- No. The TTW Installer edits Fallout New Vegas files in the _Stock Game folder_, this intentional to allow Uranium Fever to be entirely self contained.
+	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
  </details>
@@ -390,7 +390,7 @@ Expand
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
 
-- ***DO*** post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
 # <p align=center>Credits/Thanks</p>
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
@@ -409,4 +409,3 @@ Expand
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
-- Canadian𝓕𝓻𝓮𝓪𝓴oneer for patching 10mm and Friends for compatibility with Uranium Fever.
