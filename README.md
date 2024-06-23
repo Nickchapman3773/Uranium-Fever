@@ -361,6 +361,8 @@ Expand
 	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience..
 - Manual Installs - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
 	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
+- NoDelete - Why do some mods and folders say [NoDelete]?
+	- This is a tag that tells Wabbajack not to alter the contained files when updating.
 - Notification Size - Why are my notifications huge?
 	- Notification size is inappropriately large after starting a new game until the game is restarted.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
@@ -387,7 +389,7 @@ Expand
 > [!caution]
 > ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever channels in Sweets Retreat, or any other unaffiliated discord channel.
 >
-> ***DO NOT*** ping OR DM any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
+> ***DO NOT*** ping OR private message any members of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
 
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
