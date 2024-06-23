@@ -90,7 +90,7 @@
 ## Content
 - Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
 - Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
-- 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The first adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The second adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
+- 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The Capital Wasteland iteration adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The Mojave Wasteland iteration adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
 - Vegas Elysium Perk Pack - A perk and trait pack that introduces new thought cabinet and flaw systems, inspired by the game Disco Elysium. These new systems typically take the form of the player having conflicting thoughts that provide a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a buff.
 
 ## Sound
