@@ -357,10 +357,12 @@ Expand
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
-- Manual Installs - Why do I have to manually install TTW, NVR, and Stash Organizer?
+- Manual Installs - Why do I have to manually install TTW and NVR?
 	- Modpub does not allow automated wabbajack downloading. We apologize for this inconvenience..
 - Manual Installs - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
 	- The auto download feature on the moddb website is extremely unreliable, requiring this step to be manual.
+- Notification Size - Why are my notifications huge?
+	- Notification size is inappropriately large after starting a new game until the game is restarted.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock Game folder. As long as you have the appropriate Fallout installations (Fallout 3, Fallout New Vegas, and all DLCs) the installation will still work and will not interfere with your other modded setup.
 - Ragdolls - Doesn't Ragdolls cause crashes?
