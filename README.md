@@ -409,4 +409,3 @@ Expand
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
-- Canadian𝓕𝓻𝓮𝓪𝓴oneer for making the 10mm and Friends - SWEEP compatibility patch for the list.
