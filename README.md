@@ -111,8 +111,10 @@
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # <p align=center>Requirements</p>
-- English Steam version of Fallout New Vegas and Fallout 3 with all DLCs for both games.
+- English Steam versions of Fallout New Vegas and Fallout 3, both with all DLCs.
 	- The Epic Games and PCR versions **DO NOT** work with Wabbajack
+> [!note]
+> A GOG version is coming at a later date, following initial testing.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
@@ -124,9 +126,6 @@
 - A <a href="https://users.nexusmods.com/register" onclick="window.open('https://users.nexusmods.com/register', '_self');">Nexus Mods account</a> - Premium subscription is **HIGHLY** recommended, otherwise you will have to manually click download for all ~1,000 mods.
 - A <a href="https://mod.pub/account/register" onclick="window.open('https://mod.pub/account/register', '_self');">ModPub account</a>.
 - A <a href="https://discord.com/register" onclick="window.open('https://discord.com/register', '_self');">Discord account</a>.
-
-> [!note]
-> A GOG version is coming at a later date, following initial testing.
 
 # <p align=center>Recommended Specs</p>
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
