@@ -289,7 +289,7 @@
 
 ## Disabling DXVK Cache Storage
 > [!tip]
-> DXVK Cache growth is known to cause memory related issues. This process prevents DXVK from creating a cache.
+> DXVK Cache Storage is known to cause memory related crashes. This process prevents DXVK from creating a cache.
 
 - Press the `windows button`.
 - Type `Env` in the search bar, and click `Edit the system environmental variables` that pops up.
