@@ -303,7 +303,7 @@
 
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
-> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than fluctuating between 50 to 100 FPS rapidly. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
