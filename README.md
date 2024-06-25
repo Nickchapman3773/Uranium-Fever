@@ -336,7 +336,7 @@
 - `Delete` the `downloads folder`.
 
 # <p align=center>Updating Uranium Fever</p>
-- `Reinstall Uranium Fever into the same folder by using Wabbajack` and enable the `Overwrite Installation` checkbox.
+- `Using Wabbajack, reinstall Uranium Fever into the Uranium Fever folder with the `Overwrite Installation` checkbox enabled.
 
 # <p align=center>FAQ</p>
 <details><summary>
