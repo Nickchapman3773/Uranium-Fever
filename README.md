@@ -304,6 +304,8 @@
 ## RivaTuner Statistics Server (RTSS)
 > [!tip]
 > RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+>
+> NVIDIA users with G-Sync monitors should **SKIP** this section and follow the NVIDIA G-Sync Users section instead, as RTSS **DOES NOT** have the ability to manage G-Sync. 
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
@@ -320,6 +322,16 @@
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
+
+## NVIDIA G-Sync Users
+> [!warning]
+> Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor.
+>
+> Please note that the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
+
+- Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
+- Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just about the DXVK header).
+- Navigate to the `FPS Limiters` section, click the `Special K` dropdown menu, and follow the instructions.
 
 ## Optional Performance Profile
 > [!tip]
@@ -345,6 +357,8 @@ Expand
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- We do not support alterations of the list.
+- Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?
+	- No! Uranium Fever is entirely self contained and seperate from your normal Fallout installations!
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
 - Disabled Mods - Should all of the mods that say (IP) after them be disabled?
