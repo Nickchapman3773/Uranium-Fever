@@ -279,7 +279,7 @@
 > [!warning]
 > ONLY perform the following steps if your game crashes before fully booting up.
 
-- MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
+- MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (no vulkan or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
 		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
