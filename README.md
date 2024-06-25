@@ -209,7 +209,7 @@
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 - Close the `launcher`.
 
-## Installing Tale of Two Wastelands
+## Installing Tale of Two Wastelands (TTW)
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
 >
