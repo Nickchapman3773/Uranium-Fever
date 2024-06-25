@@ -243,7 +243,7 @@
 > This step can prevent unforeseen crashes.
 
 - Open `Windows Security` from the `Start Menu`.
-- Open A`pp & Browser Control` in the left sidebar.
+- Open `App & Browser Control` in the left sidebar.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
 
