@@ -310,7 +310,7 @@
 - Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure your Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
+	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
 - Enter settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
 - Set `Framerate Limiter` to `Front Edge Sync`.
