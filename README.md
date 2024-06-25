@@ -277,7 +277,7 @@
 > DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory use. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > [NoDelete] Stock New Vegas > `New Vegas folder`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade their graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
 
 > [!warning]
-> ONLY follow these steps if your game crashes before fully booting up.
+> ONLY perform the following steps if your game crashes before fully booting up.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** by default in Uranium Fever. Those with older graphics cards (no vulkan, or Intel iGPU) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
