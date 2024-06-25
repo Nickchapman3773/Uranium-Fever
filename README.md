@@ -412,4 +412,4 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating a 10mm and Friends - Sweep Compatibility Patch, as well as a Pip-Boy 2000 Hardcore Needs patch for Uranium Fever.
-- DracoVampire786 for making AWSOJMER patches for 10mm Pistol and Friends, AGE, DMT, Havasu Blues, NV Killer, and NV Bounties for Uranium Fever.
+- DracoVampire786 for making AWSOMER patches for 10mm Pistol and Friends, AGE, DMT, Havasu Blues, NV Killer, and NV Bounties for Uranium Fever.
