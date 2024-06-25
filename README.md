@@ -318,7 +318,7 @@
 - Minimize RTSS back to the System Tray.
 
 ## Launching The Game
-- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL NOT** launch the modded game.
+- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch the modded game.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 
 ## Optional Performance Profile
