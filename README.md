@@ -325,9 +325,7 @@
 
 ## NVIDIA G-Sync Users
 > [!warning]
-> Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor.
->
-> Please note that the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
+> Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor and want to use G-Sync functionality. Please note that this is a more complicated process, and as such, the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
 
 - Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
 - Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just above the DXVK header).
