@@ -330,7 +330,7 @@
 > Please note that the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
 
 - Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
-- Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just about the DXVK header).
+- Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just above the DXVK header).
 - Navigate to the `FPS Limiters` section, click the `Special K` dropdown menu, and follow the instructions.
 
 ## Optional Performance Profile
