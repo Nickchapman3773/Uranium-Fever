@@ -111,10 +111,9 @@
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # <p align=center>Requirements</p>
-- English Steam versions of Fallout New Vegas and Fallout 3, both with all DLCs.
+- English Steam or GOG versions of Fallout: New Vegas and Fallout 3, both with all DLCs.
+	- Both Fallout: New Vegas and Fallout 3 **MUST** be on the same platform.
 	- The Epic Games and PCR versions are **INCOMPATIBLE** with Wabbajack
-> [!note]
-> A GOG version is coming at a later date, following initial testing.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
@@ -142,27 +141,13 @@
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, do NOT open it.
-- Create another folder named `Uranium Fever`, then open it.
-- Create a folder named `[NoDelete] Stock New Vegas`, do NOT open it.
-- Create another folder named `downloads`.
+- Create another folder named `Uranium Fever - Steam` OR `Uranium Fever - GOG` depending on which platform you own the games on, then open it.
+- Create a folder named `downloads`.
 
 > [!warning]
-> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads`, `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, and `C:\Modding\Wabbajack`, though the Root Directory may differ. These instructions will refer to the Root Directory as `C:\` moving forward.
+> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 >
 > File path related support requests that do not follow this convention **WILL BE IGNORED**.
-
-## Creating a Clean Stock New Vegas Folder
-> [!tip]
-> In order to facilitate Steam **AND** GOG compatibility, this step must be manual.
->
-> For those who want to preserve other modded instances of New Vegas, instead of UNINSTALLING and DELETING the following files, back them up in another location. They can be restored after following this step.
-
-- `Right click Fallout: New Vegas` in the Steam/GOG Library and select `uninstall`.
-- `Right click Fallout 3` in the Steam/GOG Library and select `uninstall`.
-- Navigate to `Documents\My Games\FalloutNV` and `delete` the folder.
-- `Reinstall` both games in the Steam/GOG Library.
-- Navigate to your `Fallout New Vegas` installation folder (the default location for this folder is `x:\steam\steamapps\common\Fallout New Vegas` for steam and `x:\GOG Galaxy\Games\Fallout New Vegas` for GOG.
-- `Select all files` in this folder, copy them, and paste them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
@@ -176,6 +161,7 @@
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
+   	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download', '_self');">Mobile Truck Base Sorting Add On</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 
 > [!warning]
@@ -243,7 +229,7 @@
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
-> This mod is **REQUIRED** for Uranium Fever to function properly.
+> This mod is **REQURIED** for the standard Uranium Fever profile, though disabled in the Performance Profile.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
@@ -252,14 +238,6 @@
 - Name it `[NoDelete] NVR`.
 - Select `Replace` when prompted `Mod Exists`.
 
-## Installing Root Mods
-> [!important]
-> These mods are **REQUIRED** for Uranium Fever to function properly.
-
-- Navigate to `C:\Modding\Uranium Fever\Root Mods`.
-- `Select all files` in this folder, copy them, and paste them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder, run `FNVpatch.exe`. A command prompt will popup with `FalloutNV.exe patched` and `FalloutNV_backup.exe` will now be in the root folder.
-  
 ## Disable Base Address Randomization 
 > [!Tip]
 > This step can prevent unforeseen crashes.
