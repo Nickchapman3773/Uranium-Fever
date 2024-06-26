@@ -143,12 +143,26 @@
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, do NOT open it.
 - Create another folder named `Uranium Fever`, then open it.
-- Create a folder named `downloads`.
+- Create a folder named `[NoDelete] Stock New Vegas`, do NOT open it.
+- Create another folder named `downloads`.
 
 > [!warning]
-> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ. These instructions will refer to the Root Directory as `C:\` moving forward.
+> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads`, `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, and `C:\Modding\Wabbajack`, though the Root Directory may differ. These instructions will refer to the Root Directory as `C:\` moving forward.
 >
 > File path related support requests that do not follow this convention **WILL BE IGNORED**.
+
+## Creating a Clean Stock New Vegas Folder
+> [Tip]
+> In order to facilitate Steam **AND** GOG compatibility, this step must be manual.
+>
+> For those who want to preserve other modded instances of New Vegas, instead of UNINSTALLING and DELETING the following files, back them up in another location. They can be restored after following this step.
+
+- `Right click Fallout: New Vegas` in the Steam/GOG Library and select `uninstall`.
+- `Right click Fallout 3` in the Steam/GOG Library and select `uninstall`.
+- Navigate to `Documents\My Games\FalloutNV` and `delete` the folder.
+- `Reinstall` both games in the Steam/GOG Library.
+- Navigate to your `Fallout New Vegas` installation folder (the default location for this folder is `x:\steam\steamapps\common\Fallout New Vegas` for steam and `x:\GOG Galaxy\Games\Fallout New Vegas` for GOG.
+- `Select all files` in this folder, copy them, and paste them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
@@ -186,6 +200,13 @@
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close `Wabbajack`.
+
+## Installing Root Mods
+> [!important]
+> These mods are **REQUIRED** for Uranium Fever to function properly.
+
+- Navigate to `C:\Modding\Uranium Fever\Root Mods`.
+- `Select all files` in this folder, copy them, and paste them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
