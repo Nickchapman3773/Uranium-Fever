@@ -207,6 +207,7 @@
 
 - Navigate to `C:\Modding\Uranium Fever\Root Mods`.
 - `Select all files` in this folder, copy them, and paste them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder, run `FNVpatch.exe`.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
