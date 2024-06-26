@@ -352,6 +352,7 @@
 <details><summary>
 Expand
 </summary>
+	
 - Open Pip-Boy:
 	- Press Tab.
 - Open Stats:
