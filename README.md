@@ -145,9 +145,9 @@
 - Create a folder named `downloads`.
 
 > [!warning]
-> After completing this step, the file paths should appear similar to `C:\Modding\Uranium Fever\downloads` and `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
+> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever - Steam\downloads` or `C:\Modding\Uranium Fever - GOG\downloads` and the Wabbajack filepath should be`C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 >
-> File path related support requests that do not follow this convention **WILL BE IGNORED**.
+> The installation **WILL NOT** work File path related support requests that do not follow this convention **WILL BE IGNORED**.
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
