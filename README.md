@@ -152,7 +152,7 @@
 > File path related support requests that do not follow this convention **WILL BE IGNORED**.
 
 ## Creating a Clean Stock New Vegas Folder
-> [Tip]
+> [!tip]
 > In order to facilitate Steam **AND** GOG compatibility, this step must be manual.
 >
 > For those who want to preserve other modded instances of New Vegas, instead of UNINSTALLING and DELETING the following files, back them up in another location. They can be restored after following this step.
