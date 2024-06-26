@@ -369,7 +369,7 @@
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
 
-# <p align=center>Quick Reference Mod Feature Explanations</p>
+# <p align=center>Mod Feature Quick Reference List</p>
 <details><summary>
 Expand
 </summary>
