@@ -40,7 +40,7 @@
 ## Balance
 - Sweets Simple Settings - Adjusts various gameplay settings to promote a more difficult, hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
-- Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
+- Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
 - Armor Damage Overhaul - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
 - New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
 - Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
@@ -319,10 +319,6 @@
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
-## Launching The Game
-- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
-- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
-
 ## NVIDIA G-Sync Users
 > [!warning]
 > Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor and want to use G-Sync functionality. Please note that this is a more complicated process, and as such, the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
@@ -330,6 +326,10 @@
 - Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
 - Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just above the DXVK header).
 - Navigate to the `FPS Limiters` section, click the `Special K` dropdown menu, and follow the instructions.
+
+## Launching The Game
+- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
+- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 
 ## Optional Performance Profile
 > [!tip]
@@ -347,6 +347,140 @@
 
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
+
+# <p align=center>Quick Reference Mod Feature Explanations</p>
+<details><summary>
+Expand
+</summary>
+- Open Pip-Boy:
+	- Press Tab.
+- Open Stats:
+	- Press O.
+- Open Quests:
+	- Press J.
+- Open Map:
+	- Press M.
+- Open Inventory:
+	- Press I.
+- Open Data:
+	- Press P.
+- Quick Select:
+	- Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
+	- Weapons: Hold 5, use mouse wheel to scroll to desired weapon, release 5.
+	- Aid: Hold 6, use mouse wheel to scroll to desired aid, release 6.
+- Weapon Hweel:
+	- A traditional weapon wheel with associated hotkeys.
+	- Opening Weapon Hweel: Hold Q.
+	- Binding to Weapon Wheel: Hover mouse over desired weapon, hold hotkeys 1-4, press Left Mouse Button.
+- Keybind Quick Display:
+	- A display of all customized keybinds in Uranium Fever.
+	- Open pause menu, hit K.
+- Drop Item from Inventory:
+	- Open Pip-Boy Inventory, hover mouse over desired item, press Right Mouse Button.
+- View Weapon Stats:
+	- Hover mouse over desired weapon, press G.
+- 3rd Person Camera Overhaul:
+	- Swap POV Between 1st and 3rd Person: Hold F.
+	- Swap Shoulder in 3rd Person: Press F.
+	- Open Camera Editor: Press Delete.
+- Armed to the Teeth:
+	- Allows you to holster up to four weapons on your body simultaneously.
+	- Holsters correspond to the 1-4 hotkeys.
+- Quick Train:
+	- Allows you to start your game in the Mojave Wasteland rather than the Capital Wasteland.
+	- When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?" 
+- Pip-Boy Flashlight:
+	- Hold Tab.
+- Equi Weapon Mod:
+	- Hover mouse over desired weapon, press E, Press Left Mouse Button on desired mod.
+- Swap Vision Mode:
+	- ***
+	- Powered by a universal charge stored in the Pip-Boy. ***
+	- Hold G and press Tab.
+- Gas Masks & Radiation Suits:
+	- Equip to gain radiation resistance.
+- Backpacks:
+	- Equip to increase carry capacity.
+- Sprint:
+	- Hold Left Shift.
+- Hold Breath:
+	- Allows for a steadier aim.
+	- Hold Left Alt.
+- Swap Ammo Type:
+	- There are various different ammo types, each with unique effects.
+	- Double tap R.
+- Just Bullet Time:
+	- An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
+	- Press V.
+- Clear Gun Jam:
+	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam when next firing.
+	- Hold G and press R.
+- Inspect Gun:
+	- Press ].
+- Inspect Ammo:
+	- Press [.
+- B42 Optics:
+	- Toggle Night Vision on Capable Scopes: Aim down scope, press Tab.
+	- Edit Optic Lenses: Right Control + Enter.
+- Scope Zoom:
+	- Mouse wheel up and down.
+- ISControl:
+	- Allows adjustment of iron sight to center aim and prevent weapon clipping. Should already be appropriately preconfigured.
+	- Enter editor: Hold Right Mouse Button and press Right Shift. Keep holding Right Mouse Button while using the editor.
+	- Adjust Sight Angle While in Editor: Move the Mouse around.
+	- Adjust Sight Distance While in Editor: Mouse  Wheel up and down.
+	- Adjust Sight Position While in Editor: Hold Left Shift and move the Mouse around.
+	- Save Sight Edits While in Editor: Enter.
+	- Reset Sight Edits While in Editor: Backspace.
+	- Exit Editor: Release Right Mouse Button.
+- Weapon Based Hand Clip Distance:
+	- Allows adjustment of hands and weapon to prevent weapon clipping. Should already be appropriately preconfigured.
+	- Enter Aim Down Sights Editor: Hold Right Mouse Button and press Right Alt.
+	- Enter Hip Sights Editor: Press Right Alt.
+	- Adjust Clip Distance While in Editor: Mouse Wheel up and down.
+	- Save Clip Distance While in Editor: Enter.
+	- Exit Aim Down Sights Editor: Release Right Mouse Button.
+	- Exit Hip Sights Editor: Press Backspace.
+- JIP Companion Command and Control:
+	- Overhauls the companion control system.
+	- Enter CCC Menu: Hold N.
+	- Navigate CCC Menu: Use Mouse Wheel up and down.
+	- Select in CCC Menu: Left Mouse Button.
+- Purchase Items on Display:
+	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
+	- Hover mouse over desired item (this will show you the purchase and price prompt), press E, select Yes.
+- Automatated Item Sorting:
+	- Use the Inventory Sorting Control to automatically sort items into different containers.
+	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb SHelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies) and Mobile Truck Base.
+- Universal Water Bottling:
+	- Fill Empty Bottles: Hover mouse of water source, press G.
+- Mod Delivery:
+	- Allows for the commissioning of weapon mods for the equipped weapon.
+	- Hover mouse over qualified vendor, press G to commission.
+	- Return after time for commission, hover mouse over vendor, press G to purchase.
+	- Qualified Vendors: Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Comissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
+- Pip-Boy Weapon Mod Vendor:
+	- Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
+	- Hover mouse over desired weapon to purchase mod for, press E, select desired mod, select Yes.
+- Vendor Radio:
+	- Allows for purchasing of items directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter.
+	- Adding Vendors: Stand near a vendor, open the Pip-Boy Radio tab, press Q, select Settings, select Add Vendor, select the desired vendor.
+	- Purchasing from Vendors: Open the Pip-Boy Radio tab, press Q, select the desired vendor.
+- Immersive Minigame Tweaks:
+	- Open locks and hack terminals with pre-calculated odds of success, rather than take part in the redundant original minigames.
+	- Holster Weapon, hover mouse over desired lock or terminal, hold G.
+- Forced Entry:
+	- Attack to break locks on doors or containers.
+	- Risk of destroying contents inside of container.
+	- Cost weapon condition for melee weapons and ammo for ranged weapons.
+- Bypass Tools:
+	- No risk of destroying contents inside of container.
+	- Use Power Drill and Grinders to bypass locks.
+	- Use Hacking Override Modules to bypass hacking.
+- B42 Quickthrow:
+	- Throw: Side Mouse Button 1 (Back Left Side Mouse Button).
+	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
+ </details>
 
 # <p align=center>FAQ</p>
 <details><summary>
