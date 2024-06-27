@@ -353,6 +353,12 @@
 Expand
 </summary>
 	
+- Activate:
+	- Press E.
+- Grab:
+	- Press G.
+- Reload:
+	- Press R.
 - Open Pip-Boy:
 	- Press Tab.
 - Open Stats:
@@ -370,34 +376,34 @@ Expand
 	- Weapons: Hold 5, use mouse wheel to scroll to desired weapon, release 5.
 	- Aid: Hold 6, use mouse wheel to scroll to desired aid, release 6.
 - Weapon Hweel:
-	- A traditional weapon wheel with associated hotkeys.
+	- A traditional hotkey-associated weapon wheel.
 	- Opening Weapon Hweel: Hold Q.
-	- Binding to Weapon Wheel: Hover mouse over desired weapon, hold hotkeys 1-4, press Left Mouse Button.
+	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
 - Keybind Quick Display:
-	- A display of all customized keybinds in Uranium Fever.
-	- Open pause menu, hit K.
+	- An in-game display of all customized keybinds in Uranium Fever.
+	- Open pause menu, press K.
 - Drop Item from Inventory:
-	- Open Pip-Boy Inventory, hover mouse over desired item, press Right Mouse Button.
+	- Open Inventory, mouse over desired item, Right Click.
 - View Weapon Stats:
-	- Hover mouse over desired weapon, press G.
+	- Mouse over desired weapon, press Grab (G).
 - 3rd Person Camera Overhaul:
 	- Swap POV Between 1st and 3rd Person: Hold F.
 	- Swap Shoulder in 3rd Person: Press F.
 	- Open Camera Editor: Press Delete.
 - Armed to the Teeth:
-	- Allows you to holster up to four weapons on your body simultaneously.
-	- Holsters correspond to the 1-4 hotkeys.
+	- Allows for holstering of up to four weapons on the player's body simultaneously.
+	- Holsters correspond to the 1-4 weapon hotkeys.
 - Quick Train:
-	- Allows you to start your game in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the sequencing of various mods.
+	- Allows the player to start in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the intended sequencing of various mods.
 	- When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?" 
 - Pip-Boy Flashlight:
 	- Hold Tab.
 - Equip Weapon Mod:
-	- Hover mouse over desired weapon, press E, Press Left Mouse Button on desired mod.
+	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
 - Swap Vision Mode:
-	- Various colored vision modes with variable brightness depending on the headgear.
+	- Variable vision modes contingent on the headgear being used.
 	- Powered by a universal charge stored in the Pip-Boy, but ultimately derived from Small Energy Cells.
-	- Hold G and press Tab.
+	- Hold Grab (G) and press Flashlight (Tab).
 - Gas Masks & Radiation Suits:
 	- Equip to gain radiation resistance.
 - Backpacks:
@@ -405,80 +411,80 @@ Expand
 - Sprint:
 	- Hold Left Shift.
 - Hold Breath:
-	- Allows for a steadier aim.
+	- Steadies aim.
 	- Hold Left Alt.
 - Swap Ammo Type:
 	- There are various different ammo types, each with unique effects.
-	- Double tap R.
+	- Double tap Reload (R).
 - Just Bullet Time:
 	- An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
 	- Press V.
 - Clear Gun Jam:
-	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam when next firing.
-	- Hold G and press R.
+	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam occurring when next firing.
+	- Hold Grab (G) and press Reload (R).
 - Inspect Gun:
 	- Press ].
 - Inspect Ammo:
 	- Press [.
 - B42 Optics:
-	- Toggle Night Vision on Capable Scopes: Aim down scope, press Tab.
+	- Toggle Night Vision on Capable Scopes: Aim down scope (Right Click), press Flashlight (Tab).
 	- Edit Optic Lenses: Right Control + Enter.
 - Scope Zoom:
 	- Mouse wheel up and down.
 - ISControl:
 	- Allows adjustment of iron sight to center aim and prevent weapon clipping. Should already be appropriately preconfigured.
-	- Enter editor: Hold Right Mouse Button and press Right Shift. Keep holding Right Mouse Button while using the editor.
-	- Adjust Sight Angle While in Editor: Move the Mouse around.
-	- Adjust Sight Distance While in Editor: Mouse  Wheel up and down.
-	- Adjust Sight Position While in Editor: Hold Left Shift and move the Mouse around.
+	- Enter editor: Hold Aim (Right Click) and press Right Shift. Keep holding Right Click while using the editor.
+	- Adjust Sight Angle While in Editor: Move the Mouse.
+	- Adjust Sight Distance While in Editor: Mouse Wheel up and down.
+	- Adjust Sight Position While in Editor: Hold Left Shift and move the Mouse.
 	- Save Sight Edits While in Editor: Enter.
 	- Reset Sight Edits While in Editor: Backspace.
-	- Exit Editor: Release Right Mouse Button.
+	- Exit Editor: Release Aim (Right Click).
 - Weapon Based Hand Clip Distance:
 	- Allows adjustment of hands and weapon to prevent weapon clipping. Should already be appropriately preconfigured.
-	- Enter Aim Down Sights Editor: Hold Right Mouse Button and press Right Alt.
+	- Enter Aim Down Sights Editor: Hold Aim (Right Click) and press Right Alt.
 	- Enter Hip Sights Editor: Press Right Alt.
 	- Adjust Clip Distance While in Editor: Mouse Wheel up and down.
 	- Save Clip Distance While in Editor: Enter.
-	- Exit Aim Down Sights Editor: Release Right Mouse Button.
+	- Exit Aim Down Sights Editor: Release Aim (Right Click).
 	- Exit Hip Sights Editor: Press Backspace.
 - JIP Companion Command and Control:
 	- Overhauls the companion control system.
 	- Enter CCC Menu: Hold N.
 	- Navigate CCC Menu: Use Mouse Wheel up and down.
-	- Select in CCC Menu: Left Mouse Button.
+	- Select in CCC Menu: Left click.
 - Purchase Items on Display:
 	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
-	- Hover mouse over desired vendor owner item to see price, press E, select Yes.
+	- Mouse over desired vendor owned item to see price, press Activate (E), select Yes.
 - Automatated Item Sorting:
 	- Use the Inventory Sorting Control to automatically sort items into different containers.
-	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb SHelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
+	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb Shelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
 - Universal Water Bottling:
-	- Fill Empty Bottles: Hover mouse of water source, press G.
+	- Fill Empty Bottles: Mouse of water source, press Grab (G).
 - Mod Delivery:
 	- Allows for the commissioning of weapon mods for the equipped weapon.
-	- Hover mouse over qualified vendor, press G to commission.
-	- Return after time for commission, hover mouse over vendor, press G to purchase.
+	- Mouse over qualified vendor, press Grab (G) to commission.
+	- After Passage of Time, mouse over vendor, press Grab (G) to purchase.
 	- Qualified Vendors: Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Comissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
 - Pip-Boy Weapon Mod Vendor:
 	- Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
-	- Hover mouse over desired weapon to purchase mod for, press E, select desired mod, select Yes.
+	- Mouse over target weapon, press Activate (E), select desired mod, select Yes.
 - Vendor Radio:
 	- Allows for purchasing of items directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter.
 	- Adding Vendors: Stand near a vendor, open the Pip-Boy Radio tab, press Q, select Settings, select Add Vendor, select the desired vendor.
 	- Purchasing from Vendors: Open the Pip-Boy Radio tab, press Q, select the desired vendor.
 - Immersive Minigame Tweaks:
-	- Open locks and hack terminals with pre-calculated odds of success, rather than take part in the redundant original minigames.
-	- Holster Weapon, hover mouse over desired lock or terminal, hold G.
+	- Open locks and hack terminals with pre-calculated odds of success, rather than take part in the redundant and easier original minigames.
+	- Holster Weapon, mouse over desired lock or terminal, hold Grab (G).
 - Forced Entry:
 	- Attack to break locks on doors or containers.
-	- Risk of destroying contents inside of container.
-	- Cost weapon condition for melee weapons and ammo for ranged weapons.
+	- Risk of destroying container contents.
+	- Costs weapon condition for melee weapons and ammo for ranged weapons.
 - Bypass Tools:
-	- No risk of destroying contents inside of container.
+	- No risk of destroying container contents.
 	- Use Power Drill and Grinders to bypass locks.
 	- Use Hacking Override Modules to bypass hacking.
-	- Activate (E) the lock/terminal to receive a prompt to use a drill/module.
+	- Activate (E) the lock/terminal to receive a prompt to use the drill/module.
 - B42 Quickthrow:
 	- Throw: Side Mouse Button 1 (Back Left Side Mouse Button).
 	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
