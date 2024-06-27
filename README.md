@@ -408,6 +408,8 @@ Expand
 	- Equip to gain radiation resistance.
 - Backpacks:
 	- Equip to increase carry capacity.
+- Prone:
+	- Hold Crouch (C).
 - Sprint:
 	- Hold Left Shift.
 - Hold Breath:
@@ -426,6 +428,8 @@ Expand
 	- Press ].
 - Inspect Ammo:
 	- Press [.
+- B42 Lean:
+	- Contextual leaning activated when aimng when near a corner.
 - B42 Optics:
 	- Toggle Night Vision on Capable Scopes: Aim down scope (Right Click), press Flashlight (Tab).
 	- Edit Optic Lenses: Right Control + Enter.
