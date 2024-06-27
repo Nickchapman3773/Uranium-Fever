@@ -145,7 +145,7 @@
 - Create a folder named `downloads`.
 
 > [!warning]
-> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever - Steam\downloads` or `C:\Modding\Uranium Fever - GOG\downloads` and the Wabbajack filepath should be`C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
+> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward and the Uranium Fever folder as `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads`.
 >
 > The installation **WILL NOT** work File path related support requests that do not follow this convention **WILL BE IGNORED**.
 
@@ -156,7 +156,7 @@
 - Close `Wabbajack`.
 
 ## Manual Downloads
-- Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder. DO NOT extract them.
+- Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` folder. DO NOT extract them.
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
@@ -179,13 +179,14 @@
 - Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
 ```
-- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
-- Under `Resource Download Location`, `C:\Modding\Uranium Fever\downloads` should now have auto-populated.
+- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever - Steam`/`C:\Modding\Uranium Fever - GOG`.
+- Under `Resource Download Location`, `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` should now have auto-populated.
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close `Wabbajack`.
+- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
@@ -196,7 +197,7 @@
 - Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever\ModOrganizer.exe`.
+- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever - Steam\ModOrganizer.exe`/`C:\Modding\Uranium Fever - GOG\ModOrganizer.exe`.
 - When prompted that your INIs are read only, select `Clear the Read Only Flag`.
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
@@ -216,11 +217,11 @@
 > You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression and binary patching of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
-- Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
+- Copy `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
-- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-- **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
+- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
+- **Enter** `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
 - When complete, close the `Installer`.
 
@@ -255,7 +256,7 @@
 - Open `Virus & Threat Protection`.
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- `Add exclusions` for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
+- `Add exclusions` for `C:\Modding\Uranium Fever - Steam`/`C:\Modding\Uranium Fever - GOG` and `C:\Modding\Wabbajack`.
 - This process will also need to be replicated for any third-party antivirus.
   
 ## Disabling Steam Overlay
@@ -282,10 +283,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
 	- Vulkan-less GPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
@@ -309,7 +310,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
@@ -342,7 +343,7 @@
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
 - Confirm that the game launches and runs appropriately before following this step.
-- Navigate to `C:\Modding\Uranium Fever\downloads`.
+- Navigate to `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads`.
 - `Delete` the `downloads folder`.
 
 # <p align=center>Updating Uranium Fever</p>
@@ -353,89 +354,59 @@
 Expand
 </summary>
 	
-- Activate:
-	- Press E.
-- Grab:
-	- Press G.
-- Reload:
-	- Press R.
-- Open Pip-Boy:
-	- Press Tab.
-- Open Stats:
-	- Press O.
-- Open Quests:
-	- Press J.
-- Open Map:
-	- Press M.
-- Open Inventory:
-	- Press I.
-- Open Data:
-	- Press P.
-- Quick Select:
-	- Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
-	- Weapons: Hold 5, use mouse wheel to scroll to desired weapon, release 5.
-	- Aid: Hold 6, use mouse wheel to scroll to desired aid, release 6.
-- Weapon Hweel:
-	- A traditional hotkey-associated weapon wheel.
-	- Opening Weapon Hweel: Hold Q.
-	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
-- Keybind Quick Display:
-	- An in-game display of all customized keybinds in Uranium Fever.
-	- Open pause menu, press K.
-- Drop Item from Inventory:
-	- Open Inventory, mouse over desired item, Right Click.
-- View Weapon Stats:
-	- Mouse over desired weapon, press Grab (G).
 - 3rd Person Camera Overhaul:
 	- Swap POV Between 1st and 3rd Person: Hold F.
 	- Swap Shoulder in 3rd Person: Press F.
 	- Open Camera Editor: Press Delete.
+- Activate:
+	- Press E.
 - Armed to the Teeth:
 	- Allows for holstering of up to four weapons on the player's body simultaneously.
 	- Holsters correspond to the 1-4 weapon hotkeys.
-- Quick Train:
-	- Allows the player to start in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the intended sequencing of various mods.
-	- When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?" 
-- Pip-Boy Flashlight:
-	- Hold Tab.
-- Equip Weapon Mod:
-	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
-- Swap Vision Mode:
-	- Variable vision modes contingent on the headgear being used.
-	- Powered by a universal charge stored in the Pip-Boy, but ultimately derived from Small Energy Cells.
-	- Hold Grab (G) and press Flashlight (Tab).
-- Gas Masks & Radiation Suits:
-	- Equip to gain radiation resistance.
-- Backpacks:
-	- Equip to increase carry capacity.
-- Prone:
-	- Hold Crouch (C).
-- Sprint:
-	- Hold Left Shift.
-- Hold Breath:
-	- Steadies aim.
-	- Hold Left Alt.
-- Swap Ammo Type:
-	- There are various different ammo types, each with unique effects.
-	- Double tap Reload (R).
-- Just Bullet Time:
-	- An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
-	- Press V.
-- Clear Gun Jam:
-	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam occurring when next firing.
-	- Hold Grab (G) and press Reload (R).
-- Inspect Gun:
-	- Press ].
-- Inspect Ammo:
-	- Press [.
+- Automatated Item Sorting:
+	- Use the Inventory Sorting Control to automatically sort items into different containers.
+	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb Shelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
 - B42 Lean:
 	- Contextual leaning activated when aimng when near a corner.
 - B42 Optics:
 	- Toggle Night Vision on Capable Scopes: Aim down scope (Right Click), press Flashlight (Tab).
 	- Edit Optic Lenses: Right Control + Enter.
-- Scope Zoom:
-	- Mouse wheel up and down.
-- ISControl:
+- B42 Quickthrow:
+	- Throw: Side Mouse Button 1 (Back Left Side Mouse Button).
+	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
+- Backpacks:
+	- Equip to increase carry capacity.
+- Bypass Tools:
+	- No risk of destroying container contents.
+	- Use Power Drill and Grinders to bypass locks.
+	- Use Hacking Override Modules to bypass hacking.
+	- Activate (E) the lock/terminal to receive a prompt to use the drill/module.
+- Clear Gun Jam:
+	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam occurring when next firing.
+	- Hold Grab (G) and press Reload (R).
+- Drop Item from Inventory:
+	- Open Inventory, mouse over desired item, Right Click.c
+- Equip Weapon Mod:
+	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
+- Forced Entry:
+	- Attack to break locks on doors or containers.
+	- Risk of destroying container contents.
+	- Costs weapon condition for melee weapons and ammo for ranged weapons.
+- Gas Masks & Radiation Suits:
+	- Equip to gain radiation resistance.
+- Grab:
+	- Press G.
+- Hold Breath:
+	- Steadies aim.
+	- Hold Left Alt.
+- Immersive Minigame Tweaks:
+	- Open locks and hack terminals with pre-calculated odds of success, rather than take part in the redundant and easier original minigames.
+	- Holster Weapon, mouse over desired lock or terminal, hold Grab (G).
+- Inspect Ammo:
+	- Press [.
+- Inspect Gun:
+	- Press ].
+- Ironsight Control:
 	- Allows adjustment of iron sight to center aim and prevent weapon clipping. Should already be appropriately preconfigured.
 	- Enter editor: Hold Aim (Right Click) and press Right Shift. Keep holding Right Click while using the editor.
 	- Adjust Sight Angle While in Editor: Move the Mouse.
@@ -444,6 +415,72 @@ Expand
 	- Save Sight Edits While in Editor: Enter.
 	- Reset Sight Edits While in Editor: Backspace.
 	- Exit Editor: Release Aim (Right Click).
+- JIP Companion Command and Control:
+	- Overhauls the companion control system.
+	- Enter CCC Menu: Hold N.
+	- Navigate CCC Menu: Use Mouse Wheel up and down.
+	- Select in CCC Menu: Left click.
+- Just Bullet Time:
+	- An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
+	- Press V.
+- Keybind Quick Display:
+	- An in-game display of all customized keybinds in Uranium Fever.
+	- Open pause menu, press K.
+- Mod Delivery:
+	- Allows for the commissioning of weapon mods for the equipped weapon.
+	- Mouse over qualified vendor, press Grab (G) to commission.
+	- After Passage of Time, mouse over vendor, press Grab (G) to purchase.
+	- Qualified Vendors: Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Comissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
+- Open Data:
+	- Press P.
+- Open Inventory:
+	- Press I.
+- Open Map:
+	- Press M.
+- Open Pip-Boy:
+	- Press Tab.
+- Open Quests:
+	- Press J.
+- Open Stats:
+	- Press O.
+- Pip-Boy Flashlight:
+	- Hold Tab.
+- Pip-Boy Vendor Radio:
+	- Allows for purchasing of items directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter.
+	- Adding Vendors: Stand near a vendor, open the Pip-Boy Radio tab, press Q, select Settings, select Add Vendor, select the desired vendor.
+	- Purchasing from Vendors: Open the Pip-Boy Radio tab, press Q, select the desired vendor.
+- Pip-Boy Weapon Mod Vendor:
+	- Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
+	- Mouse over target weapon, press Activate (E), select desired mod, select Yes.
+- Prone:
+	- Hold Crouch (C).
+- Purchase Items on Display:
+	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
+	- Mouse over desired vendor owned item to see price, press Activate (E), select Yes.
+- Reload:
+	- Press R.
+- Quick Select:
+	- Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
+	- Weapons: Hold 5, use mouse wheel to scroll to desired weapon, release 5.
+	- Aid: Hold 6, use mouse wheel to scroll to desired aid, release 6.
+- Quick Train:
+	- Allows the player to start in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the intended sequencing of various mods.
+	- When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?" 
+- Scope Zoom:
+	- Mouse wheel up and down.
+- Sprint:
+	- Hold Left Shift.
+- Swap Ammo Type:
+	- There are various different ammo types, each with unique effects.
+	- Double tap Reload (R).
+- Universal Water Bottling:
+	- Fill Empty Bottles: Mouse of water source, press Grab (G).
+- View Weapon Stats:
+	- Mouse over desired weapon, press Grab (G).
+- Vision Mode:
+	- Variable vision modes contingent on the headgear being used.
+	- Powered by a universal charge stored in the Pip-Boy, but ultimately derived from Small Energy Cells.
+	- Hold Grab (G) and press Flashlight (Tab).
 - Weapon Based Hand Clip Distance:
 	- Allows adjustment of hands and weapon to prevent weapon clipping. Should already be appropriately preconfigured.
 	- Enter Aim Down Sights Editor: Hold Aim (Right Click) and press Right Alt.
@@ -452,46 +489,10 @@ Expand
 	- Save Clip Distance While in Editor: Enter.
 	- Exit Aim Down Sights Editor: Release Aim (Right Click).
 	- Exit Hip Sights Editor: Press Backspace.
-- JIP Companion Command and Control:
-	- Overhauls the companion control system.
-	- Enter CCC Menu: Hold N.
-	- Navigate CCC Menu: Use Mouse Wheel up and down.
-	- Select in CCC Menu: Left click.
-- Purchase Items on Display:
-	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
-	- Mouse over desired vendor owned item to see price, press Activate (E), select Yes.
-- Automatated Item Sorting:
-	- Use the Inventory Sorting Control to automatically sort items into different containers.
-	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb Shelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
-- Universal Water Bottling:
-	- Fill Empty Bottles: Mouse of water source, press Grab (G).
-- Mod Delivery:
-	- Allows for the commissioning of weapon mods for the equipped weapon.
-	- Mouse over qualified vendor, press Grab (G) to commission.
-	- After Passage of Time, mouse over vendor, press Grab (G) to purchase.
-	- Qualified Vendors: Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Comissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
-- Pip-Boy Weapon Mod Vendor:
-	- Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
-	- Mouse over target weapon, press Activate (E), select desired mod, select Yes.
-- Vendor Radio:
-	- Allows for purchasing of items directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter.
-	- Adding Vendors: Stand near a vendor, open the Pip-Boy Radio tab, press Q, select Settings, select Add Vendor, select the desired vendor.
-	- Purchasing from Vendors: Open the Pip-Boy Radio tab, press Q, select the desired vendor.
-- Immersive Minigame Tweaks:
-	- Open locks and hack terminals with pre-calculated odds of success, rather than take part in the redundant and easier original minigames.
-	- Holster Weapon, mouse over desired lock or terminal, hold Grab (G).
-- Forced Entry:
-	- Attack to break locks on doors or containers.
-	- Risk of destroying container contents.
-	- Costs weapon condition for melee weapons and ammo for ranged weapons.
-- Bypass Tools:
-	- No risk of destroying container contents.
-	- Use Power Drill and Grinders to bypass locks.
-	- Use Hacking Override Modules to bypass hacking.
-	- Activate (E) the lock/terminal to receive a prompt to use the drill/module.
-- B42 Quickthrow:
-	- Throw: Side Mouse Button 1 (Back Left Side Mouse Button).
-	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
+- Weapon Hweel:
+	- A traditional hotkey-associated weapon wheel.
+	- Opening Weapon Hweel: Hold Q.
+	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
  </details>
 
 # <p align=center>FAQ</p>
