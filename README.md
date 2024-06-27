@@ -77,7 +77,7 @@
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
 - AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters,and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing and new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
-- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to comprehensively rebalance nearly all aspects of both Wastelands, affecting many weapons, armors, locations, quests, encounters, creatures, companions, NPCs, loot, crafting, vendors, SPECIAL stats, perks, and karma.
+- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, affecting many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. Also includes an overhaul of Point Lookout to make it more appropriate for lower leveled gameplay.
 
 ## Dialogue Overhauls
 - Brave New World - A near complete professional revoicing of NPCs throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
@@ -388,15 +388,15 @@ Expand
 	- Allows you to holster up to four weapons on your body simultaneously.
 	- Holsters correspond to the 1-4 hotkeys.
 - Quick Train:
-	- Allows you to start your game in the Mojave Wasteland rather than the Capital Wasteland.
+	- Allows you to start your game in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the sequencing of various mods.
 	- When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?" 
 - Pip-Boy Flashlight:
 	- Hold Tab.
-- Equi Weapon Mod:
+- Equip Weapon Mod:
 	- Hover mouse over desired weapon, press E, Press Left Mouse Button on desired mod.
 - Swap Vision Mode:
-	- ***
-	- Powered by a universal charge stored in the Pip-Boy. ***
+	- Various colored vision modes with variable brightness depending on the headgear.
+	- Powered by a universal charge stored in the Pip-Boy, but ultimately derived from Small Energy Cells.
 	- Hold G and press Tab.
 - Gas Masks & Radiation Suits:
 	- Equip to gain radiation resistance.
@@ -449,7 +449,7 @@ Expand
 	- Select in CCC Menu: Left Mouse Button.
 - Purchase Items on Display:
 	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
-	- Hover mouse over desired item (this will show you the purchase and price prompt), press E, select Yes.
+	- Hover mouse over desired vendor owner item to see price, press E, select Yes.
 - Automatated Item Sorting:
 	- Use the Inventory Sorting Control to automatically sort items into different containers.
 	- Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb SHelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
@@ -478,6 +478,7 @@ Expand
 	- No risk of destroying contents inside of container.
 	- Use Power Drill and Grinders to bypass locks.
 	- Use Hacking Override Modules to bypass hacking.
+	- Activate (E) the lock/terminal to receive a prompt to use a drill/module.
 - B42 Quickthrow:
 	- Throw: Side Mouse Button 1 (Back Left Side Mouse Button).
 	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
