@@ -176,7 +176,7 @@
 - Hit back and select Browse Modlists.
 - Select Fallout New Vegas under games at the top of the page.
 - Toggle the "Show Unofficial Lists" filter.
-- Search for Uranium Fever and hit the download button. This will begin downloading .wabbajack file.
+- Search for Uranium Fever, identify the corresponding version that you own (Steam or GOG), and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
 ```
 - Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever - Steam`/`C:\Modding\Uranium Fever - GOG`.
