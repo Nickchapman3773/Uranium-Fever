@@ -186,7 +186,7 @@
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close `Wabbajack`.
-- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`.
+- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`. Confirmation will occur via a CMD prompt popup saying `FalloutNV.exe patched!`.
 
 > [!warning]
 > Failure to run FNVpatch.exe will result in a pink screen and a non-functional game.
