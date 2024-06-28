@@ -188,6 +188,9 @@
 - Close `Wabbajack`.
 - Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`.
 
+> [!warning]
+> Failure to run FMVpatch.exe will result in a pink screen and a non-functional game.
+
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
 - Click `OK` to the pop-up saying `Detecting Video Hardware`.
