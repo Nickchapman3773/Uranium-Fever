@@ -527,6 +527,8 @@ Expand
 	- Notification size is inappropriately large after starting a new game until the game is restarted.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
+- Pink Screen - Why do I see pink transition screens when the game loads?
+	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` folder).
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Selecting Perks - I cannot select a perk. Why?
