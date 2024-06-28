@@ -113,7 +113,9 @@
 # <p align=center>Requirements</p>
 - English Steam or GOG versions of Fallout: New Vegas and Fallout 3, both with all DLCs.
 	- Both Fallout: New Vegas and Fallout 3 **MUST** be on the same platform.
-	- The Epic Games and PCR versions are **INCOMPATIBLE** with Wabbajack
+	- The Epic Games, Steam PCR, and Steam Cut German versions are **INCOMPATIBLE**.
+> [!note]
+> The GOG version is still pending release.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
@@ -189,7 +191,16 @@
 - Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a CMD prompt popup saying `FalloutNV.exe patched!`.
 
 > [!warning]
-> Failure to run FNVpatch.exe will result in a pink screen and a non-functional game.
+> Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
+
+> [!tip]
+> Altered vanilla installations used for other modded setups may cause Uranium Fever installation errors that say No Match in Stack.  If this happens, follow these steps to create **CLEAN Fallout: New Vegas and Fallout 3 installations** while still **MAINTAINING** your alternate modded setups and save files:
+> - Navigate to `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and **MOVE** the Fallout New Vegas folder to your desktop. This will be your backed Steam/GOG installation. `Delete` the Fallout 3 folder.
+> - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. This will be your backed up settings and saves. `Delete` the Fallout 3 folder.
+> - `Uninstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
+> - `Reinstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
+> - `Complete the Uranium Fever installation steps` listed above.
+> - After successful installation, `move your Fallout New Vegas folder` back into `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and your FalloutNV folder back into `C:\Users\USERNAME\Documents\My Games`, thus restoring your prior setups.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
