@@ -188,10 +188,6 @@
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close `Wabbajack`.
-- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a CMD prompt popup saying `FalloutNV.exe patched!`.
-
-> [!warning]
-> Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
 
 > [!tip]
 > Altered vanilla installations used for other modded setups may cause Uranium Fever installation errors that say No Match in Stack.  If this happens, follow these steps to create **CLEAN Fallout: New Vegas and Fallout 3 installations** while still **MAINTAINING** your alternate modded setups and save files:
@@ -252,6 +248,12 @@
 - Select the `NVR download` from your `Downloads folder`.
 - Name it `[NoDelete] NVR`.
 - Select `Replace` when prompted `Mod Exists`.
+
+## 4GB Patcher
+- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
+
+> [!warning]
+> Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
 
 ## Disable Base Address Randomization 
 > [!Tip]
