@@ -191,8 +191,8 @@
 
 > [!tip]
 > Altered vanilla installations used for other modded setups may cause Uranium Fever installation errors that say No Match in Stack.  If this happens, follow these steps to create **CLEAN Fallout: New Vegas and Fallout 3 installations** while still **MAINTAINING** your alternate modded setups and save files:
-> - Navigate to `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and **MOVE** the Fallout New Vegas folder to your desktop. This will be your backed Steam/GOG installation. `Delete` the Fallout 3 folder.
-> - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. This will be your backed up settings and saves. `Delete` the Fallout 3 folder.
+> - Navigate to `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and **MOVE** the Fallout New Vegas folder to your desktop. This will be the Steam/GOG installation backup. `Delete` the Fallout 3 folder.
+> - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. This will be the settings and saves backup. `Delete` the Fallout 3 folder.
 > - `Uninstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
 > - `Reinstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
 > - `Complete the Uranium Fever installation steps` listed above.
