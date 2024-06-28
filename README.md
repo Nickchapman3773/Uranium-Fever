@@ -340,9 +340,11 @@
 > [!warning]
 > Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor and want to use G-Sync functionality. Please note that this is a more complicated process, and as such, the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
 
+- Test Uranium Fever prior to installing Special K to ensure functionality. Doing so will help isolate any Special K related troubleshooting to the application itself, rather than other setup steps related to Uranium Fever.
 - Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
 - Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just above the DXVK header).
 - Navigate to the `FPS Limiters` section, click the `Special K` dropdown menu, and follow the instructions.
+- If issues are encountered in the Special K installation process, please seek support in the official Special K discord.
 
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
