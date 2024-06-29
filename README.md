@@ -366,6 +366,7 @@
 
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
+- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and reapply `FNVpatch.exe`.
 
 # <p align=center>Mod Feature Quick Reference List</p>
 <details><summary>
