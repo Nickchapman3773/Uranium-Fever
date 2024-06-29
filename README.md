@@ -1,7 +1,7 @@
 <p align=center>The Uranium Fever Team presents:</p>
 
 # <p align=center>**Uranium Fever - A Hardcore Wabbajack Modlist for TTW**</p>
-**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and setting included in this list was carefully considered by a team of experts in various different New Vegas modding domains - very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
+**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
 
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
@@ -325,11 +325,12 @@
 - Exit `Environmental Variables`.
 - Restart your computer for this to take effect.
 
-## RivaTuner Statistics Server (RTSS)
+## AMD Graphics Card Users - RivaTuner Statistics Server (RTSS)
 > [!tip]
-> RTSS is an FPS limiter that can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
->
-> NVIDIA users with G-Sync monitors should **SKIP** this section and follow the NVIDIA G-Sync Users section instead, as RTSS **DOES NOT** have the ability to manage G-Sync. 
+> FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+> 
+> RTSS is the recommended option for AMD graphics card users. Special K lacks compatibility with the combination of AMD graphics cards and DXVK.
+> NVIDIA graphics card users **WILL** have memory related crashes if following this section instead of the following Special K section.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
@@ -343,19 +344,49 @@
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
-## NVIDIA G-Sync Users
-> [!warning]
-> Follow this section **INSTEAD** of the RTSS section **ONLY** if you are an NVIDIA user with a G-Sync monitor and want to use G-Sync functionality. Please note that this is a more complicated process, and as such, the Uranium Fever team **WILL NOT** provide support for G-Sync or Special K.
+## NVIDIA Graphics Card Users - Special K
+> [!tip]
+> FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+>
+> Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes.
+> AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following RTSS section.
 
-- Test Uranium Fever prior to installing Special K to ensure functionality. Doing so will help isolate any Special K related troubleshooting to the application itself, rather than other setup steps related to Uranium Fever.
-- Open <a href="https://performance.moddinglinked.com/falloutnv.html" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html', '_self');">Walls Performance Guide</a>.
-- Navigate to the `Display Modes` section and follow the `Nvidia Profile Inspector` instructions (located just above the DXVK header).
-- Navigate to the `FPS Limiters` section, click the `Special K` dropdown menu, and follow the instructions.
-- If issues are encountered in the Special K installation process, please seek support in the official Special K discord.
+- `Navigate` to GeForce Experience settings and `turn off NVIDIA overlay` (found in settings > General > In-Game Overlay), as the overlay will cause a black screen when used in conjunction with Special K.
+- `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
+- `Extract` the downloaded archive into your downloads folder.
+- `Open` the `SpecialK` folder.
+- `Move SpecialK32.dll` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- `Download` the <a href="https://performance.moddinglinked.com/files/sk.zip" onclick="window.open('https://performance.moddinglinked.com/files/sk.zip', '_self');">Viva New Vegas Preconfigured Settings Archive</a>.
+- `Extract` the newly downloaded `SK.zip` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- `Launch` Uranium Fever (launch instructions are included below).
+- `Select Yes` when prompted to enable DXVK support/vulkan bridge, then `relaunch` the game.
+- Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
+- Under the `Framerate Limiter`, click the `Enable Framerate Limit` checkbox.
+- `Right click the bar next to Framerate Limit` (the one that specifies fps and says `(Limit Engaged)`, NOT the graph).
+- `Select` your monitors refresh rate.
+- `Click Advanced` and select `Latent Sync (VSYNC -off-) mode`.
+- `Double Left Click` on the bar and type in 59.995, and `press enter`.
+- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, though this is beyond the scope of Uranium Fever configuration.
+
+## NVIDIA G-Sync Users
+> [!tip]
+> G-Sync windowed should **NEVER** be enabled globally, but has to be configured for Fallout: New Vegas, as the game is technically run in windowed mode.
+
+- Download <a href="https://github.com/Orbmu2k/nvidiaProfileInspector/releases/latest" onclick="window.open('https://github.com/Orbmu2k/nvidiaProfileInspector/releases/latest', '_self');">NVIDIA Profile Inspector</a>.
+- `Extract nvidiaProfileInspector.zip` and `run nvidiaProfileInspector.exe`.
+- `Click` the `Profiles` drop down menu near the top of the page.
+- Type `Fallout` into the `search bar` and `select Fallout - New Vegas` from the options.
+- Locate `GSYNC Application mode` under the `2. Sync and Refresh` section.
+- On the right, open the drop down menu and `select Fullscreen and Windowed`
+- `Click APply Changes` in the top right.
+
+> [!caution]
+> G-Sync in Fallout: New Vegas is prone to visual bugs. If you encounter visual bugs, please disable G-Sync rather than request support.
 
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
+- After starting a new game, open the pause menu and press K to see the Keybinds and associated legend. More details are included below in the Mod Feature Quick Reference List section.
 
 ## Optional Performance Profile
 > [!tip]
@@ -410,7 +441,10 @@ Expand
 	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam occurring when next firing.
 	- Hold Grab (G) and press Reload (R).
 - Drop Item from Inventory:
-	- Open Inventory, mouse over desired item, Right Click.c
+	- Open Inventory, mouse over desired item, Right Click.
+- Equip Sets:
+	- Provides two different equipment presets, one for use with your weapon holstered, and one for use with your weapon drawn.
+	- When holstering or drawing your weapon, you will automatically be switched to the last equipment you were wearing when when your weapon was previously in that position.
 - Equip Weapon Mod:
 	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
 - Forced Entry:
@@ -586,10 +620,11 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, and Stentorious for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
-- Sweet6Shooter for extensive balance related planning, patch making, and general willingness to help in any and all ways.
+- Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
+- DarkSolarLegend for extensively testing the compatibility of various different versions and helping with phrasing and accuracy of portions of the installation instructions.
 - InTheGrave and Shabby Pirate for extensive advising on compression and BSA packing to optimize the list.
 - Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
@@ -602,4 +637,3 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating 10mm and Friends - Sweep Compatibility and Pip-Boy 2000 Hardcore Needs Patches for Uranium Fever.
 - DracoVampire786 for making AWSOMER patches for 10mm Pistol and Friends, AGE, DMT, Havasu Blues, NV Killer, and NV Bounties for Uranium Fever.
 - Pr0bability for making a NVLORR/Enhanced Landscape - Sandy Roads Compatibility Patch for Uranium Fever.
-- DarkSolarLegend for extensively testing the compatibility of various different versions.
