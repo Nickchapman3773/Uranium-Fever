@@ -256,7 +256,7 @@
 - Name it `[NoDelete] NVR`.
 - Select `Replace` when prompted `Mod Exists`.
 
-## 4GB Patcher
+## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
 
 > [!warning]
@@ -296,7 +296,7 @@
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
   
-## DXVK
+## About DXVK
 > [!tip]
 > DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory usage. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > `[NoDelete] Stock New Vegas`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
 
