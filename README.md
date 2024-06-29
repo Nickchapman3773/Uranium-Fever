@@ -111,7 +111,8 @@
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # <p align=center>Requirements</p>
-- ANY Mod Organizer 2 compatible versions (Steam, Steam PCR, Steam Cut German, GOG, Epic Games) of Fallout: New Vegas and Fallout 3, both with all DLCs.
+- Purchased, Mod Organizer 2 compatible copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
+	- Steam, Steam PCR, Steam Cut German, GOG, Epic Games versions **ARE** supported.
 	- Mod Organizer 2 **DOES NOT** support the Windows Store or Gamepass Versions.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
