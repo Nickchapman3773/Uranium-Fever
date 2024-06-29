@@ -190,9 +190,9 @@
 >
 > By default, the following `platform installation folder` is located at `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games`.
 
-- `Navigate` to the `platform installation folder` and `**MOVE**` the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
+- `Navigate` to the `platform installation folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
-- Navigate to `C:\Users\USERNAME\Documents\My Games` and `**MOVE**` the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
+- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
 - `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may be completed automatically, depending on the platform).
 - `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
