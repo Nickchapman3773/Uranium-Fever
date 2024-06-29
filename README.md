@@ -130,7 +130,7 @@
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
 - RAM - 16gb or higher required.  Dual channel recommended.
 - GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
-- SSD required.  NVMe SSD recommended.  Due to the nature of Wabbajack downloads and compilation, 150+gb of free space is required.
+- SSD required.  NVMe SSD recommended.  150+gb of free space is required.
 
 > [!note]
 > - An Optional Clean Up step is discussed below for those concerned about the large installation size.
