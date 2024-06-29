@@ -1,7 +1,7 @@
 <p align=center>The Uranium Fever Team presents:</p>
 
 # <p align=center>**Uranium Fever!**</p>
-**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this list represents a dramatic deviation from the vanilla experience. Every single mod and setting included in this list was carefully considered by a team of experts in various different New Vegas modding domains - very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
+**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this list takes inspiration from top survival games, such as S.T.A.L.K.E.R., Resident Evil, and Silent Hill. Every single mod and setting included in this list was carefully considered by a team of experts in various different New Vegas modding domains - very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands (TTW) experience. Enjoy!
 
 >[!IMPORTANT]
 >***Thank you for helping test Uranium Fever!***
