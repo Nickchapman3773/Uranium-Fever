@@ -112,8 +112,8 @@
 
 # <p align=center>Requirements</p>
 - Purchased, Mod Organizer 2 compatible copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
-	- Steam, Steam PCR, Steam Cut German, GOG, Epic Games versions **ARE** supported.
-	- Mod Organizer 2 **DOES NOT** support the Windows Store or Gamepass Versions.
+	- Steam, Steam PCR, Steam Cut German, GOG, and Epic Games versions **ARE** supported by Mod Organizer 2.
+	- Mod Organizer 2 **DOES NOT** support Windows Store or Gamepass Versions.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
