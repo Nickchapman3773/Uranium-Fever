@@ -111,11 +111,8 @@
 - Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
 
 # <p align=center>Requirements</p>
-- English Steam or GOG versions of Fallout: New Vegas and Fallout 3, both with all DLCs.
-	- Both Fallout: New Vegas and Fallout 3 **MUST** be on the same platform.
-	- The Epic Games, Steam PCR, and Steam Cut German versions are **INCOMPATIBLE**.
-> [!note]
-> The GOG version is still pending release.
+- ANY Mod Organizer 2 compatible versions (Steam, Steam PCR, Steam Cut German, GOG, Epic Games) of Fallout: New Vegas and Fallout 3, both with all DLCs.
+	- Mod Organizer 2 **DOES NOT** support the Windows Store or Gamepass Versions.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
@@ -143,13 +140,11 @@
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, do NOT open it.
-- Create another folder named `Uranium Fever - Steam` OR `Uranium Fever - GOG` depending on which platform you own the games on, then open it.
+- Create another folder named `Uranium Fever` depending on which platform you own the games on, then open it.
 - Create a folder named `downloads`.
 
 > [!warning]
-> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward and the Uranium Fever folder as `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads`.
->
-> The installation **WILL NOT** work File path related support requests that do not follow this convention **WILL BE IGNORED**.
+> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
@@ -158,7 +153,7 @@
 - Close `Wabbajack`.
 
 ## Manual Downloads
-- Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` folder. DO NOT extract them.
+- Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever` folder. DO NOT extract them.
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm&export=download&authuser=0', '_self');">Wasteland Clothing HD</a>.
@@ -181,28 +176,38 @@
 - Search for Uranium Fever, identify the corresponding version that you own (Steam or GOG), and hit the download button. This will begin downloading .wabbajack file.
 - Once finished, hit the play button (which has now replaced the download button).
 ```
-- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever - Steam`/`C:\Modding\Uranium Fever - GOG`.
-- Under `Resource Download Location`, `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads` should now have auto-populated.
+- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
+- Under `Resource Download Location`, `C:\Modding\Uranium Fever\downloads` should now have auto-populated.
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close `Wabbajack`.
 
+## Creating a Clean Stock New Vegas Folder
 > [!tip]
-> Altered vanilla installations used for other modded setups may cause Uranium Fever installation errors that say No Match in Stack.  If this happens, follow these steps to create **CLEAN Fallout: New Vegas and Fallout 3 installations** while still **MAINTAINING** your alternate modded setups and save files:
-> - Navigate to `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and **MOVE** the Fallout New Vegas folder to your desktop. This will be the Steam/GOG installation backup. `Delete` the Fallout 3 folder.
-> - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. This will be the settings and saves backup. `Delete` the Fallout 3 folder.
-> - `Uninstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
-> - `Reinstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG.
-> - `Complete the Uranium Fever installation steps` listed above.
-> - After successful installation, `move your Fallout New Vegas folder` back into `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games` and your FalloutNV folder back into `C:\Users\USERNAME\Documents\My Games`, thus restoring your prior setups.
+> This process allows for the creation of a completely **SELF-CONTAINED** installation that does not impact any other modded installation of Fallout: New Vegas.
+
+- `Navigate` to the Fallout New Vegas installation `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games` and **MOVE** the FalloutNV folder to your desktop. `Delete` the Fallout 3 folder.
+	- This will be the Steam/GOG/Epic Games installation backup. Delete the Fallout 3 folder. **IF** you do not currently have another modded instance, simply `delete` the `FalloutNV` folder
+- Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. `Delete` the Fallout 3 folder.
+	- This will be the settings and saves backup for your previously modded instance. **IF** you do not currently have another modded instance, simply `delete` the `FalloutNV` folder.
+- `Uninstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG/Epic Games.
+- `Reinstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG/Epic Games.
+- `Navigate` to your new **CLEANLY** installed Fallout: New Vegas installation folder (`C:\steam\steamapps\common\Fallout New Vegas`/`C:\Program Files (x86)\GOG Galaxy\Games\Fallout New Vegas`/`C:\Program Files\Epic Games\Fallout New Vegas`).
+- `Copy` **ALL** of the contents from this folder (click anywhere inside the folder, press Ctrl+A, then Ctrl+C) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+- After successfully copying these files, restore your backed up files.
+	- `Move your Fallout New Vegas folder` back into `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games`, selecting `Replace` when prompted.
+	- `Move your FalloutNV folder` back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+
+> [!warning]
+> These steps are **CRITICAL** to creating a clean version for the Uranium Fever installation.
 
 ## Generating Fresh INI Files
-- Launch `Fallout: New Vegas` from `Steam/GOG`.
+- Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
 - Click `OK` to the pop-up saying `Detecting Video Hardware`.
 - Exit the `launcher`.
-- Launch` Fallout 3` from `Steam/GOG`.
+- Launch` Fallout 3` from `Steam/GOG/Epic Games`.
 - Click `OK` to the pop-up saying `Detecting Video Hardware`.
 - Close the `launcher`.
 
@@ -229,7 +234,7 @@
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Copy `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
-- Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
+- Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG/Epic Games Fallout 3 installation path` (this should be auto-configured).
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
 - **Enter** `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
@@ -326,7 +331,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
@@ -556,7 +561,7 @@ Expand
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
-	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
+	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG/Epic Games Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - Vortex - Can I install Uranium Fever with vortex?
@@ -594,3 +599,4 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating 10mm and Friends - Sweep Compatibility and Pip-Boy 2000 Hardcore Needs Patches for Uranium Fever.
 - DracoVampire786 for making AWSOMER patches for 10mm Pistol and Friends, AGE, DMT, Havasu Blues, NV Killer, and NV Bounties for Uranium Fever.
 - Pr0bability for making a NVLORR/Enhanced Landscape - Sandy Roads Compatibility Patch.
+- DarkSolarLegend for extensively testing the compatibility of various different versions.
