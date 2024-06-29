@@ -214,7 +214,7 @@
 - Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever - Steam\ModOrganizer.exe`/`C:\Modding\Uranium Fever - GOG\ModOrganizer.exe`.
+- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever\ModOrganizer.exe`.
 - When prompted that your INIs are read only, select `Clear the Read Only Flag`.
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
@@ -234,11 +234,11 @@
 > You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression and binary patching of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
-- Copy `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands`.
+- Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG/Epic Games Fallout 3 installation path` (this should be auto-configured).
-- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
-- **Enter** `C:\Modding\Uranium Fever - Steam\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
+- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
+- **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
 - When complete, close the `Installer`.
 
@@ -257,7 +257,7 @@
 - Select `Replace` when prompted `Mod Exists`.
 
 ## 4GB Patcher
-- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
 
 > [!warning]
 > Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
@@ -279,7 +279,7 @@
 - Open `Virus & Threat Protection`.
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- `Add exclusions` for `C:\Modding\Uranium Fever - Steam`/`C:\Modding\Uranium Fever - GOG` and `C:\Modding\Wabbajack`.
+- `Add exclusions` for `C:\Modding\Uranium Fever`/`C:\Modding\Uranium Fever - GOG` and `C:\Modding\Wabbajack`.
 - This process will also need to be replicated for any third-party antivirus.
   
 ## Disabling Steam Overlay
@@ -306,10 +306,10 @@
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
 	- Vulkan-less GPU users:
 		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
+		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
@@ -333,7 +333,7 @@
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function).
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is > 0.05 LOWER than your monitors refresh rate.
@@ -368,12 +368,12 @@
 > This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
 - Confirm that the game launches and runs appropriately before following this step.
-- Navigate to `C:\Modding\Uranium Fever - Steam\downloads`/`C:\Modding\Uranium Fever - GOG\downloads`.
+- Navigate to `C:\Modding\Uranium Fever\downloads`/`C:\Modding\Uranium Fever - GOG\downloads`.
 - `Delete` the `downloads folder`.
 
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
-- Navigate to `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and reapply `FNVpatch.exe`.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` and reapply `FNVpatch.exe`.
 
 # <p align=center>Mod Feature Quick Reference List</p>
 <details><summary>
@@ -551,7 +551,7 @@ Expand
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - Pink Screen - Why do I see pink transition screens when the game loads?
-	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever - Steam\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` folder).
+	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`/`C:\Modding\Uranium Fever - GOG\[NoDelete] Stock New Vegas` folder).
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - Selecting Perks - I cannot select a perk. Why?
