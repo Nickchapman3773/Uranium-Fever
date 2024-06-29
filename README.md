@@ -271,7 +271,7 @@
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
 
-## Creating Exclusions
+## Creating Antivirus Exclusions
 > [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
  
