@@ -115,10 +115,9 @@
 	- Steam, Steam PCR, Steam Cut German, GOG, and Epic Games versions **ARE** supported by Mod Organizer 2.
 	- Mod Organizer 2 **DOES NOT** support Windows Store or Gamepass Versions.
 - Windows 10 or higher (64-bit).
-- <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++</a>.
-	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
-- <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">DirectX Runtime Libraries</a>.
+- <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++ Runtime Libraries</a>.
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
+	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
 - The latest driver versions for your GPU.
 - An archiving tool - We recommend <a href="https://www.7-zip.org/" onclick="window.open('https://www.7-zip.org/', '_self');">7-zip</a>.
 - A text editor - We recommend <a href="https://notepad-plus-plus.org/downloads/v8.6.7/" onclick="window.open('https://notepad-plus-plus.org/downloads/v8.6.7/', '_self');">Notepad++</a>.
