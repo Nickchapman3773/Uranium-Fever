@@ -350,7 +350,7 @@
 > Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes.
 > AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following RTSS section.
 
-- `Navigate` to GeForce Experience settings and `turn off NVIDIA overlay` (found in settings > General > In-Game Overlay), as the overlay will cause a black screen when used in conjunction with Special K.
+- `Navigate` to GeForce Experience settings and `turn off NVIDIA overlay` (found in settings > General > In-Game Overlay), as the overlay can cause various bugs.
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
 - `Extract` the downloaded archive into your downloads folder.
 - `Open` the `SpecialK` folder.
@@ -377,7 +377,7 @@
 - Type `Fallout` into the `search bar` and `select Fallout - New Vegas` from the options.
 - Locate `GSYNC Application mode` under the `2. Sync and Refresh` section.
 - On the right, open the drop down menu and `select Fullscreen and Windowed`
-- `Click APply Changes` in the top right.
+- `Click Apply Changes` in the top right.
 
 > [!caution]
 > G-Sync in Fallout: New Vegas is prone to visual bugs. If you encounter visual bugs, please disable G-Sync rather than request support.
