@@ -231,7 +231,7 @@
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
 >
-> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression and binary patching of base game files, which needs to be run on the copy of Fallout: New Vegas provided by Uranium Fever.
+> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which needs to be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`/`C:\Modding\Uranium Fever - GOG\mods\[NoDelete] Tale of Two Wastelands`.
