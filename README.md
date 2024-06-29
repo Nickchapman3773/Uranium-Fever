@@ -188,17 +188,17 @@
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not impact any other modded installation of Fallout: New Vegas.
 
-- `Navigate` to the Fallout New Vegas installation `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games` and **MOVE** the FalloutNV folder to your desktop. `Delete` the Fallout 3 folder.
-	- This will be the Steam/GOG/Epic Games installation backup. Delete the Fallout 3 folder. **IF** you do not currently have another modded instance, simply `delete` the `FalloutNV` folder
-- Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the FalloutNV folder to your desktop. `Delete` the Fallout 3 folder.
+- `Navigate` to the Fallout New Vegas installation `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games` and `**MOVE**` the `FalloutNV` folder to your desktop. `Delete` the `Fallout 3` folder.
+	- This will be the Steam/GOG/Epic Games installation backup. **IF** you do not currently have another modded instance, simply `delete` the `FalloutNV` folder.
+- Navigate to `C:\Users\USERNAME\Documents\My Games` and `**MOVE**` the `FalloutNV` folder to your desktop. `Delete` the `Fallout 3` folder.
 	- This will be the settings and saves backup for your previously modded instance. **IF** you do not currently have another modded instance, simply `delete` the `FalloutNV` folder.
-- `Uninstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG/Epic Games.
-- `Reinstall` both Fallout: New Vegas and Fallout 3 in Steam/GOG/Epic Games.
-- `Navigate` to your new **CLEANLY** installed Fallout: New Vegas installation folder (`C:\steam\steamapps\common\Fallout New Vegas`/`C:\Program Files (x86)\GOG Galaxy\Games\Fallout New Vegas`/`C:\Program Files\Epic Games\Fallout New Vegas`).
+- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
+- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
+- `Navigate` to your new **CLEANLY** installed `Fallout: New Vegas` installation folder (`C:\steam\steamapps\common\Fallout New Vegas`/`C:\Program Files (x86)\GOG Galaxy\Games\Fallout New Vegas`/`C:\Program Files\Epic Games\Fallout New Vegas`).
 - `Copy` **ALL** of the contents from this folder (click anywhere inside the folder, press Ctrl+A, then Ctrl+C) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-- After successfully copying these files, restore your backed up files.
-	- `Move your Fallout New Vegas folder` back into `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games`, selecting `Replace` when prompted.
-	- `Move your FalloutNV folder` back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+- After successfully copying these files, `restore` the backed up files.
+	- `Move` your `Fallout New Vegas` folder from your desktop back into `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games`, selecting `Replace` when prompted.
+	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
 > [!warning]
 > These steps are **CRITICAL** to creating a clean version for the Uranium Fever installation.
