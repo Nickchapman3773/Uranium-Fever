@@ -1,6 +1,6 @@
 <p align=center>The Uranium Fever Team presents:</p>
 
-# <p align=center>**Uranium Fever** <br> <span style="font-size:0.25em;">A Hardcore Wabbajack Modlist for Tale of Two Wastelands</span></p>
+# <p align=center>**Uranium Fever** - A Hardcore Wabbajack Modlist for Tale of Two Wastelands</p>
 **Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
 
 >[!IMPORTANT]
