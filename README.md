@@ -229,6 +229,9 @@
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 - Close the `launcher`.
 
+> [!important]
+> Steam PCR users should navigate to the executable settings (the two gears in the top left of MO2), click Uranium Fever Launcher, check the "Overwrite Steam AppID box, and enter 22490 into the corresponding field.
+
 ## Installing Tale of Two Wastelands (TTW)
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
@@ -594,6 +597,7 @@ Expand
 	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+- Reloading - 
 - Runtime Error - Why am i getting a runtime error when I try to launch Uranium Fever?
 	- It is likely that you launched MO2 prior to creating your Stock New Vegas folder. Run the Uranium Fever installer again, and it will autocorrect this. You do not have to repeat any Stock New Vegas steps.
 - Selecting Perks - I cannot select a perk. Why?
