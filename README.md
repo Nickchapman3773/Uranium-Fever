@@ -139,7 +139,7 @@
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, do NOT open it.
-- Create another folder named `Uranium Fever` depending on which platform you own the games on, then open it.
+- Create another folder named `Uranium Fever`, then open it.
 - Create a folder named `downloads`.
 
 > [!warning]
