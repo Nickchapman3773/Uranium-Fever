@@ -396,7 +396,7 @@
 - After starting a new game, open the pause menu and press K to see the Keybinds and associated legend. More details are included below in the Mod Feature Quick Reference List section.
 
 > [!note]
-> A desktop shortcut can be created by selecting the `Shortcut` option in the top right of MO2 (next to Run) and selecting `Desktop`. However, this will **NEED** to be re-created every time you update Uranium Fever.
+> A desktop shortcut can be created by selecting the `Shortcut` option in the top right of MO2 (next to Run) and selecting `Desktop`.
 
 ## Optional Performance Profile
 > [!tip]
