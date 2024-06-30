@@ -354,7 +354,7 @@
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
 - `Extract` the downloaded archive into your downloads folder.
 - `Open` the `SpecialK` folder.
-- `Move SpecialK32.dll` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- `Rename SpecialK32.dll` to `dinput8.dll` and `move` it into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - `Download` the <a href="https://performance.moddinglinked.com/files/sk.zip" onclick="window.open('https://performance.moddinglinked.com/files/sk.zip', '_self');">Viva New Vegas Preconfigured Settings Archive</a>.
 - `Extract` the newly downloaded `SK.zip` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - `Launch` Uranium Fever (launch instructions are included below).
