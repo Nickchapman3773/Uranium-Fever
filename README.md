@@ -216,7 +216,7 @@
 - Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
-- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever\ModOrganizer.exe`.
+- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
 - When prompted that your INIs are read only, select `Clear the Read Only Flag`.
 - If you see a prompt stating that `FalloutNV_lang.esp` was found, select `Yes`.
 - If you see a prompt to `register`, select `Yes`.
