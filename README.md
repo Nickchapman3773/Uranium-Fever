@@ -142,7 +142,7 @@
 - Create another folder named `Uranium Fever`, then open it.
 - Create a folder named `downloads`.
 
-> [!warning]
+> [!important]
 > After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
 ## Downloading Wabbajack
@@ -165,7 +165,7 @@
 
 ## Installing Uranium Fever
 > [!important]
-> Testers, please **IGNORE** the coded portion of these instructions until formal release of Uranium Fever.
+> Testers, **IGNORE** the coded portion of these instructions until formal release of Uranium Fever.
 
 ```
 - Open the settings cogwheel in Wabbajack and log into your Nexus account.
@@ -205,7 +205,7 @@
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
 > [!caution]
-> The game **WILL NOT** work if these steps are followed incorrectly.
+> The game **WILL NOT** function if these steps are followed incorrectly.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
@@ -235,8 +235,9 @@
 ## Installing Tale of Two Wastelands (TTW)
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
->
-> You **MUST** use the TTW Installer. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which needs to be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder.
+
+> [!warning]
+> The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Copy `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
@@ -248,11 +249,11 @@
 - When complete, close the `Installer`.
 
 > [!caution]
-> The game **WILL NOT WORK** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation provided in the [NoDelete] Stock New Vegas folder.
+> The game **WILL NOT FUNCTION** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation created inside of the [NoDelete] Stock New Vegas folder.
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
-> This mod is **REQURIED** for the standard Uranium Fever profile, though disabled in the Performance Profile.
+> This mod is **REQURIED** for installation, though disabled in the Performance Profile.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
@@ -264,7 +265,7 @@
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
 
-> [!warning]
+> [!caution]
 > Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
 
 ## Disable Base Address Randomization 
@@ -303,10 +304,10 @@
   
 ## About DXVK
 > [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory usage. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > `[NoDelete] Stock New Vegas`. To avoid crashes, AMD users who REMOVE DXVK will **NEED** to `downgrade graphics card drivers` to <a href="https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html" onclick="window.open('https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-WIN-23-40-33-03.html', '_self');">Version 23.40.33.03</a>. This can be accomplished by first running the <a href="https://www.amd.com/en/support/kb/faq/gpu-601" onclick="window.open('https://www.amd.com/en/support/kb/faq/gpu-601', '_self');">AMD Cleanup Utility</a>.
+> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory usage. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > `[NoDelete] Stock New Vegas`.
 
 > [!warning]
-> ONLY perform the following steps if your game crashes before fully booting up.
+> **ONLY** perform the following steps if your game crashes before fully booting up and you have one of the mentioned graphics cards.
 
 - MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
 	- Intel iGPU users:
@@ -399,13 +400,13 @@
 
 ## Optional Performance Profile
 > [!tip]
-> This is an OPTIONAL step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
+> This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
  
 ## Optional Clean Up
 > [!tip]
-> This is an OPTIONAL step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
+> This is an **OPTIONAL** step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
 - Confirm that the game launches and runs appropriately before following this step.
 - Navigate to `C:\Modding\Uranium Fever\downloads`.
@@ -413,6 +414,7 @@
 
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
+- If prompted, repeat the `Launching Mod Organizer 2 (MO2)` and `Configuring Game Settings` sections.
 
 # <p align=center>Mod Feature Quick Reference List</p>
 <details><summary>
