@@ -185,7 +185,7 @@
 
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
-> This process allows for the creation of a completely **SELF-CONTAINED** installation that does not impact any other modded installation of Fallout: New Vegas.
+> This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
 > By default, the following `platform installation folder` is located at `C:\steam\steamapps\common`/`C:\Program Files (x86)\GOG Galaxy\Games`/`C:\Program Files\Epic Games`.
 
