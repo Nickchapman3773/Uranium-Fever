@@ -160,12 +160,12 @@
    	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download', '_self');">Mobile Truck Base Sorting Add On</a>.
 	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 
-> [!warning]
-> Failure to complete this step will prevent the Uranium Fever Installer from installing succesfully.
+> [!caution]
+> Failure to complete this step will result in a **FAILED** Uranium Fever installation.
 
 ## Installing Uranium Fever
-> [!Note]
-> Testers, please ignore the coded portion of these instructions until formal release of Uranium Fever.
+> [!important]
+> Testers, please **IGNORE** the coded portion of these instructions until formal release of Uranium Fever.
 
 ```
 - Open the settings cogwheel in Wabbajack and log into your Nexus account.
