@@ -395,8 +395,8 @@
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 - After starting a new game, open the pause menu and press K to see the Keybinds and associated legend. More details are included below in the Mod Feature Quick Reference List section.
 
-> [!note]
-> A desktop shortcut can be created by selecting the `Shortcut` option in the top right of MO2 (next to Run) and selecting `Desktop`.
+> [!Caution]
+> **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
 ## Optional Performance Profile
 > [!tip]
