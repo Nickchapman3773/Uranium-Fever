@@ -445,6 +445,8 @@ Expand
 - Clear Gun Jam:
 	- Preemptively performs a jam animation in order to reduce the odds of a weapon jam occurring when next firing.
 	- Hold Grab (G) and press Reload (R).
+- Crouch:
+	- Press Left Ctrl.
 - Drop Item from Inventory:
 	- Open Inventory, mouse over desired item, Right Click.
 - Equip Sets:
@@ -517,7 +519,7 @@ Expand
 	- Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
 	- Mouse over target weapon, press Activate (E), select desired mod, select Yes.
 - Prone:
-	- Hold Crouch (C).
+	- Hold Crouch (Left Ctrl).
 - Purchase Items on Display:
 	- Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
 	- Mouse over desired vendor owned item to see price, press Activate (E), select Yes.
