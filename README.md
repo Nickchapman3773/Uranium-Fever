@@ -204,8 +204,8 @@
 	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
-> [!warning]
-> These steps are **CRITICAL** to creating a clean version for the Uranium Fever installation.
+> [!caution]
+> The game **WILL NOT** work if these steps are followed incorrectly.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
