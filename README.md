@@ -578,6 +578,8 @@ Expand
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- We do not support alterations of the list.
+- Armor - Why does my armor keep changing itself?
+	- This is how the Equip Sets mod works. It allows you to have different gear auto equip when your weapon is either holstered or drawn. It does this by equipping the last gear you were wearing in that state. This is present to facilitate things like faster movement when your weapon is holstered, radiation resistance when your weapon is holstered, etc.
 - Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?
 	- No! Uranium Fever is entirely self contained and seperate from your normal Fallout installations!
 - Crashing - I am crashing, what can I do to fix it?
@@ -615,6 +617,8 @@ Expand
 	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill points you input into a tagged skill increases it by two.
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
+- Stealing - I cant steal because oft the Purchase on Display mod. How do I fix this?
+	- Crouch and you can still steal these items!
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
 	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG/Epic Games Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
