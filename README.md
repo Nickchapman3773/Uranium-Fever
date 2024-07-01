@@ -263,10 +263,12 @@
 - Select `Replace` when prompted `Mod Exists`.
 
 ## Running 4GB Patcher
-- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!`.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- Steam and GOG users: Run `FNVpatch.exe`, which will be followed by a confirmatory CMD prompt popup saying `FalloutNV.exe patched!` and `FalloutNV_backup.exe` should now have appeared in the folder..
+	- Epic Game Users: Run `Patcher.exe`. `FalloutNV_backup.exe` should now have appeared in the folder.
 
 > [!caution]
-> Failure to run FNVpatch.exe will result in a pink screen and a **NON-FUNCTIONAL** game.
+> Failure to run patch the game for 4gb will result in a pink screen and a **NON-FUNCTIONAL** game.
 
 ## Disable Base Address Randomization 
 > [!Tip]
