@@ -555,7 +555,7 @@ Expand
 - View Weapon Stats:
 	- Mouse over desired weapon, press Grab (G).
 - Vision Mode:
-	- Variable vision modes contingent on the headgear being used.
+	- Variable vision modes for compatible headgear.
 	- Powered by a universal charge stored in the Pip-Boy, but ultimately derived from Small Energy Cells.
 	- Hold Grab (G) and press Flashlight (Tab).
 - Weapon Based Hand Clip Distance:
