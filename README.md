@@ -659,7 +659,8 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - Conzo for making custom setting patches for multiple mods in the list.
-- DoktorAkcel for allowing the inclusion of his PipBoy 2000 Static Remover Patch that has not been formally uploaded.
+- DoktorAkcel for creating several custom patches for Uranium Fever and squashing a tremendous amount of bugs.
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating 10mm and Friends - Sweep Compatibility and Pip-Boy 2000 Hardcore Needs Patches for Uranium Fever.
 - DracoVampire786 for making AWSOMER patches for 10mm Pistol and Friends, AGE, DMT, Havasu Blues, NV Killer, and NV Bounties for Uranium Fever.
 - Pr0bability for making a NVLORR/Enhanced Landscape - Sandy Roads Compatibility Patch for Uranium Fever.
+- DarkSolarLegend for doing a substantial amount of Uranium Fever related troubleshooting, as well as contributing to the instruction editing process.
