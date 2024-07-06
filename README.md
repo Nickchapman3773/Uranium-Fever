@@ -461,9 +461,6 @@ Expand
 	- Press Left Ctrl.
 - Drop Item from Inventory:
 	- Open Inventory, mouse over desired item, Right Click.
-- Equip Sets:
-	- Provides two different equipment presets, one for use with your weapon holstered, and one for use with your weapon drawn.
-	- When holstering or drawing your weapon, you will automatically be switched to the last equipment you were wearing when when your weapon was previously in that position.
 - Equip Weapon Mod:
 	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
 - Forced Entry:
@@ -580,8 +577,6 @@ Expand
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- We do not support alterations of the list.
-- Armor - Why does my armor keep changing itself?
-	- This is how the Equip Sets mod works. It allows you to have different gear auto equip when your weapon is either holstered or drawn. It does this by equipping the last gear you were wearing in that state. This is present to facilitate things like faster movement when your weapon is holstered, radiation resistance when your weapon is holstered, etc.
 - Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?
 	- No! Uranium Fever is entirely self contained and seperate from your normal Fallout installations!
 - Crashing - I am crashing, what can I do to fix it?
