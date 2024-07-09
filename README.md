@@ -47,7 +47,7 @@
 - Sweet Consumables - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
 - Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
 - Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
-- SPARE Sweet Part and Ammo Rebalance and Expansion - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent naming scheme, a transition to vendor sold boxes of ammo, and economy improvements.
+- SPARE Sweet Part and Ammo Rebalance and Expansion - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent ammo naming scheme, a transition to vendor carried boxes of ammo, and general ammo-centric economy improvements.
 - SWEEP Sweet Weapon Enhancement and Expansion Package - A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
 - Sweet Dynamic Detection System - Enhances NPCs ability to detect the player at longer distances, functionally nerfing sniping.
 - Simple AI Merge - A long-term collection of AI improvements made by one of the game’s leading engine experts. This mod makes combat far more engaging.
