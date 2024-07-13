@@ -387,7 +387,7 @@
 - `Click` the `Profiles` drop down menu near the top of the page.
 - Type `Fallout` into the `search bar` and `select Fallout - New Vegas` from the options.
 - Locate `GSYNC Application mode` under the `2. Sync and Refresh` section.
-- On the right, open the drop down menu and `select Fullscreen and Windowed`
+- On the right, open the drop down menu and `Fullscreen Only (Default)`
 - `Click Apply Changes` in the top right.
 
 > [!caution]
@@ -646,8 +646,8 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - DarkSolarLegend for extensively testing the compatibility of various different versions and helping with phrasing and accuracy of portions of the installation instructions.
 - InTheGrave and Shabby Pirate for extensive advising on compression and BSA packing to optimize the list.
-- Vish for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
-- Wall and Vish for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
+- Ungeziefi for ample troubleshooting in both wabbajack creation and mod organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
+- Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - My broken ram for making the compilation process a little extra spicy.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth, B42 Quickthrow, and B42 Inspect.
