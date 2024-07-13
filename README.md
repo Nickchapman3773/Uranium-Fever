@@ -65,7 +65,7 @@
 - Universal Water Bottling - Allows the player to fill empty bottles from any water source. This facilitates harsher dehydration consequences while also adding extra resource availability to ameliorate said needs.
 - Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant lockpicking and hacking minigames in favor of holding a hotkey with pre-determined odds of success. This mod generally decreases minigame success rates, making associated resources more impactful.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
-- Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Many mods included in Uranium Fever have items specifically placed and balanced for use with this mod.
+- Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors. Many mods included in Uranium Fever have ispecifically placed and balanced items for use with this mod.
 
 ## Comprehensive Overhauls
 - Functional Post Game Ending - Adds a fully functional, post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought to the credits after beating the game.
