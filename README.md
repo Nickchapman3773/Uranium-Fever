@@ -59,7 +59,7 @@
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
 ## Functions
-- Bad Touch - Adds consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
+- Bad Touch - Adds realistic consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Forced Entry - Allows the player to bypass locks by attacking them. This forces the player to choose between using different scarce resources (lockpicks, ammo, or melee weapon condition) to open locks.
 - Universal Water Bottling - Allows the player to fill empty bottles or canteens from any water source. This facilitates harsher H2O consumption settings and consequences, while also adding resource availability to ameliorate said hardcore needs.
