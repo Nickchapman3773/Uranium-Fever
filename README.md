@@ -94,7 +94,7 @@
 
 ## Sound
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
-- Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified that they were spotted by enemies.
+- Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
 ## Animation & Visual
 - 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
