@@ -580,6 +580,8 @@ Expand
 	- No! Uranium Fever is entirely self contained and seperate from your normal Fallout installations!
 - Crashing - I am crashing, what can I do to fix it?
 	- Post your crashlog (found in the Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs folder) in the Uranium Fever Support channel on discord (link provided above).
+- Dialogue Skill Indicator - Why can't I see the dialogue skill check like I can in the original version of the game?
+	- This is an intentional choice to prevent the player from knowing if they will pass a skill check or not.
 - Disabled Mods - Should all of the mods that say (IP) after them be disabled?
 	- Yes. IP is Uranium Fever's shorthand for Internally Patched, meaning the patch has been merged into the Uranium Fever Master Patch. Because they were used as a resource, these mods remain included so that the authors received the recognition they deserve.
 - Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?
