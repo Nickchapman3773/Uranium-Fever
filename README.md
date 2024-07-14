@@ -70,7 +70,7 @@
 ## Comprehensive Overhauls
 - Functional Post Game Ending - Adds a fully functional, post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
-- Uncut Wastelands - Restores a massive amount of scenery, items, and NPCs that were patched out of the game following initial release.
+- Uncut - Restores a massive amount of scenery, items, NPCs, and quests that were patched out of the game following initial release.
 - The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
 - Sweet Pain - Adds many intense and unique locations throughout the game, all packed with lore and excitement.
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
