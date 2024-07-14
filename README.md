@@ -76,7 +76,7 @@
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
 - AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters, and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC, including rebalancing, new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
-- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, affecting many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. Also includes an overhaul of Point Lookout to make it more appropriate for lower leveled gameplay.
+- EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, including many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. EDGE also comprehensively overhauls the Point Lookout DLC, making it a much more appropriate early game experience.
 
 ## Dialogue Overhauls
 - Brave New World - A near complete professional revoicing of NPCs throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
