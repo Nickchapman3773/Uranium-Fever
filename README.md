@@ -74,7 +74,7 @@
 - The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
 - Sweet Pain - Adds many intense and unique locations throughout the game, all packed with lore and excitement.
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
-- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters,and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
+- AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters, and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC including rebalancing and new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, affecting many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. Also includes an overhaul of Point Lookout to make it more appropriate for lower leveled gameplay.
 
