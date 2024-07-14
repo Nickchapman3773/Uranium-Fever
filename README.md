@@ -97,7 +97,7 @@
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
 ## Animation & Visual
-- 3rd Person Camera Overhaul - Adds modernized camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
+- 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 - Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
 - Titans of the New West - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
 - Simple Night Vision - Integrates high-quality, balanced night vision and thermal vision to select headgear.
