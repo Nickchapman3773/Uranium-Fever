@@ -113,7 +113,7 @@
 # <p align=center>Requirements</p>
 - Legally purchased copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
 	- Steam, Steam PCR, Steam Cut German, GOG, and Epic Games versions **ARE** compatible.
-	- Windows Store and Gamepass versions are **incompatible**.
+	- Windows Store and Gamepass versions **ARE NOT** compatible.
 - Windows 10 or higher (64-bit).
 - <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++ Runtime Libraries</a>.
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
