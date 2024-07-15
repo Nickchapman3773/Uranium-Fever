@@ -181,7 +181,7 @@
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
 - If a red `Installation Failed` screen appears, repeat the above steps.
-- Close `Wabbajack`.
+- Close Wabbajack.
 
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
