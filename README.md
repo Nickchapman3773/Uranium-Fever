@@ -210,7 +210,7 @@
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
-- Exit the `launcher`.
+- Close the launcher.
 - Launch` Fallout 3` from `Steam/GOG/Epic Games`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
@@ -227,7 +227,7 @@
 - Select the `Ultra Preset`.
 - Uncheck the `Windowed` option, then select your monitor's `resolution`.
 - If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
-- Close the `launcher`.
+- Close the launcher.
 
 > [!important]
 > Steam PCR users should navigate to the `executable settings` (the two gears in the top left of MO2), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
@@ -246,7 +246,7 @@
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **Enter** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` into the `Tale of Two Wastelands Installation Path`. 
 - Click `Install`.
-- When complete, close the `Installer`.
+- When complete, close the Installer.
 
 > [!caution]
 > The game **WILL NOT FUNCTION** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation created inside of the [NoDelete] Stock New Vegas folder.
