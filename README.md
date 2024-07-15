@@ -209,11 +209,11 @@
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
-- Click `OK` when prompted `Detecting Video Hardware`.
+- Click `OK` when prompted with `Detecting Video Hardware`.
 - Exit the `launcher`.
 - Launch` Fallout 3` from `Steam/GOG/Epic Games`.
-- Click `OK` when prompted `Detecting Video Hardware`.
-- Close the `launcher`.
+- Click `OK` when prompted with `Detecting Video Hardware`.
+- Close the launcher.
 
 ## Launching Mod Organizer 2 (MO2)
 - Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
