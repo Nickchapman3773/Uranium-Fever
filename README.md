@@ -119,8 +119,8 @@
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
 - <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
 - The latest driver versions for your GPU.
-- An archiving tool - We recommend <a href="https://www.7-zip.org/" onclick="window.open('https://www.7-zip.org/', '_self');">7-zip</a>.
-- A text editor - We recommend <a href="https://notepad-plus-plus.org/downloads/v8.6.7/" onclick="window.open('https://notepad-plus-plus.org/downloads/v8.6.7/', '_self');">Notepad++</a>.
+- An archiving tool - <a href="https://www.7-zip.org/" onclick="window.open('https://www.7-zip.org/', '_self');">7-zip</a> is recommended.
+- A text editor - <a href="https://notepad-plus-plus.org/downloads/v8.6.7/" onclick="window.open('https://notepad-plus-plus.org/downloads/v8.6.7/', '_self');">Notepad++</a> is recommended.
 - A <a href="https://users.nexusmods.com/register" onclick="window.open('https://users.nexusmods.com/register', '_self');">Nexus Mods account</a> - Premium subscription is **HIGHLY** recommended, otherwise ~1,000 mods will need to be manually downloaded.
 - A <a href="https://mod.pub/account/register" onclick="window.open('https://mod.pub/account/register', '_self');">ModPub account</a>.
 - A <a href="https://discord.com/register" onclick="window.open('https://discord.com/register', '_self');">Discord account</a>.
