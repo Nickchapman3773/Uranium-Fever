@@ -161,7 +161,7 @@
 	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
 
 > [!caution]
-> Failure to complete this step will result in a **FAILED** Uranium Fever installation.
+> This is a **REQUIRED** step.
 
 ## Installing Uranium Fever
 > [!important]
