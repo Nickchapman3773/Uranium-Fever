@@ -176,7 +176,7 @@
 - Once finished, hit the play button (which has now replaced the download button).
 ```
 - Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
-- Under `Resource Download Location`, `C:\Modding\Uranium Fever\downloads` should now have auto-populated.
+- Under `Resource Download Location`, the filepath `C:\Modding\Uranium Fever\downloads` should now auto-populate.
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
