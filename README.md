@@ -209,10 +209,10 @@
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
-- Click `OK` to the pop-up saying `Detecting Video Hardware`.
+- Click `OK` to the `Detecting Video Hardware` pop-up.
 - Exit the `launcher`.
 - Launch` Fallout 3` from `Steam/GOG/Epic Games`.
-- Click `OK` to the pop-up saying `Detecting Video Hardware`.
+- Click `OK` to the `Detecting Video Hardware` pop-up.
 - Close the `launcher`.
 
 ## Launching Mod Organizer 2 (MO2)
