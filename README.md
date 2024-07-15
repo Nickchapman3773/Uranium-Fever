@@ -107,8 +107,8 @@
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
 - Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
-- New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphical extender that injects various new effects into the game. Helios utilizes this framework to make uniquely customized and independent world space visuals. This is, arguably, the most beautiful aesthetic expression available for Fallout.
-- Desert Natural Weathers - A complete overhaul of the weathers of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weathers.
+- New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphics extender that injects various new shaders and effects into the game. Helios utilizes this framework to uniquely and individually customize the aesthetic of each world space and all interiors.
+- Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
 
 # <p align=center>Requirements</p>
 - Legally purchased copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
