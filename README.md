@@ -149,8 +149,8 @@
 ## Downloading Wabbajack
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
-- Run `Wabbajack.exe`. This will automatically install `Wabbajack`.
-- Close `Wabbajack`.
+- Run `Wabbajack.exe`. This will automatically install Wabbajack.
+- Close Wabbajack.
 
 ## Manual Downloads
 - Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
