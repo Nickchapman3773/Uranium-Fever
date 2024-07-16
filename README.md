@@ -199,7 +199,7 @@
 - `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (some platforms complete this step automatically).
 - `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
 - `Navigate` to the new **CLEAN** `Fallout: New Vegas` folder (located inside of the `game library folder`).
-- `Copy` **ALL** of the contents from inside of the `Fallout: New Vegas` folder (click anywhere inside the folder, press Ctrl+A to highlight all files, then Ctrl+C to copy all files) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (click anywhere inside the folder and press Ctrl+V to paste the copied files).
+- `Copy` **ALL** of the contents from inside of the `Fallout: New Vegas` folder (click anywhere inside the folder, press Ctrl+A to highlight all files, then Ctrl+C to copy all files) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (click anywhere inside the folder and press Ctrl+V to paste all copied files).
 - After successfully pasting these files, `restore` the files that were previously backed up.
 	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
