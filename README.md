@@ -271,7 +271,7 @@
 > [!caution]
 > Failure to run patch the game for 4gb will result in a pink screen and a **NON-FUNCTIONAL** game.
 
-## <p align=center>Linux Installation Instructions</p>
+## Linux Installation Instructions
 <details><summary>
 Expand
 </summary>
