@@ -305,7 +305,7 @@ These instructions are intentionally less specific than the rest of the guide. L
 	- The game should now launch appropriately. Prior to starting a new game, go into settings, open `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
 
 Caveats:
-- MO2s Nexus Handler does not work. As Uranium Fever is updated, you will have to install said updates manually.
+- MO2's Nexus Handler does not work. As Uranium Fever is updated, you will have to install said updates manually.
 - Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
  </details>
 
