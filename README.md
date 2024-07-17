@@ -276,8 +276,7 @@
 Expand
 </summary>
 
-> [!caution]
-> These instructions are intentionally less specific than the rest of the guide. Linux users must have a higher aptitude for troubleshooting in order to make Uranium Fever run on the operating system. Support will not be provided for the Linux installation process.
+These instructions are intentionally less specific than the rest of the guide. Linux users must have a higher aptitude for troubleshooting in order to make Uranium Fever run on the operating system. Support will not be provided for the Linux installation process.
 
 - Requirements:
 	- Windows - Access to windows via a seperate installation or a virtual machine is required for the installation process.
@@ -304,9 +303,9 @@ Expand
 - Repeat the `Configuring Game Settings` section of the non-Linux installation instructions.
 - The game should now launch appropriately. Prior to starting a new game, go into settings, open `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
 
-> [!note]
-> - MO2s Nexus Handler does not work. As Uranium Fever is updated, you will have to install said updates manually.
-> - Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
+Caveats:
+- MO2s Nexus Handler does not work. As Uranium Fever is updated, you will have to install said updates manually.
+- Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
  </details>
 
 ## Disable Base Address Randomization 
