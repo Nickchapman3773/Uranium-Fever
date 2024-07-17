@@ -276,7 +276,6 @@
 Expand
 </summary>
 
-</details>
 > [!caution]
 > These instructions are intentionally less specific than the rest of the guide. Linux users must have a higher aptitude for troubleshooting in order to make Uranium Fever run on the operating system. Support will not be provided for the Linux installation process.
 
