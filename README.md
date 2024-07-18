@@ -280,7 +280,7 @@ These instructions are intentionally less specific than the rest of the guide. L
 
 - Requirements:
 	- Windows - Access to windows via a seperate installation or a virtual machine is required for the installation process.
- 	- Lutnris, Libstrangle, Steam, and SteamTinkerLaunch are also required.
+ 	- Lutris, Libstrangle, Steam, and SteamTinkerLaunch are also required.
 
 - Instructions: 
 	- Follow the rest of the Uranium Fever Installation Instructions **ON WINDOWS** up until the `Disable Base Address Randomization` section.
