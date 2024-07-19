@@ -259,7 +259,7 @@
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
 - Select the `NVR download` from your `Downloads folder`.
-- Name it `[NoDelete] NVR`.
+- Name it `[NoDelete] NVR (PV)`.
 - Select `Replace` when prompted `Mod Exists`.
 
 ## Running 4GB Patcher
