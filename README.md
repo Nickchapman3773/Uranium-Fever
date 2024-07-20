@@ -228,7 +228,7 @@
 - Close the launcher.
 
 > [!important]
-> Steam PCR users should navigate to the `executable settings` (the two gears in the top left of MO2), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
+> Steam PCR users should navigate to the `executable settings` (marked by the gear icon at the top left toolbar of MO2), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
 
 ## Installing Tale of Two Wastelands (TTW)
 > [!important]
