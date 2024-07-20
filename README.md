@@ -271,7 +271,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > [!caution]
 > Failure to run patch the game for 4gb will result in a pink screen and a **NON-FUNCTIONAL** game.
 
-## Linux Installation Instructions
+## Installing on Linux
 <details><summary>
 Expand
 </summary>
@@ -311,7 +311,7 @@ Caveats:
 - If you encounter any problems, you can launch Lutris via the terminal by typing in lutris -d to see the debug output.
  </details>
 
-## Disable Base Address Randomization 
+## Disabling Base Address Randomization 
 > [!Tip]
 > This step can prevent unforeseen crashes.
 
@@ -345,10 +345,7 @@ Caveats:
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
   
-## About DXVK
-> [!tip]
-> DXVK can yield a significant performance boost, though can also cause visual artifacting and increased memory usage. If crashing frequently, REMOVE `d3d9.dll` and `dxvk.conf` from the Uranium Fever > `[NoDelete] Stock New Vegas`.
-
+## Lack of Vulkan Support or Intel iGPU Users - Installing DXVK
 > [!warning]
 > **ONLY** perform the following steps if your game crashes before fully booting up and you have one of the mentioned graphics cards.
 
@@ -375,7 +372,7 @@ Caveats:
 - Navigate to `Steam > steamapps > 22380` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
-## AMD Graphics Card Users - RivaTuner Statistics Server (RTSS)
+## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
 > [!tip]
 > FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
 > 
@@ -394,7 +391,7 @@ Caveats:
 - Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
 - Minimize RTSS back to the System Tray.
 
-## NVIDIA Graphics Card Users - Special K
+## NVIDIA Graphics Card Users - Installing Special K
 > [!tip]
 > FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
 >
@@ -419,7 +416,7 @@ Caveats:
 - `Double Left Click` on the bar and type in 59.995, and `press enter`.
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, though this is beyond the scope of Uranium Fever configuration.
 
-## NVIDIA G-Sync Users
+## NVIDIA G-Sync Users - Enabling G-Sync Compatibility
 > [!tip]
 > G-Sync windowed should **NEVER** be enabled globally, but has to be configured for Fallout: New Vegas, as the game is technically run in windowed mode.
 
@@ -442,13 +439,13 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
-## Optional Performance Profile
+## Optional - Enabling the Performance Profile
 > [!tip]
 > This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
  
-## Optional Clean Up
+## Optional - Storage Space Clean Up
 > [!tip]
 > This is an **OPTIONAL** step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
 
@@ -606,7 +603,7 @@ Expand
 	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
  </details>
 
-# <p align=center>FAQ</p>
+# <p align=center>Frequently Asked Questions</p>
 <details><summary>
 Expand
 </summary>
@@ -675,7 +672,7 @@ Expand
 
 Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
 
-# <p align=center>Credits/Thanks</p>
+# <p align=center>Credits & Thanks</p>
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, Stentorious, Very, and DarkSolarLegend for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
@@ -684,7 +681,7 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
-- thebigchungoose for making and troubleshooting Linux installation instructions for Uranium Fever.
+- thebigchungoose for making and troubleshooting the Linux installation instructions for Uranium Fever.
 - InTheGrave and Shabby Pirate for extensive advising on optimizing, compression, and BSA packing for list, as well as advising on many other aspects.
 - Ungeziefi for ample troubleshooting in both Wabbajack creation and Mod Organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
