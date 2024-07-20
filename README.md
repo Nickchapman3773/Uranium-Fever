@@ -205,9 +205,6 @@
 	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
-> [!caution]
-> The game **WILL NOT** function if these steps are followed incorrectly.
-
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
@@ -237,9 +234,6 @@
 > [!important]
 > This mod is **REQUIRED** for Uranium Fever to function properly.
 
-> [!warning]
-> The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
-
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG/Epic Games Fallout 3 installation path` (this should be auto-configured).
@@ -248,8 +242,8 @@
 - Click `Install`.
 - When complete, close the Installer.
 
-> [!caution]
-> The game **WILL NOT FUNCTION** if you fail to change the Fallout New Vegas installation file path to reflect the New Vegas installation created inside of the [NoDelete] Stock New Vegas folder.
+> [!warning]
+> The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
