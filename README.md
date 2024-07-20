@@ -8,7 +8,7 @@
 >Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 # <p align=center>The Uranium Fever Team</p>
-Without the input and assistance of the Uranium Fever team, this modlist would not have been possible. These individuals have helped in ample ways, including, but not limited to, vetting the mods included in the list, advising on associated settings, consulting on technical aspects of the list, making custom patches to enhance the Uranium Fever experience, and assisting with troubleshooting.
+Without the input and assistance of the Uranium Fever team, this modlist would not have been possible. These individuals have contributed in ample ways, including, but not limited to, vetting the included mods, advising on associated settings, assisting with optimization, consulting on technical aspects, creating custom patches, and assisting with troubleshooting.
 
 - Sweet6Shooter
 - Salamand3r
