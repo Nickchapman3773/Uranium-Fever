@@ -231,7 +231,7 @@
 > Steam PCR users should navigate to the `executable settings` (marked by the gear icon at the top left toolbar of MO2), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
 
 ## Installing Tale of Two Wastelands (TTW)
-> [!important]
+> [!caution]
 > This mod is **REQUIRED**.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
@@ -246,7 +246,7 @@
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
   
 ## Installing New Vegas Reloaded (NVR)
-> [!important]
+> [!caution]
 > This mod is **REQURIED** for installation, although it is disabled in the Performance Profile.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
