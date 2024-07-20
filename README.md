@@ -155,7 +155,7 @@
 
 ## Manual Downloads
 > [!caution]
-> These mods are **REQUIRED** for Uranium Fever to function properly.
+> These mods are **REQUIRED**.
 
 - Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
@@ -232,7 +232,7 @@
 
 ## Installing Tale of Two Wastelands (TTW)
 > [!important]
-> This mod is **REQUIRED** for Uranium Fever to function properly.
+> This mod is **REQUIRED**.
 
 - Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
@@ -247,7 +247,7 @@
   
 ## Installing New Vegas Reloaded (NVR)
 > [!important]
-> This mod is **REQURIED** for installation, though disabled in the Performance Profile.
+> This mod is **REQURIED** for installation, although it is disabled in the Performance Profile.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
