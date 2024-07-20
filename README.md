@@ -144,7 +144,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > - An Optional Performance Profile is discussed below for those with weaker computers.
 
 # <p align=center>Setup Instructions</p>
-## Creating Appropriate File Paths
+## Creating Necessary File Paths
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, **DO NOT** open it.
