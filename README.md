@@ -1,16 +1,23 @@
 # <p align=center>**Uranium Fever** </p>
 ## <p align=center>A Hardcore Wabbajack Modlist for Tale of Two Wastelands</p>
-**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
-
->[!IMPORTANT]
->***Thank you for helping test Uranium Fever!***
->
->The following is a ***work in progress*** introduction to Uranium Fever. This document and Uranium Fever itself will undergo further revision prior to formal release. **Please share any constructive feedback pertaining to these instructions or Uranium Fever itself in the appropriate Uranium Fever discord channels (links provided below).**
+**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, modernization, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
 
 >[!CAUTION]
 >**Trigger Warning:**
 >
 >Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
+
+# <p align=center>The Uranium Fever Team</p>
+Without the input and assistance of the Uranium Fever team, this modlist would not have been possible. These individuals have helped in ample ways, including, but not limited to, vetting the mods included in the list, advising on associated settings, consulting on technical aspects of the list, making custom patches to enhance the Uranium Fever experience, and assisting with troubleshooting.
+
+- Sweet6Shooter
+- Salamand3r
+- Shabby Pirate
+- Norvito
+- StrikeXV
+- Stentorious
+- Very
+- DarkSolarLegend
 
 # <p align=center>Features</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
