@@ -254,7 +254,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
   
 ## Installing New Vegas Reloaded (NVR)
 > [!caution]
-> This mod is a Uranium Fever installation **REQUIREMENT**, although it is disabled in the Performance Profile.
+> This mod is a Uranium Fever installation **REQUIREMENT**, though NVR disabled in the Performance Profile.
 
 - Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
