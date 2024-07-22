@@ -276,7 +276,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 Expand
 </summary>
 
-Linux inherently requires above average operating system knowledge and troubleshooting capability. As such, these instructions are less specific. Support **WILL NOT** be provided for the Linux installation process.
+Linux inherently requires above average operating system knowledge and troubleshooting capacity. As such, these instructions are less specific. Support **WILL NOT** be provided for the Linux installation process.
 
 - Requirements:
 	- Windows - Access to windows via a seperate installation or a virtual machine.
