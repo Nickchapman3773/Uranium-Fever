@@ -319,7 +319,7 @@ Caveats:
 - Open `Windows Security` from the `Start Menu`.
 - Open `App & Browser Control` in the left sidebar.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
-- Set `Force Randomization for Images (Mandatory ASLR`) to `Use Default (Off)`.
+- Set `Force Randomization for Images (Mandatory ASLR)` to `Use Default (Off)`.
 
 ## Creating Antivirus Exclusions
 > [!tip]
