@@ -294,9 +294,9 @@ Linux inherently requires above average operating system knowledge and troublesh
 	- `Open the Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters`. Then, `enable fontsmooth-rgb` in winetricks' settings.
 	- `Move your Uranium Fever folder into the Fallout: New Vegas wine prefix folder`, preferably next to the Fallout: New Vegas folder.
 	- Right click the Uranium Fever profile and:
-		- Go to the `Runner Options tab` and `change the runner to wine-ge`.
- 		- Go to the `Game Options tab` and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever folder`.
-  		- Go to the `System Options tab`, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
+		- In the `Runner Options tab` and `change the runner to wine-ge`.
+ 		- In the `Game Options tab` and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever folder`.
+  		- In the `System Options tab`, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
 	- In command prefix, type `strangle YOUR FPS LIMIT`.
 	- `Launch Uranium Fever` through Lutris. This will open MO2.
 	- In MO2:
