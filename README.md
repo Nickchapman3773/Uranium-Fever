@@ -309,7 +309,7 @@ Linux inherently requires above average operating system knowledge and troublesh
 Caveats:
 - MO2's Nexus Handler does not work. As Uranium Fever is updated, corresponding updates will need to be installed manually.
 - Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
-- If problems are encountered, launch Lutris via the terminal by typing in lutris -d. This will show the debug output.
+- If problems are encountered, launch Lutris with debug output via the terminal by typing in lutris -d.
  </details>
 
 ## Disabling Base Address Randomization 
