@@ -285,7 +285,7 @@ Linux inherently requires above average operating system knowledge and troublesh
 - Instructions: 
 	- Follow the Uranium Fever Installation Instructions **ON WINDOWS** up until the `Disable Base Address Randomization` section.
 	- `Copy` the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
-	- `Open Lutris`, click the plus arrow, then search for and install `Fallout New Vegas`.
+	- `Open Lutris`, click the plus arrow, then search for and install `Fallout: New Vegas`.
 		- Take note of the installation location.
 		- `Test Fallout: New Vegas` to ensure it functions prior to proceeding.
 	- `Install MO2` via `stl`.
