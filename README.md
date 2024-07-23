@@ -297,12 +297,12 @@ Linux inherently requires above average operating system knowledge and troublesh
 		- In the `Runner Options tab` and `change the runner to wine-ge`.
  		- In the `Game Options tab` and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever folder`.
   		- In the `System Options tab`, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
-	- In command prefix, type `strangle YOUR FPS LIMIT`.
-	- `Launch Uranium Fever` through Lutris. This will open MO2.
+	- In command prefix, type `strangle 60`.
+	- `Launch Uranium Fever` through Lutris to open MO2.
 	- In MO2:
-		- Open the MO2 settings, navigate to `Paths`, then `Managed Games`. Ensure this path reflects the `Stock New Vegas folder`.
+		- In the MO2 settings, navigate to `Paths`, then `Managed Games`. Ensure this path reflects the `Stock New Vegas folder`.
  		- Change the `Executable Path` for `Uranium Fever Launcher` and `Uranium Fever` to reflect the corresponding `executables in the Stock New Vegas folder`.
-  		- Edit `falloutcustom.ini` and `add iPresentInterval=0 under [Display]`.
+  		- Open `falloutcustom.ini` and `add iPresentInterval=0 under [Display]`.
 	- Repeat the `Configuring Game Settings` section of the Windows installation instructions.
 	- The game should now launch appropriately. Prior to starting a new game, open settings, then `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
 
