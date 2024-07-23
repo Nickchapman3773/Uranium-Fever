@@ -291,8 +291,8 @@ Linux inherently requires above average operating system knowledge and troublesh
 	- `Install MO2` via `SteakTinkerLaunch`.
 	- `Locate the SteamTinkerLaunch installation of MO2` and `copy its wine prefix folder over to Lutris'` **WITHOUT** overwriting any files.
 	- In Lutris, right click Fallout: New Vegas, `duplicate its folder`, and `name it Uranium Fever`.
-	- `Open the Uranium Fever installations winetricks`, click on `install a dll/component`, and `add lavfilters`. Then, `enable fontsmooth-rgb` in winetricks' settings.
-	- `Move your Uranium Fever folder into Fallout: New Vegas's wine prefix folder`, preferably next to the Fallout: New Vegas folder.
+	- `Open the Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters`. Then, `enable fontsmooth-rgb` in winetricks' settings.
+	- `Move your Uranium Fever folder into the Fallout: New Vegas wine prefix folder`, preferably next to the Fallout: New Vegas folder.
 	- Right click the Uranium Fever profile and:
 		- Go to the `Runner Options tab` and `change the runner to wine-ge`.
  		- Go to the `Game Options tab` and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever folder`.
