@@ -288,7 +288,7 @@ Linux inherently requires above average operating system knowledge and troublesh
 	- `Open Lutris`, click the plus arrow, then search for and install `Fallout: New Vegas`.
 		- Take note of the installation location.
 		- `Test Fallout: New Vegas` to ensure it functions prior to proceeding.
-	- `Install MO2` via `stl`.
+	- `Install MO2` via `SteakTinkerLaunch`.
 	- `Locate the SteamTinkerLaunch installation of MO2` and `copy its wine prefix folder over to Lutris'` **WITHOUT** overwriting any files.
 	- In Lutris, right click Fallout: New Vegas, `duplicate its folder`, and `name it Uranium Fever`.
 	- `Open the Uranium Fever install's winetricks`, click on `install a dll/component`, and `add lavfilters`. Then, `enable fontsmooth-rgb` in winetricks' settings.
