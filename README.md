@@ -191,6 +191,9 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close Wabbajack.
 
+> [!warning]
+> Let the installation **FINISH** prior to moving on.
+
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
