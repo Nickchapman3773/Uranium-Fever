@@ -140,7 +140,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - SSD required.  NVMe SSD recommended.  At least 165gb of free space is required.
 
 > [!note]
-> - An Optional Clean Up step is discussed below for those concerned about the large installation size.
+> - A Storage Space Clean Up section is included below for those concerned about the large installation size.
 > - An Optional Performance Profile is discussed below for those with weaker computers.
 
 # <p align=center>Setup Instructions</p>
@@ -443,23 +443,23 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
-## Optional - Enabling the Performance Profile
+## Storage Space Clean Up
 > [!tip]
-> This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
-
-- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
- 
-## Optional - Storage Space Clean Up
-> [!tip]
-> This is an **OPTIONAL** step to remove unneeded files from your computer. This will make the updating or reinstalling process take longer, as these files will need to be re-downloaded.
+> This is a step to remove unneeded files from your computer. Deleted files will **NOT** need to be redownloaded when updating Uranium Fever.
 
 - Confirm that the game launches and runs appropriately before following this step.
 - Navigate to `C:\Modding\Uranium Fever\downloads`.
 - `Delete` the `downloads folder`.
 
+## Optional - Enabling the Performance Profile
+> [!tip]
+> This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
+
+- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
+
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
-- If prompted, repeat the `Launching Mod Organizer 2 (MO2)` and `Configuring Game Settings` sections.
+- If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
 
 # <p align=center>Mod Feature Quick Reference List</p>
 <details><summary>
