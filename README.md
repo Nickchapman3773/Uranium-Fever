@@ -402,7 +402,7 @@ Caveats:
 > Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes.
 > AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following RTSS section.
 
-- `Navigate` to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen if used alongside Special K.
+- `Navigate` to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen and game crash if used alongside Special K.
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
 - `Extract` the downloaded archive into your downloads folder.
 - `Open` the `SpecialK` folder.
