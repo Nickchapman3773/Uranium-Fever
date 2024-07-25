@@ -192,7 +192,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - Close Wabbajack.
 
 > [!warning]
-> Let the installation **FINISH** prior to moving on.
+> Let the installation **FINISH** prior to starting the following sections.
 
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
