@@ -250,7 +250,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Click `Install`.
-- When complete, close the Installer.
+- Once complete, close the Installer.
 
 > [!warning]
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
@@ -352,14 +352,15 @@ Caveats:
 ## Intel iGPU Users or GPUs Lacking Vulkan Support - Installing DXVK
 > [!warning]
 > **ONLY** perform the following steps if your game crashes before fully booting up and you have one of the mentioned graphics cards.
+>
+> MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
 
-- MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
-	- Intel iGPU users:
-		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-	- Vulkan-less GPU users:
-		- Navigate to the `Uranium Fever > DXVK folder`.
-		- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+- Intel iGPU users:
+	- Navigate to the `Uranium Fever > DXVK folder`.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+- Vulkan-less GPU users:
+	- Navigate to the `Uranium Fever > DXVK folder`.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
