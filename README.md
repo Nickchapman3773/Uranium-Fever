@@ -367,7 +367,7 @@ Caveats:
 > DXVK Cache Storage is known to cause memory related crashes. This process prevents DXVK from creating a cache.
 
 - Press the `windows button`.
-- Type `Env` in the search bar, and click `Edit the system environmental variables` that pops up.
+- Type `Env` in the search bar, and click `Edit the system environmental variables`.
 - Click `Environmental Variables`.
 - Click `New` under `User variables for USER NAME`.
 - Type `DXVK_STATE_CACHE` into the `Variable name`.
