@@ -421,21 +421,6 @@ Caveats:
 - `Double Left Click` on the bar and type in 59.995, and `press enter`.
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, though this is beyond the scope of Uranium Fever configuration.
 
-## NVIDIA G-Sync Users - Enabling G-Sync Compatibility
-> [!tip]
-> G-Sync windowed should **NEVER** be enabled globally, but has to be configured for Fallout: New Vegas, as the game is technically run in windowed mode.
-
-- Download <a href="https://github.com/Orbmu2k/nvidiaProfileInspector/releases/latest" onclick="window.open('https://github.com/Orbmu2k/nvidiaProfileInspector/releases/latest', '_self');">NVIDIA Profile Inspector</a>.
-- `Extract nvidiaProfileInspector.zip` and `run nvidiaProfileInspector.exe`.
-- `Click` the `Profiles` drop down menu near the top of the page.
-- Type `Fallout` into the `search bar` and `select Fallout - New Vegas` from the options.
-- Locate `GSYNC Application mode` under the `2. Sync and Refresh` section.
-- On the right, open the drop down menu and `Fullscreen Only (Default)`
-- `Click Apply Changes` in the top right.
-
-> [!caution]
-> G-Sync in Fallout: New Vegas is prone to visual bugs. If you encounter visual bugs, please disable G-Sync rather than request support.
-
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
