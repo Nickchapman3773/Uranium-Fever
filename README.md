@@ -349,7 +349,7 @@ Caveats:
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
   
-## Intel iGPU Users or GPUs Lacking Vulkan Support - Installing DXVK
+## Intel iGPU Users and GPUs Lacking Vulkan Support - Downgrading DXVK to a Compatible Version
 > [!warning]
 > **ONLY** perform the following steps if your game crashes before fully booting up and you have one of the mentioned graphics cards.
 >
