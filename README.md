@@ -357,10 +357,10 @@ Caveats:
 
 - Intel iGPU users:
 	- Navigate to the `Uranium Fever > DXVK folder`.
-	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 - GPUs without Vulkan support:
 	- Navigate to the `Uranium Fever > DXVK folder`.
-	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ## Disabling DXVK Cache Storage
 > [!tip]
