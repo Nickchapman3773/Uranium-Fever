@@ -349,11 +349,11 @@ Caveats:
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
   
-## Intel iGPU Users and GPUs Lacking Vulkan Support - Downgrading DXVK to a Compatible Version
+## Intel iGPU Users and GPUs Lacking Vulkan Support - Downgrading DXVK
 > [!warning]
-> **ONLY** perform the following steps if your game crashes before fully booting up and you have one of the mentioned graphics cards.
+> The most recent version of DXVK comes bundled with Uranium Fever.
 >
-> MOST users will not have to follow these instructions. The most updated version of DXVK has already been **pre-installed** in Uranium Fever. Those with older graphics cards (Intel iGPU or no Vulkan functionality) should follow these instructions if unable to launch the game:
+> Intel iGPUs and older GPUs that lack Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
 
 - Intel iGPU users:
 	- Navigate to the `Uranium Fever > DXVK folder`.
