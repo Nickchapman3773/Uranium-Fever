@@ -349,16 +349,16 @@ Caveats:
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
   
-## Intel iGPU Users and GPUs Lacking Vulkan Support - Downgrading DXVK
+## Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK
 > [!warning]
 > The most recent version of DXVK comes bundled with Uranium Fever.
 >
-> Intel iGPUs and older GPUs that lack Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
+> Intel iGPUs and older GPUs without Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
 
 - Intel iGPU users:
 	- Navigate to the `Uranium Fever > DXVK folder`.
 	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-- Vulkan-less GPU users:
+- GPUs without Vulkan support:
 	- Navigate to the `Uranium Fever > DXVK folder`.
 	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into the game's Root folder at `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 
