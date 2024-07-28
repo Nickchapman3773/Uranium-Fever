@@ -414,7 +414,10 @@ Caveats:
 > RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
-- Open the `System Tray` (the expandable menu on the right side of the taskbar) and click the `RTSS monitor icon`.
+- Open the `System Tray` and click the `RTSS icon`.
+
+	![RTSS Icon](https://github.com/user-attachments/assets/3a671fec-04ab-495a-a39c-5bbbbc04b551)
+
 - Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
 - Set `Application Detection Level` to `Low`.
@@ -474,9 +477,8 @@ Caveats:
 > [!tip]
 > This is a step to remove unneeded files from your computer. Deleted files will **NOT** need to be redownloaded when updating Uranium Fever.
 
-- Confirm that the game launches and runs appropriately before following this step.
-- Navigate to `C:\Modding\Uranium Fever\downloads`.
-- `Delete` the `downloads folder`.
+- Confirm that the game launches and runs appropriately **BEFORE** following this step.
+- Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
 
 ## Optional - Enabling the Performance Profile
 > [!tip]
