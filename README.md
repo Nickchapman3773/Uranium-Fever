@@ -374,7 +374,11 @@ Caveats:
 - Type `disable` into the `Variable value`.
 - Click `OK`.
 - Exit `Environmental Variables`.
-- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
+- Delete any existing DXVK Cache:
+	- Steam Users:
+		- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
+  	- GOG Users: **Please let me know the appropriate filepath for GOG!**
+	- Epic Users: **Please let me know the appropriate filepath for Epic Games!**
 - Restart your computer for this to take effect.
 
 ## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
