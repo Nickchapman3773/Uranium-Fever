@@ -696,4 +696,4 @@ Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever c
 - DracoVampire786 for making custom AWSOMER patches for many mods included in Uranium Fever.
 - Pr0bability for making multiple custom patches for Uranium Fever, as well as advising on many aspects of the list.
 
-![Test](https://www.nexusmods.com/newvegas/mods/66726?tab=logs)
+[Test](https://www.nexusmods.com/newvegas/mods/66726?tab=logs)
