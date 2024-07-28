@@ -248,7 +248,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - Close the launcher.
 
 > [!important]
-> Steam PCR users should navigate to the `executable settings` (![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083)
+> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083
 ), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
 	
 ## Installing Tale of Two Wastelands (TTW)
