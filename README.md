@@ -389,7 +389,7 @@ Caveats:
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is at least 0.05 LOWER than your monitors refresh rate.
+	- The set framerate should be consistently achievable without significant troughs. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
 - Enter settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
 - Set `Framerate Limiter` to `Front Edge Sync`.
