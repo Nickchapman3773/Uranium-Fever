@@ -336,6 +336,8 @@ Caveats:
 - Open `App & Browser Control` in the left sidebar.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR)` to `Use Default (Off)`.
+![image](https://github.com/user-attachments/assets/bb6ae60d-225c-488c-bfe3-bbb36f5fe864)
+
 
 ## Creating Antivirus Exclusions
 > [!tip]
