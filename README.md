@@ -241,15 +241,19 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 
 ## Configuring Game Settings
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
-- Click `Run`, then navigate to `Options`.
-- Select the `Ultra Preset`.
+- Click `Run`.
+
+	![Launcher](https://github.com/user-attachments/assets/b2d0a6a7-21b1-4e21-8878-59fbe7969f2d)
+
+- Navigate to `Options` then select the `Ultra Preset`.
 - Uncheck the `Windowed` option, then select your monitor's `resolution`.
-- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
-- Close the launcher.
+	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
+- Click OK and close the launcher.
+
+	![Game Settings](https://github.com/user-attachments/assets/82b7c41d-4d98-4911-a1d6-5426c6938020)
 
 > [!important]
-> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083
-), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
+> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
 	
 ## Installing Tale of Two Wastelands (TTW)
 > [!caution]
@@ -261,7 +265,10 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Click `Install`.
-- Once complete, close the Installer.
+
+	![TTW Install](https://github.com/user-attachments/assets/560da706-ba6b-4450-8225-ea43d9aa1741)
+
+- Once complete and the confirmation screen is visualized, close the Installer.
 
 > [!warning]
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
@@ -472,11 +479,14 @@ Caveats:
 	![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
 
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, as this is beyond the scope of Uranium Fever configuration.
+	- G-Sync will be compatible without changing any settings.
 
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
-- After starting a new game, open the pause menu and press K to see the Keybinds and associated legend. More details are included below in the Mod Feature Quick Reference List section.
+- After starting a new game, open the pause menu and `press K` to see the `Keybinds and associated legend`. More details are included below in the Mod Feature Quick Reference List section.
+
+	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
