@@ -433,6 +433,9 @@ Caveats:
 > Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
 
 - `Navigate` to the NVIDIA app settings and `turn off` the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
+
+	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
+
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
 - `Extract` the downloaded archive into your downloads folder and `open` the extracted `SpecialK` folder.
 - `Rename SpecialK32.dll` to `dinput8.dll`.
