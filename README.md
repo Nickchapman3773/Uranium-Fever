@@ -348,6 +348,9 @@ Caveats:
 - Click `Manage Settings` under `Virus & Threat Protection Settings`.
 - Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
 - `Add exclusions` for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
+
+	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
+
 - This process will also need to be replicated for any third-party antivirus.
   
 ## Disabling Steam Overlay
