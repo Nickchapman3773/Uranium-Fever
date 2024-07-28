@@ -504,8 +504,13 @@ Caveats:
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
 
+	![Performance](https://github.com/user-attachments/assets/388b653f-2e6f-4374-bc17-85e71e4d8921)
+
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
+
+	![Updating](https://github.com/user-attachments/assets/7eebbac4-a24c-45e5-ac28-e312382527f3)
+
 - If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
 
 # <p align=center>Mod Feature Quick Reference List</p>
@@ -721,7 +726,9 @@ Expand
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
 
-Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+- Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+
+	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
 # <p align=center>Credits & Thanks</p>
 - The Uranium Fever Team: Sweet6Shooter, Salamand3r, Shabby Pirate, Norvito, StrikeXV, Stentorious, Very, and DarkSolarLegend for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
