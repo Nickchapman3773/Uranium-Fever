@@ -393,7 +393,7 @@ Caveats:
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-	- The set framerate should be consistently achievable without significant troughs. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
+	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
 - Enter settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
 - Set `Framerate Limiter` to `Front Edge Sync`.
@@ -406,23 +406,28 @@ Caveats:
 >
 > Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
 
-- `Navigate` to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen and game crash if used alongside Special K.
+- `Navigate` to the NVIDIA app settings and `turn off` the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
-- `Extract` the downloaded archive into your downloads folder.
-- `Open` the `SpecialK` folder.
+- `Extract` the downloaded archive into your downloads folder and `open` the extracted `SpecialK` folder.
 - `Rename SpecialK32.dll` to `dinput8.dll`.
 - `Move` the newly renamed `dinput8.dll` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - `Download` the <a href="https://performance.moddinglinked.com/files/sk.zip" onclick="window.open('https://performance.moddinglinked.com/files/sk.zip', '_self');">Viva New Vegas Preconfigured Settings Archive</a>.
 - `Extract` the newly downloaded `SK.zip` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- `Launch` Uranium Fever (launch instructions are included below).
-- `Select Yes` when prompted to enable DXVK support/vulkan bridge, then `relaunch` the game.
+- `Launch` Uranium Fever (launch instructions are provided below).
+- `Select Yes` when prompted to `enable DXVK support/vulkan bridge`, then `relaunch` the game.
 - Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
-- Under the `Framerate Limiter`, click the `Enable Framerate Limit` checkbox.
-- `Right click the bar next to Framerate Limit` (the one that specifies fps and says `(Limit Engaged)`, NOT the graph).
-- `Select` your monitors refresh rate.
-- `Click Advanced` and select `Latent Sync (VSYNC -off-) mode`.
-- `Double Left Click` on the bar and type in 59.995, and `press enter`.
-- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, though this is beyond the scope of Uranium Fever configuration.
+- Under the `Framerate Limiter`, `check` the `Enable Framerate Limit` checkbox.
+![image](https://github.com/user-attachments/assets/03895f36-c525-41b9-804f-d631c02c8ce1)
+- `Right click` `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
+- In the submenu, `check` the `Latent Sync` checkbox.
+- In the `Scan Mode` dropdown, select your `monitors refresh rate`.
+![image](https://github.com/user-attachments/assets/094e3748-a815-48e8-b96b-47ced9240341)
+- `Click Advanced` and ensure `Latent Sync (VSYNC -off-) mode` is selected (it should default to this setting, **but please confirm this with me as you go through these steps, after which I can remove this line**).
+![image](https://github.com/user-attachments/assets/8070fa9b-5f92-4991-a895-e3dab299d40e)
+- `Double Left Click` the `FPS Limit Bar`, `enter 59.995`, and `press enter`.
+	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
+![image](https://github.com/user-attachments/assets/5dd6daa5-ab0b-4474-8531-43f176e71844)
+- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, as this is beyond the scope of Uranium Fever configuration.
 
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
