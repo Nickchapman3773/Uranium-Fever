@@ -379,10 +379,9 @@ Caveats:
 
 ## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
 > [!tip]
-> FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+> FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
 > 
-> RTSS is the recommended option for AMD graphics card users. Special K lacks compatibility with the combination of AMD graphics cards and DXVK.
-> NVIDIA graphics card users **WILL** have memory related crashes if following this section instead of the following Special K section.
+> RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
@@ -398,10 +397,9 @@ Caveats:
 
 ## NVIDIA Graphics Card Users - Installing Special K
 > [!tip]
-> FPS limiters can make the game feel much smoother. The theory behind this is that running at a stable and unchanging 60 FPS is less jarring to the user than rapidly fluctuating between 50 to 100 FPS. This also prevents the timescale desync that can occur if the FPS surpasses your monitors refresh rate.
+> FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
 >
-> Special K is the recommended option for NVIDIA graphics card users. RTSS is not able to configure flip and interop appropriately, which causes a large amount of memory related crashes.
-> AMD graphics card users **WILL NOT** be able to launch the game if following this section instead of the following RTSS section.
+> Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
 
 - `Navigate` to the NVIDIA app settings and `turn off NVIDIA overlay`, as the overlay will cause a black screen and game crash if used alongside Special K.
 - `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
