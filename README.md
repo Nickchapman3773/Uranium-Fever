@@ -385,7 +385,8 @@ Caveats:
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` (the triangle pointing upwards on the bottom right corner of the taskbar) and click the `RTSS icon` (an image of a computer screen) to open it.
-- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (as long as RTSS detects ANY instance of `FalloutNV.exe` it will function appropriately).
+- Press the green `Add` button and select `FalloutNV.exe` from your `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- RTSS will detect any running instance of `FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- Uranium Fever is a graphically intense Wabbajack list. Some users may be able to set higher Framerate Limits, though ensure that the Framerate Limit is at least 0.05 LOWER than your monitors refresh rate.
