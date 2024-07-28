@@ -397,6 +397,9 @@ Caveats:
 - Type `disable` into the `Variable value`.
 - Click `OK`.
 - Exit `Environmental Variables`.
+
+	![Cache](https://github.com/user-attachments/assets/6bb4cd54-1c6f-4e91-b3ff-006cd95576f7)
+
 - Delete any existing DXVK Cache:
 	- Steam Users:
 		- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
