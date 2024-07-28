@@ -416,18 +416,26 @@ Caveats:
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
 - Open the `System Tray` and click the `RTSS icon`.
 
-	![RTSS Icon](https://github.com/user-attachments/assets/3a671fec-04ab-495a-a39c-5bbbbc04b551)
+	![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
 
-- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, then click `ok`.
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
+
+ 	![RTSS FNV](https://github.com/user-attachments/assets/919f29bc-f03b-4046-a6ff-28592d39f2d8)
+
+- `Select FalloutNV.EXE`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
-- Enter settings using the `Setup` button.
+
+	![RTSS Frame](https://github.com/user-attachments/assets/207a3a1c-f1b5-4e85-9239-6ad9814ae4bf)
+
+- Enter the settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
 - Set `Framerate Limiter` to `Front Edge Sync`.
-- Optionally enable `On-Screen Display Support` and use the `X,Y Coordinate Buttons` at the bottom to adjust On-Screen FPS display location.
-- Minimize RTSS back to the System Tray.
+- Select `OK` then **MINIMIZE** (not close) RTSS back to the System Tray.
+
+	![RTSS Setup](https://github.com/user-attachments/assets/77093977-26e5-41d1-9022-18291d78866c)
 
 ## NVIDIA Graphics Card Users - Installing Special K
 > [!tip]
