@@ -509,7 +509,7 @@ Caveats:
 # <p align=center>Updating Uranium Fever</p>
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
 
-	![Updating](https://github.com/user-attachments/assets/7eebbac4-a24c-45e5-ac28-e312382527f3)
+	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
 
 - If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
 
