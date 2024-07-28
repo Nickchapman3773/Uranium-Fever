@@ -214,6 +214,16 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - After successfully pasting these files, `restore` the files that were previously backed up.
 	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+- The clean [NoDelete] Stock New Vegas folder should now contain the following files. If any additional files are within this folder, **DELETE** the [NoDelete] Stock New Vegas folder, re-run the `Installing Uranium Fever` step, then `start this section over`.
+	- Steam - [NoDelete] Stock New Vegas file contents:
+   
+  	 ![Steam Stock](https://github.com/user-attachments/assets/5c1c1d4c-6bc8-4289-99de-de90610f889d)
+
+ 	- GOG - [NoDelete] Stock New Vegas file contents:
+
+	  ![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
+
+  	- Epic Games - [NoDelete] Stock New Vegas file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT, LIST CHANGE VIEW TO LIST!**
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
