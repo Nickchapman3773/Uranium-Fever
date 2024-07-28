@@ -417,16 +417,16 @@ Caveats:
 - `Select Yes` when prompted to `enable DXVK support/vulkan bridge`, then `relaunch` the game.
 - Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
 - Under the `Framerate Limiter`, `check` the `Enable Framerate Limit` checkbox.
-![image](https://github.com/user-attachments/assets/03895f36-c525-41b9-804f-d631c02c8ce1)
+![SK1](https://github.com/user-attachments/assets/860a3559-3335-465d-b6be-b9ad20a59ced)
 - `Right click` `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
 - In the submenu, `check` the `Latent Sync` checkbox.
 - In the `Scan Mode` dropdown, select your `monitors refresh rate`.
-![image](https://github.com/user-attachments/assets/094e3748-a815-48e8-b96b-47ced9240341)
+![SK2](https://github.com/user-attachments/assets/f013262c-26b3-423a-8650-6378ed05f7f7)
 - `Click Advanced` and ensure `Latent Sync (VSYNC -off-) mode` is selected (it should default to this setting, **but please confirm this with me as you go through these steps, after which I can remove this line**).
-![image](https://github.com/user-attachments/assets/8070fa9b-5f92-4991-a895-e3dab299d40e)
+![SK3](https://github.com/user-attachments/assets/6622d7c7-4014-41d7-965e-9aa9cd4d17fe)
 - `Double Left Click` the `FPS Limit Bar`, `enter 59.995`, and `press enter`.
 	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
-![image](https://github.com/user-attachments/assets/5dd6daa5-ab0b-4474-8531-43f176e71844)
+![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, as this is beyond the scope of Uranium Fever configuration.
 
 ## Launching The Game
