@@ -357,16 +357,21 @@ Caveats:
 > [!tip]
 > This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
  
-- Navigate to your `Steam Folder` (the same folder where your steam.exe is).
+- Navigate to your `Steam Folder` (the same folder where steam.exe is).
 - Right click `GameOverlayRenderer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
+  
+	![Steam Overlay 1](https://github.com/user-attachments/assets/49fdeabe-c964-4290-a28d-af6f06a9b1a9)
+
 - In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
-  
+
+	![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
+
 ## Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK
 > [!warning]
 > The most recent version of DXVK comes bundled with Uranium Fever.
