@@ -279,8 +279,10 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-	- Steam and GOG users: Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
-	- Epic Game Users: Run `Patcher.exe`. `FalloutNV_backup.exe` will appear in the folder.
+	- Steam and GOG users:
+ 		- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
+	- Epic Game Users:
+ 		- Run `Patcher.exe`. `FalloutNV_backup.exe` will appear in the folder.
 
 > [!caution]
 > Failure to run the correct patch will result in a pink screen when launching the game.
