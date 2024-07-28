@@ -384,7 +384,7 @@ Caveats:
 > RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
 
 - Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
-- Open the `System Tray` (the triangle pointing upwards on the bottom right corner of the taskbar) and click the `RTSS icon` (an image of a computer screen).
+- Open the `System Tray` (the expandable menu on the right side of the taskbar) and click the `RTSS monitor icon`.
 - Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- RTSS will detect any running instance of `FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
