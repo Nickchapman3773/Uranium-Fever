@@ -433,7 +433,7 @@ Caveats:
 
  	![RTSS FNV](https://github.com/user-attachments/assets/919f29bc-f03b-4046-a6ff-28592d39f2d8)
 
-- `Select FalloutNV.EXE`.
+- `Select FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
