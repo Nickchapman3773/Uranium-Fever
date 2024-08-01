@@ -137,7 +137,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
 - RAM - 16gb or higher required.  Dual channel recommended.
 - GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
-- SSD required.  NVMe SSD recommended.  At least 165gb of free space is required.
+- SSD required.  NVMe SSD recommended.  At least 140gb of free space is required.
 
 > [!note]
 > - A Storage Space Clean Up section is included below for those concerned about the large installation size.
