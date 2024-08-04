@@ -11,8 +11,6 @@
 Without the input and assistance of the Uranium Fever team, this modlist would not have been possible. These individuals have contributed in ample ways, including, but not limited to, vetting the included mods, advising on associated settings, assisting with optimization, consulting on technical aspects, creating custom patches, and assisting with troubleshooting.
 
 - Sweet6Shooter
-- Shabby Pirate
-- Norvito
 - StrikeXV
 - Stentorious
 - Very
@@ -733,12 +731,13 @@ Expand
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
 # <p align=center>Credits & Thanks</p>
-- The Uranium Fever Team: Sweet6Shooter, Shabby Pirate, Norvito, StrikeXV, Stentorious, Very, and DarkSolarLegend for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
+- The Uranium Fever Team: Sweet6Shooter, StrikeXV, Stentorious, Very, and DarkSolarLegend for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
 - Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
+- Norvito for vetting my countless half-baked thoughts.
 - Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
 - thebigchungoose for making and troubleshooting the Linux installation instructions for Uranium Fever.
