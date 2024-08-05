@@ -500,7 +500,7 @@ Caveats:
 
 ## Storage Space Clean Up
 > [!tip]
-> This is a step to remove unneeded files from your computer. Deleted files will **NOT** need to be redownloaded when updating Uranium Fever.
+> This is a step to remove unneeded files from your computer. Deleted files will **ONLY** need to be redownloaded if they have been **ALTERED** when updating Uranium Fever.
 
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
 - Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
