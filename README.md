@@ -152,10 +152,17 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
 ## Downloading Wabbajack
+> [!important]
+> Testers, **IGNORE** the coded portion of these instructions until formal release of Uranium Fever
+>
+> An experimental Wabbajack build that fixes a major BSA related bug is available [here](https://drive.google.com/file/d/1SPl9GkAzSEpDGbfJhXwlskVk6BRQz3r9/view?usp=drive_link).
+
+```
 - Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
 - Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
+```
 
 ## Manual Downloads
 > [!caution]
