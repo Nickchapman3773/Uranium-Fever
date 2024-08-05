@@ -30,7 +30,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
-# <p align=center><a href="https://loadorderlibrary.com/lists/uranium-fever" onclick="window.open('https://loadorderlibrary.com/lists/uranium-fever', '_self');">Full Uranium Fever Modlist</a></p>
+# <p align=center>[Full Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)</p>
 
 # <p align=center>Mod Highlights</p>
 ## UI
@@ -120,15 +120,15 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 	- Windows Store and Gamepass versions **ARE NOT** compatible.
 - Windows 10 or higher (64-bit).
 	- Uranium Fever is compatible with Linux, and specialized instructions are included below, though access to windows is still a **REQUIREMENT** for the installation process.
-- <a href="https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/" onclick="window.open('https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/', '_self');">Visual C++ Runtime Libraries</a>.
+- [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
-- <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer" onclick="window.open('https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer', '_self');">.NET Framework 4.8</a>.
+- [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - The latest driver versions for your GPU.
-- An archiving tool - <a href="https://www.7-zip.org/" onclick="window.open('https://www.7-zip.org/', '_self');">7-zip</a> is recommended.
-- A text editor - <a href="https://notepad-plus-plus.org/downloads/v8.6.7/" onclick="window.open('https://notepad-plus-plus.org/downloads/v8.6.7/', '_self');">Notepad++</a> is recommended.
-- A <a href="https://users.nexusmods.com/register" onclick="window.open('https://users.nexusmods.com/register', '_self');">Nexus Mods account</a> - Premium subscription is **HIGHLY** recommended, otherwise ~1,000 mods will need to be manually downloaded.
-- A <a href="https://mod.pub/account/register" onclick="window.open('https://mod.pub/account/register', '_self');">ModPub account</a>.
-- A <a href="https://discord.com/register" onclick="window.open('https://discord.com/register', '_self');">Discord account</a>.
+- An archiving tool - [7-zip](https://www.7-zip.org/) is recommended.
+- A text editor - [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/) is recommended.
+- A [Nexus Mods account](https://users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise ~1,000 mods will need to be manually downloaded.
+- A [ModPub account](https://mod.pub/account/register).
+- A [Discord account](https://discord.com/register).
 
 # <p align=center>Recommended Specs</p>
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
@@ -155,10 +155,10 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > [!important]
 > Testers, **IGNORE** the coded portion of these instructions until formal release of Uranium Fever
 >
-> An experimental Wabbajack build that fixes a major BSA related bug is available [here](https://drive.google.com/file/d/1SPl9GkAzSEpDGbfJhXwlskVk6BRQz3r9/view?usp=drive_link).
+> An experimental Wabbajack build that fixes a major BSA related bug is available [here](https://drive.google.com/file/d/1SPl9GkAzSEpDGbfJhXwlskVk6BRQz3r9/view?usp=drive_link). Extract the contents of this folder into `C:\Modding\Wabbajack`.
 
 ```
-- Download the <a href="https://www.wabbajack.org/" onclick="window.open('https://www.wabbajack.org/', '_self');">Wabbajack Installation file</a>.
+- Download the (https://www.wabbajack.org/)https://www.wabbajack.org/[Wabbajack Installation file].
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
 - Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
@@ -169,11 +169,11 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > These mods are Uranium Fever **REQUIREMENTS**.
 
 - Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
-	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download', '_self');">Ghouls</a>.
-	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download', '_self');">FeralGhoulsHD</a>.
-	- <a href="https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0', '_self');">Capital Wasteland Hideouts</a>.
-   	- <a href="https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download" onclick="window.open('https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download', '_self');">Mobile Truck Base Sorting Add On</a>.
-	- <a href="https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0" onclick="window.open('https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0', '_self');">Tammer</a>.
+	- [Ghouls](https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download).
+	- [FeralGhoulsHD](https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download).
+	- [Capital Wasteland Hideouts](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0).
+   	- [Mobile Truck Base Sorting Add On](https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download).
+	- [Tammer](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0).
 
 ## Installing Uranium Fever
 > [!important]
@@ -266,7 +266,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > [!caution]
 > This mod is a Uranium Fever **REQUIREMENT**.
 
-- Download the <a href="https://mod.pub/ttw/133/files" onclick="window.open('https://mod.pub/ttw/133/files', '_self');">3.3.2a Tale of Two Wastelands Installer</a> and `extract the contents of the archive`.
+- Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG/Epic Games Fallout 3 installation path` (this should be auto-configured).
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
@@ -284,7 +284,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > [!caution]
 > This mod is a Uranium Fever installation **REQUIREMENT**, though NVR is disabled in the Performance Profile.
 
-- Navigate to the <a href="https://discord.com/invite/r8EFG5YGBj" onclick="window.open('https://discord.com/invite/r8EFG5YGBj', '_self');">TES Reloaded Discord Server</a>.
+- Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
 - Select the `NVR download` from your `Downloads folder`.
@@ -427,7 +427,7 @@ Caveats:
 > 
 > RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
 
-- Install and launch <a href="https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download" onclick="window.open('https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download', '_self');">RTSS</a>.
+- Install and launch [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
 - Open the `System Tray` and click the `RTSS icon`.
 
 	![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
@@ -461,11 +461,11 @@ Caveats:
 
 	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
-- `Download` <a href="https://sk-data.special-k.info/SpecialK.7z" onclick="window.open('https://sk-data.special-k.info/SpecialK.7z', '_self');">Special K</a>.
+- `Download` [Special K](https://sk-data.special-k.info/SpecialK.7z).
 - `Extract` the downloaded archive into your downloads folder and `open` the extracted `SpecialK` folder.
 - `Rename SpecialK32.dll` to `dinput8.dll`.
 - `Move` the newly renamed `dinput8.dll` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- `Download` the <a href="https://performance.moddinglinked.com/files/sk.zip" onclick="window.open('https://performance.moddinglinked.com/files/sk.zip', '_self');">Viva New Vegas Preconfigured Settings Archive</a>.
+- `Download` the [Viva New Vegas Preconfigured Settings Archive](https://performance.moddinglinked.com/files/sk.zip).
 - `Extract` the newly downloaded `SK.zip` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - `Launch` Uranium Fever (launch instructions are provided below).
 - `Select Yes` when prompted to `enable DXVK support/vulkan bridge`, then `relaunch` the game.
@@ -485,7 +485,7 @@ Caveats:
    
 	![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
 
-- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the <a href="https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters" onclick="window.open('https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters', '_self');">Special K section of Wall's Performance Guide</a>, as this is beyond the scope of Uranium Fever configuration.
+- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), as this is beyond the scope of Uranium Fever configuration.
 	- G-Sync will be compatible without changing any settings.
 
 ## Launching The Game
@@ -733,7 +733,7 @@ Expand
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
 
-- Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in <a href="https://discord.gg/Uu6gZZSaeA" onclick="window.open('https://discord.gg/Uu6gZZSaeA', '_self');">Sweets Retreat</a>.
+- Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in (https://discord.gg/Uu6gZZSaeA)https://discord.gg/Uu6gZZSaeA[Sweets Retreat].
 
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
