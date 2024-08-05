@@ -733,7 +733,7 @@ Expand
 > [!warning]
 > Altered Uranium Fever lists ***WILL NOT*** be supported.
 
-- Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in (https://discord.gg/Uu6gZZSaeA)https://discord.gg/Uu6gZZSaeA[Sweets Retreat].
+- Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in (https://discord.gg/Uu6gZZSaeA)https://discord.gg/Uu6gZZSaeA)[Sweets Retreat].
 
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
