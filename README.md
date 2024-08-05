@@ -158,7 +158,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 > An experimental Wabbajack build that fixes a major BSA related bug is available [here](https://drive.google.com/file/d/1SPl9GkAzSEpDGbfJhXwlskVk6BRQz3r9/view?usp=drive_link). Extract the contents of this folder into `C:\Modding\Wabbajack`.
 
 ```
-- Download the (https://www.wabbajack.org/)https://www.wabbajack.org/[Wabbajack Installation file].
+- Download the (https://www.wabbajack.org/)[Wabbajack Installation file].
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
 - Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
