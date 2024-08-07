@@ -244,7 +244,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
 
-	![Launcher](https://github.com/user-attachments/assets/b2d0a6a7-21b1-4e21-8878-59fbe7969f2d)
+	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
 - Navigate to `Options` then select the `Ultra Preset`.
 - Uncheck the `Windowed` option, then select your monitor's `resolution`.
