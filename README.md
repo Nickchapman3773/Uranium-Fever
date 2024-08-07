@@ -137,7 +137,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - SSD required.  NVMe SSD recommended.  At least 140gb of free space is required.
 
 > [!note]
-> - A Storage Space Clean Up section is included below for those concerned about the large installation size.
+> - An Optional Storage Space Clean Up section is included below for those concerned about the large installation size.
 > - An Optional Performance Profile is discussed below for those with weaker computers.
 
 # <p align=center>Setup Instructions</p>
@@ -492,9 +492,9 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
-## Storage Space Clean Up
+## Optional Storage Space Clean Up
 > [!tip]
-> This is a step to remove unneeded files from your computer. Deleted files will **ONLY** need to be redownloaded if they have been **ALTERED** when updating Uranium Fever.
+> This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
 
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
 - Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
