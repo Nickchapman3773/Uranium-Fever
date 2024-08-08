@@ -208,7 +208,7 @@ Without the input and assistance of the Uranium Fever team, this modlist would n
 - `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may already be completed automatically).
 - `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
 > [!tip]
-> Start at this tep if you have never modded Fallout 3 or Fallout: New Vegas.
+> Start at this step if you have never modded Fallout 3 or Fallout: New Vegas.
 - `Navigate` to the **CLEAN** `Fallout New Vegas` folder (located inside of the `game library folder`).
 - `Copy` **ALL** of the contents from inside of the `Fallout New Vegas` folder (click anywhere inside the folder, press Ctrl+A to highlight all files, then Ctrl+C to copy all files) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (click anywhere inside the folder and press Ctrl+V to paste all copied files).
 - After successfully pasting these files, `restore` the files that were previously backed up.
