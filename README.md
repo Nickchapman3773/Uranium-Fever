@@ -7,15 +7,6 @@
 >
 >Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
-# <p align=center>The Uranium Fever Team</p>
-Without the input and assistance of the Uranium Fever team, this modlist would not have been possible. These individuals have contributed in ample ways, including, but not limited to, vetting the included mods, advising on associated settings, assisting with optimization, consulting on technical aspects, creating custom patches, and assisting with troubleshooting.
-
-- Sweet6Shooter
-- StrikeXV
-- Stentorious
-- Very
-- DarkSolarLegend
-
 # <p align=center>Features</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
@@ -734,15 +725,14 @@ Expand
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
 # <p align=center>Credits & Thanks</p>
-- The Uranium Fever Team: Sweet6Shooter, StrikeXV, Stentorious, Very, and DarkSolarLegend for engaging in continued discussion, planning, patching, and testing in order to make Uranium Fever a reality.
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
-- Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
-- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on hardware related considerations.
-- Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
-- Norvito for vetting my countless half-baked thoughts.
-- Very for simultaneously being the official Uranium Fever mascot and our biggest cheerleader. And I guess also for helping me figure out Github ;).
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
+- Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
+- Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on graphics and hardware related considerations.
+- Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
+- Norvito and ShabbyPirate for vetting my countless half-baked thoughts.
+- Very for simultaneously being the official Uranium Fever mascot and biggest cheerleader. And I guess also for helping me figure out Github ;).
 - thebigchungoose for making and troubleshooting the Linux installation instructions for Uranium Fever.
 - InTheGrave and Shabby Pirate for extensive advising on optimizing, compression, and BSA packing for list, as well as advising on many other aspects.
 - Ungeziefi for ample troubleshooting in both Wabbajack creation and Mod Organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
@@ -751,7 +741,7 @@ Expand
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth and B42 Quickthrow.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
-- Conzo for making custom setting patches for multiple mods in the list.
 - DoktorAkcel and Canadian𝓕𝓻𝓮𝓪𝓴oneer each for creating several custom patches for Uranium Fever, as well as identifying and fixing ample bugs.
-- DracoVampire786 for making custom AWSOMER patches for many mods included in Uranium Fever.
+- DracoVampire786 for contributing several custom patches to Uranium Fever.
 - Pr0bability for making multiple custom patches for Uranium Fever, as well as advising on many aspects of the list.
+- OrgasmicSneeze for catering to my many special effect related requests.
