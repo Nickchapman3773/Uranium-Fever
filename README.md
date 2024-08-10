@@ -725,6 +725,9 @@ Expand
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
 # <p align=center>Credits & Thanks</p>
+- Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend.
+
+Uranium Fever would not be possible without:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
