@@ -185,7 +185,8 @@
 >
 > Default locations for the `game library folder` include `C:\steam\steamapps\common`, `C:\Program Files (x86)\GOG Galaxy\Games`, and `C:\Program Files\Epic Games`.
 
-- Step 1: 
+- Step 1:
+
 > [!tip]
 > Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
@@ -202,6 +203,7 @@
 		- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
 
 - Step 3:
+
 > [!tip]
 > Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
