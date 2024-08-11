@@ -247,7 +247,7 @@
 	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 - Click OK and close the launcher.
 
-	![Game Settings](https://github.com/user-attachments/assets/82b7c41d-4d98-4911-a1d6-5426c6938020)
+	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
 > [!important]
 > Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` into the corresponding field, then click apply.
