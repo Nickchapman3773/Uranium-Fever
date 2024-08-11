@@ -435,7 +435,7 @@ Caveats:
 - Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, then click `ok`.
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
 
- 	![RTSS FNV](https://github.com/user-attachments/assets/51e1cdb5-b7cc-428c-b497-1ba67b0c5e50)
+ 	![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
 
 - `Select FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
