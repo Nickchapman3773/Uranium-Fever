@@ -161,19 +161,12 @@
 	- [Tammer](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0).
 
 ## Installing Uranium Fever
-> [!important]
-> Testers, **IGNORE** the coded portion of these instructions until formal release of Uranium Fever.
-
-```
-- Open the settings cogwheel in Wabbajack and log into your Nexus account.
-- Hit back and select Browse Modlists.
-- Select Fallout New Vegas under games at the top of the page.
-- Toggle the "Show Unofficial Lists" filter.
-- Search for Uranium Fever, identify the corresponding version that you own (Steam or GOG), and hit the download button. This will begin downloading .wabbajack file.
-- Once finished, hit the play button (which has now replaced the download button).
-```
+- `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
 - Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
 - Under `Resource Download Location`, the filepath `C:\Modding\Uranium Fever\downloads` should now auto-populate.
+- 
+	![image](https://github.com/user-attachments/assets/38c3e4fa-09ce-47d3-9c08-70bb55298b99)
+
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
@@ -192,19 +185,30 @@
 >
 > Default locations for the `game library folder` include `C:\steam\steamapps\common`, `C:\Program Files (x86)\GOG Galaxy\Games`, and `C:\Program Files\Epic Games`.
 
+Step 1: 
+> [!tip]
+> Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 - `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
 - Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
 - `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may already be completed automatically).
 - `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
+
+Step 2:
+- `Navigate` to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
+- `Copy` **ALL** of the contents from inside of the `Fallout New Vegas` folder.
+	- Click anywhere inside the `game library folder`, press `Ctrl+A` to highlight all files, then `Ctrl+C` to copy all files.
+	- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
+
+Step 3:
 > [!tip]
-> Start at this step if you have never modded Fallout 3 or Fallout: New Vegas.
-- `Navigate` to the **CLEAN** `Fallout New Vegas` folder (located inside of the `game library folder`).
-- `Copy` **ALL** of the contents from inside of the `Fallout New Vegas` folder (click anywhere inside the folder, press Ctrl+A to highlight all files, then Ctrl+C to copy all files) and `paste` them into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` (click anywhere inside the folder and press Ctrl+V to paste all copied files).
-- After successfully pasting these files, `restore` the files that were previously backed up.
+> Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
+- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
 	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+
+Verification:
 - The clean [NoDelete] Stock New Vegas folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the follow screenshots are present within this folder, **DELETE** the [NoDelete] Stock New Vegas folder, re-run the `Installing Uranium Fever` step, then `start this section over`.
 	- Steam - `[NoDelete] Stock New Vegas` file contents:
    
@@ -214,10 +218,10 @@
 
 		![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-  	- Epic Games - `[NoDelete] Stock New Vegas` file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT. PLEASE CHANGE THE VIEW TO LIST!**
+  	- Epic Games - `[NoDelete] Stock New Vegas` file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT. PLEASE CHANGE THE VIEW TO LIST BEFORE SCREENSHOTTING!**
 
 > [!caution]
-> An incorrectly configured clean Stock New Vegas folder will result in an error when launching the game.
+> Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
@@ -247,7 +251,10 @@
 	![Game Settings](https://github.com/user-attachments/assets/82b7c41d-4d98-4911-a1d6-5426c6938020)
 
 > [!important]
-> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, and enter `22490` into the corresponding field.
+> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` into the corresponding field, then click apply.
+>
+> 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
+
 	
 ## Installing Tale of Two Wastelands (TTW)
 > [!caution]
@@ -264,6 +271,8 @@
 
 - Once complete and the confirmation screen is visualized, close the Installer.
 
+	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
+
 > [!warning]
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
   
@@ -273,10 +282,15 @@
 
 - Navigate to the [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
-- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 (it looks like a floppy disc).
-- Select the `NVR download` from your `Downloads folder`.
+
+	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
+
+- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
+- Select the `NewVegasReloaded.zip` from your `Downloads folder`.
 - Name it `[NoDelete] NVR (PV)`.
 - Select `Replace` when prompted `Mod Exists`.
+
+	![Replace](https://github.com/user-attachments/assets/daec19cf-4121-4cf4-b4f6-ff853965accd)
 
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
