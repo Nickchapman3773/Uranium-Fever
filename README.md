@@ -164,7 +164,7 @@
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
 - Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
 - Under `Resource Download Location`, the filepath `C:\Modding\Uranium Fever\downloads` should now auto-populate.
-- 
+  
 	![image](https://github.com/user-attachments/assets/38c3e4fa-09ce-47d3-9c08-70bb55298b99)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
