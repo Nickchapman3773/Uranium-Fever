@@ -266,7 +266,7 @@
 - **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Click `Install`.
 
-	![TTW Install](https://github.com/user-attachments/assets/560da706-ba6b-4450-8225-ea43d9aa1741)
+	![TTW Install](https://github.com/user-attachments/assets/a0909811-6b04-4341-ba11-c49e0e4a636d)
 
 - Once complete and the confirmation screen is visualized, close the Installer.
 
