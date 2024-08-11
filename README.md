@@ -449,7 +449,7 @@ Caveats:
 - Set `Framerate Limiter` to `Front Edge Sync`.
 - Select `OK` then **MINIMIZE** (not close) RTSS back to the System Tray.
 
-	![RTSS Setup](https://github.com/user-attachments/assets/77093977-26e5-41d1-9022-18291d78866c)
+	![RTSS Setup](https://github.com/user-attachments/assets/1dada6bc-0e6b-4e3d-bed0-79bd81acb4a9)
 
 ## NVIDIA Graphics Card Users - Installing Special K
 > [!tip]
