@@ -179,6 +179,8 @@
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+>
+> **SKIP** steps 1 and 3 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 
 > [!important]
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
@@ -186,9 +188,6 @@
 > Default locations for the `game library folder` include `C:\steam\steamapps\common`, `C:\Program Files (x86)\GOG Galaxy\Games`, and `C:\Program Files\Epic Games`.
 
 - Step 1:
-
-> [!tip]
-> Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
 		- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
 	- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
@@ -203,9 +202,6 @@
 		- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
 
 - Step 3:
-
-> [!tip]
-> Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
 		- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
 		- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
