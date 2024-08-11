@@ -185,40 +185,40 @@
 >
 > Default locations for the `game library folder` include `C:\steam\steamapps\common`, `C:\Program Files (x86)\GOG Galaxy\Games`, and `C:\Program Files\Epic Games`.
 
-Step 1: 
+- Step 1: 
 > [!tip]
 > Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
-- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
-	- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
-- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
-	- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
-- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may already be completed automatically).
-- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
+	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
+		- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
+	- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
+		- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
+	- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may already be completed automatically).
+	- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
 
-Step 2:
-- `Navigate` to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
-- `Copy` **ALL** of the contents from inside of the `Fallout New Vegas` folder.
-	- Click anywhere inside the `game library folder`, press `Ctrl+A` to highlight all files, then `Ctrl+C` to copy all files.
-	- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
+- Step 2:
+	- `Navigate` to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
+	- `Copy` **ALL** of the contents from inside of the `Fallout New Vegas` folder.
+		- Click anywhere inside the `game library folder`, press `Ctrl+A` to highlight all files, then `Ctrl+C` to copy all files.
+		- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
 
-Step 3:
+- Step 3:
 > [!tip]
 > Skip this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
-- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
-	- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
-	- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
+		- `Move` your `Fallout New Vegas` folder from your desktop back into `platform installation folder`, selecting `Replace` when prompted.
+		- `Move` your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
-Verification:
-- The clean [NoDelete] Stock New Vegas folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the follow screenshots are present within this folder, **DELETE** the [NoDelete] Stock New Vegas folder, re-run the `Installing Uranium Fever` step, then `start this section over`.
-	- Steam - `[NoDelete] Stock New Vegas` file contents:
+- Verification:
+	- The clean [NoDelete] Stock New Vegas folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the follow screenshots are present within this folder, **DELETE** the [NoDelete] Stock New Vegas folder, re-run the `Installing Uranium Fever` step, then `start this section over`.
+		- Steam - `[NoDelete] Stock New Vegas` file contents:
    
- 		![Steam Stock](https://github.com/user-attachments/assets/5c1c1d4c-6bc8-4289-99de-de90610f889d)
+ 			![Steam Stock](https://github.com/user-attachments/assets/5c1c1d4c-6bc8-4289-99de-de90610f889d)
 
- 	- GOG - `[NoDelete] Stock New Vegas` file contents:
+ 		- GOG - `[NoDelete] Stock New Vegas` file contents:
 
-		![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
+			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-  	- Epic Games - `[NoDelete] Stock New Vegas` file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT. PLEASE CHANGE THE VIEW TO LIST BEFORE SCREENSHOTTING!**
+  		- Epic Games - `[NoDelete] Stock New Vegas` file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT. PLEASE CHANGE THE VIEW TO LIST BEFORE SCREENSHOTTING!**
 
 > [!caution]
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
