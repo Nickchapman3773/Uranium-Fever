@@ -162,10 +162,11 @@
 
 ## Installing Uranium Fever
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
-- Under `Modlist Installation Location`, enter `C:\Modding\Uranium Fever`.
-- Under `Resource Download Location`, the filepath `C:\Modding\Uranium Fever\downloads` should now auto-populate.
+- `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
+- `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
+- `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
   
-	![image](https://github.com/user-attachments/assets/38c3e4fa-09ce-47d3-9c08-70bb55298b99)
+	![Uranium Fever Installation Paths](https://github.com/user-attachments/assets/35f23b29-0cec-4ec2-b1e6-ddc4fdbe345e)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
@@ -288,7 +289,7 @@
 - Name it `[NoDelete] NVR (PV)`.
 - Select `Replace` when prompted `Mod Exists`.
 
-	![Replace](https://github.com/user-attachments/assets/daec19cf-4121-4cf4-b4f6-ff853965accd)
+	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
