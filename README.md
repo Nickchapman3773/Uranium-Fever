@@ -740,9 +740,9 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - My broken ram for making the compilation process a little extra spicy.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
-- Xilando and Quicksilver5000 for giving special permissions for minor alterations of their mods included in the list, specifically Armed to the Teeth and B42 Quickthrow.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
-- DoktorAkcel and Canadian𝓕𝓻𝓮𝓪𝓴oneer each for creating several custom patches for Uranium Fever, as well as identifying and fixing ample bugs.
+- DoktorAkcel for extensive Uranium Fever troubleshooting and being kind enough to make many custom patches specifically for the list. <3 Dok.
+- Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating several custom patches for Uranium Fever.
 - DracoVampire786 for contributing several custom patches to Uranium Fever.
 - Pr0bability for making multiple custom patches for Uranium Fever, as well as advising on many aspects of the list.
 - OrgasmicSneeze for catering to my many special effect related requests.
