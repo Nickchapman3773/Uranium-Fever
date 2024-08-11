@@ -166,7 +166,7 @@
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
   
-	![Uranium Fever Installation Paths](https://github.com/user-attachments/assets/35f23b29-0cec-4ec2-b1e6-ddc4fdbe345e)
+	![Uranium Fever Installation Paths](https://github.com/user-attachments/assets/1c957693-1fd2-4c7c-a902-86b7d20b5c49)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
