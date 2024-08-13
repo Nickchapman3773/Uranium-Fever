@@ -708,8 +708,6 @@ Caveats:
 	- Uranium Fever is a robust list with a lot of texture enhancements. Despite our best attempts to consolidate and optimize (we compressed and BSA packed most textures), this ends up taking up a lot of space. The original downloads alone require 50gb of space. Please see the Optional Clean Up section if hard drive space is a limitation for you.
 - Skill Tagging - Why doesn't skill tagging work?
 	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill points you input into a tagged skill increases it by two.
-- Sneak - Why is my sneak forever -25?
-	- This is because you're running around blasting your radio while trying to sneak!
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
 - Stealing - I cant steal because oft the Purchase on Display mod. How do I fix this?
