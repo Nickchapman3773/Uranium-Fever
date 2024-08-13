@@ -549,8 +549,6 @@ Caveats:
 	- Swap Throwable: Side Mouse Button 2 (Front Left Side Mouse Button).
 - Backpacks:
 	- Equip to increase carry capacity.
-- Black Screen - I have a black screen on game launch. How do I fix it?
-	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 - Bypass Tools:
 	- No risk of destroying container contents.
 	- Use Power Drill and Grinders to bypass locks.
@@ -669,7 +667,9 @@ Caveats:
 
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/2643d768-a2c6-4c15-9457-658d9df8deb0)
 
-- Altering Uranium Fever - Can I alter mods in Uranium Fever?
+- Altering Uranium Fever - Can I alter mods in Uranium Fever?.l
+- Black Screen - I have a black screen on game launch. How do I fix it?
+	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
 - Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?
 	- No! Uranium Fever is entirely self contained and seperate from your normal Fallout installations!
