@@ -1,5 +1,5 @@
-# <p align=center>**Uranium Fever** </p>
-## <p align=center>A Hardcore Wabbajack Modlist for Tale of Two Wastelands</p>
+# ![Banner UF Title](https://github.com/user-attachments/assets/da8d785c-70f1-485e-bd22-be74571ba664)
+
 **Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, modernization, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
 
 >[!CAUTION]
@@ -23,7 +23,8 @@
 
 # <p align=center>[Full Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)</p>
 
-# <p align=center>Mod Highlights</p>
+# ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
+
 ## UI
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
@@ -105,7 +106,8 @@
 - New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphics extender that injects various new shaders and effects into the game. Helios utilizes this framework to uniquely and individually customize the aesthetic of each world space and all interiors.
 - Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
 
-# <p align=center>Requirements</p>
+# ![Banner Requirements](https://github.com/user-attachments/assets/c3173a9e-28ff-46d1-afe7-2582220413f8)
+
 - Legally purchased copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
 	- Steam, Steam PCR, Steam Cut German, GOG, and Epic Games versions **ARE** compatible.
 	- Windows Store and Gamepass versions **ARE NOT** compatible.
@@ -121,7 +123,8 @@
 - A [ModPub account](https://mod.pub/account/register).
 - A [Discord account](https://discord.com/register).
 
-# <p align=center>Recommended Specs</p>
+# ![Banner Recommended Specs](https://github.com/user-attachments/assets/d4f9e851-7510-4101-bff9-7c1f93169372)
+
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
 - RAM - 16gb or higher required.  Dual channel recommended.
 - GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
@@ -131,7 +134,8 @@
 > - An Optional Storage Space Clean Up section is included below for those concerned about the large installation size.
 > - An Optional Performance Profile is discussed below for those with weaker computers.
 
-# <p align=center>Setup Instructions</p>
+# ![Banner Setup Instructions](https://github.com/user-attachments/assets/0600562e-5d50-4456-814a-d04a3ed848fe)
+
 ## Creating Necessary File Paths
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
@@ -513,14 +517,16 @@ Caveats:
 
 	![Performance](https://github.com/user-attachments/assets/388b653f-2e6f-4374-bc17-85e71e4d8921)
 
-# <p align=center>Updating Uranium Fever</p>
+# ![Banner Updating Uranium Fever](https://github.com/user-attachments/assets/49306d5b-454d-4384-a28e-e5d730240ecb)
+
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
 
 	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
 
 - If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
 
-# <p align=center>Mod Feature Quick Reference List</p>
+# ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/6471d266-0d65-47b8-aad6-e7e4df08f2e4)
+
 <details><summary>
 Expand
 </summary>
@@ -666,7 +672,8 @@ Expand
 	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
  </details>
 
-# <p align=center>Frequently Asked Questions</p>
+# ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/2643d768-a2c6-4c15-9457-658d9df8deb0)
+
 <details><summary>
 Expand
 </summary>
@@ -724,7 +731,8 @@ Expand
 	- No. Wabbajack is inherently incompatible with vortex.
  </details>
 
-# <p align=center>Support, Feedback, & Updates</p>
+# ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/23924bd8-1fb6-4da9-9c03-64f059dbfc2a)
+
 > [!caution]
 > ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever channels in Sweets Retreat, or any other unaffiliated discord channel.
 >
@@ -737,7 +745,8 @@ Expand
 
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
-# <p align=center>Credits & Thanks</p>
+# ![Banner Credit   Thanks](https://github.com/user-attachments/assets/ed5a5bea-2f79-41bf-b9f6-2f721aa49719)
+
 Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but would not be possible without the many contributions from:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
@@ -751,6 +760,7 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - InTheGrave and Shabby Pirate for extensive advising on optimizing, compression, and BSA packing for list, as well as advising on many other aspects.
 - Ungeziefi for ample troubleshooting in both Wabbajack creation and Mod Organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
+- Elgen for the amazing banners and stylized text.
 - My broken ram for making the compilation process a little extra spicy.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
