@@ -744,7 +744,7 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on graphics and hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
-- Norvito and ShabbyPirate for vetting my countless half-baked thoughts.
+- Norvito, ShabbyPirate, and StrikeXV for vetting my countless half-baked thoughts and being extremely supportive.
 - Very for simultaneously being the official Uranium Fever mascot and biggest cheerleader. And I guess also for helping me figure out Github ;).
 - thebigchungoose for making and troubleshooting the Linux installation instructions for Uranium Fever.
 - InTheGrave and Shabby Pirate for extensive advising on optimizing, compression, and BSA packing for list, as well as advising on many other aspects.
