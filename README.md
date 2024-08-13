@@ -527,10 +527,6 @@ Caveats:
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/6471d266-0d65-47b8-aad6-e7e4df08f2e4)
 
-<details><summary>
-Expand
-</summary>
-	
 - 3rd Person Camera Overhaul:
 	- Swap POV Between 1st and 3rd Person: Hold F.
 	- Swap Shoulder in 3rd Person: Press F.
@@ -670,13 +666,8 @@ Expand
 	- A traditional hotkey-associated weapon wheel.
 	- Opening Weapon Hweel: Hold Q.
 	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
- </details>
 
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/2643d768-a2c6-4c15-9457-658d9df8deb0)
-
-<details><summary>
-Expand
-</summary>
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- We do not support alterations of the list.
@@ -729,7 +720,6 @@ Expand
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
- </details>
 
 # ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/23924bd8-1fb6-4da9-9c03-64f059dbfc2a)
 
