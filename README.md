@@ -757,3 +757,4 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - DracoVampire786 for contributing several custom patches to Uranium Fever.
 - Pr0bability for making multiple custom patches for Uranium Fever, as well as advising on many aspects of the list.
 - OrgasmicSneeze for catering to my many special effect related requests.
+- SkankingFuchs for allowing of inlining of multiple private patches for mods contained within the list.
