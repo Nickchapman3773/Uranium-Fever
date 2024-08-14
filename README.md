@@ -685,6 +685,8 @@ Caveats:
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
+- Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?
+	- Re-run the game launcher from Steam/GOG/Epic Games in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
 - Manual Installs - Why do I have to manually install TTW and NVR?
 	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind discord, which Wabbajack cannot interface with.
 - Manual Download Clicks - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
@@ -715,6 +717,8 @@ Caveats:
 	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG/Epic Games Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
+- TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?
+	- This is because you have not appropriately built your Stock New Vegas folder.
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
 
