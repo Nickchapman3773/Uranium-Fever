@@ -17,7 +17,7 @@
 - Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
 - Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
 - Extensive, full-game retexturing and reimagining of both Wastelands.
-- Dramatically overhauled lighting to improve the ambiance of both Wastelands.
+- Dramatically overhauled lighting and special effects to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
