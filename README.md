@@ -5,7 +5,7 @@
 >[!CAUTION]
 >**Trigger Warning:**
 >
->Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
+>Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 # <p align=center>Features</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
