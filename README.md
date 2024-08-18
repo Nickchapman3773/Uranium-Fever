@@ -157,20 +157,18 @@
 > [!caution]
 > These mods are Uranium Fever **REQUIREMENTS**.
 
-- Download the following mods and **MOVE** each of the archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
-	- [Ghouls](https://drive.usercontent.google.com/u/0/uc?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download).
-	- [FeralGhoulsHD](https://drive.usercontent.google.com/u/0/uc?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download).
-	- [Capital Wasteland Hideouts](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0).
-   	- [Mobile Truck Base Sorting Add On](https://drive.usercontent.google.com/u/0/uc?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download).
-	- [Tammer](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0).
+- Navigate to the `C:\Modding\Uranium Fever` folder, run `Manual Downloads.bat`, and click `Download anyway` on the two Google Drive links that open in your browser.
+	- The `Downloads` folder will now contain ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0.
+- `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ## Installing Uranium Fever
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
+- Enable the `Overwrite Installation` checkbox.
   
-	![Uranium Fever Installation Paths](https://github.com/user-attachments/assets/1c957693-1fd2-4c7c-a902-86b7d20b5c49)
+	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
