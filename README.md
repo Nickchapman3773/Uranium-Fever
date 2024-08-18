@@ -739,6 +739,7 @@ Caveats:
 
 Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but would not be possible without the many contributions from:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
+- The Wabbajack team (particularly JanuaryJones, TDarkShaadow, and Trawzified) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
 - Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
@@ -752,11 +753,12 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - Elgen for the amazing banners and stylized text.
 - My broken ram for making the compilation process a little extra spicy.
+- StrawChannel95 for providing the Manual Download.bat file and being a soundboard for the technical aspects of Wabbajack.
+- Mathieu for his incredible work on NVR and willingness to troubleshoot and adjust the functionality to my needs.
 - Woooombat for providing several instances of movement related troubleshooting and even releasing a mod on Uranium Fever's behalf.
 - PhysicsGaming for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - DoktorAkcel for extensive Uranium Fever troubleshooting and being kind enough to make many custom patches specifically for the list. <3 Dok.
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating several custom patches for Uranium Fever.
-- DracoVampire786 for contributing several custom patches to Uranium Fever.
-- Pr0bability for making multiple custom patches for Uranium Fever, as well as advising on many aspects of the list.
+- Pr0bability for making custom patches for Uranium Fever, creating cartographer, and advising on many aspects of the list.
 - OrgasmicSneeze for catering to my many special effect related requests.
-- SkankingFuchs for allowing of inlining of multiple private patches for mods contained within the list.
+- DracoVampire786, SkankingFuchs, & Lufusol for allowing the inclusion of several private patches and mods in Uranium Fever.
