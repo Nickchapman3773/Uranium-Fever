@@ -667,7 +667,8 @@ Caveats:
 
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/2643d768-a2c6-4c15-9457-658d9df8deb0)
 
-- Altering Uranium Fever - Can I alter mods in Uranium Fever?.l
+- Altering Uranium Fever - Can I alter mods in Uranium Fever?
+	- Altered lists will not be supported.
 - Black Screen - I have a black screen on game launch. How do I fix it?
 	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
