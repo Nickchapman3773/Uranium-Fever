@@ -693,7 +693,7 @@ Caveats:
 - NoDelete - Why do some mods and folders say [NoDelete]?
 	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
 - Notification Size - Why are my notifications huge?
-	- Notification size is inappropriately large after starting a new game until the game is restarted.
+	- Notification size is inappropriately large after starting a new game until the game is reloaded.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - Pink Screen - Why do I see pink transition screens when the game loads?
