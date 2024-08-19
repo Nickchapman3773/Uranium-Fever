@@ -696,6 +696,8 @@ Caveats:
 	- Notification size is inappropriately large after starting a new game until the game is reloaded.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
+- Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?
+	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of memory usage of 2.2-2.5gb, and exceeding that causes crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
 - Pink Screen - Why do I see pink transition screens when the game loads?
 	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - Ragdolls - Doesn't Ragdolls cause crashes?
