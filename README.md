@@ -282,7 +282,7 @@
 > This mod is a Uranium Fever installation **REQUIREMENT**, though NVR is disabled in the Performance Profile.
 
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
-- In the `Nightly Builds channel`, download the `NVR Nightly` release from `March 29th, 2024`. **DO NOT** use the latest build.
+- In the `Nightly Builds channel`, download the most recent release from `NVR Nightly`.
 
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
 
