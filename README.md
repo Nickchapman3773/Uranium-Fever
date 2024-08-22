@@ -419,8 +419,8 @@ Caveats:
 - Delete any existing DXVK Cache:
 	- Steam Users:
 		- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
-  	- GOG Users: **PLEASE SEND ME THE APPROPRIATE FILEPATH FOR GOG!**
-	- Epic Users: **PLEASE SEND ME THE APPROPRIATE FILEPATH FOR Epic Games!**
+  	- GOG/Epic Users:
+  		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
 ## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
