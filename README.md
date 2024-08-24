@@ -5,7 +5,7 @@
 >[!CAUTION]
 >**Trigger Warning:**
 >
->Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
+> Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 # <p align=center>Features</p>
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
@@ -28,29 +28,27 @@
 ## UI
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
-- Keybind Quick Display - Adds a customized list of pre-configured hotkeys and function descriptions for quick reference.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
-- Simple Subtle Camera Shake - Adds subtle yet immersive camera responsiveness to injuries.
 
 ## Balance
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
 - Armor Damage Overhaul - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
-- New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood also adds new features, such as bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
+- New Blood - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds new features, such as bleeding effects when struck by bladed weapons and formula based knockdown when hit by blunt weapons or shotgun shots.
 - Famine - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
-- RAD Radiation Is Actually Dangerous - A hardcore overhaul to radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful.
+- RAD - Radiation Is Actually Dangerous - A hardcore overhaul of radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful.
 - Sweet Consumables - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
-- Aid Addon - Adds 16 new, hardcore healing items and new survival healing options.
+- Aid Addon - Adds 16 new, hardcore focused healing items and new survival healing options.
 - Sweet Healing Systems - A comprehensive overhaul and rebalancing of doctors, sleep, endurance, infirmary based healing and radiation removal, doctor radiation removal, radiation dispersal over time, infirmary detox, and addiction removal.
-- SPARE Sweet Part and Ammo Rebalance and Expansion - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent ammo naming scheme, a transition to vendor carried boxes of ammo, and general ammo-centric economy improvements.
-- SWEEP Sweet Weapon Enhancement and Expansion Package - A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
+- SPARE (Sweet Part and Ammo Rebalance and Expansion) - A complete rebalancing of the ammo crafting system, with cohesive breakdown recipes, battery-based energy cell recharging, explosives crafting and breakdown, added ammo types, a consistent ammo naming scheme, a transition to vendor carried boxes of ammo, and general ammo-centric economy improvements.
+- SWEEP (Sweet Weapon Enhancement and Expansion Package) - A complete rebalance of weapons intended to create a cohesive and balanced system with more gradual weapon progression.
 - Sweet Dynamic Detection System - Enhances NPCs ability to detect the player at longer distances, functionally nerfing sniping.
 - Simple AI Merge - A long-term collection of AI improvements made by one of the game’s leading engine experts. This mod makes combat far more engaging.
 - Immersive Recoil 2.0 - Adds realistic recoil to guns, making combat far more challenging.
 - Immersive Recoil NPC - Adds a recoil-like mechanic to NPCs, greatly improving the flow of combat.
 - Weapon Jamming Tweaks - Adjusts weapon jamming to foster a more hardcore experience. Fixes several jam related bugs, and adds a new jam clearing function.
-- STARS Sweet's Total Armor Rework System - A comprehensive rebalancing of the entire armor suite. Also seamlessly integrates a large collection of the best modded armor retextures and additions.
+- STARS (Sweet's Total Armor Rework System) - A comprehensive rebalancing of the entire armor suite. Also seamlessly integrates a large collection of the best modded armor retextures and additions.
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
