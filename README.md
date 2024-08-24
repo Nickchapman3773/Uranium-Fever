@@ -683,6 +683,8 @@ Caveats:
 	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+- Resolution - Why is my resolution stuck at 4k?
+	- Special K users also need to change it in the Special K menu, then restart the game.
 - Runtime Error - Why am i getting a runtime error when I try to launch Uranium Fever?
 	- It is likely that you launched MO2 prior to creating your Stock New Vegas folder. Run the Uranium Fever installer again, and it will autocorrect this. You do not have to repeat any Stock New Vegas steps.
 - Selecting Perks - I cannot select a perk. Why?
