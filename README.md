@@ -62,7 +62,7 @@
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors.
 
 ## Comprehensive Overhauls
-- Functional Post Game Ending - Adds a fully functional, post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought to the credits after beating the game.
+- Functional Post Game Ending - Adds a functional post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought straight to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut - Restores a massive amount of scenery, items, NPCs, and quests that were patched out of the game following initial release.
 - The Living Desert - Adds hundreds of NPCs and scripted events to the Mojave Wasteland, further fleshing out the Fallout universe.
