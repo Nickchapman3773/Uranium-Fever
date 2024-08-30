@@ -1,6 +1,6 @@
 # ![Banner UF Title](https://github.com/user-attachments/assets/da8d785c-70f1-485e-bd22-be74571ba664)
 
-**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, modernization, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
+**Uranium Fever** is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, modernization, optimization, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every mod and configuration included in Uranium Fever was carefully evaluated by a team of experts in various New Vegas modding domains. We strive to constantly adapt to new community innovations and have gone to great lengths to optimize the list in revolutionary ways that are not found elsewhere in the community. We consider this the most modern, optimized, robust, cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!
 
 >[!CAUTION]
 >**Trigger Warning:**
@@ -15,7 +15,7 @@
 - Large-scale, immersive overhauls and expansions of most locations.
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - Ample new items, armors, perks, quests, enemies, and creatures, all intended to further expand the authentic Fallout experience.
-- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience.
+- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience. All mods included in Uranium Fever have been compressed, downsized, BSA packed, and reflagged when appropriate.
 - Extensive, full-game retexturing and reimagining of both Wastelands.
 - Dramatically overhauled lighting and special effects to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
@@ -24,11 +24,6 @@
 # <p align=center>[Full Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)</p>
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
-
-## UI
-- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
-- Item Cards - Adds new, real-time, detailed stat menus to inspected items.
-- Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 
 ## Balance
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
@@ -90,7 +85,10 @@
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
-## Animation & Visual
+## Visual
+- Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
+- Item Cards - Adds new, real-time, detailed stat menus to inspected items.
+- Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 - Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
 - Titans of the New West - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
@@ -99,10 +97,10 @@
 - B42 True Learning - Adds contextual lean when aiming out from corners.
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
-- Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow of combat.
+- Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow and believability of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
-- New Vegas Reloaded & Salamand3r's Helios Preset - A custom graphics extender that injects various new shaders and effects into the game. Helios utilizes this framework to uniquely and individually customize the aesthetic of each world space and all interiors.
 - Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
+- Uranium Haze - Utilizes New Vegas Reloaded (NVR), a custom graphics extender that injects various new shaders and effects into the game, to create a full-game aesthetic overhaul. Includes unique world-space specific presets and various different interior presets with dynamic day-night cycle based lighting.
 
 # ![Banner Requirements](https://github.com/user-attachments/assets/c3173a9e-28ff-46d1-afe7-2582220413f8)
 
@@ -675,6 +673,8 @@ Caveats:
 	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
 - Notification Size - Why are my notifications huge?
 	- Notification size is inappropriately large after starting a new game until the game is reloaded.
+- Optimization - What kind of things have you done to optimize Uranium Fever?
+	- Many! When appropriate, we use Cathedral Asset Optimizer and Nvidia Texture Tools to compress uncompressed textures and downsize textures to 2k, with a goal of striking the best balance of quality and performance. We generate mipmaps for non-UI textures in order to assist with aesthetics and rendering. We use BSArchPro to place assets into BSAs, which decreases memory usage and crashing. We have optimized LOD rendering distances and priority flagging to ensure only visually relevant items are loaded in at a given time. We have flagged ESPs as ESMs when they contain temporary worldspace edits in order to prevent them from continually being loaded into ram, further decreasing memory usage.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
 	- Yes. Uranium Fever is entirely self contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?
