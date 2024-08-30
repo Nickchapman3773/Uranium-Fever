@@ -734,6 +734,7 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - Very for simultaneously being the official Uranium Fever mascot and biggest cheerleader. And I guess also for helping me figure out Github ;).
 - thebigchungoose for making and troubleshooting the Linux installation instructions for Uranium Fever.
 - InTheGrave and Shabby Pirate for extensive advising on optimizing, compression, and BSA packing for list, as well as advising on many other aspects.
+- FireKahuna for advising on various aspects of LOD and lighting.
 - Ungeziefi for ample troubleshooting in both Wabbajack creation and Mod Organizer 2 functionality (as well as helping troubleshoot my broken ram xD).
 - Wall and Ungeziefi for allowing close adaptations of portions of The Best of Times, Viva New Vegas, and FNV Performance Guide in this instructions page.
 - Elgen for the amazing banners and stylized text.
