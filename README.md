@@ -44,17 +44,22 @@
 - Immersive Recoil NPC - Adds a recoil-like mechanic to NPCs, greatly improving the flow of combat.
 - Weapon Jamming Tweaks - Adjusts weapon jamming to foster a more hardcore experience. Fixes several jam related bugs, and adds a new jam clearing function.
 - STARS (Sweet's Total Armor Rework System) - A comprehensive rebalancing of the entire armor suite. Also seamlessly integrates a large collection of the best modded armor retextures and additions.
+- Titans of the New West - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
 ## Functions
 - Bad Touch - Adds realistic consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
+- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
 - Forced Entry - Allows the player to bypass locks by attacking them. This forces the player to choose between using different scarce resources (lockpicks, ammo, or melee weapon condition) to open locks.
 - Universal Water Bottling - Allows the player to fill empty bottles from any water source. This facilitates harsher dehydration consequences while also adding extra resource availability to ameliorate said needs.
 - Immersive Minigames - Real-time, character-skill based replacements for hacking and lockpicking, with an emphasis on resource management. Allows for skipping the redundant lockpicking and hacking minigames in favor of holding a hotkey with pre-determined odds of success. This mod generally decreases minigame success rates, making associated resources more impactful.
+- Simple Night Vision - Integrates high-quality, balanced night vision and thermal vision to select headgear.
 - B42 Quickthrow - Adds a new, modernized weapon throwing mechanic, further promoting the use of throwables.
 - Purchase Items on Display - Allows purchase of items directly off of shelves in shops, rather than bartering directly with vendors.
+- B42 Optics - Seamlessly adds dual-rendered scopes into the game.
+- B42 True Learning - Adds contextual lean when aiming out from corners.
 
 ## Comprehensive Overhauls
 - Functional Post Game Ending - Adds a functional post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought straight to the credits after beating the game.
@@ -85,20 +90,19 @@
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
-## Visual
+## UI
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
-- Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
-- Titans of the New West - A complete reimagining and retexturing of power armor to achieve a much more heavy and imposing aesthetic. Also including many new features, animations, and sound effects.
-- Simple Night Vision - Integrates high-quality, balanced night vision and thermal vision to select headgear.
-- B42 Optics - Seamlessly adds dual-rendered scopes into the game.
-- B42 True Learning - Adds contextual lean when aiming out from corners.
+
+## Animations
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
 - Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow and believability of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
+
+# Visuals
 - Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
 - Uranium Haze - Utilizes New Vegas Reloaded (NVR), a custom graphics extender that injects various new shaders and effects into the game, to create a full-game aesthetic overhaul. Includes unique world-space specific presets and various different interior presets with dynamic day-night cycle based lighting.
 
