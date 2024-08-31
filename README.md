@@ -72,11 +72,11 @@
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC, including rebalancing, new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, including many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. EDGE also comprehensively overhauls the Point Lookout DLC, making it a much more appropriate early game experience.
 
-## Dialogue Overhauls
+## Interactions
 - Brave New World - A near complete professional revoicing of NPCs throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
-
-## NPC & Enemy Overhauls
+- TTW NPC Overhaul - A lore friendly visual overhaul of the NPCs from both wastelands.
+- Character Kit Remake - A complete replacement of all humanoid character assets to further modernize the game.
 - Companion Characteristics - Provides gameplay quirks derived from companion personality traits, often taking the form of personality-based debuffs.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
@@ -88,6 +88,8 @@
 
 ## Sound
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
+- A Music Addition Project - Revised - Overhauls and expands the music in both wastelands with lore friendly, classic Fallout tracks.
+- Capital Ruins - Adds music inspired by The Last of Us, Silent Hill, and The Long Dark into the Capital Wasteland, with the goal of setting a darker, more horror appropriate tone.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
 ## UI
