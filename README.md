@@ -115,8 +115,8 @@
 # ![Banner Requirements](https://github.com/user-attachments/assets/c3173a9e-28ff-46d1-afe7-2582220413f8)
 
 - Legally purchased copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
-	- Steam, Steam PCR, Steam Cut German, GOG, and Epic Games versions **ARE** compatible.
-	- Windows Store and Gamepass versions **ARE NOT** compatible.
+	- Steam, Steam PCR, Steam Cut German, and GOG versions **ARE** compatible.
+	- Windows Store, Gamepass, and Epic Games versions **ARE NOT** compatible.
 - Windows 10 or higher (64-bit).
 	- Uranium Fever is compatible with Linux, and specialized instructions are included below, though access to windows is still a **REQUIREMENT** for the installation process.
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
@@ -194,15 +194,15 @@
 > [!important]
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 >
-> Default locations for the `game library folder` include `C:\steam\steamapps\common`, `C:\Program Files (x86)\GOG Galaxy\Games`, and `C:\Program Files\Epic Games`.
+> Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 
 - Step 1: Creating Clean Installs and Backups of Current Installs/Modded Instances
 	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
-		- This will be the Steam/GOG/Epic Games installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
+		- This will be the Steam/GOG installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
 	- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
 		- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
-	- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games (this step may already be completed automatically).
-	- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG/Epic Games.
+	- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
+	- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG.
 
 - Step 2: Creating the Clean Stock New Vegas Folder
 	- `Navigate` to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
@@ -225,18 +225,14 @@
 
 			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-  		- Epic Games - `[NoDelete] Stock New Vegas` file contents:
-
-			![Epic Stock](https://github.com/user-attachments/assets/c4db7265-9c22-4a21-9c8a-e2ddf8e97dba)
-
 > [!caution]
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 
 ## Generating Fresh INI Files
-- Launch `Fallout: New Vegas` from `Steam/GOG/Epic Games`.
+- Launch `Fallout: New Vegas` from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
-- Launch` Fallout 3` from `Steam/GOG/Epic Games`.
+- Launch` Fallout 3` from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 
@@ -271,7 +267,7 @@
 
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
-- Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG/Epic Games Fallout 3 installation path` (this should be auto-configured).
+- Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Click `Install`.
@@ -303,10 +299,7 @@
 
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-	- Steam and GOG users:
- 		- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
-	- Epic Game Users:
- 		- Run `Patcher.exe`. `FalloutNV_backup.exe` will appear in the folder.
+	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
 > [!caution]
 > Failure to run the correct patch will result in a pink screen when launching the game.
@@ -427,7 +420,7 @@ Caveats:
 - Delete any existing DXVK Cache:
 	- Steam Users:
 		- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
-  	- GOG/Epic Users:
+  	- GOG Users:
   		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
@@ -442,7 +435,7 @@ Caveats:
 
 	![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
 
-- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG/Epic Games directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, then click `ok`.
+- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, then click `ok`.
 	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
 
  	![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
@@ -676,7 +669,7 @@ Caveats:
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?
-	- Re-run the game launcher from Steam/GOG/Epic Games in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
+	- Re-run the game launcher from Steam/GOG in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
 - Manual Installs - Why do I have to manually install TTW and NVR?
 	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind discord, which Wabbajack cannot interface with.
 - Manual Download Clicks - Why do I have to click to install Vanilla UI + and Vanilla UI Extension?
@@ -712,7 +705,7 @@ Caveats:
 - Stealing - I cant steal because oft the Purchase on Display mod. How do I fix this?
 	- Crouch and you can still steal these items!
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
-	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG/Epic Games Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
+	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?
