@@ -221,7 +221,9 @@
 
 			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-  		- Epic Games - `[NoDelete] Stock New Vegas` file contents: **I NEED AN EPIC GAME USER TO SEND ME A SIMILAR SCREENSHOT IN THE SAME FORMAT. PLEASE CHANGE THE VIEW TO LIST BEFORE SCREENSHOTTING!**
+  		- Epic Games - `[NoDelete] Stock New Vegas` file contents:
+
+			![Epic Stock](https://github.com/user-attachments/assets/c4db7265-9c22-4a21-9c8a-e2ddf8e97dba)
 
 > [!caution]
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
