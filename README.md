@@ -105,6 +105,10 @@
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
 
 # Visuals
+- Real Time Reflections - Adds a fully dynamic, real-time reflection system to the game.
+- Special Effects - A comprehensive reimagining of special effects throughout the game, including enhanced explosions, lasers, plasma, shock and lightning, fire and flame, blood, gore, impacts, decals, ash and goo piles, and water streams. This is a labor of love and takes inspiration from the best aspects of many of its predecessors in order to make the ultimate all-in-one special effects pack!
+- Lumen - 
+- Energy Visuals Plus - 
 - Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
 - Uranium Haze - Utilizes New Vegas Reloaded (NVR), a custom graphics extender that injects various new shaders and effects into the game, to create a full-game aesthetic overhaul. Includes unique world-space specific presets and various different interior presets with dynamic day-night cycle based lighting.
 
