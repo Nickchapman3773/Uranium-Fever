@@ -164,7 +164,7 @@
 > These mods are Uranium Fever **REQUIREMENTS**.
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
-	- The `Downloads` folder will now contain ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0.
+	- The `Downloads` folder will now contain `ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0`.
 - `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ## Installing Uranium Fever
