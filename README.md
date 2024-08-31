@@ -707,6 +707,8 @@ Caveats:
 	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill points you input into a tagged skill increases it by two.
 - Start Location - Can I start in the Mojave Wasteland?
 	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
+- Starting Gear - Why do I only start with a BB gun and a bat?
+	- Just outside the starting cave and to the right are several corpses with gear specifically determined by the characters unique stats, perks, and traits.
 - Stealing - I cant steal because oft the Purchase on Display mod. How do I fix this?
 	- Crouch and you can still steal these items!
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
