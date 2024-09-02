@@ -2,14 +2,14 @@
 
 **Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. UF is unique in that new community content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure stability despite the lists' colossal size. We consider UF to be the most beautiful, comprehensive, modern, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
 
+# <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
+
 >[!CAUTION]
 >**Trigger Warning:**
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
 # ![Banner Features](https://github.com/user-attachments/assets/9960f6bf-3900-492f-83aa-7cb4a57b18d6)
-
-# <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
