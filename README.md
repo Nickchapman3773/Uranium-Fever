@@ -26,7 +26,7 @@
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
-# <p align="center"> ![Balance](https://github.com/user-attachments/assets/472dac2a-3476-46b1-96a2-f022a6253c76) </p>
+## <p align="center"> ![Balance](https://github.com/user-attachments/assets/472dac2a-3476-46b1-96a2-f022a6253c76) </p>
 
 
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
