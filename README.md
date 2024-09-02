@@ -447,7 +447,7 @@ Caveats:
 - Set `Framerate Limit` to `59.95`.
 	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
 
-	![RTSS Frame](https://github.com/user-attachments/assets/207a3a1c-f1b5-4e85-9239-6ad9814ae4bf)
+	![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
 
 - Enter the settings using the `Setup` button.
 - Scroll down and enable `Passive Waiting`.
