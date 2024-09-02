@@ -51,7 +51,7 @@
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-## Functions
+## <p align="center"> ![Functions](https://github.com/user-attachments/assets/22cf2ff7-1405-43e8-a0c8-2789fa1491a0) </p>
 - Bad Touch - Adds realistic consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
@@ -64,6 +64,7 @@
 - B42 Optics - Seamlessly adds dual-rendered scopes into the game.
 - B42 True Learning - Adds contextual lean when aiming out from corners.
 
+## <p align="center">  </p>
 ## Comprehensive Overhauls
 - Functional Post Game Ending - Adds a functional post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought straight to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
