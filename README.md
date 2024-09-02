@@ -28,7 +28,6 @@
 
 ## <p align="center"> ![Balance](https://github.com/user-attachments/assets/472dac2a-3476-46b1-96a2-f022a6253c76) </p>
 
-
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
@@ -95,22 +94,19 @@
 - Capital Ruins - Adds music inspired by The Last of Us, Silent Hill, and The Long Dark into the Capital Wasteland, with the goal of setting a darker, more horror appropriate tone.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
-## <p align="center">  </p>
-## UI
+## <p align="center"> ![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df) </p>
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 
-## <p align="center">  </p>
-## Animations
+## <p align="center"> ![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2) </p>
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
 - Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow and believability of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
 
-## <p align="center">  </p>
-# Visuals
+## <p align="center"> ![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425) </p>
 - Real Time Reflections - Adds a fully dynamic, real-time reflection system to the game.
 - Special Effects - A comprehensive reimagining of special effects throughout the game, including enhanced explosions, lasers, plasma, shock and lightning, fire and flame, blood, gore, impacts, decals, ash and goo piles, and water streams. This is a labor of love and takes inspiration from the best aspects of many of its predecessors in order to make the ultimate all-in-one special effects pack!
 - Lumen - Adds authentic ambient lighting to objects throughout the game.
@@ -148,8 +144,7 @@
 
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/0600562e-5d50-4456-814a-d04a3ed848fe)
 
-## <p align="center">  </p>
-## Creating Necessary File Paths
+## <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
 - Create a folder named `Wabbajack`, **DO NOT** open it.
@@ -159,16 +154,14 @@
 > [!important]
 > After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
-## <p align="center">  </p>
-## Downloading Wabbajack
+## <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
 - Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
 
-## <p align="center">  </p>
-## Manual Downloads
+## <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
 > [!caution]
 > These mods are Uranium Fever **REQUIREMENTS**.
 
@@ -176,8 +169,7 @@
 	- The `Downloads` folder will now contain `ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0`.
 - `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
-## <p align="center">  </p>
-## Installing Uranium Fever
+## <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
@@ -195,8 +187,7 @@
 > [!warning]
 > Let the installation **FINISH** prior to starting the following sections.
 
-## <p align="center">  </p>
-## Creating a Clean Stock New Vegas Folder
+## <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
@@ -239,8 +230,7 @@
 > [!caution]
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 
-## <p align="center">  </p>
-## Generating Fresh INI Files
+## <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
@@ -248,15 +238,13 @@
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 
-## <p align="center">  </p>
-## Launching Mod Organizer 2 (MO2)
+## <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
 - Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
 - If prompted that INIs are read only, select `Clear the Read Only Flag`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
 
-## <p align="center">  </p>
-## Configuring Game Settings
+## <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
 
@@ -274,8 +262,7 @@
 >
 > 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 
-## <p align="center">  </p>
-## Installing Tale of Two Wastelands (TTW)
+## <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
 > [!caution]
 > This mod is a Uranium Fever **REQUIREMENT**.
 
@@ -295,8 +282,7 @@
 > [!warning]
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 
-## <p align="center">  </p>
-## Installing New Vegas Reloaded (NVR)
+## <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
 > [!caution]
 > This mod is a Uranium Fever installation **REQUIREMENT**, though NVR is disabled in the Performance Profile.
 
@@ -312,16 +298,14 @@
 
 	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
-## <p align="center">  </p>
-## Running 4GB Patcher
+## <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
 > [!caution]
 > Failure to run the correct patch will result in a pink screen when launching the game.
 
-## <p align="center">  </p>
-## Installing on Linux
+## <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
 <details><summary>
 Expand
 </summary>
@@ -362,8 +346,7 @@ Caveats:
 - If problems are encountered, launch Lutris with debug output via the terminal by typing in lutris -d.
  </details>
 
-## <p align="center">  </p>
-## Disabling Base Address Randomization 
+## <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/a83d62ff-31f9-45fd-ba1f-0ca82ec054c3) </p>
 > [!Tip]
 > This step can prevent unforeseen crashes.
 
@@ -374,8 +357,7 @@ Caveats:
 
 	![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
 
-## <p align="center">  </p>
-## Creating Antivirus Exclusions
+## <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
 > [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
  
@@ -389,8 +371,7 @@ Caveats:
 
 - This process will also need to be replicated for any third-party antivirus.
 
-## <p align="center">  </p>
-## Disabling Steam Overlay
+## <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
 > [!tip]
 > This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
  
@@ -409,8 +390,8 @@ Caveats:
 
 	![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
 
-## <p align="center">  </p>
-## Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK
+## <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
+
 > [!warning]
 > The most recent version of DXVK comes bundled with Uranium Fever.
 >
@@ -423,8 +404,7 @@ Caveats:
 	- Navigate to the `Uranium Fever > DXVK folder`.
 	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
-## <p align="center">  </p>
-## Disabling DXVK Cache Storage
+## <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 > [!tip]
 > DXVK Cache Storage is known to cause memory related crashes. This step disables the creation of the DXVK cache.
 
@@ -446,8 +426,7 @@ Caveats:
   		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
-## <p align="center">  </p>
-## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
+## <p align="center"> ![AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/53b53292-faf3-4115-9d92-f2e1d7f2c32a) </p>
 > [!tip]
 > FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
 > 
@@ -477,8 +456,7 @@ Caveats:
 
 	![RTSS Setup](https://github.com/user-attachments/assets/1dada6bc-0e6b-4e3d-bed0-79bd81acb4a9)
 
-## <p align="center">  </p>
-## NVIDIA Graphics Card Users - Installing Special K
+## <p align="center"> ![NVIDIA Graphics Card Users - Installing Special K](https://github.com/user-attachments/assets/d53e2ccc-df55-4a21-b765-e48a8939c1ca) </p>
 > [!tip]
 > FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
 >
@@ -515,8 +493,7 @@ Caveats:
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), as this is beyond the scope of Uranium Fever configuration.
 	- G-Sync will be compatible without changing any settings.
 
-## <p align="center">  </p>
-## Launching The Game
+## <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 - After starting a new game, open the pause menu and `press K` to see the `Keybinds and associated legend`. More details are included below in the Mod Feature Quick Reference List section.
@@ -526,16 +503,14 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
-## <p align="center">  </p>
-## Optional Storage Space Clean Up
+## <p align="center"> ![Optional Storage Space Clean Up](https://github.com/user-attachments/assets/bab5f685-c7f4-4aab-bcfe-9e97c21f1520) </p>
 > [!tip]
 > This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
 
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
 - Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
 
-## <p align="center">  </p>
-## Optional - Enabling the Performance Profile
+## <p align="center"> ![Optional - Enabling the Performance Profile](https://github.com/user-attachments/assets/121f49bc-ccec-4028-9bb9-588826b8ee43) </p>
 > [!tip]
 > This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
 
