@@ -346,7 +346,7 @@ Caveats:
 - If problems are encountered, launch Lutris with debug output via the terminal by typing in lutris -d.
  </details>
 
-## <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/a83d62ff-31f9-45fd-ba1f-0ca82ec054c3) </p>
+## <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
 > [!Tip]
 > This step can prevent unforeseen crashes.
 
