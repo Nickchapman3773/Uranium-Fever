@@ -736,6 +736,7 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - The Wabbajack team (particularly JanuarySnow, TDarkShaadow, and Trawzified) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
 - DarkSolarLegend for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
+- OrgasmicSneeze for catering to my many special effect and texture related requests, advising on many aspects of the list, and helping substantially with website creation.
 - Sweet6Shooter for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - Salamand3r for allowing inclusion of a nearly identical iteration of New Vegas Visual Renewal and his new SALVO compression and BSA packing process, as well as advising on graphics and hardware related considerations.
 - Stentorious for making patches, updating several of his mods specifically for Uranium Fever, and advising on many UI elements and animations.
@@ -755,5 +756,4 @@ Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but wo
 - DoktorAkcel for extensive Uranium Fever troubleshooting and being kind enough to make many custom patches specifically for the list. <3 Dok.
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating several custom patches for Uranium Fever.
 - Pr0bability for making custom patches for Uranium Fever, creating cartographer, and advising on many aspects of the list.
-- OrgasmicSneeze for catering to my many special effect related requests.
 - DracoVampire786, SkankingFuchs, & Lufusol for allowing the inclusion of several private patches and mods in Uranium Fever.
