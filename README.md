@@ -26,7 +26,8 @@
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
-# <p align="center"> ![Balance](https://github.com/user-attachments/assets/eaa2817b-4991-48b5-bd29-770214b15b93) </p>
+# <p align="center"> ![Balance](https://github.com/user-attachments/assets/a54c4975-2940-4563-bb6d-d5ea8881b50c) </p>
+
 
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
