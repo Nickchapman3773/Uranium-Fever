@@ -22,7 +22,7 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
-[Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)
+# [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
