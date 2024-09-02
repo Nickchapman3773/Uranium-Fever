@@ -9,7 +9,7 @@
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
-# ![Banner Features](https://github.com/user-attachments/assets/98641609-2009-4125-84c6-0292c549dedf)
+# ![Banner Features](https://github.com/user-attachments/assets/b260f98b-298c-4817-8599-cc758c287686)
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
