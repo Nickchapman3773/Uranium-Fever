@@ -7,7 +7,8 @@
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
-# <p align=center>Features</p>
+# ![Banner Features](https://github.com/user-attachments/assets/9960f6bf-3900-492f-83aa-7cb4a57b18d6)
+
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
 - Significant modernizations of the UI, HUD, and Pip-Boy.
@@ -21,10 +22,7 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
-# ![Banner Features](https://github.com/user-attachments/assets/9960f6bf-3900-492f-83aa-7cb4a57b18d6)
-
-
-<p align=center> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever)</p>
+<p align=center> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
