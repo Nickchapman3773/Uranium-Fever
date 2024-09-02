@@ -1,4 +1,4 @@
-# ![Banner UF Title](https://github.com/user-attachments/assets/da8d785c-70f1-485e-bd22-be74571ba664)
+# ![Banner UF Title](https://github.com/user-attachments/assets/0c750cbf-ca4f-4cb3-ae68-f4c8cc08931c)
 
 **Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. UF is unique in that new community content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure stability despite the lists' colossal size. We consider UF to be the most beautiful, comprehensive, modern, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
 
@@ -9,7 +9,7 @@
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
-# ![Banner Features](https://github.com/user-attachments/assets/b260f98b-298c-4817-8599-cc758c287686)
+# ![Banner Features](https://github.com/user-attachments/assets/7372d422-b00e-4d2f-8fe0-0f7b40179203)
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
@@ -24,7 +24,7 @@
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul to music and the entire soundscape to promote deeper immersion.
 
-# ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
+# ![Banner Mod Highlights](https://github.com/user-attachments/assets/04a080db-7406-45cf-8cc9-3bb18be1f018)
 
 ## <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
 
@@ -114,7 +114,7 @@
 - Desert Natural Weathers - A complete overhaul of the weather of both Wastelands with 360 panoramic cloud textures, improved lighting, and enhanced variation in rain, overcast, clear, snowy, and foggy weather.
 - Uranium Haze - Utilizes New Vegas Reloaded (NVR), a custom graphics extender that injects various new shaders and effects into the game, to create a full-game aesthetic overhaul. Includes unique world-space specific presets and various different interior presets with dynamic day-night cycle based lighting.
 
-# ![Banner Requirements](https://github.com/user-attachments/assets/c3173a9e-28ff-46d1-afe7-2582220413f8)
+# ![Banner Requirements](https://github.com/user-attachments/assets/6aa2396d-179c-4471-89df-5b206343fd87)
 
 - Legally purchased copies of Fallout: New Vegas, Fallout 3, and all DLCs for both games.
 	- Steam, Steam PCR, Steam Cut German, and GOG versions **ARE** compatible.
@@ -131,7 +131,7 @@
 - A [ModPub account](https://mod.pub/account/register).
 - A [Discord account](https://discord.com/register).
 
-# ![Banner Recommended Specs](https://github.com/user-attachments/assets/d4f9e851-7510-4101-bff9-7c1f93169372)
+# ![Banner Recommended Specs](https://github.com/user-attachments/assets/3f2c123a-e142-4a04-a234-fcf22f17c440)
 
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
 - RAM - 16gb or higher required.  Dual channel recommended.
@@ -142,7 +142,7 @@
 > - An Optional Storage Space Clean Up section is included below for those concerned about the large installation size.
 > - An Optional Performance Profile is discussed below for those with weaker computers.
 
-# ![Banner Setup Instructions](https://github.com/user-attachments/assets/0600562e-5d50-4456-814a-d04a3ed848fe)
+# ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
 ## <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
@@ -518,7 +518,7 @@ Caveats:
 
 	![Performance](https://github.com/user-attachments/assets/388b653f-2e6f-4374-bc17-85e71e4d8921)
 
-# ![Banner Updating Uranium Fever](https://github.com/user-attachments/assets/49306d5b-454d-4384-a28e-e5d730240ecb)
+# ![Banner Updating Uranium Fever](https://github.com/user-attachments/assets/50f8351b-d958-41d5-a6c8-a0b8e412c52d)
 
 - Using Wabbajack, `reinstall Uranium Fever` into the `Uranium Fever folder` with the `Overwrite Installation` checkbox enabled.
 
@@ -526,7 +526,7 @@ Caveats:
 
 - If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
 
-# ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/6471d266-0d65-47b8-aad6-e7e4df08f2e4)
+# ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
 - 3rd Person Camera Overhaul:
 	- Swap POV Between 1st and 3rd Person: Hold F.
@@ -649,7 +649,7 @@ Caveats:
 	- Opening Weapon Hweel: Hold Q.
 	- Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
 
-# ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/2643d768-a2c6-4c15-9457-658d9df8deb0)
+# ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
 	- Altered lists will not be supported.
@@ -715,7 +715,7 @@ Caveats:
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
 
-# ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/23924bd8-1fb6-4da9-9c03-64f059dbfc2a)
+# ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/5e5b2ad8-8efa-4950-baa4-d315a3f252cf)
 
 > [!caution]
 > ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever channels in Sweets Retreat, or any other unaffiliated discord channel.
@@ -729,7 +729,7 @@ Caveats:
 
 	![Discord](https://github.com/user-attachments/assets/e13e3d65-419b-4294-831d-5bbcbcea9e64)
 
-# ![Banner Credit   Thanks](https://github.com/user-attachments/assets/ed5a5bea-2f79-41bf-b9f6-2f721aa49719)
+# ![Banner Credits   Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
 Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but would not be possible without the many contributions from:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
