@@ -9,7 +9,7 @@
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
 
-# ![Banner Features](https://github.com/user-attachments/assets/9960f6bf-3900-492f-83aa-7cb4a57b18d6)
+# ![Banner Features](https://github.com/user-attachments/assets/98641609-2009-4125-84c6-0292c549dedf)
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
@@ -26,7 +26,7 @@
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
-## <p align="center"> ![Balance](https://github.com/user-attachments/assets/472dac2a-3476-46b1-96a2-f022a6253c76) </p>
+## <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
 
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
@@ -50,7 +50,7 @@
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-## <p align="center"> ![Functions](https://github.com/user-attachments/assets/22cf2ff7-1405-43e8-a0c8-2789fa1491a0) </p>
+## <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
 - Bad Touch - Adds realistic consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
