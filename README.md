@@ -64,8 +64,7 @@
 - B42 Optics - Seamlessly adds dual-rendered scopes into the game.
 - B42 True Learning - Adds contextual lean when aiming out from corners.
 
-## <p align="center">  </p>
-## Comprehensive Overhauls
+## <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
 - Functional Post Game Ending - Adds a functional post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought straight to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut - Restores a massive amount of scenery, items, NPCs, and quests that were patched out of the game following initial release.
@@ -76,7 +75,7 @@
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC, including rebalancing, new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, including many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. EDGE also comprehensively overhauls the Point Lookout DLC, making it a much more appropriate early game experience.
 
-## Interactions
+## <p align="center"> ![Interactions](https://github.com/user-attachments/assets/1eca9a6d-db8b-4103-83c3-b9d61a28f369) </p>
 - Brave New World - A near complete professional revoicing of NPCs throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
 - TTW NPC Overhaul - A lore friendly visual overhaul of the NPCs from both wastelands.
@@ -84,30 +83,33 @@
 - Companion Characteristics - Provides gameplay quirks derived from companion personality traits, often taking the form of personality-based debuffs.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
-## Content
+## <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
 - Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
 - Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
 - 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The Fallout 3 iteration adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The Fallout: New Vegas iteration adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
 - Vegas Elysium Perk Pack - A perk and trait pack that introduces new thought cabinet and flaw systems, inspired by the Disco Elysium. In these new systems, the player has a conflicting thought that provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a buff.
 
-## Sound
+## <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
 - A Music Addition Project - Revised - Overhauls and expands the music in both wastelands with lore friendly, classic Fallout tracks.
 - Capital Ruins - Adds music inspired by The Last of Us, Silent Hill, and The Long Dark into the Capital Wasteland, with the goal of setting a darker, more horror appropriate tone.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
+## <p align="center">  </p>
 ## UI
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 
+## <p align="center">  </p>
 ## Animations
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
 - Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow and believability of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
 
+## <p align="center">  </p>
 # Visuals
 - Real Time Reflections - Adds a fully dynamic, real-time reflection system to the game.
 - Special Effects - A comprehensive reimagining of special effects throughout the game, including enhanced explosions, lasers, plasma, shock and lightning, fire and flame, blood, gore, impacts, decals, ash and goo piles, and water streams. This is a labor of love and takes inspiration from the best aspects of many of its predecessors in order to make the ultimate all-in-one special effects pack!
@@ -146,6 +148,7 @@
 
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/0600562e-5d50-4456-814a-d04a3ed848fe)
 
+## <p align="center">  </p>
 ## Creating Necessary File Paths
 - Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
 - Create a folder named `Modding`, then open it.
@@ -156,6 +159,7 @@
 > [!important]
 > After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
+## <p align="center">  </p>
 ## Downloading Wabbajack
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
@@ -163,6 +167,7 @@
 - Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
 
+## <p align="center">  </p>
 ## Manual Downloads
 > [!caution]
 > These mods are Uranium Fever **REQUIREMENTS**.
@@ -171,6 +176,7 @@
 	- The `Downloads` folder will now contain `ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0`.
 - `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
+## <p align="center">  </p>
 ## Installing Uranium Fever
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
@@ -189,6 +195,7 @@
 > [!warning]
 > Let the installation **FINISH** prior to starting the following sections.
 
+## <p align="center">  </p>
 ## Creating a Clean Stock New Vegas Folder
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
@@ -232,6 +239,7 @@
 > [!caution]
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 
+## <p align="center">  </p>
 ## Generating Fresh INI Files
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
@@ -240,12 +248,14 @@
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 
+## <p align="center">  </p>
 ## Launching Mod Organizer 2 (MO2)
 - Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
 - If prompted that INIs are read only, select `Clear the Read Only Flag`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
 
+## <p align="center">  </p>
 ## Configuring Game Settings
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
@@ -264,7 +274,7 @@
 >
 > 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 
-	
+## <p align="center">  </p>
 ## Installing Tale of Two Wastelands (TTW)
 > [!caution]
 > This mod is a Uranium Fever **REQUIREMENT**.
@@ -284,7 +294,8 @@
 
 > [!warning]
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
-  
+
+## <p align="center">  </p>
 ## Installing New Vegas Reloaded (NVR)
 > [!caution]
 > This mod is a Uranium Fever installation **REQUIREMENT**, though NVR is disabled in the Performance Profile.
@@ -301,6 +312,7 @@
 
 	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
+## <p align="center">  </p>
 ## Running 4GB Patcher
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
@@ -308,6 +320,7 @@
 > [!caution]
 > Failure to run the correct patch will result in a pink screen when launching the game.
 
+## <p align="center">  </p>
 ## Installing on Linux
 <details><summary>
 Expand
@@ -349,6 +362,7 @@ Caveats:
 - If problems are encountered, launch Lutris with debug output via the terminal by typing in lutris -d.
  </details>
 
+## <p align="center">  </p>
 ## Disabling Base Address Randomization 
 > [!Tip]
 > This step can prevent unforeseen crashes.
@@ -360,6 +374,7 @@ Caveats:
 
 	![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
 
+## <p align="center">  </p>
 ## Creating Antivirus Exclusions
 > [!tip]
 > This process prevents windows from blocking MO2 and associated mod files from loading.
@@ -373,7 +388,8 @@ Caveats:
 	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
 
 - This process will also need to be replicated for any third-party antivirus.
-  
+
+## <p align="center">  </p>
 ## Disabling Steam Overlay
 > [!tip]
 > This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
@@ -393,6 +409,7 @@ Caveats:
 
 	![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
 
+## <p align="center">  </p>
 ## Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK
 > [!warning]
 > The most recent version of DXVK comes bundled with Uranium Fever.
@@ -406,6 +423,7 @@ Caveats:
 	- Navigate to the `Uranium Fever > DXVK folder`.
 	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
+## <p align="center">  </p>
 ## Disabling DXVK Cache Storage
 > [!tip]
 > DXVK Cache Storage is known to cause memory related crashes. This step disables the creation of the DXVK cache.
@@ -428,6 +446,7 @@ Caveats:
   		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
+## <p align="center">  </p>
 ## AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)
 > [!tip]
 > FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
@@ -458,6 +477,7 @@ Caveats:
 
 	![RTSS Setup](https://github.com/user-attachments/assets/1dada6bc-0e6b-4e3d-bed0-79bd81acb4a9)
 
+## <p align="center">  </p>
 ## NVIDIA Graphics Card Users - Installing Special K
 > [!tip]
 > FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
@@ -495,6 +515,7 @@ Caveats:
 - For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), as this is beyond the scope of Uranium Fever configuration.
 	- G-Sync will be compatible without changing any settings.
 
+## <p align="center">  </p>
 ## Launching The Game
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
@@ -505,6 +526,7 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
+## <p align="center">  </p>
 ## Optional Storage Space Clean Up
 > [!tip]
 > This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
@@ -512,6 +534,7 @@ Caveats:
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
 - Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
 
+## <p align="center">  </p>
 ## Optional - Enabling the Performance Profile
 > [!tip]
 > This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
