@@ -26,7 +26,8 @@
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/9f9335c9-a5b5-4fdd-8708-9db1a0d00072)
 
-## Balance
+## <p align="center"> ![Balance](https://github.com/user-attachments/assets/0abc7a85-97e4-4c03-9ed8-ac9a03c8fc2f) </p>
+
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
