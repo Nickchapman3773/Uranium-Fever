@@ -503,7 +503,7 @@ Caveats:
 > [!Caution]
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
-## <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/95ba91c8-14a4-4f9e-9630-eecc90f164af) </p>
+## <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 > [!tip]
 > This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
 
