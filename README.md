@@ -732,7 +732,7 @@ Caveats:
 
 # ![Banner Credits   Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
-Uranium Fever is authored and supported by Kamchatka and DarkSolarLegend, but would not be possible without the many contributions from:
+Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and OrgasmicSneeze but would not be possible without the many contributions from:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The Wabbajack team (particularly JanuarySnow, TDarkShadow, and Trawzified) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
 - The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
