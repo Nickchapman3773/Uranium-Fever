@@ -757,4 +757,5 @@ Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and Orgas
 - DoktorAkcel for extensive Uranium Fever troubleshooting and being kind enough to make many custom patches specifically for the list. <3 Dok.
 - Canadian𝓕𝓻𝓮𝓪𝓴oneer for creating several custom patches for Uranium Fever.
 - Pr0bability for making custom patches for Uranium Fever, creating cartographer, and advising on many aspects of the list.
+- Lime for designing mods specifically per my request and offering private mods for use in Uranium Fever.
 - DracoVampire786, SkankingFuchs, & Lufusol for allowing the inclusion of several private patches and mods in Uranium Fever.
