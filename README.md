@@ -252,6 +252,7 @@
 	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
 - Navigate to `Options` then select the `Ultra Preset`.
+	- Those with weaker machines and concerns about performance can select the `Very High` preset, though this will come at the cost of visual quality.
 - Uncheck the `Windowed` option, then select your monitor's `resolution`.
 	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
 - Click OK and close the launcher.
