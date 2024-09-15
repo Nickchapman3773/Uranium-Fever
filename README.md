@@ -670,6 +670,8 @@ Caveats:
 	- You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and connect to your Nexus account.
 - First Time Playing - Is the list appropriate for a person who has never played Fallout before?
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
+- FPS - What are some ways I can get higher FPS with Uranium Fever?
+	- Try switching to the High Quality launcher preset settings and the Performance Profile.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?
