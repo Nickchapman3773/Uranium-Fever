@@ -1,6 +1,6 @@
 # ![Banner UF Title](https://github.com/user-attachments/assets/0c750cbf-ca4f-4cb3-ae68-f4c8cc08931c)
 
-**Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. UF is unique in that new community content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure stability despite the lists' colossal size. We consider UF to be the most beautiful, comprehensive, modern, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
+**Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as STALKER and Resident Evil. UF is unique in that new content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure performance and stability despite the lists' massive size. We consider UF to be the most beautiful, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
 
 # <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 
@@ -19,7 +19,7 @@
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - An assortment of the best content additions available, including the addition of several new and unique worldspaces.
 - Ample new items, armors, perks, enemies, and creatures, all intended to further expand the authentic Fallout experience.
-- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience. All mods included in Uranium Fever have been compressed, downsized, BSA packed, and reflagged when appropriate.
+- Substantial object mesh, navmesh, collision marker, room bound, texture, and LOD optimizations with the goal of improved performance and an enhanced combat experience. All mods included in Uranium Fever have been compressed, downsized, mipmapped BSA packed, and reflagged when appropriate. This yields large performance gains despite dramatically improved visuals.
 - Extensive, full-game retexturing and reimagining of both Wastelands.
 - Dramatically overhauled lighting and special effects to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
