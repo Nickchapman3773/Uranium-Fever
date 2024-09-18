@@ -675,7 +675,7 @@ Caveats:
 - First Time Playing - It is my first time playing and I would like to experience the introductory sequence.
 	- Disable Quick Start and Quick Start - Item Remover Patch in the Core Gameplay seperator in the core gameplay. We will not provide any support for bugs encountered in the introductory sequence, which has been known to have bugs in the past.
 - Flickering - Objects or mountains in the distance are flickering. Why? Can I fix it?
-	- This is called zfighting. If you find it very bothersome, type ?tag z-fighting into the Uranium Fever Discussion discord channel.
+	- This is called z-fighting. If you find it very bothersome, type ?tag zfighting into the Uranium Fever Discussion discord channel.
 - FPS - What are some ways I can get higher FPS with Uranium Fever?
 	- Try switching to the High Quality launcher preset settings and the Performance Profile.
 - Installation Error - I had an error during the Wabbajack installation. What now?
