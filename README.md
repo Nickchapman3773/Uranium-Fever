@@ -136,7 +136,7 @@
 
 - CPU: Intel 2xxx i5/AMD FX 8xxx or higher required, Intel 6xxx  i5/Ryzen 5 or higher recommended.
 - RAM - 16gb or higher required.  Dual channel recommended.
-- GPU - GTX 1060 6gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
+- GPU - GTX 1070 8gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
 - SSD required.  NVMe SSD recommended.  At least 150gb of free space is required.
 
 > [!note]
@@ -564,6 +564,8 @@ Caveats:
 	- Press Left Ctrl.
 - Drop Item from Inventory:
 	- Open Inventory, mouse over desired item, Right Click.
+- Equip Follower Weapon or Gear:
+	- Mouse over desired weapon or gear and press Right Click.
 - Equip Weapon Mod:
 	- Mouse over desired weapon, press Activate (E), Left Click desired mod.
 - Forced Entry:
@@ -670,8 +672,14 @@ Caveats:
 	- You failed to connect your nexus account to your wabbajack. Open the settings cogwheel in Wabbajack and connect to your Nexus account.
 - First Time Playing - Is the list appropriate for a person who has never played Fallout before?
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
+- First Time Playing - It is my first time playing and I would like to experience the introductory sequence.
+	- Disable Quick Start and Quick Start - Item Remover Patch in the Core Gameplay seperator in the core gameplay. We will not provide any support for bugs encountered in the introductory sequence, which has been known to have bugs in the past.
+- Flickering - Objects or mountains in the distance are flickering. Why? Can I fix it?
+	- This is called z-fighting. If you find it very bothersome, type ?tag z-fighting into the Uranium Fever Discussion discord channel.
 - FPS - What are some ways I can get higher FPS with Uranium Fever?
 	- Try switching to the High Quality launcher preset settings and the Performance Profile.
+- Installation Error - I had an error during the Wabbajack installation. What now?
+	- Try running it again. Sometimes Wabbajack simply errors inappropriately.
 - Keybinds - How do I find Uranium Fever's Keybinds?
 	- Press K in the pause menu.
 - Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?
@@ -684,6 +692,8 @@ Caveats:
 	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
 - Notification Size - Why are my notifications huge?
 	- Notification size is inappropriately large after starting a new game until the game is reloaded.
+- NPCs - Some NPCs are not completing their tasks as anticipated during quest or interaction sequences.
+	- You likely interrupted their scripted packages, reload to a save prior to the interaction, and do not interact with them until they have completely finished their task. Mod added content often has this complication, and it is out of our control.
 - Optimization - What kind of things have you done to optimize Uranium Fever?
 	- Many! When appropriate, we use Cathedral Asset Optimizer and Nvidia Texture Tools to compress uncompressed textures and downsize textures to 2k, with a goal of striking the best balance of quality and performance. We generate mipmaps for non-UI textures in order to assist with aesthetics and rendering. We use BSArchPro to place assets into BSAs, which decreases memory usage and crashing. We have optimized LOD rendering distances and priority flagging to ensure only visually relevant items are loaded in at a given time. We have flagged ESPs as ESMs when they contain temporary worldspace edits in order to prevent them from continually being loaded into ram, further decreasing memory usage.
 - Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?
@@ -692,8 +702,12 @@ Caveats:
 	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of memory usage of 2.2-2.5gb, and exceeding that causes crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
 - Pink Screen - Why do I see pink transition screens when the game loads?
 	- You inadverently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
+- Parse Errors - I received various parse errors during the Wabbajack installation. Is this a problem?
+	- No. As long as your installer says complete at the end, this is not a problem.
 - Ragdolls - Doesn't Ragdolls cause crashes?
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
+- Reflections - The reflections in windows are showing landscape instead of the building or item behind me. Why?
+	- This is a necessary concession in order to prevent the associated mod from imposing a massive performance cost.
 - Resolution - Why is my resolution stuck at 4k?
 	- Special K users also need to change it in the Special K menu, then restart the game.
 - Runtime Error - Why am i getting a runtime error when I try to launch Uranium Fever?
