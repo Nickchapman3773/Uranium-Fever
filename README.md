@@ -468,12 +468,8 @@ Caveats:
 
 	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
-- `Download` [Special K](https://sk-data.special-k.info/SpecialK.7z).
-- `Extract` the downloaded archive into your downloads folder and `open` the extracted `SpecialK` folder.
-- `Rename SpecialK32.dll` to `dinput8.dll`.
-- `Move` the newly renamed `dinput8.dll` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- `Download` the [Viva New Vegas Preconfigured Settings Archive](https://performance.moddinglinked.com/files/sk.zip).
-- `Extract` the newly downloaded `SK.zip` into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- `Download` [Special K](https://performance.moddinglinked.com/files/SpecialK.7z).
+- `Extract` the downloaded archive into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - `Launch` Uranium Fever (launch instructions are provided below).
 - `Select Yes` when prompted to `enable DXVK support/vulkan bridge`, then `relaunch` the game.
 - Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
