@@ -174,7 +174,7 @@
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
-> **SKIP** steps 1 and 3 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
+> **SKIP** this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 
 > [!important]
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
@@ -212,7 +212,7 @@
 > [!tip]
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
-> **SKIP** steps 1 and 3 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
+> **SKIP** step 1 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 
 > [!important]
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
