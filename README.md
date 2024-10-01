@@ -8,7 +8,7 @@
 > 1) Uranium Fever is a community initiative that is contributed to by many of the best mod creators in the community. We have constant access to their greatly appreciated expertise and guidance.
 > 2) We make many custom edits to the mods included in the list to promote the most seamless player experience possible.
 > 3) We often have access to the newest, cutting-edge mods prior to their formal release.
-> 4) We have gone through great lengths to optimize the list in various different ways. We have evaluated every singe mod in the list and downsized, compressed, mipmapped, and BSA packed them when appropriate. We have customly adjusted countless object meshes, textures, navmeshes, collision markers, and roombounds to provide the best aesthetics and performance. These adjustments allow us to have a far larger modlist than others, while still providing great performance.
+> 4) We have gone through great lengths to optimize the list in various different ways. We have evaluated every single mod in the list and downsized, compressed, mipmapped, and BSA packed them when appropriate. We have customly adjusted countless object meshes, textures, navmeshes, collision markers, and roombounds to provide the best aesthetics and performance. These adjustments allow us to have a far larger modlist than others, while still providing great performance.
 > 5) We perform careful memory and FPS testing alongside each large addition to the list, ensuring we never unexpectedly compromise stability, despite Uranium Fever being ever-evolving.
 
 # <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
