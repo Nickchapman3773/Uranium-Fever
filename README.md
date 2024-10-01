@@ -2,6 +2,15 @@
 
 **Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as STALKER and Resident Evil. UF is unique in that new content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure performance and stability despite the lists' massive size. We consider UF to be the most beautiful, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
 
+> [!important]
+> What differentiates Uranium Fever from other Fallout: New Vegas or Tale or Two Wasteland modlists?
+>
+> 1) Uranium Fever is a community initiative that is contributed to by many of the best mod creators in the community. We have constant access to their greatly appreciated expertise and guidance.
+> 2) We make many custom edits to the mods included in the list to promote the most seamless player experience possible.
+> 3) We often have access to the newest, cutting-edge mods prior to their formal release.
+> 4) We have gone through great lengths to optimize the list in various different ways. We have evaluated every singe mod in the list and downsized, compressed, mipmapped, and BSA packed them when appropriate. We have customly adjusted countless object meshes, textures, navmeshes, collision markers, and roombounds to provide the best aesthetics and performance. These adjustments allow us to have a far larger modlist than others, while still providing great performance.
+> 5) We perform careful memory and FPS testing alongside each large addition to the list, ensuring we never unexpectedly compromise stability, despite Uranium Fever being ever-evolving.
+
 # <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 
 >[!CAUTION]
@@ -126,7 +135,7 @@
 	- Extract the archive, open the extracted folder, right click `install_all.bat`, and select run as administrator.
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - The latest driver versions for your GPU.
-- An archiving tool - [7-zip](https://www.7-zip.org/) is recommended.
+- An archiving tool - [NanaZip](https://apps.microsoft.com/store/detail/nanazip/9N8G7TSCL18R?hl=en-us&gl=us) is recommended.
 - A text editor - [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/) is recommended.
 - A [Nexus Mods account](https://users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise ~1,000 mods will need to be manually downloaded.
 - A [ModPub account](https://mod.pub/account/register).
@@ -664,7 +673,7 @@ Caveats:
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 - Altering Uranium Fever - Can I alter mods in Uranium Fever?
-	- Altered lists will not be supported.
+	- Alterations to Uranium Fever will not be supported, meaning any support requests for altered lists will be ignored. We will also not give you any direction or instructions on how to alter the list. If you are altering Uranium Fever, you will be expected to know what you are doing.
 - Black Screen - I have a black screen on game launch. How do I fix it?
 	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
@@ -682,6 +691,8 @@ Caveats:
 	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience.
 - First Time Playing - It is my first time playing and I would like to experience the introductory sequence.
 	- Disable Quick Start and Quick Start - Item Remover Patch in the Core Gameplay seperator in the core gameplay. We will not provide any support for bugs encountered in the introductory sequence, which has been known to have bugs in the past.
+- Flashlight - Why doesn't my flashlight alert enemies to my presence?
+	- Unfortunately, it is not a real in-game object. It is a shader created by NVR. It is currently the best available solution, though there is an upcoming flashlight mod that has been in the works for some time.
 - Flickering - Objects or mountains in the distance are flickering. Why? Can I fix it?
 	- This is called z-fighting. The only available mod to address this is not publicly available and introduces other issues, such as broken render distances.
 - FPS - What are some ways I can get higher FPS with Uranium Fever?
@@ -734,6 +745,8 @@ Caveats:
 	- Crouch and you can still steal these items!
 - Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?
 	- It is an installation of Fallout New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self contained in this respect.
+- Traveling to the Mojave - How does the transition from the Capital Wasteland to the Mojave Wasteland work? Won't you be overpowered?
+	- We use a mod called Benny Humbles you and Steals Your Stuff to address this. The mod resets the player's levels, reduces your skills, resets your karma, removes your power armor training, reduces your SPECIAL until your meet certain criteria (this is later recovered), steals your gear (this is later recovered), and provides an XP boost so that the player can recover more quickly. The player will retain their perks and holdout weapons.
 - TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?
 	- No. The TTW Installer edits Fallout New Vegas files in the [NoDelete] Stock New Vegas folder. This is intentional to allow Uranium Fever to be entirely self contained.
 - TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?
@@ -742,6 +755,8 @@ Caveats:
 	- It has been fully replaced by a skill based alternative called Bullet Time.
 - Vortex - Can I install Uranium Fever with vortex?
 	- No. Wabbajack is inherently incompatible with vortex.
+- Weapon Damage - Why doesn't my weapon damage decrease as my condition decreases?
+	- This was the behavior in the game originally, but this has been intentionally changed. Now, weapon jam frequency scales with weapon condition, instead of damage.
 
 # ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/5e5b2ad8-8efa-4950-baa4-d315a3f252cf)
 
