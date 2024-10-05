@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuranium_fever=self.webpackChunkuranium_fever||[]).push([[235],{8552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
