@@ -101,6 +101,12 @@ const config = {
           { to: "/blog", label: "Changelog", position: "right" },
           {
             type: "doc",
+            docId: "faq",
+            position: "right",
+            label: "Appendix",
+          },
+          {
+            type: "doc",
             docId: "supportfeedback",
             position: "right",
             label: "Help",
