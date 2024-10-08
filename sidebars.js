@@ -34,6 +34,10 @@ const sidebars = {
   ],
   gallerySidebar: [
     'armors',
+    'interiors',
+    'mechanics',
+    'npcs',
+    'ui',
   ],
 };
 
