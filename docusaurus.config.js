@@ -72,7 +72,7 @@ const config = {
         },
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/link.jpg',
       navbar: {
         title: '             ',
         logo: {
@@ -101,7 +101,7 @@ const config = {
           { to: "/blog", label: "Changelog", position: "right" },
           {
             type: "doc",
-            docId: "faq",
+            docId: "appendix",
             position: "right",
             label: "Appendix",
           },
