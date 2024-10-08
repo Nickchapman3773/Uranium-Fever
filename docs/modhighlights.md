@@ -54,7 +54,7 @@ sidebar_label: Mod Highlights
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC, including rebalancing, new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, including many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. EDGE also comprehensively overhauls the Point Lookout DLC, making it a much more appropriate early game experience.
 
-### <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
+# <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
 - Brave New World - A near complete professional revoicing of NPCs throughout the Mojave Wasteland, including more than 7,000 lines of dialogue.
 - Dialogue & Interaction Expansion Overhaul - A comprehensive overhaul of player dialogue and interaction choices.
 - TTW NPC Overhaul - A lore friendly visual overhaul of the NPCs from both wastelands.
