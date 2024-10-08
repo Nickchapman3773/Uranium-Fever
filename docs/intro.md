@@ -1,47 +1,24 @@
 ---
 sidebar_position: 1
+title: Intro
+hide_title: true
+sidebar_label: Intro
 ---
 
-# Tutorial Intro
+# ![Banner UF Title](https://github.com/user-attachments/assets/0c750cbf-ca4f-4cb3-ae68-f4c8cc08931c)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Uranium Fever** (UF) is a comprehensive overhaul of all aspects of Fallout: New Vegas and Fallout 3 featuring modernization, content expansion, extensive rebalancing, and visual enhancement. Focused on a hardcore and thrilling gameplay experience, UF takes inspiration from top survival-horror games, such as STALKER and Resident Evil. UF is unique in that new content is quickly and thoughtfully integrated, each inclusion and configuration is thoroughly evaluated, and innovative optimizations exclusive to UF ensure performance and stability despite the lists' massive size. We consider UF to be the most beautiful, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!
 
-## Getting Started
+> :::important What differentiates Uranium Fever from other Fallout: New Vegas or Tale or Two Wasteland modlists?
+>
+> - Uranium Fever is a community initiative that is contributed to by many of the best mod creators in the community. We have constant access to their greatly appreciated expertise and guidance.
+> - We make many custom edits to the mods included in the list to promote the most seamless player experience possible.
+> - We often have access to the newest, cutting-edge mods prior to their formal release.
+> - We have gone through great lengths to optimize the list in various different ways. We have evaluated every single mod asset in the list and downsized, compressed, mipmapped, and BSA packed them when appropriate. We have customly adjusted countless object meshes, textures, navmeshes, collision markers, and roombounds to provide the best aesthetics and performance. These adjustments allow us to have a far larger modlist than others, while still providing great performance.
+> - We perform careful memory and FPS testing alongside each large addition to the list, ensuring we never unexpectedly compromise stability, despite Uranium Fever being ever-evolving.
 
-Get started by **creating a new site**.
+# <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+>:::caution **Trigger Warning:**
+>
+> Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
