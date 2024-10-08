@@ -4,10 +4,8 @@ title: Interiors
 hide_title: true
 sidebar_label: Interiors
 ---
-![Interior 1](assets/interiors/interior1.png)
-![Interior 2](assets/interiors/interior2.png)
-![Interior 3](assets/interiors/interior3.png)
-![Interior 4](assets/interiors/interior4.png)
+![Interior 1](assets/interiors/interior1.png) ![Interior 2](assets/interiors/interior2.png)
+![Interior 3](assets/interiors/interior3.png) ![Interior 4](assets/interiors/interior4.png)
 ![Interior 5](assets/interiors/interior5.png)
 ![Interior 6](assets/interiors/interior6.png)
 ![Interior 7](assets/interiors/interior7.png)
