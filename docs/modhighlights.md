@@ -7,7 +7,7 @@ sidebar_label: Mod Highlights
 
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/04a080db-7406-45cf-8cc9-3bb18be1f018)
 
-### <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
+# <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
 - Sweets Simple Settings - Adjusts various gameplay settings to provide a more difficult and hardcore experience. Modifications include damage, health, AP, carry weight, crippled limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - Harder Barter Faster Stronger (Sicko Mode) - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - Bullet Time - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision making.
@@ -30,7 +30,7 @@ sidebar_label: Mod Highlights
 - Sweet Perk Overhaul - A complete rebalancing and reimagining of all base game perks, with the goal of making every single perk situationally enticing.
 - Sweet 6 Shooter Perks - A seamless and immersive addition of 99 perks and 22 traits, with the goal of making appealing perks available for all different weapon and armor build types.
 
-### <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
+# <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
 - Bad Touch - Adds realistic consequences to exposure to environmental hazards, such as fire, electricity, cacti, broken glass, toxic sludge pools, poisonous gas, and radioactive goo.
 - BURN (Hardcore Fire Effects) - Causes unprotected humans and flammable creatures to panic and flee when set on fire, enhancing gameplay mechanics for fire and explosive based weaponry.
 - Armed to the Teeth Redux - Allows the player to holster 4 weapons on their body simultaneously.
@@ -43,7 +43,7 @@ sidebar_label: Mod Highlights
 - B42 Optics - Seamlessly adds dual-rendered scopes into the game.
 - B42 True Learning - Adds contextual lean when aiming out from corners.
 
-### <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
+# <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
 - Functional Post Game Ending - Adds a functional post-game world, fully fleshed out with the consequences of your actions. You will no longer be brought straight to the credits after beating the game.
 - MoreMojave - Adds many new, intense, and carefully balanced locations at sparser areas of the Mojave Wasteland.
 - Uncut - Restores a massive amount of scenery, items, NPCs, and quests that were patched out of the game following initial release.
@@ -62,31 +62,31 @@ sidebar_label: Mod Highlights
 - Companion Characteristics - Provides gameplay quirks derived from companion personality traits, often taking the form of personality-based debuffs.
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
-### <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
+# <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
 - Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
 - Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
 - 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The Fallout 3 iteration adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The Fallout: New Vegas iteration adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
 - Vegas Elysium Perk Pack - A perk and trait pack that introduces new thought cabinet and flaw systems, inspired by the Disco Elysium. In these new systems, the player has a conflicting thought that provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a buff.
 
-### <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
+# <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
 - ATMOS Ambience Overhaul - A massive modernization of the ambient soundscapes of both Wastelands.
 - A Music Addition Project - Revised - Overhauls and expands the music in both wastelands with lore friendly, classic Fallout tracks.
 - Capital Ruins - Adds music inspired by The Last of Us, Silent Hill, and The Long Dark into the Capital Wasteland, with the goal of setting a darker, more horror appropriate tone.
 - Passive Combat Music Tweaked - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
-### <p align="center"> ![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df) </p>
+# <p align="center"> ![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df) </p>
 - Quick Select - Seamlessly adds new and intuitive quick-access weapon and aid selection menus.
 - Item Cards - Adds new, real-time, detailed stat menus to inspected items.
 - Radiation Visuals - Adds new visual effects when the player is exposed to radiation, including ionizing particles, static noise, and blurred vision.
 - 3rd Person Camera Overhaul - Adds modernized 3rd person camera features, such as shoulder swapping, smooth interactive camera movement, and fully fleshed out customizable camera positioning.
 
-### <p align="center"> ![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2) </p>
+# <p align="center"> ![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2) </p>
 - Enhanced Movement - A complete movement overhaul and expansion, featuring bug fixes, diagonal movement, enhanced sprinting, enhanced sneaking, animated prone framework, and new animations.
 - Modern Stagger Animations - A complete replacement for stagger animations made through motion capture. Greatly enhances the flow of combat.
 - Simple Attack Reactions - Adds animations to NPCs in response to injury, further enhancing the flow and believability of combat.
 - Ragdolls & Death Throes - Dramatically improves ragdoll behavior to create more realistic pain and death animations.
 
-### <p align="center"> ![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425) </p>
+# <p align="center"> ![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425) </p>
 - Real Time Reflections - Adds a fully dynamic, real-time reflection system to the game.
 - Special Effects - A comprehensive reimagining of special effects throughout the game, including enhanced explosions, lasers, plasma, shock and lightning, fire and flame, blood, gore, impacts, decals, ash and goo piles, and water streams. This is a labor of love and takes inspiration from the best aspects of many of its predecessors in order to make the ultimate all-in-one special effects pack!
 - Lumen - Adds authentic ambient lighting to objects throughout the game.
