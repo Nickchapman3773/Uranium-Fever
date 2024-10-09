@@ -17,8 +17,8 @@ sidebar_label: Intro
 > - We have gone through great lengths to optimize the list in various different ways. We have evaluated every single mod asset in the list and downsized, compressed, mipmapped, and BSA packed them when appropriate. We have customly adjusted countless object meshes, textures, navmeshes, collision markers, and roombounds to provide the best aesthetics and performance. These adjustments allow us to have a far larger modlist than others, while still providing great performance.
 > - We perform careful memory and FPS testing alongside each large addition to the list, ensuring we never unexpectedly compromise stability, despite Uranium Fever being ever-evolving.
 
-# <p align="center"> [Uranium Fever Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
-# <p align="center"> [Uranium Fever Demonstration Gallery](https://uraniumfever.net/docs/armors) </p>
+# <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
+# <p align="center"> [Showcase Gallery](https://uraniumfever.net/docs/armors) </p>
 
 >:::caution **Trigger Warning**
 >
