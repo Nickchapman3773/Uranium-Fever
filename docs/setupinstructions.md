@@ -14,7 +14,7 @@ sidebar_label: Setup Instructions
 - Create another folder named `Uranium Fever`, then open it.
 - Create a folder named `downloads`.
 
-> :::important Double Check!
+> :::important Double Check
 > After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
@@ -33,7 +33,7 @@ sidebar_label: Setup Instructions
 - `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
-> :::tip Completely Self-Contained!
+> :::tip Completely Self-Contained
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
 > **SKIP** this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
@@ -71,12 +71,12 @@ sidebar_label: Setup Instructions
 > Let the installation **FINISH** prior to starting the following sections.
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
-> :::tip Self-Contained!
+> :::tip Completely Self-Contained
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
 > **SKIP** step 1 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 
-> :::important
+> :::important Important Instructions
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 >
 > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
