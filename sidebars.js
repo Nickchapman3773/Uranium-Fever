@@ -38,6 +38,7 @@ const sidebars = {
     'npcs',
     'ui',
     'anchorage',
+    'arroyocanyon',
   ],
   appendixSidebar: [
     'stars',
