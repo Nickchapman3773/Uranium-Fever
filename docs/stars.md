@@ -9,7 +9,9 @@ sidebar_label: STARS TTW
 > This is a **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very carefully to avoid missing textures in game.
 >
 > Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right clicking the mod, clicking information, navigating to the filetree tab, right clicking on the pertinent plugin or folder, and selecting hide. STARS will provide an alert in-game if any assets are missing or managed incorrectly.
+> 
 # [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016)
+>
 
 #### Installation:
 
