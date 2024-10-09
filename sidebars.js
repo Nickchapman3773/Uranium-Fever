@@ -43,7 +43,7 @@ const sidebars = {
     'stars',
   ],
   changelogSidebar: [
-    'stars',
+    'initialchangelog',
   ],
 };
 
