@@ -98,7 +98,12 @@ const config = {
             position: "right",
             label: "FAQ",
           },
-          { to: "/blog", label: "Changelog", position: "right" },
+          {
+            type: "docSidebar",
+            sidebarId: "changelogSidebar",
+            position: "right",
+            label: "Changelog",
+          },
           {
             type: "docSidebar",
             sidebarId: "appendixSidebar",
