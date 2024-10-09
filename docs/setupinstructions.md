@@ -25,7 +25,7 @@ sidebar_label: Setup Instructions
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-> :::caution Required!
+> :::caution Required
 > These mods are Uranium Fever **REQUIREMENTS**.
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
@@ -234,7 +234,8 @@ Caveats:
 	![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
 
 ### <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
-> :::tip This process prevents windows from blocking MO2 and associated mod files from loading.
+> :::tip Why?
+> This process prevents windows from blocking MO2 and associated mod files from loading.
  
 - Open `Windows Security`.
 - Open `Virus & Threat Protection`.
@@ -247,7 +248,7 @@ Caveats:
 - This process will also need to be replicated for any third-party antivirus.
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
-> :::tip
+> :::tip Why?
 > This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
  
 - Navigate to your `Steam Folder` (the same folder where steam.exe is).
