@@ -1,7 +1,7 @@
 ---
-title: STARS TTW - Sweet's Total Armor Rework System
+title: STARS TTW
 hide_title: false
-sidebar_label: STARS TTW - Sweet's Total Armor Rework System
+sidebar_label: STARS TTW
 ---
 ![STARS](assets/stars.png)
 > :::caution STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances the ***stats, appearance, and effects of every single armor in the game***, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the nexus. **READ THE DESCRIPTION** on the mod page carefully.
