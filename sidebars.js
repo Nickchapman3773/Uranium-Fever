@@ -28,7 +28,6 @@ const sidebars = {
     'updatingUF',
     'modquickreference',
     'faq',
-    'features',
     'supportfeedback',
     'credits',
   ],
