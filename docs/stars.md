@@ -1,7 +1,7 @@
 ---
-title: STARS TTW
+title: STARS
 hide_title: true
-sidebar_label: STARS TTW
+sidebar_label: STARS
 ---
 ![STARS](assets/stars.png)
 > :::caution READ CAREFULLY!
