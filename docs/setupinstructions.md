@@ -25,7 +25,7 @@ sidebar_label: Setup Instructions
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-> :::caution
+> :::caution Required!
 > These mods are Uranium Fever **REQUIREMENTS**.
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
