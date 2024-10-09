@@ -100,8 +100,8 @@ const config = {
           },
           { to: "/blog", label: "Changelog", position: "right" },
           {
-            type: "doc",
-            docId: "appendix",
+            type: "docSidebar",
+            sidebarId: "appendixSidebar",
             position: "right",
             label: "Appendix",
           },
