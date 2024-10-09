@@ -37,6 +37,7 @@ const sidebars = {
     'mechanics',
     'npcs',
     'ui',
+    'anchorage',
   ],
   appendixSidebar: [
     'stars',
