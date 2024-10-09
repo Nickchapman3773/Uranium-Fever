@@ -42,6 +42,9 @@ const sidebars = {
   appendixSidebar: [
     'stars',
   ],
+  changelogSidebar: [
+    'stars',
+  ],
 };
 
 export default sidebars;
