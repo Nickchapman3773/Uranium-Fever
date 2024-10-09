@@ -13,5 +13,5 @@ sidebar_label: Recommended Specs
 - SSD required.  NVMe SSD recommended.  At least 155gb of free space is required.
 
 > :::note
-> - An Optional Storage Space Clean Up section is included below for those concerned about the large installation size.
-> - An Optional Performance Profile is discussed below for those with weaker computers.
+> - An Optional Storage Space Clean Up section is included in the Setup Instructions for those concerned about the large installation size.
+> - An Optional Performance Profile is discussed the Setup Instructions for those with weaker computers.
