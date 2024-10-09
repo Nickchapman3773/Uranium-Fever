@@ -38,6 +38,9 @@ const sidebars = {
     'npcs',
     'ui',
   ],
+  appendixSidebar: [
+    'appendix',
+  ],
 };
 
 export default sidebars;
