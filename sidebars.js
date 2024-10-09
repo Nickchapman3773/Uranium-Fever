@@ -39,7 +39,7 @@ const sidebars = {
     'ui',
   ],
   appendixSidebar: [
-    'appendix',
+    'intro',
   ],
 };
 
