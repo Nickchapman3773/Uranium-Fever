@@ -33,12 +33,12 @@ sidebar_label: Setup Instructions
 - `**MOVE**` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
-> :::tip Self-Contained!
+> :::tip Completely Self-Contained!
 > This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
 > **SKIP** this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
 
-> :::important
+> :::important Important Instructions
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 >
 > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
