@@ -11,7 +11,8 @@ sidebar_label: Support, Feedback, and Updates
 >
 > ***DO NOT*** ping **OR** private message any member of the Uranium Fever team for support or questions. ***DO NOT*** ask non-support members for support.
 
-> :::caution Altered Uranium Fever lists ***WILL NOT*** be supported.
+> :::caution Altering Uranium Fever
+> Altered Uranium Fever lists ***WILL NOT*** be supported.
 
 - Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA).
 
