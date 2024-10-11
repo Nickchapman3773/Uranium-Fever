@@ -7,18 +7,16 @@ import Layout from "@theme/Layout";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
-  return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <div className={styles.buttons}>
-          <Link className="button button--primary button--lg" to="/docs/intro">
-            Click here to begin
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
+<div class="container">
+  <div class="video-bg cover">
+    <div class="video-fg">
+      <iframe src="https://www.youtube.com/embed/j_OyHUqIIOU?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <!--<div class="video-fg supports-cover">
+      <video src="http://techslides.com/demos/sample-videos/small.mp4"></video>
+    </div>-->
+  </div>
+</div>
 }
 
 export default function Home() {
