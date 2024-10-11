@@ -90,7 +90,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'gallerySidebar',
             position: 'right',
-            label: 'Gallery',
+            label: 'Showcase',
           },
           {
             type: "doc",
