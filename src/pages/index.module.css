@@ -2,21 +2,32 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+<iframe 
+  class="bg-video"
+  src="https://www.youtube.com/embed/1-mxkgp4XhA?autoplay=1&mute=1&controls=0&loop=1&playlist=1-mxkgp4XhA"
+  frameBorder="0"
+  allowFullScreen
+  allow="autoplay"
+/>
 
-.heroBanner {
-  padding: 0;
-  height: 75vmin;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  background: #282a36 url(@site/static/img/firebarrel.gif) center center/cover no-repeat;
-  color: #f8f8f2;
-}
+.bg-video {
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background: no-repeat center;
+  margin-left: 50vw;
+  user-select: none;
+  pointer-events: none;
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+  /*custom styles, for example grayscale appearance*/
+  filter: grayscale(0.8);
+
+  /*additional tweaks for positioning, read more in the link above*/
+  height: 100%;
+  width: 177.77777778vh; /* 100 * 16 / 9 */
+  min-width: 100%;
+  min-height: 56.25vw; /* 100 * 9 / 16 */
 }
 
 .buttons {
