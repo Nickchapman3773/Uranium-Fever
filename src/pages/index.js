@@ -10,11 +10,14 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-     <div class="container">
-      <div class="video-bg cover">
-       <div class="video-fg">
-        <iframe src="https://www.youtube.com/embed/j_OyHUqIIOU?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
-     </div>
+      <div className="container">
+        <div className={styles.buttons}>
+          <Link className="button button--primary button--lg" to="/docs/intro">
+            Click here to begin
+          </Link>
+        </div>
+      </div>
+    </header>
   );
 }
 
