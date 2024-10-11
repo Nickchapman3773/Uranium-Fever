@@ -2,19 +2,104 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
-.heroBanner {
-  padding: 0;
-  height: 75vmin;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  background: #282a36 url(@site/static/img/mainpage.png) center center/cover no-repeat;
-  color: #f8f8f2;
+@size: 30%;
+.container {
+  position: fixed;
+  top: (100% - @size) / 2;
+  left: (100% - @size) / 2;
+  right: (100% - @size) / 2;
+  bottom: (100% - @size) / 2;
+}
+.container:before {
+  content: '';
+  z-index: 2;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 0 10px red;
+  pointer-events: none;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+.video-bg {
+  background: white;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: 1;
+  /* overflow: hidden; */
+}
+.video-bg .video-fg,
+.video-bg iframe,
+.video-bg video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*
+  Full page video background
+  Simulate object-fit: cover
+  Based on http://fvsch.com/code/video-background/
+*/
+
+@media (min-aspect-ratio: ~"16/9") {
+  .video-bg.cover .video-fg { height: 300%; top: -100%; }
+}
+@media (max-aspect-ratio: ~"16/9") {
+  .video-bg.cover .video-fg { width: 300%; left: -100%; }
+}
+
+@supports (object-fit: cover) {
+  .video-bg.cover .video-fg.supports-cover {
+    width: 100%;
+    height: 100%;
+    top: 0; left: 0;
+  }
+  .video-bg.cover video {
+    object-fit: cover;
+  }
+}
+
+
+/*
+  Vertical centering for 16/9 youtube iframes and video elements
+  Simulate object-fit: contain for entire element, not just contents of element
+*/
+
+.video-bg.contain {
+  font-size: 0;
+}
+.video-bg.contain * {
+  font-size: 16px;
+}
+.video-bg.contain:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+.video-bg.contain .video-fg {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 */
+  pointer-events: none;
+}
+.video-bg.contain iframe,
+.video-bg.contain video {
+  pointer-events: auto;
+}
+
+@media (min-aspect-ratio: ~"16/9") {
+  .video-bg.contain .video-fg {
+    height: 100%;
+    padding-bottom: 0;
+    max-width: (unit(@size, vh) * 16 / 9);
+    left: 50%;
+    margin-left: (unit(@size, vh) * 16 / 9) / -2;
   }
 }
 
