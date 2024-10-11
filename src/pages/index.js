@@ -12,9 +12,9 @@ function HomepageHeader() {
     <div class="video-fg">
       <iframe src="https://www.youtube.com/embed/j_OyHUqIIOU?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
     </div>
-    <!--<div class="video-fg supports-cover">
+    <div class="video-fg supports-cover">
       <video src="http://techslides.com/demos/sample-videos/small.mp4"></video>
-    </div>-->
+    </div>
   </div>
 </div>
 }
