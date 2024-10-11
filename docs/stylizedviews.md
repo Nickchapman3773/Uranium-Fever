@@ -15,7 +15,6 @@ sidebar_label: Stylized Views
 ![Stylized Views 9](assets/stylizedviews/stylizedview9.png)
 ![Stylized Views 10](assets/stylizedviews/stylizedview10.png)
 ![Stylized Views 11](assets/stylizedviews/stylizedview11.png)
-![Stylized Views 12](assets/stylizedviews/stylizedview12.webp)
 ![Stylized Views 13](assets/stylizedviews/stylizedview13.webp)
 ![Stylized Views 14](assets/stylizedviews/stylizedview14.webp)
 ![Stylized Views 15](assets/stylizedviews/stylizedview15.jpg)
