@@ -10,26 +10,6 @@
   allow="autoplay"
 />
 
-.bg-video {
-  position: fixed;
-  left: 0;
-  top: 0;
-  background-size: cover;
-  background: no-repeat center;
-  margin-left: 50vw;
-  user-select: none;
-  pointer-events: none;
-
-  /*custom styles, for example grayscale appearance*/
-  filter: grayscale(0.8);
-
-  /*additional tweaks for positioning, read more in the link above*/
-  height: 100%;
-  width: 177.77777778vh; /* 100 * 16 / 9 */
-  min-width: 100%;
-  min-height: 56.25vw; /* 100 * 9 / 16 */
-}
-
 .buttons {
   display: flex;
   align-items: center;
