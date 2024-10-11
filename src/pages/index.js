@@ -10,10 +10,10 @@ function HomepageHeader() {
 <div class="container">
   <div class="video-bg cover">
     <div class="video-fg">
-      <iframe src="https://www.youtube.com/embed/j_OyHUqIIOU?controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/1-mxkgp4XhA?autoplay=1&mute=1&controls=0&loop=1&playlist=1-mxkgp4XhA" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="video-fg supports-cover">
-      <video src="http://techslides.com/demos/sample-videos/small.mp4"></video>
+      <video src="https://i.imgur.com/2uMciu9.mp4"></video>
     </div>
   </div>
 </div>
