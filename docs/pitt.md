@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Pitt
+title: The Pitt
 hide_title: true
-sidebar_label: Pitt
+sidebar_label: The Pitt
 ---
 ![Pitt 1](assets/pitt/pitt1.png)
 ![Pitt 2](assets/pitt/pitt2.png)
