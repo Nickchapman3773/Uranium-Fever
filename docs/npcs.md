@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: NPCs
+title: Characters
 hide_title: true
 sidebar_label: NPCs
 ---
