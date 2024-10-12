@@ -60,7 +60,7 @@ sidebar_label: Setup Instructions
 - These clean installs and backups will be further utilized in the `Creating a Clean Stock New Vegas Folder` section of these instructions.
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
-- `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
+- `Run` the `Uranium Fever.wabbajack` file (Currented linked in the Uranium Fever Discord Updates channel).
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
