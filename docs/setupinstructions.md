@@ -51,7 +51,6 @@ These instructions will reference the `game library folder`, which refers to the
 
 Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 :::
-:::
 
 - `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
@@ -92,7 +91,6 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 
 Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
-:::
 :::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
