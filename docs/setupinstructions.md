@@ -27,8 +27,7 @@ sidebar_label: Setup Instructions
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-> :::caution Required
-> These mods are Uranium Fever **REQUIREMENTS**.
+> :::caution Required Mods
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
 	- The `Downloads` folder will now contain `ghouls, MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0, Tammer's NIF-Bashed Armor Mega-Pack v4.2, FeralGhoulsHD, and RRTV_CapitalWasteland_Hideouts_TTW-v2.0`.
@@ -141,8 +140,7 @@ sidebar_label: Setup Instructions
 > 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
-> :::caution Required
-> This mod is a Uranium Fever **REQUIREMENT**.
+> :::caution Required Mods
 
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
@@ -161,8 +159,7 @@ sidebar_label: Setup Instructions
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 
 ### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
-> :::caution Required
-> This mod is a Uranium Fever installation **REQUIREMENT**, though NVR is disabled in the Performance Profile.
+> :::caution Required Mods
 
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the `Nightly Builds channel`.
