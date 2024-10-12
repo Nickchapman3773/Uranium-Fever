@@ -15,7 +15,6 @@ sidebar_label: Support, Feedback, & Updates
 :::danger Altering Uranium Fever
 Altered Uranium Fever lists ***WILL NOT*** be supported.
 :::
-:::
 
 - Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA).
 
