@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: UI
+title: User Interface
 hide_title: true
-sidebar_label: UI
+sidebar_label: User Interface
 ---
 ![UI 1](assets/ui/ui1.png)
 ![UI 2](assets/ui/ui2.png)
