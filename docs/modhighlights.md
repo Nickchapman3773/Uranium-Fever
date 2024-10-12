@@ -52,6 +52,7 @@ sidebar_label: Mod Highlights
 - Mojave Raiders - A complete overhaul and diversification of the many Raider factions of the Mojave Wasteland.
 - AGE (Anchorage Gameplay Expansion) - A complete overhaul of the Anchorage DLC, including rebalancing, new gear, weapons, enemies, encounters, and boss fights. Heavily inspired by Call of Duty, Doom Eternal, and Half-Life, though with an emphasis on lore-friendly, full-game cohesion.
 - DMT (Dead Money Tweaks) - A complete overhaul of the Dead Money DLC, including rebalancing, new gear, weapons, and enemies. Intended to be a pseudo-RPG-survival horror experience inspired by Resident Evil, though with focus on a cohesive and lore-friendly Fallout experience.
+- Point Lookout Reborn - A comprehensive overhaul of Point Lookout to make exploration more engaging and rewarding.
 - EDGE (Early Decisions and Gameplay Enhancement) - A large-scale overhaul of Tale of Two Wastelands. EDGE initially originated as a mod focused on rebalancing the early game, though has since been expanded to replace many aspects of both Wastelands, including many locations, quests, encounters, NPCs, loot, vendors, SPECIAL stats, and karma. EDGE also comprehensively overhauls the Point Lookout DLC, making it a much more appropriate early game experience.
 
 # <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
@@ -63,9 +64,10 @@ sidebar_label: Mod Highlights
 - Mojave Wildlife - Adds hundreds of leveled, vanilla-friendly creature spawn points throughout the Mojave Wasteland.
 
 # <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
-- Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
-- Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
 - 3DNPCs - Two expansive content mods, each focused on expanding its respective Wasteland. The Fallout 3 iteration adds 15 quests, 8 companions, many background NPCs, and a radio station to the Capital Wasteland. The Fallout: New Vegas iteration adds 5 quests, 3 companions, and many background NPCs to the Mojave Wasteland.
+- Autumn Leaves - A DLC-sized quest mod delving into a centuries-old library inhabited by sentient machines. Contains over 2,000 professionally voiced lines, 8 new quests, around 10 hours of gameplay, multiple different endings, and an original soundtrack.
+- Dry Wells - A Legion Expansion - A DLC-sized quest mod featuring the addition of a new world space deep in Legion territory. Includes over 20 quests, 35 fully voiced characters, new factions, and over 6 hours of new gameplay.
+- Havasu Blues - A DLC-sized quest mod featuring an irradiated survival experience in the territory surrounding Lake Havasu City. Includes more than 60 professionally voiced characters, 28 new quests, around 10 hours of gameplay, and an entirely new world space.
 - Vegas Elysium Perk Pack - A perk and trait pack that introduces new thought cabinet and flaw systems, inspired by the Disco Elysium. In these new systems, the player has a conflicting thought that provides a debuff, though after meeting certain criteria (coming across specific items, encounters, or taking a certain action enough times), the player is able to internalize the “answer” to the thought, ultimately providing a buff.
 
 # <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
