@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: TOTNW
+title: Power Armor
 hide_title: true
-sidebar_label: TOTNW
+sidebar_label: Power Armor
 ---
 ![TOTNW 1](assets/totnw/totnw1.png)
 ![TOTNW 2](assets/totnw/totnw2.png)
