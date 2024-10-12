@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Mojave
+title: Mojave Wasteland
 hide_title: true
-sidebar_label: Mojave
+sidebar_label: Mojave Wasteland
 ---
 ![Mojave 1](assets/mojave/mojave1.png)
 ![Mojave 2](assets/mojave/mojave2.png)
