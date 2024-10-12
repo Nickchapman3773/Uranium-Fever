@@ -36,7 +36,7 @@ sidebar_label: Setup Instructions
 		- `Tammer's NIF-Bashed Armor Mega-Pack v4.2`
 		- `FeralGhoulsHD`
 		- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
-- `MOVE` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
+- **`MOVE`** all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 > :::tip Self-Contained
@@ -49,14 +49,15 @@ sidebar_label: Setup Instructions
 > >
 > > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 
-- Creating Clean Installs and Backups of Current Installs/Modded Instances
-	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
-		- This will be the Steam/GOG installation backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
-	- Navigate to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
-		- This will be the settings and saves backup for the pre-existing modded instance. **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
-	- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
-	- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG.
-	- These clean installs and backups will be further managed in the `Creating a Clean Stock New Vegas Folder` section of these instructions.
+- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
+	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
+ 	- **IF** a seperate modded instance is not installed, simply `delete` the `Fallout New Vegas` folder.
+- `Navigate` to `C:\Users\USERNAME\Documents\My Games` and **`MOVE`** the `FalloutNV` folder to the desktop. `Delete` the `Fallout 3` folder.
+	- This will be the settings and saves backup for the pre-existing modded instance.
+ 	- **IF** a seperate modded instance is not installed, simply `delete` the `FalloutNV` folder.
+- `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
+- `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG.
+- These clean installs and backups will be further utilized in the `Creating a Clean Stock New Vegas Folder` section of these instructions.
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - `Run` the `Uranium Fever.wabbajack` file (a link is currently available in the Uranium Fever Updates channel).
