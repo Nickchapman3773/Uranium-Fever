@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: Armors
+title: Armor
 hide_title: true
-sidebar_label: Armors
+sidebar_label: Armor
 ---
 ![Armor 1](assets/armors/armor1.png)
