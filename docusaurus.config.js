@@ -77,7 +77,7 @@ const config = {
         title: '             ',
         logo: {
           alt: 'UF Logo',
-          src: 'img/UF.ico',
+          src: 'img/uf nogit.png',
         },
         items: [
           {
