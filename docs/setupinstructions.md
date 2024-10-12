@@ -27,7 +27,7 @@ sidebar_label: Setup Instructions
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-> :::caution Required Mods
+> :::danger Required Mods
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
 	- The `Downloads` folder will now contain:
@@ -108,7 +108,7 @@ sidebar_label: Setup Instructions
 
 			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-> :::caution Caution - No Extra Files
+> :::danger danger - No Extra Files
 > Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
@@ -145,7 +145,7 @@ sidebar_label: Setup Instructions
 > 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
-> :::caution Required Mods
+> :::danger Required Mods
 
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
@@ -164,7 +164,7 @@ sidebar_label: Setup Instructions
 > The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 
 ### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
-> :::caution Required Mods
+> :::danger Required Mods
 
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the `Nightly Builds channel`.
@@ -182,7 +182,7 @@ sidebar_label: Setup Instructions
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
-> :::caution
+> :::danger
 > Failure to run the correct patch will result in a pink screen when launching the game.
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
@@ -376,7 +376,7 @@ Caveats:
 
 	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
-> :::caution
+> :::danger
 > **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 
 ### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
