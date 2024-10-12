@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Strip
+title: The Strip
 hide_title: true
-sidebar_label: Strip
+sidebar_label: The Strip
 ---
 ![Strip 1](assets/strip/strip1.png)
 ![Strip 2](assets/strip/strip2.png)
