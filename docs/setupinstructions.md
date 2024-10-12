@@ -31,18 +31,18 @@ sidebar_label: Setup Instructions
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
 	- The `Downloads` folder will now contain:
- 		- `Ghouls`
-   		- `MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0`
-     		- `Tammer's NIF-Bashed Armor Mega-Pack v4.2`
-       		- `FeralGhoulsHD`
-         	- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
+		- `Ghouls`
+		- `MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0`
+		- `Tammer's NIF-Bashed Armor Mega-Pack v4.2`
+		- `FeralGhoulsHD`
+		- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
 - `MOVE` all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
-> :::tip Completely Self-Contained
-> This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+> :::tip Self-Contained
+> This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
-> **SKIP** this step if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
+> **SKIP** this step if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 
 > :::important Important Instructions
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
@@ -77,10 +77,10 @@ sidebar_label: Setup Instructions
 > Let the installation **FINISH** prior to starting the following sections.
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
-> :::tip Completely Self-Contained
-> This process allows for the creation of a completely **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+> :::tip Self-Contained
+> This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
-> **SKIP** step 1 if you have never played or modded this installation of Fallout 3 or Fallout: New Vegas before.
+> **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 
 > :::important Important Instructions
 > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
