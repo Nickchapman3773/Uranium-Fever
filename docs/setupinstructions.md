@@ -43,11 +43,10 @@ sidebar_label: Setup Instructions
 > This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 >
 > **SKIP** this step if you have never played or modded Fallout 3 or Fallout: New Vegas before.
-
-> :::important Important Instructions
-> These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
->
-> Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
+> > :::important Important Instructions
+> > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
+> >
+> > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 
 - Creating Clean Installs and Backups of Current Installs/Modded Instances
 	- `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
