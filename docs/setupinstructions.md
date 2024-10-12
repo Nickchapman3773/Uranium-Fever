@@ -14,10 +14,11 @@ sidebar_label: Setup Instructions
 - Create another folder named `Uranium Fever`, then open it.
 - Create a folder named `downloads`.
 
-> :::important Double Check
-> The following filepaths should now exist, though the Root Directory may differ:
-> - `C:\Modding\Uranium Fever\downloads`
-> - `C:\Modding\Wabbajack`
+:::important Double Check
+The following filepaths should now exist, though the Root Directory may differ:
+- `C:\Modding\Uranium Fever\downloads`
+- `C:\Modding\Wabbajack`
+:::
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
@@ -27,7 +28,8 @@ sidebar_label: Setup Instructions
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-> :::danger Required Mods
+:::danger Required Mods
+:::
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click `Download anyway` on the two Google Drive links that open in your browser.
 	- The `Downloads` folder will now contain:
@@ -39,15 +41,17 @@ sidebar_label: Setup Instructions
 - **`MOVE`** all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
-> :::tip Self-Contained
-> This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
->
-> **SKIP** this step if you have never played or modded Fallout 3 or Fallout: New Vegas before.
->
-> > :::important Important Instructions
-> > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
-> >
-> > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
+:::tip Self-Contained
+This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+
+**SKIP** this step if you have never played or modded Fallout 3 or Fallout: New Vegas before.
+
+:::important Important Instructions
+These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
+
+Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
+:::
+:::
 
 - `Navigate` to the `game library folder` and **`MOVE`** the `Fallout New Vegas` folder to the desktop. `Delete` the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
@@ -74,19 +78,22 @@ sidebar_label: Setup Instructions
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close Wabbajack.
 
-> :::warning
-> Let the installation **FINISH** prior to starting the following sections.
+:::warning
+Let the installation **FINISH** prior to starting the following sections.
+:::
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
-> :::tip Self-Contained
-> This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
->
-> **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
->
-> > :::important Important Instructions
-> > These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
-> >
-> > Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
+:::tip Self-Contained
+This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+
+**SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
+
+:::important Important Instructions
+These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
+
+Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
+:::
+:::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
 	- `Navigate` to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
@@ -109,8 +116,9 @@ sidebar_label: Setup Instructions
 
 			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
-> :::danger danger - No Extra Files
-> Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
+:::danger danger - No Extra Files
+Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
+:::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch `Fallout: New Vegas` from `Steam/GOG`.
@@ -140,13 +148,14 @@ sidebar_label: Setup Instructions
 
 	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
-> :::tip Steam PCR Users
-> Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` into the corresponding field, then click apply.
->
-> 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
+:::tip Steam PCR Users
+Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` into the corresponding field, then click apply.
+ 	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
+:::
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
-> :::danger Required Mod
+:::danger Required Mod
+:::
 
 - Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
@@ -161,11 +170,13 @@ sidebar_label: Setup Instructions
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
 
-> :::warning
-> The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
+:::warning
+The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
+:::
 
 ### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
-> :::danger Required Mod
+:::danger Required Mod
+:::
 
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the `Nightly Builds channel`.
@@ -183,8 +194,9 @@ sidebar_label: Setup Instructions
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
-> :::danger
-> Failure to run the correct patch will result in a pink screen when launching the game.
+:::danger
+Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
+:::
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
 <details><summary>
@@ -228,8 +240,9 @@ Caveats:
  </details>
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
-> :::tip Why?
-> This step can prevent unforeseen crashes.
+:::tip Why?
+This step can prevent unforeseen crashes.
+:::
 
 - Open `Windows Security` from the `Start Menu`.
 - Open `App & Browser Control` in the left sidebar.
@@ -253,9 +266,10 @@ Caveats:
 - This process will also need to be replicated for any third-party antivirus.
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
-> :::tip Why?
-> This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
- 
+:::tip Why?
+This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
+:::
+
 - Navigate to your `Steam Folder` (the same folder where steam.exe is).
 - Right click `GameOverlayRenderer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
@@ -273,10 +287,11 @@ Caveats:
 
 ### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
 
-> :::warning Pre-Bundled DXVK
-> The most recent version of DXVK comes bundled with Uranium Fever.
->
-> Intel iGPUs and older GPUs without Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
+:::warning Pre-Bundled DXVK
+The most recent version of DXVK comes bundled with Uranium Fever.
+
+Intel iGPUs and older GPUs without Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
+:::
 
 - Intel iGPU users:
 	- Navigate to the `Uranium Fever > DXVK folder`.
@@ -286,8 +301,9 @@ Caveats:
 	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
-> :::tip Why?
-> DXVK Cache Storage is known to cause memory related crashes. This step disables the creation of the DXVK cache.
+:::tip Why?
+DXVK Cache Storage is known to cause memory related crashes. This step disables the creation of the DXVK cache.
+:::
 
 - Press the `windows button`.
 - Type `Env` in the search bar and click `Edit the system environmental variables`.
@@ -308,10 +324,11 @@ Caveats:
 - Restart your computer for this to take effect.
 
 ### <p align="center"> ![AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/53b53292-faf3-4115-9d92-f2e1d7f2c32a) </p>
-> :::tip Why?
-> FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
-> 
-> RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
+:::tip Why?
+FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
+
+RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
+:::
 
 - Install and launch [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
 - Open the `System Tray` and click the `RTSS icon`.
@@ -338,10 +355,11 @@ Caveats:
 	![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
 ### <p align="center"> ![NVIDIA Graphics Card Users - Installing Special K](https://github.com/user-attachments/assets/d53e2ccc-df55-4a21-b765-e48a8939c1ca) </p>
-> :::tip Why?
-> FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
->
-> Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
+:::tip Why?
+FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
+
+Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
+:::
 
 - `Navigate` to the NVIDIA app settings and `turn off` the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
 
@@ -377,19 +395,22 @@ Caveats:
 
 	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
-> :::danger
-> **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
+:::danger
+**DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
+:::
 
 ### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
-> :::tip Optional
-> This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
+:::tip Optional
+This is an optional step to remove ~50gb of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
+:::
 
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
 - Navigate to the `C:\Modding\Uranium Fever` folder and `delete` the `downloads folder`.
 
 ### <p align="center"> ![Optional - Enabling the Performance Profile](https://github.com/user-attachments/assets/121f49bc-ccec-4028-9bb9-588826b8ee43) </p>
-> :::tip Optional
-> This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
+:::tip Optional
+This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
+:::
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
 
