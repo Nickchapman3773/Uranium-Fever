@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Havasu
+title: Lake Havasu
 hide_title: true
-sidebar_label: Havasu
+sidebar_label: Lake Havasu
 ---
 ![Havasu 1](assets/havasu/havasu1.png)
 ![Havasu 2](assets/havasu/havasu2.png)
