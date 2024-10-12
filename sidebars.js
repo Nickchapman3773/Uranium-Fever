@@ -52,10 +52,10 @@ const sidebars = {
     'anchorage',
     'pitt',
     'pointlookout',
-    'brokensteel',
     'mothershipzeta',
-    'stylizedviews',
+    'brokensteel',
     'interiors',
+    'stylizedviews',
   ],
   appendixSidebar: [
     'stars',
