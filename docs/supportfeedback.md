@@ -1,8 +1,8 @@
 ---
 sidebar_position: 10
-title: Support & Feedback
+title: Support, Feedback, & Updates
 hide_title: true
-sidebar_label: Support, Feedback, and Updates
+sidebar_label: Support, Feedback, & Updates
 ---
 
 # ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/5e5b2ad8-8efa-4950-baa4-d315a3f252cf)
