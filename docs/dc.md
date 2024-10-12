@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: DC
+title: Capital Wasteland
 hide_title: true
-sidebar_label: DC
+sidebar_label: Capital Wasteland
 ---
 ![DC 1](assets/dc/dc1.png)
 ![DC 2](assets/dc/dc2.png)
