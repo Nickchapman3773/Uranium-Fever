@@ -40,7 +40,6 @@ const sidebars = {
     'mojave',
     'strip',  
     'dc',
-    'mojave',
     'megaton',
     'drywells',
     'havasu',
