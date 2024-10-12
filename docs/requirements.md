@@ -18,6 +18,6 @@ sidebar_label: Requirements
 - The latest driver versions for your GPU.
 - An archiving tool - [7-zip](https://www.7-zip.org/) is recommended.
 - A text editor - [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/) is recommended.
-- A [Nexus Mods account](https://users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise ~1,000 mods will need to be manually downloaded.
+- A [Nexus Mods account](https://users.nexusmods.com/register) - Premium subscription is **HIGHLY** recommended, otherwise >1,100 mods will need to be manually downloaded.
 - A [ModPub account](https://mod.pub/account/register).
 - A [Discord account](https://discord.com/register).
