@@ -12,6 +12,7 @@ sidebar_label: Recommended Specs
 - GPU - GTX 1070 8gb/R9 390 8gb required, 8gb RTX or RDNA recommended.
 - SSD required.  NVMe SSD recommended.  At least 155gb of free space is required.
 
-> :::note
-> - An Optional Storage Space Clean Up section is included in the Setup Instructions for those concerned about the large installation size.
-> - An Optional Performance Profile is discussed the Setup Instructions for those with weaker computers.
+:::note
+- An Optional Storage Space Clean Up section is included in the Setup Instructions for those concerned about the large installation size.
+- An Optional Performance Profile is discussed the Setup Instructions for those with weaker computers.
+- :::
