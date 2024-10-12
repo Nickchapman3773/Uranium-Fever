@@ -20,6 +20,6 @@ sidebar_label: Intro
 # <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 # <p align="center"> [Showcase](https://uraniumfever.net/docs/armors) </p>
 
->:::caution **Trigger Warning**
+>:::danger **Trigger Warning**
 >
 > Some of the content in Uranium Fever contains difficult and distressing psychosocial topics, including notions of self abuse, self-destructive behavior and thought, suicidal-ideation, sexual assault, and distressing screams. Proceed with caution.
