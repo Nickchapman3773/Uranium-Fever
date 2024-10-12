@@ -15,4 +15,4 @@ sidebar_label: Recommended Specs
 :::note
 - An Optional Storage Space Clean Up section is included in the Setup Instructions for those concerned about the large installation size.
 - An Optional Performance Profile is discussed the Setup Instructions for those with weaker computers.
-- :::
+:::
