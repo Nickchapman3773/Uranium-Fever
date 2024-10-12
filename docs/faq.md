@@ -1,8 +1,8 @@
 ---
 sidebar_position: 9
-title: FAQ
+title: Frequently Asked Questions
 hide_title: true
-sidebar_label: FAQ
+sidebar_label: Frequently Asked Questions
 ---
 
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
