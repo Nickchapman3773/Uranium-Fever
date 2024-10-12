@@ -15,7 +15,10 @@ sidebar_label: Setup Instructions
 - Create a folder named `downloads`.
 
 > :::important Double Check
-> After completing this step, the downloads filepath should be `C:\Modding\Uranium Fever\downloads` and the Wabbajack filepath should be `C:\Modding\Wabbajack`, though the Root Directory may differ. For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
+> The following filepaths should now exist, though the Root Directory may differ:
+> - `C:\Modding\Uranium Fever\downloads`
+> - `C:\Modding\Wabbajack`
+> For ease, these instructions will refer to the Root Directory as `C:\` moving forward.
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
