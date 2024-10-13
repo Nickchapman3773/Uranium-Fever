@@ -8,7 +8,6 @@ sidebar_label: Armor
 ![A02](https://github.com/user-attachments/assets/d28d9536-f66d-4c78-b650-da65884e042a)
 ![A03](https://github.com/user-attachments/assets/abb340c5-ecc6-4afb-aa24-3186187ee8c1)
 ![A04](https://github.com/user-attachments/assets/c8209bdb-aefb-4943-a46a-898ab08618c1)
-
 ![PA01](https://github.com/user-attachments/assets/e61ba3a0-7b5c-4dbe-9dd3-5da5aa0d7c3d)
 ![PA02](https://github.com/user-attachments/assets/55ba08fa-1bee-4d07-9519-bf5f8349f3f7)
 ![PA03](https://github.com/user-attachments/assets/33b4ce06-b4c2-4def-b5e8-ce172476bca8)
