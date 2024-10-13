@@ -36,7 +36,6 @@ const sidebars = {
     'mechanics',
     'npcs',
     'armors',
-    'totnw',
     'mojave',
     'strip',  
     'dc',
