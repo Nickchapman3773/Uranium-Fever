@@ -22,3 +22,6 @@ sidebar_label: Characters
 ![CC16](https://github.com/user-attachments/assets/fd09febf-e641-4009-8de9-75d34c554faf)
 ![CC17](https://github.com/user-attachments/assets/31ae3776-5130-4827-9db3-dc1f6d18c4dd)
 ![cc18](https://github.com/user-attachments/assets/2741dd68-1d54-438f-90cb-c3b0098306ac)
+![CC19](https://github.com/user-attachments/assets/cac364a6-2d3f-41c7-8be3-5d1c5aa27e2b)
+![CC20](https://github.com/user-attachments/assets/5b7f1634-2eb3-45c8-88a0-c503f96611e5)
+![CC21](https://github.com/user-attachments/assets/5bd3851a-62ef-47f8-98e9-6f838dc86efb)
