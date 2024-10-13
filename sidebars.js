@@ -55,7 +55,6 @@ const sidebars = {
     'mothershipzeta',
     'brokensteel',
     'interiors',
-    'stylizedviews',
   ],
   appendixSidebar: [
     'stars',
