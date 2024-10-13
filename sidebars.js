@@ -27,7 +27,7 @@ const sidebars = {
     'ins06setupinstructions',
     'ins07updating',
     'ins08modquickreference',
-    'ins09faq',
+    'ins09frequentlyaskedquestions',
     'ins10supportfeedback',
     'ins11credits',
   ],
