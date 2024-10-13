@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--primary button--lg" to="/docs/ins01intro">
-            Click here to begin
+            Click Here to Start Installing Uranium Fever
           </Link>
         </div>
       </div>
