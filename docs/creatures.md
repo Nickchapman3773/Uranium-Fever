@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Stylized Views
+title: Creatures
 hide_title: true
-sidebar_label: Stylized Views
+sidebar_label: Creatures
 ---
 ![Stylized Views 1](assets/stylizedviews/stylizedview1.png)
 ![Stylized Views 2](assets/stylizedviews/stylizedview2.png)
