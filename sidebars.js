@@ -35,6 +35,7 @@ const sidebars = {
     'ui',
     'mechanics',
     'npcs',
+    'creatures',
     'armors',
     'mojave',
     'strip',  
