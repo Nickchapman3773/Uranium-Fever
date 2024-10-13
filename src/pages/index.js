@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--primary button--lg" to="/docs/ins01intro">
-            Click Here to Start Installing Uranium Fever
+            Click Here to Learn About Uranium Fever
           </Link>
         </div>
       </div>
@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A Hardcore TTW Wabbajack Modlist"
+      description="A Hardcore Wabbajack Modlist for Tale of Two Wastelands"
     >
       <HomepageHeader />
     </Layout>
