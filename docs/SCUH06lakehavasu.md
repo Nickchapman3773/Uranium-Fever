@@ -16,4 +16,4 @@ sidebar_label: Lake Havasu
 ![LH10](https://github.com/user-attachments/assets/d3c6dcbf-a1d1-406e-8f39-87ed84705916)
 ![LH11](https://github.com/user-attachments/assets/b81613a8-0fba-4b06-8735-7c30eca8a03c)
 ![LH12](https://github.com/user-attachments/assets/d5708daf-fd3c-4d71-91a8-587fd8efebf9)
-![Uploading LH13.png…]()
+![LH13](https://github.com/user-attachments/assets/2abb5265-97ab-45e5-a527-f4427c6a2fa8)
