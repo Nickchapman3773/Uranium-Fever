@@ -37,6 +37,7 @@ const sidebars = {
     'npcs',
     'creatures',
     'armors',
+    'weapons',
     'mojave',
     'strip',  
     'dc',
