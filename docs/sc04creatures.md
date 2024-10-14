@@ -9,6 +9,7 @@ sidebar_label: Creatures
 ![G04](https://github.com/user-attachments/assets/e7cccb1c-ceed-4dce-8f33-2043a7c0c5c5)
 ![G05](https://github.com/user-attachments/assets/5e646fb4-1fd3-4e81-bde1-90d3912ebb00)
 ![G06](https://github.com/user-attachments/assets/a7a59b12-3bd5-45c9-9342-4fdf16074f3c)
+![G07](https://github.com/user-attachments/assets/0c4387a0-c383-4fca-8b09-b671de1feb32)
 ![M01](https://github.com/user-attachments/assets/9461fc7a-c145-4d65-82c8-fecb49a9aebf)
 ![M02](https://github.com/user-attachments/assets/34aabe08-bf14-4e31-98e1-4cc79272eda1)
 ![M03](https://github.com/user-attachments/assets/7260c868-f43c-4021-ba50-ac38a579e55d)
@@ -35,3 +36,4 @@ sidebar_label: Creatures
 ![Z10](https://github.com/user-attachments/assets/83fbd452-bb58-43a1-ba6a-9ae3fecd7fd3)
 ![Z11](https://github.com/user-attachments/assets/631b9b08-f704-48bf-acdf-00da02dcd97c)
 ![Z12](https://github.com/user-attachments/assets/dddcf102-3b6d-4bcd-a19e-f7f257ee37bf)
+![Z13](https://github.com/user-attachments/assets/b944a548-c022-4280-986a-b33f99288d78)
