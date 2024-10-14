@@ -34,3 +34,4 @@ sidebar_label: Interiors
 ![ANC01](https://github.com/user-attachments/assets/27641ece-4302-4ef8-b407-cfdbe8cca35c)
 ![ANC02](https://github.com/user-attachments/assets/98e71c59-8eb4-49d7-9842-647b785459af)
 ![ZAGE01](https://github.com/user-attachments/assets/306c3539-5a0c-407f-9166-3b7ecede4b5a)
+![PIT01](https://github.com/user-attachments/assets/4efbc327-ce55-4ee9-bd0f-84b83753f9f1)
