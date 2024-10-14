@@ -1,4 +1,4 @@
----
+![R27](https://github.com/user-attachments/assets/14b9a049-c4f3-401c-a154-958564c0ed8e)---
 sidebar_position: 1
 title: Creatures
 hide_title: true
@@ -38,6 +38,10 @@ sidebar_label: Creatures
 ![R21](https://github.com/user-attachments/assets/2c9da86b-f788-46d8-9422-a71325d5bd3f)
 ![R22](https://github.com/user-attachments/assets/b093170b-9c4c-4880-b960-0350e3460151)
 ![R23](https://github.com/user-attachments/assets/d21a8c2b-58fc-4733-ba98-60fef1110daa)
+![R23](https://github.com/user-attachments/assets/70c27d22-f5f8-43a1-8027-a6b0d5c27348)
+![R25](https://github.com/user-attachments/assets/a28e3e2e-1c71-4874-8b21-0d639f4daa26)
+![R26](https://github.com/user-attachments/assets/9362c1af-02dd-41f5-8455-bf4daefa0f0a)
+![R27](https://github.com/user-attachments/assets/d5b84b65-550f-4f15-b076-05a2f43c14e8)
 ![Z01 1](https://github.com/user-attachments/assets/9241ef88-6db2-4572-91fd-255f342ec58c)
 ![Z01](https://github.com/user-attachments/assets/903c85cf-055e-4ebc-b47b-5649a6279032)
 ![Z02](https://github.com/user-attachments/assets/7466856c-a15d-4cc0-a5b3-521246ae0fd7)
@@ -45,8 +49,6 @@ sidebar_label: Creatures
 ![Z04](https://github.com/user-attachments/assets/684ec50b-525c-4b53-aa61-968f9e82ad5f)
 ![Z05](https://github.com/user-attachments/assets/61539dfb-f95d-467c-8480-068cf5ff62c6)
 ![Z06](https://github.com/user-attachments/assets/df77fc41-f9bc-4940-b1d5-06d08547ae32)
-![Z06 1](https://github.com/user-attachments/assets/48be5f23-23cc-4d1b-b646-d2dfea4377eb)
-![z06 2](https://github.com/user-attachments/assets/4e6f09bc-b0c2-45e5-9e6b-9343be2ad093)
 ![Z07](https://github.com/user-attachments/assets/a72afa4d-1799-4b98-a286-db37082ec529)
 ![Z08](https://github.com/user-attachments/assets/5978aa27-9899-42f0-b2e0-064937c593cf)
 ![Z09](https://github.com/user-attachments/assets/41590e17-9dd9-4ad0-91a4-5463561f1b03)
@@ -54,3 +56,5 @@ sidebar_label: Creatures
 ![Z11](https://github.com/user-attachments/assets/631b9b08-f704-48bf-acdf-00da02dcd97c)
 ![Z12](https://github.com/user-attachments/assets/dddcf102-3b6d-4bcd-a19e-f7f257ee37bf)
 ![Z13](https://github.com/user-attachments/assets/b944a548-c022-4280-986a-b33f99288d78)
+![Z14](https://github.com/user-attachments/assets/d2a16013-745b-49b8-bd60-9e2fc90de106)
+![Z15](https://github.com/user-attachments/assets/5f379077-d98c-4d2c-8755-97b2a38eec8a)
