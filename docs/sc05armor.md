@@ -22,4 +22,4 @@ sidebar_label: Armor
 ![PA07](https://github.com/user-attachments/assets/dd7b6d59-9529-4b03-94dd-25e3138038d2)
 ![PA08](https://github.com/user-attachments/assets/a3f52b21-a9a5-4c8d-9d44-1c3df7c46c49)
 ![PA09](https://github.com/user-attachments/assets/ab72f67e-7431-4e69-8248-b3e443956141)
-![Uploading PA10.png…]()
+![PA10](https://github.com/user-attachments/assets/d9265638-b8a5-4b78-876d-edac699ab1d4)
