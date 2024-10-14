@@ -45,6 +45,8 @@ sidebar_label: Creatures
 ![Z04](https://github.com/user-attachments/assets/684ec50b-525c-4b53-aa61-968f9e82ad5f)
 ![Z05](https://github.com/user-attachments/assets/61539dfb-f95d-467c-8480-068cf5ff62c6)
 ![Z06](https://github.com/user-attachments/assets/df77fc41-f9bc-4940-b1d5-06d08547ae32)
+![Z06 1](https://github.com/user-attachments/assets/48be5f23-23cc-4d1b-b646-d2dfea4377eb)
+![z06 2](https://github.com/user-attachments/assets/4e6f09bc-b0c2-45e5-9e6b-9343be2ad093)
 ![Z07](https://github.com/user-attachments/assets/a72afa4d-1799-4b98-a286-db37082ec529)
 ![Z08](https://github.com/user-attachments/assets/5978aa27-9899-42f0-b2e0-064937c593cf)
 ![Z09](https://github.com/user-attachments/assets/41590e17-9dd9-4ad0-91a4-5463561f1b03)
