@@ -33,3 +33,4 @@ sidebar_label: Characters
 ![CCLR02](https://github.com/user-attachments/assets/388be61f-c78b-467f-99df-28dcbf2dc811)
 ![CCLR03](https://github.com/user-attachments/assets/1e6f2e99-1df2-4f4d-b12f-2776b0c473fa)
 ![CCLR04](https://github.com/user-attachments/assets/684a6e8c-5f66-4077-ab5b-046492988ee0)
+![CCAGE01](https://github.com/user-attachments/assets/9e6a4f1f-160c-4af9-a8ca-d142fd208998)
