@@ -19,7 +19,6 @@ sidebar_label: Mojave Wasteland
 ![MW13](https://github.com/user-attachments/assets/f098282a-e806-4db6-9137-33cf7c87cefa)
 ![MW14](https://github.com/user-attachments/assets/814350f6-abff-4a38-b02f-b8ec1c71f86b)
 ![MW15](https://github.com/user-attachments/assets/eb3e8b29-016b-49f8-9795-a32f7a732ec2)
-![MW16](https://github.com/user-attachments/assets/96565a7d-1af3-46b4-8af8-146078c6ac7f)
 ![MW17](https://github.com/user-attachments/assets/695fb53c-b3ad-4641-ab1d-ba9f9a56f8a4)
 ![MW18](https://github.com/user-attachments/assets/ff41f020-a0e8-4812-9d45-c2fb0a10752b)
 ![MW19](https://github.com/user-attachments/assets/8edd0f52-6a4e-443f-be1d-9d8cb186d533)
