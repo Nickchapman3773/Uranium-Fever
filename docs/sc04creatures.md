@@ -1,4 +1,4 @@
-![R27](https://github.com/user-attachments/assets/14b9a049-c4f3-401c-a154-958564c0ed8e)---
+---
 sidebar_position: 1
 title: Creatures
 hide_title: true
