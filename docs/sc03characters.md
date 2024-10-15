@@ -55,3 +55,6 @@ sidebar_label: Characters
 ![PIT05](https://github.com/user-attachments/assets/d48d1d1a-2cbf-41ce-af49-66d2fbc1a9f2)
 ![PIT06](https://github.com/user-attachments/assets/dc065379-f981-4d6e-a2f0-0142e9f60b98)
 ![PIT07](https://github.com/user-attachments/assets/ebde3eee-8918-417a-abdf-58ef1353c63d)
+![Z01](https://github.com/user-attachments/assets/9631b37e-0966-4aeb-b56f-742e30cd393a)
+![Z02](https://github.com/user-attachments/assets/000d0fda-ece2-4a1a-98af-801748317187)
+![Z03](https://github.com/user-attachments/assets/da7ebb8b-5871-4099-a381-f453d6a50217)
