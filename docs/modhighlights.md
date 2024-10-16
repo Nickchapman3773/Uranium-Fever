@@ -72,7 +72,7 @@ sidebar_label: Mod Highlights
 
 # <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
 - **ATMOS Ambience Overhaul** - A massive modernization of the ambient soundscapes of both Wastelands.
-- **A Music Addition Project** - Revised - Overhauls and expands the music in both wastelands with lore friendly, classic Fallout tracks.
+- **A Music Addition Project - Revised** - Overhauls and expands the music in both wastelands with lore friendly, classic Fallout tracks.
 - **Capital Ruins** - Adds music inspired by The Last of Us, Silent Hill, and The Long Dark into the Capital Wasteland, with the goal of setting a darker, more horror appropriate tone.
 - **Passive Combat Music Tweaked** - Delays combat music until certain conditions have been met, preventing the player from being prematurely notified of enemy presence.
 
