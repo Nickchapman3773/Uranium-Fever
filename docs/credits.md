@@ -1,4 +1,4 @@
-l---
+---
 sidebar_position: 11
 title: Credits & Thanks
 hide_title: true
