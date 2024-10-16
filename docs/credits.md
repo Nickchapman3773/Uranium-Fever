@@ -1,11 +1,11 @@
----
+l---
 sidebar_position: 11
 title: Credits & Thanks
 hide_title: true
 sidebar_label: Credits & Thanks
 ---
 
-# ![Banner Credits   Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
+# ![Credits &  Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
 Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and OrgasmicSneeze but would not be possible without the many contributions from:
 - ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
