@@ -4,9 +4,9 @@ title: Features
 hide_title: true
 sidebar_label: Features
 ---
-
 # ![Banner Features](https://github.com/user-attachments/assets/7372d422-b00e-4d2f-8fe0-0f7b40179203)
 
+**Uranium Fever Features**
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
 - Carefully crafted settings for every single mod inclusion.
 - Significant modernizations of the UI, HUD, and Pip-Boy.
