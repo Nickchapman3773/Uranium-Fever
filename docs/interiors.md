@@ -1,4 +1,4 @@
-![CAS06](https://github.com/user-attachments/assets/90c497db-4651-46b3-95ad-53357a261776)---
+---
 sidebar_position: 1
 title: Interiors
 hide_title: true
