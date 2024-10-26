@@ -11,4 +11,4 @@ sidebar_label: Updating Uranium Fever
 
 	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
 
-- If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings` and `Storage Space Clean Up` sections.
+- If prompted, repeat the `Launching Mod Organizer 2 (MO2)`, `Configuring Game Settings`, and `Storage Space Clean Up` sections.
