@@ -4,7 +4,6 @@ title: Features
 hide_title: true
 sidebar_label: Features
 ---
-
 # ![Banner Features](https://github.com/user-attachments/assets/7372d422-b00e-4d2f-8fe0-0f7b40179203)
 
 - A robust assortment of utilities, frameworks, fixes, and quality of life improvements.
@@ -15,7 +14,7 @@ sidebar_label: Features
 - Comprehensive, hardcore rebalancing of all gameplay aspects (including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more), with an emphasis on greatly enhancing difficulty and cohesion.
 - An assortment of the best content additions available, including the addition of several new and unique worldspaces.
 - Ample new items, armors, perks, enemies, and creatures, all intended to further expand the authentic Fallout experience.
-- Extensive optimizations not ofund elsewhere in the community.
+- Extensive optimizations not found elsewhere in the community.
 - Comprehensive, full-game retexturing and reimagining of both Wastelands, including Uranium Haze, a New Vegas Reloaded (NVR) multi-worldspace preset designed specifically for UF.
 - Dramatically overhauled lighting and special effects to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.

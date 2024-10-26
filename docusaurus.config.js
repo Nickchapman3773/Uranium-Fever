@@ -94,7 +94,7 @@ const config = {
           },
           {
             type: "doc",
-            docId: "ins09frequentlyaskedquestions",
+            docId: "frequentlyaskedquestions",
             position: "right",
             label: "FAQ",
           },
@@ -112,7 +112,7 @@ const config = {
           },
           {
             type: "doc",
-            docId: "ins10supportfeedback",
+            docId: "supportfeedback",
             position: "right",
             label: "Help",
           },
