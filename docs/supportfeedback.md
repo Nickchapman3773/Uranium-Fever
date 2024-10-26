@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Support, Feedback, & Updates
 ---
 
-# ![Banner Support, Feedback,   Updates](https://github.com/user-attachments/assets/5e5b2ad8-8efa-4950-baa4-d315a3f252cf)
+# ![Banner Support, Feedback & Updates](https://github.com/user-attachments/assets/5e5b2ad8-8efa-4950-baa4-d315a3f252cf)
 
 :::warning When Seeking Support
 ***DO NOT*** ask for support in the Tale of Two Wastelands, Wasteland Supplemental, ModdingLinked, non-Uranium Fever channels in Sweets Retreat, or any other unaffiliated discord channel.

@@ -155,18 +155,18 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 :::danger Required Mod
 :::
 
-- Download the [3.3.2a Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
-- Open the extracted `Tale of Two Wastelands Installer` folder, right-click `TTW Install.exe`, and select `Run as Administrator`.
+- Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
+- Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
 - **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 - **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
 - Click `Install`.
 
-  ![TTW Install](https://github.com/user-attachments/assets/a0909811-6b04-4341-ba11-c49e0e4a636d)
+	![TTW Install](https://github.com/user-attachments/assets/a0909811-6b04-4341-ba11-c49e0e4a636d)
 
 - Once complete and the confirmation screen is visualized, close the Installer.
 
-  ![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
+	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
 
 :::warning
 The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
