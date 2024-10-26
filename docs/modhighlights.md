@@ -12,8 +12,8 @@ sidebar_label: Mod Highlights
 - **Harder Barter Faster Stronger (Sicko Mode)** - Rebalances the economy around the barter skill, functionally creating a much more punishing economy.
 - **Bullet Time** - Utilized in Uranium Fever to completely supplant VATS, Bullet Time is a robust, AP-based, time-scaling function with an emphasis on careful player aim and thoughtful decision-making.
 - **Armor Damage Overhaul** - Replaces the nonsensical base game armor degradation system with a design that is highly customizable and markedly more intuitive.
-- **New Blood** - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds new features, such as bleeding effects when struck by bladed weapons and formula-based knockdown when hit by blunt weapons or shotgun shots.
-- **Famine** - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems.
+- **New Blood** - A complete reconstruction and rebalancing of damage in its entirety. New Blood adds new features, such as bleeding effects when struck by bladed weapons and formula-based knockdown when hit by blunt weapons or shotgun blasts.
+- **Famine** - A loot scarcity mod that punishes poor resource management habits and forces the player to engage with the barter and crafting systems more actively.
 - **RAD - Radiation Is Actually Dangerous** - A hardcore overhaul of radiation, dehydration, hunger, and sleep deprivation, making these effects considerably more impactful.
 - **Sweet Consumables** - A top-to-bottom reconstruction of consumables and miscellaneous items with a focus on deliberate and thoughtful balance.
 - **Aid Addon** - Adds 16 new, hardcore-focused healing items and new survival healing options.
