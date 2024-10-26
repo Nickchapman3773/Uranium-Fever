@@ -8,23 +8,23 @@ sidebar_label: Setup Instructions
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
-- Navigate to the Root Directory (C:\, D:\, etc).
-- Create a folder named Modding, then open it.
-- Create a folder named Wabbajack, **DO NOT** open it.
-- Create another folder named Uranium Fever, then open it.
-- Create a folder named downloads.
+- Navigate to the Root Directory (`C:\`, `D:\`, etc).
+- Create a folder named `Modding`, then open it.
+- Create a folder named `Wabbajack`, **DO NOT** open it.
+- Create another folder named `Uranium Fever`, then open it.
+- Create a folder named `downloads`.
 
 :::important Double Check
 The following file paths should now exist, though the Root Directory may differ:
-- C:\Modding\Uranium Fever\downloads
-- C:\Modding\Wabbajack
+- `C:\Modding\Uranium Fever\downloads`
+- `C:\Modding\Wabbajack`
 :::
 
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
-- Move the downloaded Wabbajack file to C:\Modding\Wabbajack.
-- Run Wabbajack.exe. This will automatically install Wabbajack.
+- Move the downloaded Wabbajack file to `C:\Modding\Wabbajack`.
+- Run `Wabbajack.exe`. This will automatically install Wabbajack.
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
@@ -32,13 +32,13 @@ The following file paths should now exist, though the Root Directory may differ:
 :::
 
 - Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing), then click Download anyway on the two Google Drive links that open in your browser.
-	- The Downloads folder will now contain:
-		- Ghouls
-		- MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0
-		- Tammer's NIF-Bashed Armor Mega-Pack v4.2
-		- FeralGhoulsHD
-		- RRTV_CapitalWasteland_Hideouts_TTW-v2.0
-- **MOVE** all five of the downloaded archives into the C:\Modding\Uranium Fever\downloads folder. **DO NOT** extract them.
+	- The `downloads` folder will now contain:
+		- `Ghouls`
+		- `MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0`
+		- `Tammer's NIF-Bashed Armor Mega-Pack v4.2`
+		- `FeralGhoulsHD`
+		- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
+- **MOVE** all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 :::tip Self-Contained
@@ -49,24 +49,24 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 :::important Important Instructions
 These instructions will reference the game library folder, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 
-Default locations for the game library folder include C:\steam\steamapps\common and C:\Program Files (x86)\GOG Galaxy\Games.
+Default locations for the game library folder include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 :::
 
-- Navigate to the game library folder and **MOVE** the Fallout New Vegas folder to the desktop. Delete the Fallout 3 folder.
+- Navigate to the game library folder and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
- 	- **IF** a separate modded instance is not installed, simply delete the Fallout New Vegas folder.
-- Navigate to C:\Users\USERNAME\Documents\My Games and **MOVE** the FalloutNV folder to the desktop. Delete the Fallout 3 folder.
+ 	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder.
+- Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the settings and saves backup for the pre-existing modded instance.
- 	- **IF** a separate modded instance is not installed, simply delete the FalloutNV folder.
+ 	- **IF** a separate modded instance is not installed, simply delete the `FalloutNV` folder.
 - Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (this step may already be completed automatically).
 - Reinstall both Fallout: New Vegas and Fallout 3 in Steam/GOG.
 - These clean installs and backups will be further utilized in the Creating a Clean Stock New Vegas Folder section of these instructions.
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
-- Run the Uranium Fever.wabbajack file (Currently linked in the Uranium Fever Discord Updates channel).
+- Run the `Uranium Fever.wabbajack` file (Currently linked in the Uranium Fever Discord Updates channel).
 - Target Modlist will auto-populate with the filepath of the Uranium Fever Installation file.
-- Modlist Installation Location must be changed to C:\Modding\Uranium Fever.
-- Resource Download Location will auto-populate C:\Modding\Uranium Fever\downloads.
+- Modlist Installation Location must be changed to `C:\Modding\Uranium Fever`.
+- Resource Download Location will auto-populate `C:\Modding\Uranium Fever\downloads`.
 - Enable the Overwrite Installation checkbox.
   
 	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
@@ -90,27 +90,27 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 :::important Important Instructions
 These instructions will reference the game library folder, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
 
-Default locations for the game library folder include C:\steam\steamapps\common and C:\Program Files (x86)\GOG Galaxy\Games.
+Default locations for the game library folder include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 :::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
-	- Navigate to the **CLEAN** Fallout New Vegas folder, which is located inside of the game library folder.
-	- Copy **ALL** of the contents from inside of the Fallout New Vegas folder.
-		- Click anywhere inside the game library folder, press Ctrl+A to highlight all files, then Ctrl+C to copy all files.
-		- Click anywhere inside the C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas folder and press Ctrl+V to paste the previously copied files.
+	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the game library folder.
+	- Copy **ALL** of the contents from inside of the `Fallout New Vegas` folder.
+		- Click anywhere inside the game library folder, press `Ctrl+A` to highlight all files, then `Ctrl+C` to copy all files.
+		- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
 
 - Step 2: Restoring Backups of Current Installs/Modded Instances
 	- After successfully creating the Clean Stock New Vegas folder, restore the files that were previously backed up.
-		- Move your Fallout New Vegas folder from your desktop back into the platform installation folder, selecting Replace when prompted.
-		- Move your FalloutNV folder from your desktop back into C:\Users\USERNAME\Documents\My Games, selecting Replace when prompted.
+		- Move your `Fallout New Vegas` folder from your desktop back into the platform installation folder, selecting Replace when prompted.
+		- Move your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting Replace when prompted.
 
 - Step 3: Verifying Files in the Clean Stock New Vegas Folder
-	- The clean [NoDelete] Stock New Vegas folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the [NoDelete] Stock New Vegas folder, re-run the Installing Uranium Fever step, then start this section over.
-		- Steam - [NoDelete] Stock New Vegas file contents:
+	- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, re-run the Installing Uranium Fever step, then start this section over.
+		- Steam - `[NoDelete] Stock New Vegas` file contents:
    
  			![Steam Stock](https://github.com/user-attachments/assets/5c1c1d4c-6bc8-4289-99de-de90610f889d)
 
- 		- GOG - [NoDelete] Stock New Vegas file contents:
+ 		- GOG - `[NoDelete] Stock New Vegas` file contents:
 
 			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
 
@@ -120,34 +120,34 @@ Extra files inside of the Stock New Vegas folder will result in an error when la
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch Fallout: New Vegas from Steam/GOG.
-- Click OK when prompted with Detecting Video Hardware.
+- Click `OK` when prompted with Detecting Video Hardware.
 - Close the launcher.
 - Launch Fallout 3 from Steam/GOG.
-- Click OK when prompted with Detecting Video Hardware.
+- Click `OK` when prompted with Detecting Video Hardware.
 - Close the launcher.
 
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
-- Launch ModOrganizer.exe, which is located inside of C:\Modding\Uranium Fever.
+- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
 - If prompted that INIs are read-only, select Clear the Read Only Flag.
-- If prompted that FalloutNV_lang.esp was found, select Yes.
+- If prompted that `FalloutNV_lang.esp` was found, select Yes.
 - If prompted to register, select Yes.
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
-- In the top right corner of MO2, open the drop-down menu that says Uranium Fever and select Uranium Fever Launcher.
-- Click Run.
+- In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
+- Click `Run`.
 
 	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
 - Navigate to Options then select the Ultra Preset.
 	- Those with weaker machines and concerns about performance can select the Very High preset, though this will come at the cost of visual quality.
 - Uncheck the Windowed option, then select your monitor's resolution.
-	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the Falloutprefs.ini tab, and changing iSize W and iSize H in the Display section to reflect your monitor's screen width and height.
-- Click OK and close the launcher.
+	- If your monitor's resolution is not present, this can be set manually by entering MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and changing `iSize W` and `iSize H` in the Display section to reflect your monitor's screen width and height.
+- Click `OK` and close the launcher.
 
 	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
 :::tip Steam PCR Users
-Steam PCR users should navigate to the executable settings ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click Uranium Fever Launcher, check the Overwrite Steam AppID box, enter 22490 into the corresponding field, then click apply.
+Steam PCR users should navigate to the executable settings ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the Overwrite Steam AppID box, enter `22490` into the corresponding field, then click apply.
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 :::
 
@@ -156,11 +156,11 @@ Steam PCR users should navigate to the executable settings ![352871292-1de0e254-
 :::
 
 - Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the contents of the archive.
-- Open the extracted Tale of Two Wastelands Installer folder, right-click TTW Install.exe, and select Run as Administrator.
+- Open the extracted Tale of Two Wastelands Installer folder, right-click `TTW Install.exe`, and select Run as Administrator.
 - Verify that the file path for the Fallout 3 matches your normal Steam/GOG Fallout 3 installation path (this should be auto-configured).
-- **CHANGE** the Fallout New Vegas file path to C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas.
-- **CHANGE** the Tale of Two Wastelands Installation Path to C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands.
-- Click Install.
+- **CHANGE** the Fallout New Vegas file path to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+- **CHANGE** the Tale of Two Wastelands Installation Path to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
+- Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/a0909811-6b04-4341-ba11-c49e0e4a636d)
 
@@ -169,7 +169,7 @@ Steam PCR users should navigate to the executable settings ![352871292-1de0e254-
 	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
 
 :::warning
-The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the [NoDelete] Stock New Vegas folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
+The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 :::
 
 ### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
@@ -182,15 +182,15 @@ The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of th
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
 
 - Click the Install a New Mod from Archive icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
-- Select the NewVegasReloaded.zip from your Downloads folder.
-- Name it [NoDelete] NVR (PV).
+- Select the `NewVegasReloaded.zip` from your Downloads folder.
+- Name it `[NoDelete] NVR (PV)`.
 - Select Replace when prompted Mod Exists.
 
 	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
-- Navigate to C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas.
-	- Run FNVpatch.exe. A CMD prompt popup will appear, confirming FalloutNV.exe patched!. FalloutNV_backup.exe will also appear in the folder.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
 :::danger
 Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
@@ -209,7 +209,7 @@ Linux inherently requires above-average operating system knowledge and troublesh
 
 - Instructions: 
 	- Follow the Uranium Fever Installation Instructions **ON WINDOWS** up until the Disable Base Address Randomization section.
-	- Copy the C:\Modding\Uranium Fever folder to a temporary location on Linux.
+	- Copy the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
 	- Open Lutris, click the plus arrow, then search for and install Fallout: New Vegas.
 		- Take note of the installation location.
 		- Test Fallout: New Vegas to ensure it functions prior to proceeding.
@@ -220,21 +220,21 @@ Linux inherently requires above-average operating system knowledge and troublesh
 	- Move your Uranium Fever folder into the Fallout: New Vegas wine prefix folder, preferably next to the Fallout: New Vegas folder.
 	- Right-click the Uranium Fever profile and:
 		- In the Runner Options tab and change the runner to wine-ge.
- 		- In the Game Options tab and change the executable path to the modorganizer.exe in the Uranium Fever folder.
-  		- In the System Options tab, navigate to environment tables and delete all entries, instead adding DXVK_STATE_CACHE disable. **IF** using an AMD GPU with RADV drivers, also add RADV_DEBUG noatocdithering.
-	- In command prefix, type strangle 60.
+ 		- In the Game Options tab and change the executable path to the `modorganizer.exe` in the Uranium Fever folder.
+  		- In the System Options tab, navigate to environment tables and delete all entries, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
+	- In command prefix, type `strangle 60`.
 	- Launch Uranium Fever through Lutris to open MO2.
 	- In MO2:
 		- In the MO2 settings, navigate to Paths, then Managed Games. Ensure this path reflects the Stock New Vegas folder.
  		- Change the Executable Path for Uranium Fever Launcher and Uranium Fever to reflect the corresponding executables in the Stock New Vegas folder.
-  		- Open falloutcustom.ini and add iPresentInterval=0 under [Display].
+  		- Open `falloutcustom.ini` and add `iPresentInterval=0` under `[Display]`.
 	- Repeat the Configuring Game Settings section of the Windows installation instructions.
 	- The game should now launch appropriately. Prior to starting a new game, open settings, then Tweaks, and disable No Pip-Boy on Alt Tab.
 
 Caveats:
 - MO2's Nexus Handler does not work. As Uranium Fever is updated, corresponding updates will need to be installed manually.
 - Double-clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
-- If problems are encountered, launch Lutris with debug output via the terminal by typing in lutris -d.
+- If problems are encountered, launch Lutris with debug output via the terminal by typing in `lutris -d`.
  </details>
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
@@ -257,7 +257,7 @@ This step can prevent unforeseen crashes.
 - Open Virus & Threat Protection.
 - Click Manage Settings under Virus & Threat Protection Settings.
 - Scroll down and select Add or Remove Exclusions under Exclusions.
-- Add exclusions for C:\Modding\Uranium Fever and C:\Modding\Wabbajack.
+- Add exclusions for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
 
 	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
 
@@ -268,15 +268,15 @@ This step can prevent unforeseen crashes.
 This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
 :::
 
-- Navigate to your Steam Folder (the same folder where steam.exe is).
-- Right-click GameOverlayRenderer.dll and open properties.
+- Navigate to your Steam Folder (the same folder where `steam.exe` is).
+- Right-click `GameOverlayRenderer.dll` and open properties.
 - Open the security tab and click edit.
 - Click the Deny option under Read & Execute for every user.
 - Click Apply, then Yes.
   
 	![Steam Overlay 1](https://github.com/user-attachments/assets/49fdeabe-c964-4290-a28d-af6f06a9b1a9)
 
-- In the same folder, right-click SteamOverlayVulkanLayer.dll and open properties.
+- In the same folder, right-click `SteamOverlayVulkanLayer.dll` and open properties.
 - Open the security tab and click edit.
 - Click the Deny option under Read & Execute for every user.
 - Click Apply, then Yes.
@@ -292,11 +292,11 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the most
 :::
 
 - Intel iGPU users:
-	- Navigate to the Uranium Fever > DXVK folder.
-	- Move the d3d9.dll and dxvk.conf from the DXVK 1.10.1 folder into C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas, selecting Replace when prompted.
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting Replace when prompted.
 - GPUs without Vulkan support:
-	- Navigate to the Uranium Fever > DXVK folder.
-	- Move the d3d9.dll and dxvk.conf from the 1.10.3 folder into C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas, selecting Replace when prompted.
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting Replace when prompted.
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 :::tip Why?
