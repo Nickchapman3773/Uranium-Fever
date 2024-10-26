@@ -15,7 +15,7 @@ sidebar_label: Features
 - An assortment of the best content additions available, including the addition of several new and unique worldspaces.
 - Ample new items, armors, perks, enemies, and creatures, all intended to further expand the authentic Fallout experience.
 - Extensive optimizations not found elsewhere in the community.
-- Comprehensive, full-game retexturing and reimagining of both Wastelands, including Uranium Haze, a New Vegas Reloaded (NVR) multi-worldspace preset designed specifically for UF (see [Mod Highlights](https://uraniumfever.net/docs/modhighlights) for more details).
+- Comprehensive, full-game retexturing and reimagining of both Wastelands, including Uranium Haze, a New Vegas Reloaded (NVR) multi-worldspace preset designed specifically for UF (see [Mod Highlights](https://uraniumfever.net/docs/modhighlights) and [Showcase](https://uraniumfever.net/docs/userinterface/) for more details).
 - Dramatically overhauled lighting and special effects to improve the ambiance of both Wastelands.
 - Countless new animations to improve gameplay flow, engagement, and believability.
 - An expansive overhaul of music and soundscape in its entirety to promote deeper immersion.
