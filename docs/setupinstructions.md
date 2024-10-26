@@ -372,13 +372,13 @@ Special K is the required FPS limiter for NVIDIA users. RTSS will result in inap
   
 	![SK1](https://github.com/user-attachments/assets/860a3559-3335-465d-b6be-b9ad20a59ced)
 
-- `Right click` `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
+- `Right-click` `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
 - In the submenu, `check` the `Latent Sync` checkbox.
 - In the `Scan Mode` dropdown, select your `monitor's refresh rate`.
   
 	![SK2](https://github.com/user-attachments/assets/f013262c-26b3-423a-8650-6378ed05f7f7)
 
-- `Double Left Click` the `FPS Limit Bar`, `enter 59.995`, and `press enter`.
+- `Double Left-Click` the `FPS Limit Bar`, `enter 59.995`, and `press enter`.
 	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
    
 	![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
