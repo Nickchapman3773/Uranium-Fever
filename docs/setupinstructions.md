@@ -60,7 +60,7 @@ Default locations for the `game library folder` include `C:\steam\steamapps\comm
  	- **IF** a separate modded instance is not installed, simply `delete` the `FalloutNV` folder.
 - `Uninstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
 - `Reinstall` both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG.
-- These clean installs and backups will be further utilized in the `Creating a Clean Stock New Vegas Folder` section of these instructions.
+- These clean installs and backups will be further utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section of these instructions.
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - `Run` the `Uranium Fever.wabbajack` file (Currently linked in the Uranium Fever Discord Updates channel).
