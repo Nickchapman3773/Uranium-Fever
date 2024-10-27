@@ -9,9 +9,9 @@ sidebar_label: Credits & Thanks
 
 Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and OrgasmicSneeze but would not be possible without the many contributions from:
 - **ALL** of the amazing mod authors whose incredible content made Uranium Fever possible.
-- The [Wabbajack](https://www.wabbajack.org/) team (particularly JanuarySnow, TDarkShadow, and Trawzified) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
+- The [Wabbajack](https://www.wabbajack.org/) team (particularly [JanuarySnow](https://github.com/JanuarySnow), [TDarkShadow](https://github.com/TDarkShadow), and [Trawzified](https://github.com/tr4wzified)) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
 - The expansive team of testers who helped troubleshoot the initial iterations of the list, as well as their many great suggestions.
-- [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend) for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions. And putting up with all my shit.
+- [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend) for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions. And for putting up with all my shit.
 - [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze) for catering to my many special effect and texture related requests, advising on many aspects of the list, and helping substantially with website creation.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - [Salamand3r](https://salamand3r.fail/) for allowing inclusion of a nearly identical iteration of [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal) and his new [SALVO](https://salamand3r.fail/salvo) compression and BSA packing process, as well as advising on graphics and hardware related considerations.
@@ -34,3 +34,4 @@ Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and Orgas
 - [Pr0bability](https://next.nexusmods.com/profile/Pr0bability) for making custom patches for Uranium Fever, creating [Cartographer](https://www.nexusmods.com/newvegas/mods/88451), and advising on many aspects of the list.
 - [Lime](https://next.nexusmods.com/profile/LimeMods) for designing mods specifically per my request and offering private mods for use in Uranium Fever.
 - [DracoVampire786](https://next.nexusmods.com/profile/DracoVampire786), [SkankingFuchs](https://next.nexusmods.com/profile/kittayman), & [Lufusol](https://next.nexusmods.com/profile/lufusol) for allowing the inclusion of several private patches and mods in Uranium Fever.
+- **YOU** for using Uranium Fever. The Uranium Fever team wishes you a happy nuclear winter.
