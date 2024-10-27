@@ -11,7 +11,7 @@ sidebar_label: Requirements
 	- Steam, Steam PCR, Steam Cut German, and GOG versions **ARE** compatible.
 	- Windows Store, Gamepass, and Epic Games versions **ARE NOT** compatible.
 - Windows 10 or higher (64-bit).
-	- Uranium Fever is compatible with Linux, and specialized instructions are included below; however, access to Windows remains a **REQUIREMENT** for the Linux installation process.
+	- Uranium Fever is compatible with Linux, and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included below; however, access to Windows remains a **REQUIREMENT** for the Linux installation process.
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
 	- Extract the archive, open the extracted folder, right-click `install_all.bat`, and select "Run as administrator."
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
