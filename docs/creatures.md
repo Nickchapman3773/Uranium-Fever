@@ -1,4 +1,4 @@
-![Creature9 - Robot4 - HandyT1 2](https://github.com/user-attachments/assets/996d85af-235a-4fef-b2bb-1eda76f1dd28)![Creature8 - Flying1 - Fly1](https://github.com/user-attachments/assets/7c0c0ca1-4846-4be9-a9e8-d9158015e553)---
+---
 sidebar_position: 1
 title: Creatures
 hide_title: true
