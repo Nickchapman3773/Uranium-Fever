@@ -4,7 +4,6 @@ title: User Interface
 hide_title: true
 sidebar_label: User Interface
 ---
-
 ![UI1 - Pip1](https://github.com/user-attachments/assets/3e3b31f1-6d59-4da5-be85-06774eea0acb)
 ![UI2 - Holopip1](https://github.com/user-attachments/assets/43f4547f-e4a7-4d85-81d1-fd135eddfc9f)
 ![UI3 - Cards1](https://github.com/user-attachments/assets/823621f9-4c68-41ab-93da-688b0319baee)
@@ -17,4 +16,3 @@ sidebar_label: User Interface
 ![UI7 - Rad2](https://github.com/user-attachments/assets/0e49b7bd-40ef-4dab-a837-ad6c04d96089)
 ![UI8 - Drown1](https://github.com/user-attachments/assets/7ff145c6-da50-4141-85af-95902584b6be)
 ![UI9 - NV1](https://github.com/user-attachments/assets/5e7924bc-6cc2-4a44-8f81-95fe205fb1d1)
-![Uploading UI10 - Thermal1.jpeg…]()
