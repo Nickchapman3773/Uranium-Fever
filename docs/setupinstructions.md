@@ -15,7 +15,7 @@ sidebar_label: Setup Instructions
 - Create a folder named `downloads`.
 
 :::important Double Check
-The following filepaths should now exist, though the Root Directory may differ:
+The following file paths should now exist, though the Root Directory may differ:
 - `C:\Modding\Uranium Fever\downloads`
 - `C:\Modding\Wabbajack`
 :::
