@@ -4,6 +4,7 @@ title: User Interface
 hide_title: true
 sidebar_label: User Interface
 ---
+
 ![UI1 - Pip1](https://github.com/user-attachments/assets/3e3b31f1-6d59-4da5-be85-06774eea0acb)
 ![UI2 - Holopip1](https://github.com/user-attachments/assets/43f4547f-e4a7-4d85-81d1-fd135eddfc9f)
 ![UI3 - Cards1](https://github.com/user-attachments/assets/823621f9-4c68-41ab-93da-688b0319baee)
