@@ -4,13 +4,12 @@ title: Mechanics
 hide_title: true
 sidebar_label: Mechanics
 ---
-![Mechanics01](https://github.com/user-attachments/assets/e9db952a-0fd3-4f52-8900-e2618a2ff371)
-![Mechanics02](https://github.com/user-attachments/assets/8ea69759-d207-4b25-9bea-0639fb3e28d3)
-![Mechanics03](https://github.com/user-attachments/assets/90ae1288-59c7-4614-9760-02e6ebf25b92)
-![Mechanics04](https://github.com/user-attachments/assets/a0acb281-4cfa-47d9-bea7-14dc1e0b97f2)
-![Mechanics05](https://github.com/user-attachments/assets/440b636b-6fe1-4753-ae07-7c73f6e5fb8a)
-![Mechanics06](https://github.com/user-attachments/assets/a5990b81-d579-46a4-bc91-e1febe244c15)
-![Mechanics07](https://github.com/user-attachments/assets/c8ad917f-d18d-497c-a8be-bf65293c56ef)
-![Mechanics08](https://github.com/user-attachments/assets/ffc746b7-f2ce-4e3b-a378-78d81cf1c5a2)
-![Mechanics09](https://github.com/user-attachments/assets/5704942d-3a5f-427d-a7fe-01a53f93b188)
-![Mechanics10](https://github.com/user-attachments/assets/23e167d6-c543-4aa8-8596-860da326fc8a)
+![Mech1 - Display1](https://github.com/user-attachments/assets/097599c9-5541-4e88-a3a9-af8e0bd33b44)
+![Mech1 - Display2](https://github.com/user-attachments/assets/b207bc4c-16f9-4599-b6b8-193699f67bb2)
+![Mech2 - VR1](https://github.com/user-attachments/assets/ed42e909-c16f-4c52-97e9-07db81127afe)
+![Mech3 - MR1](https://github.com/user-attachments/assets/c428fcb5-1780-41f4-8df4-94e3eeea2306)
+![Mech4 - Delivery1](https://github.com/user-attachments/assets/bcb4d86b-7372-406b-92d2-2c48618d029f)
+![Mech5 - Lean1](https://github.com/user-attachments/assets/8c3ec380-bae2-414f-9489-bd39bf74550d)
+![Mech6 - Optic1](https://github.com/user-attachments/assets/5e46edfc-3b5a-421b-9da0-ce0607711df6)
+![Mech6 - Optic2](https://github.com/user-attachments/assets/9554f416-314d-49d0-80cc-3b3b6ce3579f)
+![Mech7 - Flashlight1](https://github.com/user-attachments/assets/2279b94f-5464-4ddd-81c6-cdd5a005df88)
