@@ -17,7 +17,7 @@ sidebar_label: Mod Feature Reference List
 
 - **Armed to the Teeth:**
   - Allows for holstering of up to four weapons on the player's body simultaneously.
-  - Holsters correspond to the 1-4 weapon hotkeys.
+  - Holsters correspond to the `1-4` weapon hotkeys.
 
 - **Automated Item Sorting:**
   - Use the Inventory Sorting Control to automatically sort items into different containers.
@@ -27,7 +27,7 @@ sidebar_label: Mod Feature Reference List
   - Contextual leaning activated when aiming near a corner.
 
 - **B42 Optics:**
-  - Toggle Night Vision on Capable Scopes: Aim down scope (Right Click), press Flashlight (`Tab`).
+  - Toggle Night Vision on Capable Scopes: Aim down scope (`Right Click`), press Flashlight (`Tab`).
   - Edit Optic Lenses: `Right Control` + `Enter`.
 
 - **B42 Quickthrow:**
@@ -51,13 +51,13 @@ sidebar_label: Mod Feature Reference List
   - Press `Left Ctrl`.
 
 - **Drop Item from Inventory:**
-  - Open Inventory, mouse over desired item, Right Click.
+  - Open Inventory, mouse over desired item, `Right Click`.
 
 - **Equip Follower Weapon or Gear:**
-  - Mouse over desired weapon or gear and press Right Click.
+  - Mouse over desired weapon or gear and press `Right Click`.
 
 - **Equip Weapon Mod:**
-  - Mouse over desired weapon, press Activate (`E`), Left Click desired mod.
+  - Mouse over desired weapon, press Activate (`E`), `Left Click` desired mod.
 
 - **Forced Entry:**
   - Attack to break locks on doors or containers.
@@ -82,7 +82,7 @@ sidebar_label: Mod Feature Reference List
   - Overhauls the companion control system.
   - Enter CCC Menu: Hold `N`.
   - Navigate CCC Menu: Use Mouse Wheel up and down.
-  - Select in CCC Menu: Left click.
+  - Select in CCC Menu: `Left Click`.
 
 - **Just Bullet Time:**
   - An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
@@ -171,4 +171,4 @@ sidebar_label: Mod Feature Reference List
 - **Weapon Hweel:**
   - A traditional hotkey-associated weapon wheel.
   - Opening Weapon Wheel: Hold `Q`.
-  - Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys 1-4, Left Click desired weapon.
+  - Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys `1-4`, `Left Click` desired weapon.
