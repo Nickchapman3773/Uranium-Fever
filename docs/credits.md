@@ -31,6 +31,6 @@ Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and Orgas
 - [PhysicsGaming](https://next.nexusmods.com/profile/physicsgaming) for customizing multiple iterations of Keybind Quick Display so that it could be optimally utilized in Uranium Fever.
 - [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel) for extensive Uranium Fever troubleshooting and being kind enough to make many custom patches specifically for the list. ♡ Dok.
 - [Canadian𝓕𝓻𝓮𝓪𝓴oneer](https://next.nexusmods.com/profile/CanadianBaconeer) for creating several custom patches for Uranium Fever.
-- Pr0bability for making custom patches for Uranium Fever, creating cartographer, and advising on many aspects of the list.
+- [Pr0bability](https://next.nexusmods.com/profile/Pr0bability) for making custom patches for Uranium Fever, creating [Cartographer](https://www.nexusmods.com/newvegas/mods/88451), and advising on many aspects of the list.
 - [Lime](https://next.nexusmods.com/profile/LimeMods) for designing mods specifically per my request and offering private mods for use in Uranium Fever.
 - [DracoVampire786](https://next.nexusmods.com/profile/DracoVampire786), [SkankingFuchs](https://next.nexusmods.com/profile/kittayman), & [Lufusol](https://next.nexusmods.com/profile/lufusol) for allowing the inclusion of several private patches and mods in Uranium Fever.
