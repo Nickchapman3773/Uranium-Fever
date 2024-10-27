@@ -49,7 +49,7 @@ sidebar_label: Frequently Asked Questions
 - **Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?**
 	- Yes. Uranium Fever is entirely self-contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - **Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?**
-	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of memory usage of 2.2-2.5GB, and exceeding that causes crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
+	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of physical memory usage of 3.9GB, and exceeding that will cause crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
 - **Pink Screen - Why do I see pink transition screens when the game loads?**
 	- You inadvertently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - **Parse Errors - I received various parse errors during the Wabbajack installation. Is this a problem?**
@@ -58,7 +58,7 @@ sidebar_label: Frequently Asked Questions
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - **Reflections - The reflections in windows are showing landscape instead of the building or item behind me. Why?**
 	- This is a necessary concession in order to prevent the associated mod from imposing a massive performance cost.
-- **Resolution - Why is my resolution stuck at 4k?**
+- **Resolution - Why is my resolution stuck at 4K?**
 	- Special K users also need to change it in the Special K menu, then restart the game.
 - **Runtime Error - Why am I getting a runtime error when I try to launch Uranium Fever?**
 	- It is likely that you launched MO2 prior to creating your Stock New Vegas folder. Run the Uranium Fever installer again, and it will autocorrect this. You do not have to repeat any Stock New Vegas steps.
