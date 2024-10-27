@@ -8,9 +8,9 @@ sidebar_label: Credits & Thanks
 # ![Credits &  Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
 Uranium Fever is authored and supported by Kamchatka, DarkSolarLegend, and OrgasmicSneeze but would not be possible without the many contributions from:
-- ALL of the amazing mod authors whose incredible content made Uranium Fever possible.
+- **ALL** of the amazing mod authors whose incredible content made Uranium Fever possible.
 - The [Wabbajack](https://www.wabbajack.org/) team (particularly JanuarySnow, TDarkShadow, and Trawzified) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of Uranium Fever.
-- The expansive team of testers who helped troubleshoot the initial interations of the list, as well as their many great suggestions.
+- The expansive team of testers who helped troubleshoot the initial iterations of the list, as well as their many great suggestions.
 - [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend/mods) for extensively testing, troubleshooting, patching, optimizing, and contributing to the list in countless ways, as well as assisting with the writing of these instructions.
 - [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze) for catering to my many special effect and texture related requests, advising on many aspects of the list, and helping substantially with website creation.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
