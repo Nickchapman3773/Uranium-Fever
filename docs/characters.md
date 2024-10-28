@@ -73,6 +73,8 @@ sidebar_label: Characters
 ![Char14 - Ghoul7](https://github.com/user-attachments/assets/85b0a1bd-99c5-46eb-b105-ca7a6c73dad7)
 ![Char14 - Ghoul8](https://github.com/user-attachments/assets/fd35cd8d-c312-449e-a863-b9527575885a)
 ![Char14 - Ghoul9](https://github.com/user-attachments/assets/8405b722-fb1b-463a-aa89-7d8df518e58a)
+![Char14 - Ghoul10](https://github.com/user-attachments/assets/807cfbd8-b72e-4f56-9c86-ddec6f25f6a0)
+![Char14 - Ghoul11](https://github.com/user-attachments/assets/9dd89a76-c161-4b65-b887-0603e7c17d5d)
 ![Char15 - SM1](https://github.com/user-attachments/assets/dffba620-c5c6-42c3-b88f-ada60da0a113)
 ![Char16 - Alien1](https://github.com/user-attachments/assets/4eb53af1-b362-4fde-a475-f7e813cde809)
 ![Char16 - Alien2](https://github.com/user-attachments/assets/bde1724d-8c52-4489-afc5-2683208b5ed8)
