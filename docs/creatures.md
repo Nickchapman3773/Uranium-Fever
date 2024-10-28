@@ -94,3 +94,4 @@ sidebar_label: Creatures
 ![Creature9 - Robot7 - SpiderT1 2](https://github.com/user-attachments/assets/2f70b8ae-9377-47c8-805a-d348afc3a978)
 ![Creature9 - Robot7 - SpiderT2 1](https://github.com/user-attachments/assets/40d374dc-eb2c-4fe9-bed3-55d57ae251bb)
 ![Creature9 - Robot8 - Giant1](https://github.com/user-attachments/assets/4ca3441a-eda3-455d-89b8-f0167ae9206b)
+![Creature9 - Robot8 - Giant2](https://github.com/user-attachments/assets/8c064d17-4e35-4a69-bd4f-e1c0fb834d49)
