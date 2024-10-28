@@ -1,4 +1,4 @@
-![ANC7](https://github.com/user-attachments/assets/a695b099-8e2b-4501-9a7d-88d11b1a5b43)---
+---
 sidebar_position: 1
 title: Anchorage
 hide_title: true
