@@ -16,3 +16,4 @@ sidebar_label: User Interface
 ![UI7 - Rad2](https://github.com/user-attachments/assets/0e49b7bd-40ef-4dab-a837-ad6c04d96089)
 ![UI8 - Drown1](https://github.com/user-attachments/assets/7ff145c6-da50-4141-85af-95902584b6be)
 ![UI9 - NV1](https://github.com/user-attachments/assets/5e7924bc-6cc2-4a44-8f81-95fe205fb1d1)
+![UI10 - Thermal1](https://github.com/user-attachments/assets/55fec43b-c36d-4b98-a184-731d15130908)
