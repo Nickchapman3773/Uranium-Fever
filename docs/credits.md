@@ -12,7 +12,7 @@ Uranium Fever is authored and supported by [Kamchatka](https://next.nexusmods.co
 - The expansive team of testers who helped troubleshoot the initial iterations of the list, as well as their many great suggestions.
 - **ALL** of the amazing mod authors whose incredible content made UF possible.
 - The [Wabbajack](https://www.wabbajack.org/) team (particularly [JanuarySnow](https://github.com/JanuarySnow), [TDarkShadow](https://github.com/TDarkShadow), and [Trawzified](https://github.com/tr4wzified)) for ample troubleshooting support and even fixing numerous Wabbajack engine bugs that were discovered in the making of UF.
-- Bethesda and Obsidian for their excellent games, all of the assets contUned within, and their willingness to allow the modding commmunities continued existence.
+- Bethesda and Obsidian for their excellent games, all of the assets contained within, and their willingness to allow the modding commmunities continued existence.
 - Tale of Two Wastelands (TTW) and TTW team for the use of the mod's many unique assets.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balance related planning, ample patch making, and general willingness to help in any and all ways.
 - [Salamand3r](https://salamand3r.fail/) for allowing adaptation of [New Vegas Visual Renewal](https://salamand3r.fail/new-vegas-visual-renewal), [SALVO](https://salamand3r.fail/salvo), and [H2O](https://www.nexusmods.com/newvegas/mods/89085) in early iterations of UF, as well general troubleshooting and advising on graphics and hardware related considerations.
