@@ -29,4 +29,5 @@ sidebar_label: Casino Interiors
 ![CAS23](https://github.com/user-attachments/assets/8abd277b-edfe-4ed6-9452-a5352600cd6e)
 ![CAS24](https://github.com/user-attachments/assets/b84e99cd-2107-4f52-80dc-a6bd075ca3d6)
 ![CAS25](https://github.com/user-attachments/assets/d85cdf1b-2d5d-44be-b2d9-f674a47e3fb8)
-![Uploading CAS26.png…]()
+![CAS26](https://github.com/user-attachments/assets/4140767c-fd6c-4339-b36a-03d07af97789)
+
