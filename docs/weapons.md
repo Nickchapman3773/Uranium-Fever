@@ -1,4 +1,4 @@
-![20241026 16 36 39 jpg](https://github.com/user-attachments/assets/ca52c7bb-32cc-434f-b800-709c5dd3e77e)![20241026 16 39 26 jpg](https://github.com/user-attachments/assets/7386e58f-a1a1-4c12-b4f9-4a83e79fe787)![20241026 16 38 11 jpg](https://github.com/user-attachments/assets/1ab8e290-e06d-44d6-a16e-95170774af97)![20241026 16 38 04 jpg](https://github.com/user-attachments/assets/53817db1-792d-4b55-9fac-2fa4fe37178a)---
+---
 sidebar_position: 1
 title: Weapons
 hide_title: true
