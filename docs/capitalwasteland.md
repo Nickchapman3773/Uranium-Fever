@@ -15,7 +15,6 @@ sidebar_label: Capital Wasteland
 ![DC09](https://github.com/user-attachments/assets/2808593a-8cff-4428-9af7-ae255aea09a1)
 ![DC10](https://github.com/user-attachments/assets/4c17788e-04f6-4119-a84f-59b824495ee5)
 ![DC11](https://github.com/user-attachments/assets/5dcd9d2f-e703-4e9c-b9dd-936ae34a5e70)
-![DC12](https://github.com/user-attachments/assets/3f54c396-58e5-4ef2-9866-c51f82c186d9)
 ![DC13](https://github.com/user-attachments/assets/c1ba3fbe-08cc-43ab-af68-9a9a477ff23e)
 ![DC14](https://github.com/user-attachments/assets/97e68fc3-cb35-4985-923e-0120f0e68cab)
 ![DC15](https://github.com/user-attachments/assets/291ea148-807e-402a-bc95-70ac43d4f023)
