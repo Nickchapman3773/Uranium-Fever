@@ -22,7 +22,6 @@ sidebar_label: Underground Interiors
 ![UND16](https://github.com/user-attachments/assets/501cda7c-bf8c-447a-b4c0-27f889f472f4)
 ![UND17](https://github.com/user-attachments/assets/7e7a22ce-64f0-46ac-9345-2fed6f9d03b5)
 ![UND18](https://github.com/user-attachments/assets/826c94e7-0f63-49b6-9825-5c91193071b7)
-![UND19](https://github.com/user-attachments/assets/1744b860-85e9-408c-b8fd-06b46f49b344)
 ![UND20](https://github.com/user-attachments/assets/4ea59887-337b-4cc2-9536-e37a782d1fa6)
 ![UND21](https://github.com/user-attachments/assets/a62a47dd-c39e-4c82-9e41-eaf606d19232)
 ![UND22](https://github.com/user-attachments/assets/447436ec-91ca-46c5-b3a3-cd336d3f1678)
