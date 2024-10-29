@@ -10,7 +10,6 @@ sidebar_label: Arroyo Canyon
 ![AC04](https://github.com/user-attachments/assets/61ea4313-9f1e-449a-a32b-813e6ec43d93)
 ![AC05](https://github.com/user-attachments/assets/781b3ca5-1e6e-4b23-a3ff-ec7b1c7d85cc)
 ![AC07](https://github.com/user-attachments/assets/c1fa097b-55e7-46f4-a295-8ce1caea3bef)
-![AC08](https://github.com/user-attachments/assets/c4601234-68c1-4d7b-b4a4-044bebd416f9)
 ![AC09](https://github.com/user-attachments/assets/ce59dd21-6948-48d8-aa49-08cfca08b09d)
 ![AC10](https://github.com/user-attachments/assets/ad403279-2860-44df-8f60-80337a00ac56)
 ![AC11](https://github.com/user-attachments/assets/90506ca9-7996-49b1-95d9-a6925428d7f7)
