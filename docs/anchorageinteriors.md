@@ -9,5 +9,4 @@ sidebar_label: Anchorage Interiors
 ![AGE3](https://github.com/user-attachments/assets/f64b7deb-8ce0-46a4-8a20-07524cfeb8dd)
 ![AGE4](https://github.com/user-attachments/assets/bb2c78e1-dd10-4351-a2af-be714d30bef9)
 ![AGE5](https://github.com/user-attachments/assets/44a1f1ee-eaff-4774-8bd2-ee5320c6edd5)
-![AGE6](https://github.com/user-attachments/assets/708ece3c-d9b2-40af-ad8e-bfcc37d6c7f8)
-![ANC01](https://github.com/user-attachments/assets/7f92b116-e257-45cf-92d8-2efb08d27065)
+![AGE6](https://github.com/user-attachments/assets/b3e77dea-bc2b-4c6a-9c69-51ad2da89d56)
