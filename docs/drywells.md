@@ -4,7 +4,6 @@ title: Dry Wells
 hide_title: true
 sidebar_label: Dry Wells
 ---
-# Showcase of Drywells in Uranium Fever
 ![DW01](https://github.com/user-attachments/assets/297e7112-1e67-485a-88b6-69508f096fec)
 ![DW02](https://github.com/user-attachments/assets/54cc5fb6-36ce-40ae-bb40-5fc61096655b)
 ![DW04](https://github.com/user-attachments/assets/ad4675b0-65df-4976-849f-56637b2166fc)
