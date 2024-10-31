@@ -6,7 +6,6 @@ sidebar_label: Old World Blues
 ---
 ![OWB01](https://github.com/user-attachments/assets/28f5d988-27f1-4d80-a758-12f2001ec81a)
 ![OWB02](https://github.com/user-attachments/assets/2616086b-5183-4aa3-a7fb-e9b684ea1aa5)
-![OWB03](https://github.com/user-attachments/assets/2d5333f0-a23a-4fe2-95db-8d1abe335241)
 ![OWB04](https://github.com/user-attachments/assets/4bb69b1f-5c67-4e73-8e83-b89b77af6e58)
 ![OWB05](https://github.com/user-attachments/assets/01538ea7-0159-4664-8340-78ba2f9797ed)
 ![OWB06](https://github.com/user-attachments/assets/932cc7ef-d95e-4b53-b2ea-41c14230a84c)
