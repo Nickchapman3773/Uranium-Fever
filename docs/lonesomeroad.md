@@ -22,4 +22,3 @@ sidebar_label: Lonesome Road
 ![LR16](https://github.com/user-attachments/assets/3c6a48d3-6378-46ef-90f8-cd9527fb26cb)
 ![LR17](https://github.com/user-attachments/assets/34fae3e3-c00f-4496-97f3-f4dbe9e870c5)
 ![LR01](https://github.com/user-attachments/assets/da1d8415-0769-4b09-b7ad-7e5a02ad25a8)
-![LR18](https://github.com/user-attachments/assets/1d9a9f4d-b407-48ca-afcc-989b1ada61ed)
