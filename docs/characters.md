@@ -6,7 +6,6 @@ sidebar_label: Characters
 ---
 ![Char1 - Behind1](https://github.com/user-attachments/assets/9ccbf05d-449b-4938-bc65-4ab1d2d47576)
 ![Char1 - Behind2](https://github.com/user-attachments/assets/d0e35813-2bfc-4559-8cb9-44864aa033cc)
-![Char1 - Behind3](https://github.com/user-attachments/assets/d34f93dd-33e9-4776-83d4-bdf06f2220b9)
 ![Char2 - Dead3](https://github.com/user-attachments/assets/3a7e0279-4a61-430e-b820-ee54e2d727bc)
 ![Char2 - Dead4](https://github.com/user-attachments/assets/917a4360-e685-486c-a0e7-12369220f9fb)
 ![Char2 - Dead5](https://github.com/user-attachments/assets/a38ed9e7-7c58-40d7-a4ea-7a814ac65399)
