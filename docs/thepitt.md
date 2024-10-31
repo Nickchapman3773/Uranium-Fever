@@ -13,7 +13,6 @@ sidebar_label: The Pitt
 ![PIT07](https://github.com/user-attachments/assets/22929362-c09f-4340-8a20-fea3ed973e3b)
 ![PIT08](https://github.com/user-attachments/assets/44c7c2b7-f13f-4480-a740-34e5ed42800b)
 ![PIT09](https://github.com/user-attachments/assets/2189a38c-550e-4a99-88cb-ffb9f218a527)
-![PIT10](https://github.com/user-attachments/assets/81b51253-a041-4042-a929-246512c9e657)
 ![PIT11](https://github.com/user-attachments/assets/2a9064d4-0d29-4fab-9f8c-9d5ddb792287)
 ![PIT13](https://github.com/user-attachments/assets/b9fc13c5-65a8-42d1-b6bf-07007b82e74b)
 ![PIT14](https://github.com/user-attachments/assets/5c799e93-fcbc-4ed8-9ff2-13635522d6c6)
