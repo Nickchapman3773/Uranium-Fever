@@ -9,7 +9,7 @@ sidebar_label: Frequently Asked Questions
 - **Afterburner - Do I still use Special K for an NVIDIA graphics card if I am using RTSS alongside Afterburner?**
 	- No. Visit the [performance guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), click the `Nvidia` drop down menu, and follow steps 2-8. Please note that these steps will need to be repeated for every graphics card driver update, why is why Special K is the preferred FPS limiter.
 - **Altering Uranium Fever - Can I alter mods in Uranium Fever?**
-	- Altered lists will not be supported. There is however a support channel for altered lists, this support channel is not official and is only there for users to help, we will not support modified lists.
+	- Altered lists will not be officially supported. However, there is a Discord support channel called uf-support-altered, in which community members may choose to help one another.
 - **Black Screen - I have a black screen on game launch. How do I fix it?**
 	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
@@ -46,6 +46,8 @@ sidebar_label: Frequently Asked Questions
 	- This is called z-fighting. The only available mod to address this is not publicly available and introduces other issues, such as broken render distances.
 - **FPS - What are some ways I can get higher FPS with Uranium Fever?**
 	- Try switching to the High Quality launcher preset settings and the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
+- **FPS Limiters - Do I really need to install another program to limit FPS? Can't I simply use my graphics cards software to do this?**
+	- No. Both Special K and RTSS limit FPS through CPU mediated functions, which has less latency and is more consistent than GPU based FPS limits, particularly in Fallout: New Vegas.
 - **Installation Error - I had an error during the Wabbajack installation. What now?**
 	- Try running it again. Sometimes Wabbajack simply errors inappropriately.
 - **Keybinds - How do I find Uranium Fever's Keybinds?**
