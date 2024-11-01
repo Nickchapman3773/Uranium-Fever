@@ -13,6 +13,8 @@ sidebar_label: Frequently Asked Questions
 - **Black Screen - I have a black screen on game launch. How do I fix it?**
 	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
+- **Cannibal Perk - The cannibalize function from the cannibal perk does not work. Why?**
+	- You must crouch in order to use the cannibalize function.
 - **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?**
 	- No. Uranium Fever is entirely self-contained and separate from your normal Fallout installations!
 - **Crashing - My game is crashing, what can I do to fix it?**
@@ -50,10 +52,14 @@ sidebar_label: Frequently Asked Questions
 	- No. Both Special K and RTSS limit FPS through CPU mediated functions, which has less latency and is more consistent than GPU based FPS limits, particularly in Fallout: New Vegas.
 - **Installation Error - I had an error during the Wabbajack installation. What now?**
 	- Try running it again. Sometimes Wabbajack simply errors inappropriately.
+- **Hacking - Why can't I use the vanilla hacking mini-game?**
+	- It has been fully replaced by a more balanced, punishing, and resource management focused alternative called Immersive Minigames.
 - **Keybinds - How do I find Uranium Fever's Keybinds?**
 	- Press `K` in the pause menu.
 - **Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?**
 	- Re-run the game launcher from Steam/GOG in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
+- **Lockpicking - Why can't I use the vanilla lockpicking mini-game?**
+	- It has been fully replaced by a more balanced, punishing, and resource management focused alternative called Immersive Minigames.
 - **Manual Installs - Why do I have to manually install TTW and NVR?**
 	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind Discord, which Wabbajack cannot interface with.
 - **Modularity - How modular is Uranium Fever? Can I adjust it to fit my desires?**
@@ -78,6 +84,8 @@ sidebar_label: Frequently Asked Questions
 	- You inadvertently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - **Parse Errors - I received various parse errors during the Wabbajack installation. Is this a problem?**
 	- No. As long as your installer says complete at the end, this is not a problem.
+- **Quick Save - Why is there no button to quick save?**
+	- This is intentional and designed to prevent people repeatedly reloading when they have bad combat engagements or fail to unlock or hack.
 - **Ragdolls - Doesn't Ragdolls cause crashes?**
 	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
 - **Reflections - The reflections in windows are showing landscape instead of the building or item behind me. Why?**
@@ -114,5 +122,7 @@ sidebar_label: Frequently Asked Questions
  	- Re-run the Uranium Fever Installer.
 - **VATS - Why can't I use VATS?**
 	- It has been fully replaced by a skill-based alternative called Bullet Time.
-- **Vortex - Can I install Uranium Fever with Vortex?**
-	- No. Wabbajack is inherently incompatible with Vortex.
+- **VATS Perks - Do VATS related perks affect Bullet Time?
+	- Yes, VATS related perks affect Bullet Time.
+- **Vortex or Other Alternative Mod Managers - Can I install Uranium Fever with Vortex or other Alternative Mod Managers?**
+	- No. Wabbajack is only compatible with Mod Organizer 2.
