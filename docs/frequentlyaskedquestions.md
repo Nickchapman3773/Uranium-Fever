@@ -32,8 +32,8 @@ sidebar_label: Frequently Asked Questions
 		- Operation Anchorage (with Anchorage Gameplay Expansion) - 25
   	- Mojave Wasteland:
   		- Autumn Leaves - 1
-		- Havasu - 10
-		- Dry wells - 10
+		- Lake Havasu - 10
+		- Dry Wells - 10
 		- Honest Hearts - 10
 		- Old World Blues - 15
 		- Dead Money (with Dead Money Tweaks) - 25
