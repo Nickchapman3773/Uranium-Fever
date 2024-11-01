@@ -112,7 +112,7 @@ Default locations for the `game library folder` include `C:\steam\steamapps\comm
 
  		- GOG - `[NoDelete] Stock New Vegas` file contents:
 
-			![GOG Stock](https://github.com/user-attachments/assets/00453cc8-f8c7-402b-9ae8-8f2542a640a6)
+			![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
 :::danger danger - No Extra Files
 Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
