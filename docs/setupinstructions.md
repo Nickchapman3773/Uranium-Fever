@@ -108,7 +108,7 @@ Default locations for the `game library folder` include `C:\steam\steamapps\comm
 	- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, re-run the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-) step, then start this section over.
 		- Steam - `[NoDelete] Stock New Vegas` file contents:
    
- 			![Steam Stock](https://github.com/user-attachments/assets/5c1c1d4c-6bc8-4289-99de-de90610f889d)
+ 			![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
 
  		- GOG - `[NoDelete] Stock New Vegas` file contents:
 
