@@ -6,6 +6,8 @@ sidebar_label: Frequently Asked Questions
 ---
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
+- **Afterburner - Do I still use Special K for an NVIDIA graphics card if I am using RTSS alongside Afterburner?**
+	- No! Visit the [performance guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), click the `Nvidia` drop down menu, and follow steps 2-8. Please note that these steps will need to be repeated for every graphics card driver update, why is why Special K is the preferred FPS limiter.
 - **Altering Uranium Fever - Can I alter mods in Uranium Fever?**
 	- Altered lists will not be supported. There is however a support channel for altered lists, this support channel is not official and is only there for users to help, we will not support modified lists.
 - **Black Screen - I have a black screen on game launch. How do I fix it?**
@@ -20,6 +22,20 @@ sidebar_label: Frequently Asked Questions
 	- This is an intentional choice to prevent the player from knowing if they will pass a skill check or not.
 - **Disabled Mods - Should all of the mods that say (IP) after them be disabled?**
 	- Yes. IP is Uranium Fever's shorthand for Internally Patched, meaning the patch has been merged into the Uranium Fever Master Patch. Because they were used as a resource, these mods remain included so that the authors received the recognition they deserve.
+- **DLCs - What are the recommended levels for the DLCs and DLC-like quest mods?**
+	- Capital Wasteland:
+	  	- Point Lookout (with Early Decisions and Gameplay Enhancement) - 10
+		- The Pitt - 15
+		- Mothership Zeta (with Hardcore Zeta) - 25
+		- Operation Anchorage (with Anchorage Gameplay Expansion) - 25
+  	- Mojave Wasteland:
+  		- Autumn Leaves - 1
+		- Havasu - 10
+		- Dry wells - 10
+		- Honest Hearts - 10
+		- Old World Blues - 15
+		- Dead Money (with Dead Money Tweaks) - 25
+		- Lonesome Road - 25
 - **Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?**
 	- You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and connect to your Nexus account.
 - **First Time Playing - Is the list appropriate for a person who has never played Fallout before?**
