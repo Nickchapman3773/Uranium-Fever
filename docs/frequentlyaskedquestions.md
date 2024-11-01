@@ -50,6 +50,8 @@ sidebar_label: Frequently Asked Questions
 	- Try switching to the High Quality launcher preset settings and the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
 - **FPS Limiters - Do I really need to install another program to limit FPS? Can't I simply use my graphics cards software to do this?**
 	- No. Both Special K and RTSS limit FPS through CPU mediated functions, which has less latency and is more consistent than GPU based FPS limits, particularly in Fallout: New Vegas.
+- **Hardcore - Can I disable hardcore mode?**
+	- No. Many of the mods included in UF require hardcore mode, and every aspect of the list has been designed with hardcore mode in mind.
 - **Installation Error - I had an error during the Wabbajack installation. What now?**
 	- Try running it again. Sometimes Wabbajack simply errors inappropriately.
 - **Hacking - Why can't I use the vanilla hacking mini-game?**
