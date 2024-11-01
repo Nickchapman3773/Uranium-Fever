@@ -24,8 +24,6 @@ sidebar_label: Frequently Asked Questions
 	- If you have modified the list, please ask in the modified Uranium Fever support channel, remember, by altering Uranium Fever you void official support.
 - **Dialogue Skill Indicator - Why can't I see the dialogue skill check like I can in the original version of the game?**
 	- This is an intentional choice to prevent the player from knowing if they will pass a skill check or not.
-- **Disabled Mods - Should all of the mods that say (IP) after them be disabled?**
-	- Yes. IP is Uranium Fever's shorthand for Internally Patched, meaning the patch has been merged into the Uranium Fever Master Patch. Because they were used as a resource, these mods remain included so that the authors received the recognition they deserve.
 - **DLCs - What are the recommended levels for the DLCs and DLC-like quest mods?**
 	- Capital Wasteland:
 	  	- Point Lookout (with Early Decisions and Gameplay Enhancement) - 10
