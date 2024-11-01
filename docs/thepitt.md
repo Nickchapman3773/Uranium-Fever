@@ -5,7 +5,6 @@ hide_title: true
 sidebar_label: The Pitt
 ---
 ![PIT01](https://github.com/user-attachments/assets/ed166b38-010a-4c48-a59f-7fddd93c2fd7)
-![PIT02](https://github.com/user-attachments/assets/a90ae304-1101-42c0-9931-083967da2a0e)
 ![PIT05](https://github.com/user-attachments/assets/84af4b3e-0c71-4166-8c4f-e2ef738b996a)
 ![PIT06](https://github.com/user-attachments/assets/80ae9e4d-e558-4025-81a0-de743de9602c)
 ![PIT07 1](https://github.com/user-attachments/assets/33e0e43e-066c-42ee-9803-5211158ac29a)
