@@ -102,6 +102,8 @@ sidebar_label: Frequently Asked Questions
 	- By design, you can only select perks at even levels (2, 4, 6, etc.). Due to the functionality of Vegas Elysium, the perk menu **MUST** be shown every level, despite perks not always being available every level.
 - **Size - Why is the installation requirement so large?**
 	- Uranium Fever is a robust list with a lot of texture enhancements. Despite our best attempts to consolidate and optimize (we compressed and BSA packed most textures), this ends up taking up a lot of space. The original downloads alone require 50GB of space. Please see the [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) section if hard drive space is a limitation for you.
+- **Scoeps - I get visual oddities when aiming through scopes. Is this a bug?**
+	- Yes, this is a known incompatibility between B42 Optics and New Vegas Reloaded (NVR). It is unable to be resolved, but we feel it is worth including both regardless.
 - **Skill Tagging - Why doesn't skill tagging work?**
 	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill point you input into a tagged skill increases it by two.
 - **Start Location - Can I start in the Mojave Wasteland?**
