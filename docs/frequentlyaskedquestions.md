@@ -80,10 +80,12 @@ sidebar_label: Frequently Asked Questions
 	- Yes. Uranium Fever is entirely self-contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - **Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?**
 	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of physical memory usage of 3.9GB, and exceeding that will cause crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
-- **Pink Screen - Why do I see pink transition screens when the game loads?**
-	- You inadvertently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
 - **Parse Errors - I received various parse errors during the Wabbajack installation. Is this a problem?**
 	- No. As long as your installer says complete at the end, this is not a problem.
+- **Pink Screen - Why do I see pink transition screens when the game loads?**
+	- You inadvertently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
+- **Plugin No Longer Present - After updating, I am getting a notification that certain plugins are no longer present. Is this a problem?**
+	- No. It is likely that a plugin was either merged or otherwise removed from Uranium Fever. Unless stated otherwise, this is not a problem and will not have a meaningful impact on your save.
 - **Quick Save - Why is there no button to quick save?**
 	- This is intentional and designed to prevent people repeatedly reloading when they have bad combat engagements or fail to unlock or hack.
 - **Ragdolls - Doesn't Ragdolls cause crashes?**
