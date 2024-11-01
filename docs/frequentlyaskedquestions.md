@@ -18,7 +18,7 @@ sidebar_label: Frequently Asked Questions
 - **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?**
 	- No. Uranium Fever is entirely self-contained and separate from your normal Fallout installations!
 - **Controller Support - Does Uranium Fever have controller support?**
-	- Unfortunately, no. It served too cumbersome to create a unified scheme for each player's unique equipment and platform. Our best recommendation at this time is to use Steams controller app alongside this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
+	- Unfortunately, no. It served too cumbersome to create a unified scheme for each player's unique equipment and platform. Our best recommendation at this time is to use Steam Input alongside this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
 - **Crashing - My game is crashing, what can I do to fix it?**
 	- Post your crashlog (found in the `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs` folder) in the Uranium Fever Support channel on Discord (link provided above).
 	- If you have modified the list, please ask in the modified Uranium Fever support channel, remember, by altering Uranium Fever you void official support.
