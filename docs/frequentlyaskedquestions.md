@@ -7,14 +7,14 @@ sidebar_label: Frequently Asked Questions
 # ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 - **Afterburner - Do I still use Special K for an NVIDIA graphics card if I am using RTSS alongside Afterburner?**
-	- No! Visit the [performance guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), click the `Nvidia` drop down menu, and follow steps 2-8. Please note that these steps will need to be repeated for every graphics card driver update, why is why Special K is the preferred FPS limiter.
+	- No. Visit the [performance guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), click the `Nvidia` drop down menu, and follow steps 2-8. Please note that these steps will need to be repeated for every graphics card driver update, why is why Special K is the preferred FPS limiter.
 - **Altering Uranium Fever - Can I alter mods in Uranium Fever?**
 	- Altered lists will not be supported. There is however a support channel for altered lists, this support channel is not official and is only there for users to help, we will not support modified lists.
 - **Black Screen - I have a black screen on game launch. How do I fix it?**
 	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
 	- We do not support alterations of the list.
 - **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?**
-	- No! Uranium Fever is entirely self-contained and separate from your normal Fallout installations!
+	- No. Uranium Fever is entirely self-contained and separate from your normal Fallout installations!
 - **Crashing - My game is crashing, what can I do to fix it?**
 	- Post your crashlog (found in the `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs` folder) in the Uranium Fever Support channel on Discord (link provided above).
 	- If you have modified the list, please ask in the modified Uranium Fever support channel, remember, by altering Uranium Fever you void official support.
@@ -61,7 +61,7 @@ sidebar_label: Frequently Asked Questions
 - **NPCs - Some NPCs are not completing their tasks as anticipated during quest or interaction sequences.**
 	- You likely interrupted their scripted packages, reload to a save prior to the interaction, and do not interact with them until they have completely finished their task. Mod added content often has this complication, and it is out of our control.
 - **Optimization - What kind of things have you done to optimize Uranium Fever?**
-	- Many! When appropriate, we use Cathedral Asset Optimizer and Nvidia Texture Tools to compress uncompressed textures and downsize textures to 2k, with a goal of striking the best balance of quality and performance. We generate mipmaps for non-UI textures in order to assist with aesthetics and rendering. We use BSArchPro to place assets into BSAs, which decreases memory usage and crashing. We have optimized LOD rendering distances and priority flagging to ensure only visually relevant items are loaded in at a given time. We have flagged ESPs as ESMs when they contain temporary worldspace edits in order to prevent them from continually being loaded into RAM, further decreasing memory usage.
+	- Many. When appropriate, we use Cathedral Asset Optimizer and Nvidia Texture Tools to compress uncompressed textures and downsize textures to 2k, with a goal of striking the best balance of quality and performance. We compress and BSA pack animations. We generate mipmaps for non-UI textures in order to assist with aesthetics and rendering. We use BSArchPro to place assets into BSAs, which decreases memory usage and crashing. We have optimized LOD rendering distances and priority flagging to ensure only visually relevant items are loaded in at a given time. We have flagged ESPs as ESMs when they contain temporary worldspace edits in order to prevent them from continually being loaded into RAM, further decreasing memory usage.
 - **Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?**
 	- Yes. Uranium Fever is entirely self-contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
 - **Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?**
@@ -90,12 +90,18 @@ sidebar_label: Frequently Asked Questions
 	- Just outside the starting cave and to the right are several corpses with gear specifically determined by the character's unique stats, perks, and traits.
 - **Stealing - I can't steal because of the Purchase on Display mod. How do I fix this?**
 	- Crouch and you can still steal these items!
+- **Steam Overlay - Can I disable steam overlay via New Vegas > Properties and have the same outcome?**
+	- No. This will only disable it visually, though the overlay will still connect to the game and cause a similar performance impact.
 - **Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?**
 	- It is an installation of Fallout: New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self-contained in this respect.
 - **TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?**
 	- No. The TTW Installer edits Fallout: New Vegas files in the `[NoDelete] Stock New Vegas` folder. This is intentional to allow Uranium Fever to be entirely self-contained.
 - **TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?**
 	- This is because you have not appropriately built your Stock New Vegas folder.
+- - **Uranium Fever Insallation - What are the first steps I can complete in troubleshooting a Uranium Fever installation issue?**
+	- Relog into your Nexus account in Wabbajack by clicking the cogwheel at the top, selecting logout, selecting login, then validating the login request.
+	- Restart your computer.
+ 	- Re-run the Uranium Fever Installer.
 - **VATS - Why can't I use VATS?**
 	- It has been fully replaced by a skill-based alternative called Bullet Time.
 - **Vortex - Can I install Uranium Fever with Vortex?**
