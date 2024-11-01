@@ -56,6 +56,12 @@ sidebar_label: Frequently Asked Questions
 	- Re-run the game launcher from Steam/GOG in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
 - **Manual Installs - Why do I have to manually install TTW and NVR?**
 	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind Discord, which Wabbajack cannot interface with.
+- **Modularity - How modular is Uranium Fever? Can I adjust it to fit my desires?**
+	- Wabbajack, and Uranium Fever by extension, is not inherently modular. This is further compounded by several factors:
+		- The methods of optimization used in Uranium Feverm makes removing mods difficult and potentially game breaking
+  		- UF contains over 100 merged plugins and perpetually remains at maximum plugin limit.
+    		- Every time Uranium Fever is updated, any changes to the list that are not labeled with [NoDelete] will be reverted.
+      		- As stated elsewhere, altered lists will not be officially supported.
 - **NoDelete - Why do some mods and folders say [NoDelete]?**
 	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
 - **Notification Size - Why are my notifications huge?**
