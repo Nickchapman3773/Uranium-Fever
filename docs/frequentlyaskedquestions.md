@@ -98,7 +98,9 @@ sidebar_label: Frequently Asked Questions
 	- No. The TTW Installer edits Fallout: New Vegas files in the `[NoDelete] Stock New Vegas` folder. This is intentional to allow Uranium Fever to be entirely self-contained.
 - **TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?**
 	- This is because you have not appropriately built your Stock New Vegas folder.
-- - **Uranium Fever Insallation - What are the first steps I can complete in troubleshooting a Uranium Fever installation issue?**
+- **Updating New Vegas Reloaded (NVR) - I was told to update NVR. How do I do this?**
+	- Simply repeat the [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-) section.
+- **Uranium Fever Insallation - What are the first steps I can complete in troubleshooting a Uranium Fever installation issue?**
 	- Relog into your Nexus account in Wabbajack by clicking the cogwheel at the top, selecting logout, selecting login, then validating the login request.
 	- Restart your computer.
  	- Re-run the Uranium Fever Installer.
