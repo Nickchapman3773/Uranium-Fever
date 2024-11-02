@@ -4,131 +4,142 @@ title: Frequently Asked Questions
 hide_title: true
 sidebar_label: Frequently Asked Questions
 ---
-# ![Banner Frequently Asked Questions](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
-- **Afterburner - Do I still use Special K for an NVIDIA graphics card if I am using RTSS alongside Afterburner?**
-	- No. Visit the [performance guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), click the `Nvidia` drop down menu, and follow steps 2-8. Please note that these steps will need to be repeated for every graphics card driver update, why is why Special K is the preferred FPS limiter.
-- **Altering Uranium Fever - Can I alter mods in Uranium Fever?**
-	- Altered lists will not be officially supported. However, there is a Discord support channel called uf-support-altered, in which community members may choose to help one another.
-- **Black Screen - I have a black screen on game launch. How do I fix it?**
-	- This is likely due to the combination of Special K and GeForce overlay. Follow the instructions to disable the overlay included in the Special K section above.
-	- We do not support alterations of the list.
-- **Cannibal Perk - The cannibalize function from the cannibal perk does not work. Why?**
-	- You must crouch in order to use the cannibalize function.
-- **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 in order to install Uranium Fever?**
-	- No. Uranium Fever is entirely self-contained and separate from your normal Fallout installations!
-- **Controller Support - Does Uranium Fever have controller support?**
-	- Unfortunately, no. It served too cumbersome to create a unified scheme for each player's unique equipment and platform. Our best recommendation at this time is to use Steam Input alongside this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
-- **Crashing - My game is crashing, what can I do to fix it?**
-	- Post your crashlog (found in the `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs` folder) in the Uranium Fever Support channel on Discord (link provided above).
-	- If you have modified the list, please ask in the modified Uranium Fever support channel, remember, by altering Uranium Fever you void official support.
-- **Dialogue Skill Indicator - Why can't I see the dialogue skill check like I can in the original version of the game?**
-	- This is an intentional choice to prevent the player from knowing if they will pass a skill check or not.
-- **DLCs - What are the recommended levels for the DLCs and DLC-like quest mods?**
-	- Capital Wasteland:
-	  	- Point Lookout (with Early Decisions and Gameplay Enhancement) - 10
-		- The Pitt - 15
-		- Mothership Zeta (with Hardcore Zeta) - 25
-		- Operation Anchorage (with Anchorage Gameplay Expansion) - 25
-  	- Mojave Wasteland:
-  		- Autumn Leaves - 1
-		- Lake Havasu - 10
-		- Dry Wells - 10
-		- Honest Hearts - 10
-		- Old World Blues - 15
-		- Dead Money (with Dead Money Tweaks) - 25
-		- Lonesome Road - 25
-- **Failed and Slow Nexus Downloads - Why are all of my downloads so slow, and eventually failing?**
-	- You failed to connect your Nexus account to your Wabbajack. Open the settings cogwheel in Wabbajack and connect to your Nexus account.
-- **First Time Playing - Is the list appropriate for a person who has never played Fallout before?**
-	- Yes. This list is appropriate for anyone who wants a robust, hardcore gaming experience. If Uranium Fever is too hardcore for you, we urge to take a look at the various other Wabbajack lists available for TTW/FNV.
-- **First Time Playing - It is my first time playing and I would like to experience the introductory sequence.**
-	- Disable `Quick Start` and `Quick Start - Item Remover Patch` in the `Core Gameplay` separator. We will not provide any support for bugs encountered in the introductory sequence, which has been known to have bugs in the past. This does not void official support.
-- **Flickering - Objects or mountains in the distance are flickering. Why? Can I fix it?**
-	- This is called z-fighting. The only available mod to address this is not publicly available and introduces other issues, such as broken render distances.
-- **FPS - What are some ways I can get higher FPS with Uranium Fever?**
-	- Try switching to the High Quality launcher preset settings and the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
-- **FPS Limiters - Do I really need to install another program to limit FPS? Can't I simply use my graphics cards software to do this?**
-	- No. Both Special K and RTSS limit FPS through CPU mediated functions, which has less latency and is more consistent than GPU based FPS limits, particularly in Fallout: New Vegas.
+# ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
+
+- **Afterburner - Should I use Special K for an NVIDIA graphics card when using RTSS alongside Afterburner?**
+  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update, making Special K the preferred FPS limiter.
+
+- **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
+  - Official support is not provided for altered lists. However, the `uf-support-altered` channel on Discord allows community members to assist each other.
+
+- **Black Screen - My game launches to a black screen. How do I fix this?**
+  - This issue usually results from a conflict between Special K and the GeForce overlay. Disable the overlay following instructions in the Special K section above.  
+  - **Note**: We do not provide support for modified lists.
+
+- **Cannibal Perk - Why doesn’t the cannibalize function from the Cannibal perk work?**
+  - You must be crouching to use the cannibalize function.
+
+- **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 to use Uranium Fever?**
+  - No. Uranium Fever is fully self-contained and independent of your regular Fallout installations!
+
+- **Controller Support - Does Uranium Fever support controllers?**
+  - Unfortunately, no. Creating a unified scheme for various equipment and platforms proved challenging. We recommend using Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
+
+- **Crashing - My game crashes. How can I fix it?**
+  - Post your crash log (located in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the Uranium Fever Support channel on Discord.
+  - If you've modified the list, use the modified Uranium Fever support channel. Note that altering Uranium Fever voids official support.
+
+- **Dialogue Skill Indicator - Why don’t I see the skill check indicator in dialogue like in the original game?**
+  - This feature is intentionally removed to prevent players from knowing if they’ll pass a skill check.
+
+- **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
+  - **Capital Wasteland:**
+    - Point Lookout (with Early Decisions and Gameplay Enhancement) - 10
+    - The Pitt - 15
+    - Mothership Zeta (with Hardcore Zeta) - 25
+    - Operation Anchorage (with Anchorage Gameplay Expansion) - 25
+  - **Mojave Wasteland:**
+    - Autumn Leaves - 1
+    - Lake Havasu - 10
+    - Dry Wells - 10
+    - Honest Hearts - 10
+    - Old World Blues - 15
+    - Dead Money (with Dead Money Tweaks) - 25
+    - Lonesome Road - 25
+
+- **Failed and Slow Nexus Downloads - Why are my downloads slow or failing?**
+  - Make sure your Nexus account is connected to Wabbajack. Open Wabbajack settings to link your Nexus account.
+
+- **First Time Playing - Is this list suitable for a Fallout newcomer?**
+  - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
+
+- **First Time Playing - I want to experience the intro sequence.**
+  - Disable `Quick Start` and `Quick Start - Item Remover Patch` in the `Core Gameplay` separator. Note that we don’t support bugs in the intro sequence, though this doesn’t void official support.
+
+- **Flickering - Why are distant objects or mountains flickering?**
+  - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
+
+- **FPS - How can I increase FPS in Uranium Fever?**
+  - Switch to the High-Quality launcher preset and enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
+
+- **FPS Limiters - Do I need a separate FPS limiter?**
+  - Yes. Special K and RTSS use CPU functions for limiting FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
+
 - **Hardcore - Can I disable hardcore mode?**
-	- No. Many of the mods included in UF require hardcore mode, and every aspect of the list has been designed with hardcore mode in mind.
-- **Installation Error - I had an error during the Wabbajack installation. What now?**
-	- Try running it again. Sometimes Wabbajack simply errors inappropriately.
-- **Hacking - Why can't I use the vanilla hacking mini-game?**
-	- It has been fully replaced by a more balanced, punishing, and resource management focused alternative called Immersive Minigames.
-- **Keybinds - How do I find Uranium Fever's Keybinds?**
-	- Press `K` in the pause menu.
-- **Launcher - My launcher only gives me an "Install" option and the "Options" is greyed out. Why?**
-	- Re-run the game launcher from Steam/GOG in order to regenerate the appropriate INIs. This often happens after updating Uranium Fever.
-- **Lockpicking - Why can't I use the vanilla lockpicking mini-game?**
-	- It has been fully replaced by a more balanced, punishing, and resource management focused alternative called Immersive Minigames.
-- **Manual Installs - Why do I have to manually install TTW and NVR?**
-	- TTW must be manually installed because modpub does not allow Wabbajack to interface with their website. NVR must be manually downloaded because the download is locked behind Discord, which Wabbajack cannot interface with.
-- **Modularity - How modular is Uranium Fever? Can I adjust it to fit my desires?**
-	- Wabbajack, and Uranium Fever by extension, is not inherently modular. This is further compounded by several factors:
-		- The methods of optimization used in Uranium Feverm makes removing mods difficult and potentially game breaking
-  		- UF contains over 100 merged plugins and perpetually remains at maximum plugin limit.
-    		- Every time Uranium Fever is updated, any changes to the list that are not labeled with [NoDelete] will be reverted.
-      		- As stated elsewhere, altered lists will not be officially supported.
-- **NoDelete - Why do some mods and folders say [NoDelete]?**
-	- This is a tag that tells Wabbajack not to alter the contents of the tagged folder when updating.
-- **Notification Size - Why are my notifications huge?**
-	- Notification size is inappropriately large after starting a new game until the game is reloaded.
-- **NPCs - Some NPCs are not completing their tasks as anticipated during quest or interaction sequences.**
-	- You likely interrupted their scripted packages, reload to a save prior to the interaction, and do not interact with them until they have completely finished their task. Mod added content often has this complication, and it is out of our control.
-- **Optimization - What kind of things have you done to optimize Uranium Fever?**
-	- Many. When appropriate, we use Cathedral Asset Optimizer and Nvidia Texture Tools to compress uncompressed textures and downsize textures to 2k, with a goal of striking the best balance of quality and performance. We compress and BSA pack animations. We generate mipmaps for non-UI textures in order to assist with aesthetics and rendering. We use BSArchPro to place assets into BSAs, which decreases memory usage and crashing. We have optimized LOD rendering distances and priority flagging to ensure only visually relevant items are loaded in at a given time. We have flagged ESPs as ESMs when they contain temporary worldspace edits in order to prevent them from continually being loaded into RAM, further decreasing memory usage.
-- **Other Modded Instances - Can I keep my own modded setup if I play Uranium Fever?**
-	- Yes. Uranium Fever is entirely self-contained through the use of a Stock New Vegas folder. Uranium Fever will not interfere with your other modded setup.
-- **Pagefile - I have always been told to increase pagefile size for Skyrim, why is that not included in the Uranium Fever installation instructions?**
-	- Skyrim Special Edition has a much higher memory ceiling than New Vegas, as New Vegas is much older. New Vegas has an upper limit of physical memory usage of 3.9GB, and exceeding that will cause crashes. This means that the pagefile would not be utilized for the benefit of the game prior to having a memory crash, so there is no benefit in altering this setting.
-- **Parse Errors - I received various parse errors during the Wabbajack installation. Is this a problem?**
-	- No. As long as your installer says complete at the end, this is not a problem.
-- **Pink Screen - Why do I see pink transition screens when the game loads?**
-	- You inadvertently skipped the 4GB Patching process (running `FNVPatch.exe` in the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder).
-- **Plugin No Longer Present - After updating, I am getting a notification that certain plugins are no longer present. Is this a problem?**
-	- No. It is likely that a plugin was either merged or otherwise removed from Uranium Fever. Unless stated otherwise, this is not a problem and will not have a meaningful impact on your save.
-- **Quick Save - Why is there no button to quick save?**
-	- This is intentional and designed to prevent people repeatedly reloading when they have bad combat engagements or fail to unlock or hack.
-- **Ragdolls - Doesn't Ragdolls cause crashes?**
-	- No. The original version of ragdolls did cause crashes. The replacement plugin available in Death Throes is **NOT** prone to crashes.
-- **Reflections - The reflections in windows are showing landscape instead of the building or item behind me. Why?**
-	- This is a necessary concession in order to prevent the associated mod from imposing a massive performance cost.
-- **Resolution - Why is my resolution stuck at 4K?**
-	- Special K users also need to change it in the Special K menu, then restart the game.
-- **Runtime Error - Why am I getting a runtime error when I try to launch Uranium Fever?**
-	- It is likely that you launched MO2 prior to creating your Stock New Vegas folder. Run the Uranium Fever installer again, and it will autocorrect this. You do not have to repeat any Stock New Vegas steps.
-- **Selecting Perks - I cannot select a perk. Why?**
-	- By design, you can only select perks at even levels (2, 4, 6, etc.). Due to the functionality of Vegas Elysium, the perk menu **MUST** be shown every level, despite perks not always being available every level.
-- **Size - Why is the installation requirement so large?**
-	- Uranium Fever is a robust list with a lot of texture enhancements. Despite our best attempts to consolidate and optimize (we compressed and BSA packed most textures), this ends up taking up a lot of space. The original downloads alone require 50GB of space. Please see the [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) section if hard drive space is a limitation for you.
-- **Scoeps - I get visual oddities when aiming through scopes. Is this a bug?**
-	- Yes, this is a known incompatibility between B42 Optics and New Vegas Reloaded (NVR). It is unable to be resolved, but we feel it is worth including both regardless.
-- **Skill Tagging - Why doesn't skill tagging work?**
-	- It does! Uranium Fever uses the classic skill tagging method, where instead of getting a flat boost in skill points, each skill point you input into a tagged skill increases it by two.
-- **Start Location - Can I start in the Mojave Wasteland?**
-	- Yes. To start in the Mojave Wasteland, select "memory" when prompted "Is this now, or just a memory?" immediately after leaving the vault.
-- **Starting Gear - Why do I only start with a BB gun and a bat?**
-	- Just outside the starting cave and to the right are several corpses with gear specifically determined by the character's unique stats, perks, and traits.
-- **Stealing - I can't steal because of the Purchase on Display mod. How do I fix this?**
-	- Crouch and you can still steal these items!
-- **Steam Overlay - Can I disable steam overlay via New Vegas > Properties and have the same outcome?**
-	- No. This will only disable it visually, though the overlay will still connect to the game and cause a similar performance impact.
-- **Stock New Vegas - What is the Stock New Vegas Folder and why do I need it?**
-	- It is an installation of Fallout: New Vegas that has already had several root mods installed. It also has the benefit of not altering the Steam/GOG Fallout New Vegas installation. Uranium Fever is entirely self-contained in this respect.
-- **TTW Installation - Can I just move my TTW installation from a prior modlist into the TTW mod folder?**
-	- No. The TTW Installer edits Fallout: New Vegas files in the `[NoDelete] Stock New Vegas` folder. This is intentional to allow Uranium Fever to be entirely self-contained.
-- **TTW Installation Failed - I am getting an error saying "The installed Fallout: New Vegas version is unsupported". Why?**
-	- This is because you have not appropriately built your Stock New Vegas folder.
-- **Updating New Vegas Reloaded (NVR) - I was told to update NVR. How do I do this?**
-	- Simply repeat the [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-) section.
-- **Uranium Fever Insallation - What are the first steps I can complete in troubleshooting a Uranium Fever installation issue?**
-	- Relog into your Nexus account in Wabbajack by clicking the cogwheel at the top, selecting logout, selecting login, then validating the login request.
-	- Restart your computer.
- 	- Re-run the Uranium Fever Installer.
-- **VATS - Why can't I use VATS?**
-	- It has been fully replaced by a skill-based alternative called Bullet Time.
-- **VATS Perks - Do VATS related perks affect Bullet Time?
-	- Yes, VATS related perks affect Bullet Time.
-- **Vortex or Other Alternative Mod Managers - Can I install Uranium Fever with Vortex or other Alternative Mod Managers?**
-	- No. Wabbajack is only compatible with Mod Organizer 2.
+  - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
+
+- **Installation Error - I encountered an error during Wabbajack installation. What should I do?**
+  - Simply rerun the installation; Wabbajack errors are often temporary.
+
+- **Hacking - Why can’t I use the vanilla hacking mini-game?**
+  - It’s replaced by Immersive Minigames, which offers a balanced, resource-management-focused alternative.
+
+- **Keybinds - How can I view Uranium Fever’s keybinds?**
+  - Press `K` in the pause menu.
+
+- **Launcher - My launcher only shows "Install" and "Options" is greyed out. Why?**
+  - Re-run the launcher from Steam/GOG to regenerate the necessary INIs. This usually happens after updating Uranium Fever.
+
+- **Lockpicking - Why can’t I use the vanilla lockpicking mini-game?**
+  - It has been replaced by Immersive Minigames.
+
+- **Manual Installs - Why must I manually install TTW and NVR?**
+  - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
+
+- **Modularity - Can I customize Uranium Fever to my preferences?**
+  - Uranium Fever is not inherently modular. Due to optimizations, plugin merging, and updates, altered lists are unsupported.
+
+- **NoDelete - What does [NoDelete] mean?**
+  - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
+
+- **Notification Size - Why are my notifications so large?**
+  - Notification size is large at the start of a new game but will normalize after reloading.
+
+- **NPCs - Why aren’t certain NPCs completing quest tasks?**
+  - You may have interrupted their scripted actions. Reload a prior save and allow them to complete their tasks.
+
+- **Optimization - How is Uranium Fever optimized?**
+  - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. Animations are BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
+
+- **Other Modded Instances - Can I keep my other modded setups while playing Uranium Fever?**
+  - Yes. Uranium Fever is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
+
+- **Pagefile - Should I increase the pagefile size for New Vegas?**
+  - No. Fallout: New Vegas has a 3.9GB memory limit, so increasing the pagefile won’t prevent memory-related crashes.
+
+- **Parse Errors - Are parse errors during installation an issue?**
+  - No, as long as the installer shows "Complete" at the end.
+
+- **Pink Screen - Why do I see pink transition screens?**
+  - You likely skipped the 4GB patching process (`FNVPatch.exe` in `[NoDelete] Stock New Vegas`).
+
+- **Plugin No Longer Present - I'm notified that certain plugins are missing. Is this an issue?**
+  - No, unless specifically noted. Some plugins may be merged or removed during optimization, which doesn’t affect your save.
+
+- **Quick Save - Why is there no quick save button?**
+  - This is to prevent reloading to avoid negative outcomes in combat or skill checks.
+
+- **Ragdolls - Does the Ragdolls mod cause crashes?**
+  - No. The Death Throes plugin used here is stable.
+
+- **Reflections - Why are landscape reflections visible in windows?**
+  - This prevents significant performance loss.
+
+- **Resolution - Why is my resolution locked at 4K?**
+  - If using Special K, change the resolution in its menu and restart the game.
+
+- **Runtime Error - I’m getting a runtime error at launch.**
+  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the installer to fix this.
+
+- **Selecting Perks - Why can’t I select a perk every level?**
+  - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
+
+- **Size - Why is Uranium Fever so large?**
+  - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
+
+- **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**
+  - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
+
+- **Updates - Will I lose progress when updating the list?**
+  - You won’t lose progress, though updates after starting a save may introduce bugs. Roll back the list if issues arise.
