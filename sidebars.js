@@ -65,7 +65,7 @@ const sidebars = {
     'thepittinteriors',
   ],
   resourcesSidebar: [
-   'resourcesintro',
+   'resourcesoverview',
    'importantlinks',
    'stars',
    'sweetloadorder',
