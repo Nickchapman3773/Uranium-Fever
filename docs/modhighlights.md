@@ -62,7 +62,7 @@ sidebar_label: Mod Highlights
 - [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Overhauls creature spawn points across the Mojave.
 
 # <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
-- [3DNPCs Fallout 3](https://www.nexusmods.com/newvegas/mods/83484) & 3DNPCs [New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands both Wastelands with quests, companions, and NPCs.
+- [3DNPCs Fallout 3](https://www.nexusmods.com/newvegas/mods/83484) & [3DNPCs New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands both Wastelands with quests, companions, and NPCs.
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
