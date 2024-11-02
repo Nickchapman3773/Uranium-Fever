@@ -20,4 +20,4 @@ The Uranium Fever team will not provide support the Lossless Scaling application
   ![Lossless Scaling1](https://github.com/user-attachments/assets/ac9e8d26-40cf-479f-942f-df319def8a03)
   ![Lossless Scaling2](https://github.com/user-attachments/assets/baf4ff00-2c94-4861-9bab-0db754041ff6)
 
-- Launch Uranium Fever or Fallout: New Vegas with Lossless Scaling running. Once ingame, hit the `Ctrl + Alt + S` keys to initiate scaling.
+- Launch Uranium Fever or Fallout: New Vegas with Lossless Scaling running. Once ingame, click the `Ctrl + Alt + S` keys to initiate scaling.
