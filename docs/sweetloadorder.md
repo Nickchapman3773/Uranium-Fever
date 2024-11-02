@@ -10,6 +10,7 @@ The following is the recommended load order of all plugins in Sweet's mod suite 
 
 :::warning
 Do not combine Vanilla SWEEP, TTW Hunting Rifle 556mm, and the .32 Weapons pack. These will eventually be included in the full version of SWEEP.
+:::
  
 - TTW Reputations
 - AWOPF3 (A World of Pain - Fallout 3 Version)
