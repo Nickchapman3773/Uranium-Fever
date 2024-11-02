@@ -1,6 +1,8 @@
-title: 1.0.0.0 - ***, **, ****
+---
+title: 1.0.0.0
 hide_title: true
-sidebar_label: 1.0.0.0 - ***, **, ****
+sidebar_label: 1.0.0.0
+---
 
 # 1.0.0.0
 
