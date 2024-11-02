@@ -64,7 +64,7 @@ const sidebars = {
     'anchorageinteriors',
     'thepittinteriors',
   ],
-  appendixSidebar: [
+  resourcesSidebar: [
     'stars',
   ],
   changelogSidebar: [
