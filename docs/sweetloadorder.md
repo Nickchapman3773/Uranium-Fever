@@ -15,7 +15,7 @@ Do not combine Vanilla SWEEP, TTW Hunting Rifle 556mm, and the .32 Weapons pack.
 - TTW Reputations
 - AWOPF3 (A World of Pain - Fallout 3 Version)
 - BTE (Big Town Expansion)
-- EDGE TTW.esm (Early Decisions and Gameplay Enhancement)
+- EDGE TTW (Early Decisions and Gameplay Enhancement)
 - DICK - Double Integrated Creation Kit
 - Momod (Monster Mod)
 - Sweet Pain
