@@ -60,6 +60,6 @@ This list is written by Sweet6Shooter and covers **plugin-based** mods that Swee
 - Mojave Raiders - Fills out worldspace with much needed encounters.
 - Mojave Wildlife (FO3-Style) - Fills out worldspace with much needed encounters.
 - Faction Wasteland Presence
-- Real Weapon Mods (My Version)
-- Rob-Co Craft-O-Matic Suite (My Version)
-- Skill Items (My Version)
+- Real Weapon Mods (Sweet's version)
+- Rob-Co Craft-O-Matic Suite (Sweet's version)
+- Skill Items (Sweet's version)
