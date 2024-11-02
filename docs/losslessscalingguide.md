@@ -11,7 +11,7 @@ sidebar_label: Lossless Scaling Guide
 - Lossless Scaling costs $7 USD.
 - The Uranium Fever team has no affilitation with or financial interest in Lossless scaling.
 :::warning Unsupported
-The Uranium Fever team will not provide support the Lossless Scaling application.
+The Uranium Fever team will not provide support for the Lossless Scaling application.
 :::
 
 - Purchase, download, install, and launch [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/).
