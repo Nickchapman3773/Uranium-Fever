@@ -1,7 +1,7 @@
 ---
-title: STARS
+title: STARS Installation Guide
 hide_title: true
-sidebar_label: STARS
+sidebar_label: STARS Installation Guide
 ---
 
 # ![STARS](assets/stars.png)
