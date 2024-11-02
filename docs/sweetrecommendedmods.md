@@ -55,7 +55,7 @@ This list, curated by Sweet6Shooter, includes **plugin-based** mods that Sweet c
 - [Vault 22 Floral Overhaul (Qolore Version)](https://www.nexusmods.com/newvegas/mods/71521) - Enhances the atmosphere of one of the game’s most memorable locations.
 - [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
 - [A World Of Pain FO3](https://www.nexusmods.com/newvegas/mods/66265) (With [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569)) - Adds numerous high-quality dungeons and extends gameplay.
-- [A World of Pain Revised](https://www.nexusmods.com/newvegas/mods/71139) ([With Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)) - Fills New Vegas’s worldspace with engaging content and additional challenges.
+- [A World of Pain Revised](https://www.nexusmods.com/newvegas/mods/71139) (With [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)) - Fills New Vegas’s worldspace with engaging content and additional challenges.
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Adds more encounters throughout the worldspace.
 - [Mojave Wildlife (FO3-Style)](https://www.nexusmods.com/newvegas/mods/64638) - Expands the worldspace with more wildlife encounters.
 - [Faction Wasteland Presence](https://www.nexusmods.com/newvegas/mods/73524)
