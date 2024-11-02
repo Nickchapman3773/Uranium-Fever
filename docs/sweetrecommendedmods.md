@@ -1,7 +1,7 @@
 ---
-title: STARS
+title: Sweet's Recommended Mods
 hide_title: true
-sidebar_label: STARS
+sidebar_label: Sweet's Recommended Mods
 ---
 
 # ![Banner Sweet's Recommended Mods](https://github.com/user-attachments/assets/6aba5345-7873-45d3-b9b3-448df9a7cc59)
