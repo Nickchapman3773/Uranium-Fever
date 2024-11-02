@@ -22,7 +22,7 @@ sidebar_label: Mod Highlights
 - [SWEEP (Sweet Weapon Enhancement and Expansion Package)](https://www.nexusmods.com/newvegas/mods/81043) - Balances weapon progression and cohesion across the game.
 - [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection abilities, nerfing sniping tactics.
 - [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Compiles AI improvements for more engaging combat.
-- [[Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for both players and NPCs, enhancing combat flow.
+- [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for both players and NPCs, enhancing combat flow.
 - [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Adjusts weapon jamming to increase challenge, with fixes and a new clearing function.
 - [STARS (Sweet's Total Armor Rework System)](https://www.nexusmods.com/newvegas/mods/76016) - Rebalances armor and integrates top modded armor textures.
 - [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with a heavy, imposing aesthetic, adding new animations and sounds.
@@ -66,7 +66,7 @@ sidebar_label: Mod Highlights
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
-- [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a thought cabinet inspired by Disco Elysium.
+- [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
 
 # <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
 - [ATMOS Ambience Overhaul Fallout 3](https://www.nexusmods.com/newvegas/mods/84054) & [ATMOS Ambience Overhaul New Vegas](https://www.nexusmods.com/newvegas/mods/85939) - Modernizes ambient sounds across both Wastelands.
