@@ -67,6 +67,7 @@ const sidebars = {
   resourcesSidebar: [
    'resourcesoverview',
    'importantlinks',
+   'losslessscalingguide',
    'stars',
    'sweetloadorder',
    'sweetrecommendedmods',
