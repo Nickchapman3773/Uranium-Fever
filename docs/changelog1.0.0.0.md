@@ -4,6 +4,6 @@ hide_title: true
 sidebar_label: 1.0.0.0 - Nov, 2, 2024
 ---
 
-# 1.0.0.0
+# 1.0.0.0 - Nov, 2, 2024
 
 - Coming... soon..ish :)
