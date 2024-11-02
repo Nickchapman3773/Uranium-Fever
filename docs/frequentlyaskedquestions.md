@@ -61,7 +61,9 @@ sidebar_label: Frequently Asked Questions
   - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
 
 - **FPS - How can I increase FPS in Uranium Fever?**
-  - Switch to the High-Quality launcher preset and enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
+  - Step 1: Consider trialing [Lossless scaling](https://uraniumfever.net/docs/losslessscalingguide). Please note that the Uranium Fever team has no affiliation or financial interest in Lossless Scaling, and will not provide any support for the application.
+  - Step 2: Switch to the High-Quality launcher preset. This will trade visual quality for improved performance.
+  - Step 3: Enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-). This will trade visual quality for improved performance.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**
   - Yes. Special K and RTSS use CPU functions for limiting FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
