@@ -9,7 +9,7 @@ sidebar_label: Mod Highlights
 
 # <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
 - **Sweets Simple Settings** - Adjusts various gameplay elements to provide a more challenging experience, modifying factors such as damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn timing.
-- **Harder Barter Faster Stronger (Sicko Mode)** - Rebalances the economy to make the barter skill central, creating a more punishing economy.
+- **Harder Barter Faster Stronger (Sicko Mode)** - Rebalances the economy to make the barter skill a central component, creating a more punishing economy.
 - **Bullet Time** - Replaces VATS with Bullet Time, an AP-based time-scaling feature that emphasizes careful aim and decision-making.
 - **Armor Damage Overhaul** - Revamps the armor degradation system with a more intuitive, customizable approach.
 - **New Blood** - Reconstructs and rebalances damage mechanics, introducing bleeding from blade hits and knockdown effects from blunt impacts.
