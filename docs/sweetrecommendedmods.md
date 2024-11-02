@@ -14,7 +14,7 @@ This list, curated by Sweet6Shooter, includes **plugin-based** mods that Sweet c
 :::
 
 **Indispensable:**
-- [RAD](https://www.nexusmods.com/newvegas/mods/78077) (With [RAD - Radiation (is) Actually Dangerous - Overhaul - with Injection Fix](https://www.nexusmods.com/newvegas/mods/78077)) - Enhances the consequences of radiation exposure, making it significantly impactful.
+- [RAD](https://www.nexusmods.com/newvegas/mods/78077) - Enhances the consequences of radiation exposure, making it significantly impactful.
 - [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
 - [JBT Improved](https://www.nexusmods.com/newvegas/mods/78324)
 - [Famine](https://www.nexusmods.com/newvegas/mods/74985) - [Sweet Config Settings](https://pastebin.com/wzWbUz6M) - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011) - [Famine Exception Patches - ESPLess](https://www.nexusmods.com/newvegas/mods/87249)
