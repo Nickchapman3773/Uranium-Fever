@@ -1,7 +1,7 @@
 ---
-title: Community Resources
+title: Resources Overview
 hide_title: true
-sidebar_label: Community Resources
+sidebar_label: Resources Overview
 ---
 
 # ![Banner Community Resources](https://github.com/user-attachments/assets/37532e10-ab4e-4d54-894c-0665322669d5)
