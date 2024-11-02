@@ -7,9 +7,9 @@ sidebar_label: STARS Installation Guide
 # ![STARS](assets/stars.png)
 
 :::danger READ CAREFULLY
-STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances the **stats, appearance, and effects of every single armor in the game**, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the Nexus. **READ THE DESCRIPTION** on the mod page carefully before proceeding.
+STARS is a comprehensive and dramatic overhaul of the entire TTW armor suite. It completely rebalances the **stats, appearance, and effects of every single armor in the game**, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the Nexus. **READ THE DESCRIPTION** on the mod page carefully before proceeding.
 
-This is an **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very specifically to avoid missing textures in the game.
+This is an **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed precisely to avoid missing textures in the game.
 
 Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right-clicking the mod, clicking information, navigating to the file tree tab, right-clicking on the pertinent plugin or folder, and selecting hide. STARS will provide an alert in-game if any assets are missing or managed incorrectly.
 :::
@@ -48,8 +48,8 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `1nivVSLArmors.esp` plugin.
   - Download the [Bethesda Archive Extractor](https://www.nexusmods.com/fallout4/mods/78?tab=files&file_id=145001) from the Fallout 4 Nexus to **extract the 1nivVSLArmors.bsa file**.
     - Extract the Bethesda Archive Extractor.
-    - Navigate to the Spice of Life mod in MO2, right-click it, click open in explorer.
-    - Right-click the `1nivVSLArmors.bsa` file, click open with, click choose another app, click choose an app on your PC, navigate to the location where you extracted the Bethesda Archive Extractor folder, select `bae.exe`, then select open with `bae.exe`.
+    - Navigate to the Spice of Life mod in MO2, right-click it, and click open in explorer.
+    - Right-click the `1nivVSLArmors.bsa` file, click open with, choose another app, select an app on your PC, navigate to the location where you extracted the Bethesda Archive Extractor folder, select `bae.exe`, then open with `bae.exe`.
     - Click the extract button, then ignore the select folder path prompt briefly. **DO NOT** select a random folder. This step will be completed shortly.
     - Navigate back to your Spice of Life mod folder, click the folder path at the top, and copy the path.
       - Example: `C:\Games\Mod.Organizer-2.4.5alpha3\mods\Spice of Life`.
