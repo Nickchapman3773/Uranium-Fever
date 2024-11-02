@@ -10,7 +10,7 @@ sidebar_label: Important Links
 This page contains links to essential resources for modding Fallout: New Vegas.
 :::
 
-### <p align="center"> ![General Resources](https://github.com/user-attachments/assets/b09036b5-b848-4a1e-a461-971a72f46a2a) </p>
+# <p align="center"> ![General Resources](https://github.com/user-attachments/assets/b09036b5-b848-4a1e-a461-971a72f46a2a) </p>
 
 - [Basics of xEdit](https://moddinglinked.com/xedit.html)
   - An introductory guide to xEdit, covering its uses and features.
@@ -21,7 +21,7 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 - [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
   - A non-exhaustive list of mods best avoided for stability.
 
-### <p align="center"> ![Fallout Resources](https://github.com/user-attachments/assets/d219da04-f53c-406f-9caf-2ced4004c1f0) </p>
+# <p align="center"> ![Fallout Resources](https://github.com/user-attachments/assets/d219da04-f53c-406f-9caf-2ced4004c1f0) </p>
 
 - [GECK Wiki](https://geckwiki.com/index.php/Main_Page)
   - The community-maintained continuation of Bethesda's GECK wiki, focusing on GECK usage, scripting, and in-depth game mechanics.
@@ -34,7 +34,7 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 - [New Vegas Reloaded (NVR) Wiki](https://dlpnd.github.io/nvr-wiki/)
   - A detailed wiki covering every aspect of New Vegas Reloaded (NVR).
 
-### <p align="center"> ![Fallout Modlist Guides](https://github.com/user-attachments/assets/a17897ec-7c62-4aab-869d-ee7af1a0be09) </p>
+# <p align="center"> ![Fallout Modlist Guides](https://github.com/user-attachments/assets/a17897ec-7c62-4aab-869d-ee7af1a0be09) </p>
 
 - [Viva New Vegas](https://vivanewvegas.moddinglinked.com)
   - A high-quality starter guide tailored for new Fallout: New Vegas players.
