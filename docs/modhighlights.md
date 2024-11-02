@@ -11,7 +11,7 @@ sidebar_label: Mod Highlights
 - **Sweets Simple Settings** - Adjusts various gameplay elements to provide a more challenging experience, modifying factors such as damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn timing.
 - **Harder Barter Faster Stronger (Sicko Mode)** - Rebalances the economy to make the barter skill a central component, creating a more punishing economy.
 - **Bullet Time** - Replaces VATS with Bullet Time, an AP-based time-scaling feature that emphasizes careful aim and decision-making.
-- **Armor Damage Overhaul** - Revamps the armor degradation system with a more intuitive, customizable approach.
+- **Armor Damage Overhaul** - Revamps the armor degradation system with a more intuitive, customizable, and impactful implementation.
 - **New Blood** - Reconstructs and rebalances damage mechanics, introducing bleeding from blade hits and knockdown effects from blunt impacts.
 - **Famine** - Enforces resource scarcity to encourage more active use of bartering and crafting.
 - **RAD - Radiation Is Actually Dangerous** - Overhauls the effects of radiation, dehydration, hunger, and sleep deprivation, making them more impactful.
