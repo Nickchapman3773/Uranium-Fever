@@ -106,9 +106,9 @@ const config = {
           },
           {
             type: "docSidebar",
-            sidebarId: "appendixSidebar",
+            sidebarId: "resourcesSidebar",
             position: "right",
-            label: "Appendix",
+            label: "Resources",
           },
           {
             type: "doc",
