@@ -65,7 +65,8 @@ const sidebars = {
     'thepittinteriors',
   ],
   resourcesSidebar: [
-    'stars',
+   'resourcesintro',
+   'stars',
   ],
   changelogSidebar: [
     'changelog',
