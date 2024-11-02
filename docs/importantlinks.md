@@ -24,6 +24,10 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 
 - A non-exhaustive list of modding tools best avoided for stability.
 
+### [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
+
+- A non-exhaustive list of mods best avoided for stability.
+
 ## Fallout Resources
 
 ### [GECK Wiki](https://geckwiki.com/index.php/Main_Page)
