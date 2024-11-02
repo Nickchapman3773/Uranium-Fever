@@ -96,7 +96,19 @@ sidebar_label: Mod Feature Reference List
   - Allows for the commissioning of weapon mods for the equipped weapon.
   - Mouse over qualified vendor, press Grab (`G`) to commission.
   - After Passage of Time, mouse over vendor, press Grab (`G`) to purchase.
-  - Qualified Vendors: Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Commissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
+  - Qualified Vendors:
+    - Vendortron (Guns/Big Guns/Explosives)
+    - Gloria Van Graff (Energy Weapons)
+    - Torres (Energy/Big Guns), Mick (Melee/Unarmed)
+    - Boomers Munitions Manager (Explosives/Big Guns)
+    - 188 Arms Merchant (Explosives/Big Guns/Guns)
+    - Khan Armorer (Explosives/Guns)
+    - SINK (All), Commissary (All)
+    - Flak/Shrapnel (Guns/Explosives)
+    - Friday (The Pitt) (Guns/Melee/Unarmed/Explosives)
+    - Pronto (Guns/Explosives/Big Guns)
+    - Durga (BS DC) (Energy/Big Guns)
+    - Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed)
 
 - **Open Data:**
   - Press `P`.
