@@ -24,7 +24,7 @@ sidebar_label: Credits & Thanks
 - [Wall](https://next.nexusmods.com/profile/WallSoGB) and [Ungeziefi](https://next.nexusmods.com/profile/Ungeziefi) for allowing adaptation of portions of [The Best of Times](https://thebestoftimes.moddinglinked.com/), [Viva New Vegas](https://vivanewvegas.moddinglinked.com/), and the [FNV Performance Guide](https://performance.moddinglinked.com/falloutnv.html) for UF.
 - [InTheGrave](https://next.nexusmods.com/profile/Inthegrave) for advice on optimization, compression, and BSA packing for UF.
 - [FireKahuna](https://next.nexusmods.com/profile/FireKahuna) for advice on LOD, lighting, and for customizing many of his mods to fit UF.
-- **StrawChannel95** for creating the `Manual Downloads.bat` file, consulting on technical aspects of Wabbajack, and heavily editing these instructions.
+- **StrawChannel95** for creating the `Manual Downloads.bat` file, consulting on technical aspects of Wabbajack, heavily editing these instructions and prototyping the [Resources](https://uraniumfever.net/docs/resourcesoverview) section.
 - **Elgen** for the stunning banners and stylized text.
 - [Demorome](https://next.nexusmods.com/profile/Demorome) for allowing the inclusion of early unreleased builds of xNVSE in UF.
 - [Kormakur](https://next.nexusmods.com/profile/korri123) for allowing the inclusion of early unreleased builds of kNVSE in UF.
