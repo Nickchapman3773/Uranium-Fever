@@ -68,6 +68,8 @@ const sidebars = {
    'resourcesintro',
    'importantlinks',
    'stars',
+   'sweetloadorder',
+   'sweetrecommendedmods',
   ],
   changelogSidebar: [
     'changelog',
