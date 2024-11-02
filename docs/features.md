@@ -14,7 +14,7 @@ sidebar_label: Features
 - Immersive, large-scale overhauls and expansions of most locations.
 - Hardcore rebalancing of all gameplay elements—including combat, physics, NPC AI, weapons, armor, aid, healing, consumables, and more—focused on enhancing difficulty and cohesion.
 - A curated selection of top-tier content additions, including unique new worldspaces.
-- Abundant new items, armor, perks, enemies, and creatures, all aimed at expanding the authentic Fallout experience.
+- Abundant new items, weapons, armor, perks, enemies, and creatures, all aimed at expanding the authentic Fallout experience.
 - Extensive optimizations unique to UF.
 - Complete retexturing and reimagining of both Wastelands, including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), a [New Vegas Reloaded (NVR)](https://dlpnd.github.io/nvr-wiki/) multi-worldspace preset using [Cartographer](https://www.nexusmods.com/newvegas/mods/88451) (a location-based visual preset manager), specifically designed for UF (see [Mod Highlights](https://uraniumfever.net/docs/modhighlights) and [Showcase](https://uraniumfever.net/docs/userinterface/) for details).
 - Dramatically enhanced lighting and special effects to elevate the ambiance of both Wastelands.
