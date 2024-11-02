@@ -141,5 +141,5 @@ sidebar_label: Frequently Asked Questions
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**
   - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
 
-- **Updates - Will I lose progress when updating the list?**
-  - You won’t lose progress, though updates after starting a save may introduce bugs. Roll back the list if issues arise.
+- **Updates - Will updating impact my saves?**
+  - Your saves will still work, though updates after starting a save may introduce small bugs.
