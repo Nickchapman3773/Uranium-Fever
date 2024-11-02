@@ -66,6 +66,7 @@ const sidebars = {
   ],
   resourcesSidebar: [
    'resourcesintro',
+   'importantlinks',
    'stars',
   ],
   changelogSidebar: [
