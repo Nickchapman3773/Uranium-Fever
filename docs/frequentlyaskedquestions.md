@@ -62,7 +62,7 @@ sidebar_label: Frequently Asked Questions
 
 - **FPS - How can I increase FPS in Uranium Fever?**
   - Step 1:
-    - Consider trialing [Lossless scaling](https://uraniumfever.net/docs/losslessscalingguide). Please note that the Uranium Fever team has no affiliation or financial interest in Lossless Scaling, and will not provide any support for the application.
+    - Consider trying [Lossless scaling](https://uraniumfever.net/docs/losslessscalingguide). Please note that the Uranium Fever team has no affiliation or financial interest in Lossless Scaling, and will not provide any support for the application.
   - Step 2:
     - Switch to the High-Quality launcher preset. This will trade visual quality for improved performance.
   - Step 3:
