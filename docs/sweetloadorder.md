@@ -26,7 +26,7 @@ The following information is formatted as "Mod Name - `plugin name`".
 - [Real Weapon Mods 2 Rebalanced](https://www.nexusmods.com/newvegas/mods/74502) - `[RWM]-Complete Added.esp`
 - [TTW (D.I.E.O.) Dialogue and Interactions Expansion Overhaul](https://www.nexusmods.com/newvegas/mods/78189) - `TTW Dialogue and Interactions Expansion Overhaul.esp`
 - [Two Wastelands Redesigned - TTW - Project Beauty and NVR2](https://www.nexusmods.com/newvegas/mods/73667) - `Two Wastelands Redesigned/Any NPC overhaul.esp`
-- [Sunny Companion Hardcore](https://www.nexusmods.com/newvegas/mods/80273)- `Sunny Companion Hardcore.esp`
+- [Sunny Companion Hardcore](https://www.nexusmods.com/newvegas/mods/80273) - `Sunny Companion Hardcore.esp`
 - [Just Enough Realism](https://www.nexusmods.com/newvegas/mods/69407) - `Just Enough Realism.esp`
 - [Sweet Just Enough Realism Patch](https://www.nexusmods.com/newvegas/mods/83034) - `Sweet JER Patch.esp`
 - [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237) - `Another Ghoul Variant Mod.esp`
