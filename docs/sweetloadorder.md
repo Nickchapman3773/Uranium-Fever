@@ -1,4 +1,4 @@
-x---
+---
 title: Sweet's Load Order
 hide_title: true
 sidebar_label: Sweet's Load Order
