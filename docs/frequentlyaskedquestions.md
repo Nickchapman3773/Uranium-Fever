@@ -147,4 +147,4 @@ sidebar_label: Frequently Asked Questions
   - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
 
 - **Updates - Will updating impact my saves?**
-  - Your saves will still work, though updates after starting a save may introduce small bugs.
+  - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
