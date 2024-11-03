@@ -55,7 +55,7 @@ sidebar_label: Frequently Asked Questions
   - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
 
 - **First Time Playing - I want to experience the intro sequence.**
-  - Disable `Quick Start` and `Quick Start - Item Remover Patch` in the `Core Gameplay` separator. Note that we don’t support bugs in the intro sequence, though this doesn’t void official support.
+  - We do not support the Fallout 3 intro sequence. It has bugs and complications that are unable to be resolved in a satisfactory way.
 
 - **Flickering - Why are distant objects or mountains flickering?**
   - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
