@@ -8,14 +8,14 @@ sidebar_label: Setup Instructions
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
-- Navigate to the `Root Directory` (`C:\`, `D:\`, etc).
-- Create a folder named `Modding`, then open it.
+- Go to the `Root Directory` (e.g., `C:\`, `D:\`).
+- Make a folder named `Modding` and open it.
 - Create a folder named `Wabbajack`, **DO NOT** open it.
-- Create another folder named `Uranium Fever`, then open it.
-- Create a folder named `downloads`.
+- Create another folder named `Uranium Fever` and open it.
+- Make a folder named `downloads`.
 
 :::important Double Check
-The following file paths should now exist, though the Root Directory may differ:
+Ensure these file paths exist, though the Root Directory may vary:
 - `C:\Modding\Uranium Fever\downloads`
 - `C:\Modding\Wabbajack`
 :::
@@ -24,7 +24,7 @@ The following file paths should now exist, though the Root Directory may differ:
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
 - Move the downloaded `Wabbajack` file to `C:\Modding\Wabbajack`.
-- Run `Wabbajack.exe`. This will automatically install Wabbajack.
+- Run `Wabbajack.exe` to install Wabbajack automatically.
 - Close Wabbajack.
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
@@ -38,16 +38,16 @@ The following file paths should now exist, though the Root Directory may differ:
 		- `Tammer's NIF-Bashed Armor Mega-Pack v4.2`
 		- `FeralGhoulsHD`
 		- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
-- **MOVE** all five of the downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
+- **MOVE** all five downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 :::tip Self-Contained
-This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+This process creates a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 
 **SKIP** this step if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 
 :::important Important Instructions
-These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
+These instructions reference the `game library folder`, where Fallout: New Vegas and Fallout 3 are installed.
 
 Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
 :::
