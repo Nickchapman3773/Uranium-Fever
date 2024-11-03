@@ -417,3 +417,6 @@ This is an **OPTIONAL** step for those with weaker computers. Use the Performanc
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
 
 	![Performance](https://github.com/user-attachments/assets/388b653f-2e6f-4374-bc17-85e71e4d8921)
+
+::note WANT EVEN MORE PERFORMANCE?
+Please read the [Loseless Scaling](https://uraniumfever.net/docs/losslessscalingguide) guide, please do note that the Uranium Fever team has no affilitation with or financial interest in Lossless Scaling. We will not provide support for the application.
