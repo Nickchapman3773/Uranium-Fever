@@ -15,50 +15,50 @@ This list, curated by Sweet6Shooter, includes **plugin-based** mods that Sweet c
 
 **Indispensable:**
 - [RAD](https://www.nexusmods.com/newvegas/mods/78077) - Enhances the consequences of radiation exposure, making it significantly impactful.
-- [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666)
-- [JBT Improved](https://www.nexusmods.com/newvegas/mods/78324)
-- [Famine](https://www.nexusmods.com/newvegas/mods/74985) - [Sweet Config Settings](https://pastebin.com/wzWbUz6M) - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011) - [Famine Exception Patches - ESPLess](https://www.nexusmods.com/newvegas/mods/87249)
-- [BURN - Hardcore Fire Effects](https://www.nexusmods.com/newvegas/mods/76060)
-- [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937)
+- [Just Assorted Mods](https://www.nexusmods.com/newvegas/mods/66666) - Brings New Vegas' outdated gameplay up to speed.
+- [JBT Improved](https://www.nexusmods.com/newvegas/mods/78324) - Improves the Bullet Time mechanic in JAM to be far more responsive/overall better.
+- [Famine](https://www.nexusmods.com/newvegas/mods/74985) - [Sweet Config Settings](https://pastebin.com/wzWbUz6M) - [TTW Fix Famine Raven Rock](https://www.nexusmods.com/newvegas/mods/81011) - [Famine Exception Patches - ESPLess](https://www.nexusmods.com/newvegas/mods/87249) - Makes items scarcer, highly reccommended for balance.
+- [BURN - Hardcore Fire Effects](https://www.nexusmods.com/newvegas/mods/76060) - Makes a fire a real threat, not just an enviromental prop.
+- [TTW Quick Start](https://www.nexusmods.com/newvegas/mods/65937) - Automatically starts you outside of Vault 101, skipping that very long intro scene.
 - [Delay DLC Redux](https://www.nexusmods.com/newvegas/mods/75851) - AGE and DMT internally patched if this mod is present.
 - [Purchase Display](https://www.nexusmods.com/newvegas/mods/78873) - Allows purchasing items placed in vendor areas within Sweet’s mods.
-- [Follower Formula Redone](https://www.nexusmods.com/newvegas/mods/71490)
+- [Follower Formula Redone](https://www.nexusmods.com/newvegas/mods/71490) - Changes the amount of followers you can equip at a given moment based on your Charisma, absolutely needed to make Charisma more useful.
 - [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687) - NV+TTW - Enhances combat responsiveness, reducing the "DPS race" effect.
 - [JIP Companions Command & Control](https://www.nexusmods.com/newvegas/mods/50468) - Recommended settings: disable companion health reset and infinite ammo.
-- [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Adds a sprint system.
+- [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Adds a sprint system and other top-notch movement mechanics.
 - [Player Combat Priority](https://www.nexusmods.com/newvegas/mods/71699) - Balances gameplay to reduce the advantage companions provide.
 
 **Miguick's Suite of Mods:**
 - [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267) - Crucial for making armor health more consequential; without it, only body armor incurs damage.
 - [Weapon Requirements System](https://www.nexusmods.com/newvegas/mods/69161) - Makes weapon requirements meaningful. - [Sweet Config Settings](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130906&nmm=1)
-- [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)
-- [Power Attack Tweaks](https://www.nexusmods.com/newvegas/mods/69238)
+- [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266) - Changes the agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
+- [Power Attack Tweaks](https://www.nexusmods.com/newvegas/mods/69238) - Gives melee power and auto attacks an optional cost in Action Points, allows for regular and special forward power attacks to be used by the player, and allows them to trigger special VATS effects out of VATS, makes Power Attacks actually cost AP.
 - [Critical Effect Fixes](https://www.nexusmods.com/newvegas/mods/69200)
 - [Crippled Limb Enforcer](https://www.nexusmods.com/newvegas/mods/73147) - Similar to [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687)
-- [Ammo Script Fixes](https://www.nexusmods.com/newvegas/mods/63997)
+- [Ammo Script Fixes](https://www.nexusmods.com/newvegas/mods/63997) - Fixes and tweaks several ammo scripts.
 
 **Important:**
-- [Harder New Vegas Strip Access](https://www.nexusmods.com/newvegas/mods/71643)
+- [Harder New Vegas Strip Access](https://www.nexusmods.com/newvegas/mods/71643) - Makes getting to the Vegas Strip harder.
 - [Loot Assist](https://www.nexusmods.com/newvegas/mods/74882) - Simplifies looting and managing crafting materials.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Preferred water bottling system. A modified plugin is available on the mod-share Discord channel in Sweet’s server to require a cap for each bottle. It’s recommended to turn off bottle returns in [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) as bottles are plentiful in-game.
-- [Simpler Realism](https://www.nexusmods.com/newvegas/mods/69407) - [Sweet Just Enough Realism](https://www.nexusmods.com/newvegas/mods/83034) Patch
+- [Simpler Realism](https://www.nexusmods.com/newvegas/mods/69407) - [Sweet Just Enough Realism](https://www.nexusmods.com/newvegas/mods/83034) Patch - Improves damage values and tweaks more game settings.
 - [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Preferred minigame bypass. Use alongside [Sweet's Immersive Minigame Tweaks](https://www.nexusmods.com/newvegas/mods/87019).
-- [Mr House Assassins](https://www.nexusmods.com/newvegas/mods/69608)
+- [Mr House Assassins](https://www.nexusmods.com/newvegas/mods/69608) - Sends Securitron assassinn after you if you betray Mr. House and he's still alive.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Best weather mod.
-- [CC - Rain](https://www.nexusmods.com/newvegas/mods/79661)
-- [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656)
+- [CC - Rain](https://www.nexusmods.com/newvegas/mods/79661) - Rain fixes and improvements.
+- [Interior Rain](https://www.nexusmods.com/newvegas/mods/79656) - Adds sounds to interiors when raining.
 - [Charisma Affects Reputation](https://www.nexusmods.com/newvegas/mods/84787) - Makes Charisma more impactful.
 
 **Content:**
 - [More Mojave](https://www.nexusmods.com/newvegas/mods/69809) - Adds new locations to underutilized areas.
 - [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) - Adds much-needed population. - [The Living Desert Leveled List Overhaul](https://www.nexusmods.com/newvegas/mods/73325)
 - [Vault 22 Floral Overhaul (Qolore Version)](https://www.nexusmods.com/newvegas/mods/71521) - Enhances the atmosphere of one of the game’s most memorable locations.
-- [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165)
+- [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165) - Overhauls a bunch of locations in the Mojave to be more cluttered, lived in and overall more interesting.
 - [A World Of Pain FO3](https://www.nexusmods.com/newvegas/mods/66265) (With [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569)) - Adds numerous high-quality dungeons and extends gameplay.
 - [A World of Pain Revised](https://www.nexusmods.com/newvegas/mods/71139) (With [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)) - Fills New Vegas’s worldspace with engaging content and additional challenges.
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Adds more encounters throughout the worldspace.
 - [Mojave Wildlife (FO3-Style)](https://www.nexusmods.com/newvegas/mods/64638) - Expands the worldspace with more wildlife encounters.
-- [Faction Wasteland Presence](https://www.nexusmods.com/newvegas/mods/73524)
-- [Real Weapon Mods (Sweet's version)](https://www.nexusmods.com/newvegas/mods/74502)
-- [Rob-Co Craft-O-Matic Suite (Sweet's version)](https://www.nexusmods.com/newvegas/mods/76090)
+- [Faction Wasteland Presence](https://www.nexusmods.com/newvegas/mods/73524) - Adds Great Khans, Securitrons, NCR and Legion patrols and Brotherhood of Steel paladins on lore-friendly locations.
+- [Real Weapon Mods (Sweet's version)](https://www.nexusmods.com/newvegas/mods/74502) - Gives weapon mods real meshes.
+- [Rob-Co Craft-O-Matic Suite (Sweet's version)](https://www.nexusmods.com/newvegas/mods/76090) - Provides with crafting tools that you can use on the fly.
 - [Skill Items (Sweet's version)](https://www.nexusmods.com/newvegas/mods/76666)
