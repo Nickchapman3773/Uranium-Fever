@@ -8,11 +8,11 @@ sidebar_label: Setup Instructions
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
-- Go to the `Root Directory` (e.g., `C:\`, `D:\`).
-- Make a folder named `Modding` and open it.
+- Navigate to the `Root Directory` (e.g., `C:\`, `D:\`).
+- Create a folder named `Modding` and open it.
 - Create a folder named `Wabbajack`, **DO NOT** open it.
 - Create another folder named `Uranium Fever` and open it.
-- Make a folder named `downloads`.
+- Create a folder named `downloads`.
 
 :::important Double Check
 Ensure these file paths exist, though the Root Directory may vary:
