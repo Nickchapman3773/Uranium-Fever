@@ -87,12 +87,6 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 
 **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 
-:::important Important Instructions
-These instructions will reference the `game library folder`, which refers to the folder in which Fallout: New Vegas and Fallout 3 are installed.
-
-Default locations for the `game library folder` include `C:\steam\steamapps\common` and `C:\Program Files (x86)\GOG Galaxy\Games`.
-:::
-
 - Step 1: Creating the Clean Stock New Vegas Folder
 	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
 	- Copy **ALL** of the contents from inside of the `Fallout New Vegas` folder.
