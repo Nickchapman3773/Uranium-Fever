@@ -32,7 +32,7 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 - [Decompression Guide](https://vivanewvegas.moddinglinked.com/decompress.html)
   - Instructions for decompressing plugins in your load order to improve performance and reduce stuttering.
 - [New Vegas Reloaded (NVR) Wiki](https://dlpnd.github.io/nvr-wiki/)
-  - A detailed wiki covering every aspect of New Vegas Reloaded (NVR).
+  - A detailed wiki covering every aspect of New Vegas Reloaded.
 
 # <p align="center"> ![Fallout Modlist Guides](https://github.com/user-attachments/assets/a17897ec-7c62-4aab-869d-ee7af1a0be09) </p>
 
@@ -43,6 +43,6 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 - [Wasteland Survival Guide](https://wastelandsurvival.guide)
   - A comprehensive starter guide designed for Tale of Two Wastelands players.
 - [FNV Performance Guide](https://performance.moddinglinked.com/falloutnv.html)
-  - A guide for optimizing Fallout: New Vegas to achieve peak performance. Recommended for Tale of Two Wastelands (TTW) players as well.
+  - A guide for optimizing Fallout: New Vegas to achieve peak performance. Recommended for Tale of Two Wastelands players as well.
 - [SALVO](https://salamand3r.fail/salvo)
   - A highly stable and detailed texture guide for enhancing New Vegas.
