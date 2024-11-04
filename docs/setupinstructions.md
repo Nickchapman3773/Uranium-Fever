@@ -86,6 +86,7 @@ Let the installation **FINISH** prior to starting the following sections.
 This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 
 **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
+:::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
 	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
