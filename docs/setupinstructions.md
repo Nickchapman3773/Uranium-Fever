@@ -188,7 +188,7 @@ The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of th
 
 	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
-:::note Updating New Vegas Reloaded (NVR)
+:::note Updating New Vegas Reloaded
 When instructed to update the mod, simply repeat these steps.
 :::
 
