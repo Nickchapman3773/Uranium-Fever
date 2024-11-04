@@ -91,4 +91,4 @@ sidebar_label: Mod Highlights
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
-- [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) - Uses New Vegas Reloaded (NVR) for a full-game aesthetic overhaul with day-night cycle lighting and customized presets for each worldspace.
+- [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) - Uses New Vegas Reloaded for a full-game aesthetic overhaul with day-night cycle lighting and customized presets for each worldspace.
