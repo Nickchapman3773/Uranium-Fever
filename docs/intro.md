@@ -20,6 +20,13 @@ sidebar_label: Intro
 # <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
 # <p align="center"> [Showcase](https://uraniumfever.net/docs/userinterface/) </p>
 
+:::important TERMINOLOGY
+Throughout this installation process, you will encounter various acronyms and modding terms used interchangeably. Here’s a list of some of the most important terms we’ll be using:
+
+- [Tale of Two Wastelands (TTW)](https://mod.pub/ttw/133-tale-of-two-wastelands): A large mod that ports Fallout 3 into the New Vegas engine, effectively merging both games.
+- [New Vegas Reloaded (NVR)](): A graphics extender for New Vegas that significantly enhances lighting and visual quality.
+- Game library folder: The directory where both New Vegas and Fallout 3 are installed (e.g., `C:/Games/Fallout New Vegas`).
+
 :::danger **Trigger Warning**
 Some content in Uranium Fever contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, and intense audio cues. Please proceed with caution.
 :::
