@@ -14,5 +14,5 @@ sidebar_label: Updating Uranium Fever
 - If prompted, repeat the [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-), [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-), and [Optional - Storage Space Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) sections.
 
 :::note Manual Downloads
-Manual downloads, such as Tale of Two Wastelands (TTW) and New Vegas Reloaded (NVR), do not need to be redownloaded when updating Uranium Fever.
+Manual downloads, such as Tale of Two Wastelands and New Vegas Reloaded, do not need to be redownloaded when updating Uranium Fever.
 :::
