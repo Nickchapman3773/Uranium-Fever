@@ -14,7 +14,7 @@ sidebar_label: Credits & Thanks
 - **All** of the incredible mod authors whose work made UF possible.
 - The [Wabbajack](https://www.wabbajack.org/) team, particularly [JanuarySnow](https://github.com/JanuarySnow), [TDarkShadow](https://github.com/TDarkShadow), and [Trawzified](https://github.com/tr4wzified), for extensive troubleshooting support and even fixing various Wabbajack engine bugs discovered during UF’s development.
 - [Bethesda](https://bethesda.net) and [Obsidian](https://www.obsidian.net) for creating the games and assets used in UF, and for supporting the ongoing work of the modding community.
-- [Tale of Two Wastelands (TTW)](https://mod.pub/ttw/133-tale-of-two-wastelands) and the TTW team for permission to use many of the mod’s unique assets.
+- [Tale of Two Wastelands](https://mod.pub/ttw/133-tale-of-two-wastelands) and the TTW team for permission to use many of the mod’s unique assets.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balancing support, numerous patches, and general willingness to help in any way possible.
 - [Salamand3r](https://salamand3r.fail/) for permitting the adaptation of [New Vegas Visual Renewal](https://www.youtube.com/@salamand3r-), [SALVO](https://salamand3r.fail/salvo), and [H2O](https://www.nexusmods.com/newvegas/mods/89085) in early UF versions, and for advice on graphics and hardware.
 - [Stentorious](https://next.nexusmods.com/profile/Stentorious), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), and [SkankingFuchs](https://next.nexusmods.com/profile/kittayman) for substantial troubleshooting efforts and for creating custom patches and mods for UF.
