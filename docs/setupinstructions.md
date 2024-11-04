@@ -99,7 +99,7 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 
 			![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
-:::danger danger - No Extra Files
+:::danger No Extra Files
 Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
 :::
 
@@ -382,7 +382,7 @@ Special K is the required FPS limiter for NVIDIA users. RTSS will result in inap
 
 	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
-:::danger
+:::danger Desktop Shortcuts
 **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 :::
 
