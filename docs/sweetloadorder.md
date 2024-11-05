@@ -34,7 +34,7 @@ The following information is formatted as "Mod Name - `plugin name`".
 - [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - `New Blood.esp`
 - [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) - `S6S Base Game Perks Redux.esp`
 - [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) - `S6S Base Game Perks Redux TTW Side.esp`
-- [TTW 32 Caliber Weapons Pack](https://www.nexusmods.com/newvegas/mods/75068) - `TTW .32 Weapons Pack.esm` (Not to be used with SWEEP)
+- [TTW 32 Caliber Weapons Pack](https://www.nexusmods.com/newvegas/mods/75068) - `TTW .32 Weapons Pack.esp` (Not to be used with SWEEP)
 - [TTW Hunting Rifle Change to 556mm](https://www.nexusmods.com/newvegas/mods/81720) - `TTW Hunting Rifle 556mm.esp` (Not to be used with SWEEP)
 - [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - `New Blood TTW Patch.esp`
 - [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237) - `Another Ghoul Variant Mod.esp`
