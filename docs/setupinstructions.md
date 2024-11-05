@@ -101,6 +101,8 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 
 :::danger No Extra Files
 Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
+
+`GECK` files and `SSCE5432.dll` may be missing and will not impact your installaion.
 :::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
