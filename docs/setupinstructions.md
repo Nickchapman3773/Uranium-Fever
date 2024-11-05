@@ -41,7 +41,7 @@ Ensure these file paths exist, though the Root Directory may vary:
 - **MOVE** all five downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
 :::tip Missing Manual Downloads
-Occasionally, the Manual Downloads.bat will fail. If this occurs, manually download the files from the following links:
+Occasionally, the Manual Downloads.bat will fail. If this occurs, manually download the archives from the following links:
 - [Ghouls](https://drive.usercontent.google.com/download?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download&authuser=0)
 - [MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0](https://drive.usercontent.google.com/download?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download&authuser=0)
 - [Tammer's NIF-Bashed Armor Mega-Pack v4.2](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0&confirm=t&uuid=b8babfed-6c98-4122-9533-103f5b5eeaff&at=APZUnTWo-M36dDLCed8dULigCLi9%3A1723978755909)
