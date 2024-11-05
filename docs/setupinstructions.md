@@ -164,6 +164,12 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
 
+:::tip Double Check
+Navigate to `C:\Modding\Uranium Fever\mods`, right click the `[NoDelete] Tale of Two Wasteland` folder, select `Properties`, and verify that the installation size is exactly 17GB.
+
+If this is not the case, delete the `[NoDelete] Tale of Two Wasteland` and `[NoDelete] Stock New Vegas` folders, and repeat the above steps starting at the [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-) section.
+:::
+
 :::warning
 The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. This is because the TTW installation process performs BSA decompression, binary patching, and alteration of sound file extensions to base game files, which is a **REQUIREMENT** for a functional copy of TTW.
 :::
