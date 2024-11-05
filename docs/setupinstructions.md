@@ -128,6 +128,10 @@ Extra files inside of the Stock New Vegas folder will result in an error when la
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
 
+:::note
+The prompts may not appear until launching the game, though the instructions remain the same.
+:::
+
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
@@ -163,7 +167,6 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 - Once complete and the confirmation screen is visualized, close the Installer.
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
-	**Someone please send Kamchatka a screenshot of this confirmation page with the new 3.3.3 installer included**
 
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right click the `[NoDelete] Tale of Two Wasteland` folder, select `Properties`, and verify that the installation size is exactly 17GB.
