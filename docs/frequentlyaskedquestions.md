@@ -91,6 +91,9 @@ sidebar_label: Frequently Asked Questions
 
 - **Manual Installs - Why must I manually install TTW and NVR?**
   - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
+    
+- **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do i fix it?
+  - An backup is pre-bundled with Uranium Fever. You can either restore to backup or simply re-run the Uranium Fever installer.
 
 - **Modularity - Can I customize Uranium Fever to my preferences?**
   - Uranium Fever is not inherently modular. Due to optimizations, plugin merging, and updates, altered lists are unsupported.
