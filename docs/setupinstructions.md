@@ -40,6 +40,15 @@ Ensure these file paths exist, though the Root Directory may vary:
 		- `RRTV_CapitalWasteland_Hideouts_TTW-v2.0`
 - **MOVE** all five downloaded archives into the `C:\Modding\Uranium Fever\downloads` folder. **DO NOT** extract them.
 
+:::tip Missing Manual Downloads
+Occasionally, the Manual Downloads.bat will fail. If this occurs, manually download the files from the following links:
+- [Ghouls](https://drive.usercontent.google.com/download?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download&authuser=0)
+- [MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0](https://drive.usercontent.google.com/download?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download&authuser=0)
+- [Tammer's NIF-Bashed Armor Mega-Pack v4.2](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0&confirm=t&uuid=b8babfed-6c98-4122-9533-103f5b5eeaff&at=APZUnTWo-M36dDLCed8dULigCLi9%3A1723978755909)
+- [FeralGhoulsHD](https://drive.usercontent.google.com/download?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download&authuser=0)
+- [RRTV_CapitalWasteland_Hideouts_TTW-v2.0](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0&confirm=t&uuid=91c10101-6b5d-4913-b833-0c56fc2c5306&at=APZUnTWDzvRE9au0I7X0TLJ6B5mz%3A1723978675393)
+:::
+
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
 - Navigate to the `game library folder` and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
