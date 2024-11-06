@@ -124,17 +124,13 @@ Extra files inside of the Stock New Vegas folder will result in an error when la
 
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
 - Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
-- If prompted that INIs are read only, select `Clear the Read Only Flag`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
-
-:::note
-The prompts may not appear until launching the Uranium Fever launcher or launching the game, though the instructions remain the same. - PLEASE DM KAMCHATKA AND LET HIM KNOW WHEN THESE POPUP DURING YOUR INSTALLATION!
-:::
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
+- If prompted that INIs are read only, select `Clear the Read Only Flag`.
 
 	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
