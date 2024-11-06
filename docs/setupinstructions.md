@@ -369,21 +369,21 @@ FPS limiters make the game feel smoother by preventing rapid FPS fluctuations an
 Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
 :::
 
-- `Navigate` to the NVIDIA app settings and `turn off` the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
+- Navigate to the NVIDIA app settings and turn off the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
 
 	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
 - Download [Special K](https://performance.moddinglinked.com/files/SpecialK.7z).
 - Extract the downloaded archive into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- `Launch` Uranium Fever (launch instructions are provided below).
+- Launch Uranium Fever ([launch instructions are provided below](https://uraniumfever.net/docs/setupinstructions#-launching-the-game-)).
 - Select `Yes` when prompted to `enable DXVK support/vulkan bridge`, then relaunch the game.
 - Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
-- Under the `Framerate Limiter`, `check` the `Enable Framerate Limit` checkbox.
+- Under the `Framerate Limiter`, check the `Enable Framerate Limit` checkbox.
   
 	![SK1](https://github.com/user-attachments/assets/860a3559-3335-465d-b6be-b9ad20a59ced)
 
 - Right click `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
-- In the submenu, `check` the `Latent Sync` checkbox.
+- In the submenu, check the `Latent Sync` checkbox.
 - In the `Scan Mode` dropdown, select your `monitor's refresh rate`.
   
 	![SK2](https://github.com/user-attachments/assets/f013262c-26b3-423a-8650-6378ed05f7f7)
@@ -399,7 +399,7 @@ Special K is the required FPS limiter for NVIDIA users. RTSS will result in inap
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
-- After starting a new game, open the pause menu and `press K` to see the `Keybinds and associated legend`. More details are included below in the Mod Feature Quick Reference List section.
+- After starting a new game, open the pause menu and press `K` to see the `Keybinds and associated legend`. More details are included below in the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference) section.
 
 	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
