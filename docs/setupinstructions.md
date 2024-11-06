@@ -347,7 +347,7 @@ RTSS is the required FPS limiter for AMD users. Special K is incompatible with m
 - Select `FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
+	- Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor, and should be consistently achievable without significant sustained drops. Setting this too low may result in poor performance and long load screens.
 
 	![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
 
@@ -385,7 +385,7 @@ Special K is the required FPS limiter for NVIDIA users. RTSS will result in inap
 	![SK2](https://github.com/user-attachments/assets/f013262c-26b3-423a-8650-6378ed05f7f7)
 
 - Double Left-Click the `FPS Limit Bar`, `enter 59.995`, and press enter.
-	- The set framerate should be consistently achievable without significant sustained drops. Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor.
+	- Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor, and should be consistently achievable without significant sustained drops. Setting this too low may result in poor performance and long load screens.
    
 	![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
 
