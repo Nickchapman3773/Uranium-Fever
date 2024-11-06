@@ -10,6 +10,9 @@ sidebar_label: Frequently Asked Questions
 - **Afterburner - Should I use Special K for an NVIDIA graphics card when using RTSS alongside Afterburner?**
   - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update.
 
+- **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
+  - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
+
 - **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
   - Official support is not provided for modified lists. However, the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) channel on Discord allows community members to assist each other.
 
