@@ -8,13 +8,13 @@ sidebar_label: Frequently Asked Questions
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 - **Afterburner - Should I use Special K for an NVIDIA graphics card when using RTSS alongside Afterburner?**
-  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update, making Special K the preferred FPS limiter.
+  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. Repeat these steps after each graphics card driver update, as Special K is the preferred FPS limiter.
 
 - **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
-  - Official support is not provided for altered lists. However, the `uf-support-altered` channel on Discord allows community members to assist each other.
+  - Official support is not provided for modified lists. However, the `uf-support-altered` channel on Discord allows community members to assist each other.
 
 - **Black Screen - My game launches to a black screen. How do I fix this?**
-  - This issue usually results from a conflict between Special K and the GeForce overlay. Disable the overlay following instructions in the Special K section above.  
+  - This issue usually stems from a conflict between Special K and the GeForce overlay. Disable the overlay as described in the Special K section above.  
   - **Note**: We do not provide support for modified lists.
 
 - **Cannibal Perk - Why doesn’t the cannibalize function from the Cannibal perk work?**
@@ -28,10 +28,10 @@ sidebar_label: Frequently Asked Questions
 
 - **Crashing - My game crashes. How can I fix it?**
   - Post your crash log (located in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the Uranium Fever Support channel on Discord.
-  - If you've modified the list, use the modified Uranium Fever support channel. Note that altering Uranium Fever voids official support.
+  - If you’ve modified the list, use the modified Uranium Fever support channel. Note that altering Uranium Fever voids official support.
 
 - **Dialogue Skill Indicator - Why don’t I see the skill check indicator in dialogue like in the original game?**
-  - This feature is intentionally removed to prevent players from knowing if they’ll pass a skill check.
+  - This feature has been intentionally removed to prevent players from knowing if they’ll pass a skill check.
 
 - **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
   - **Capital Wasteland:**
@@ -55,21 +55,21 @@ sidebar_label: Frequently Asked Questions
   - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
 
 - **First Time Playing - I want to experience the intro sequence.**
-  - We do not support the Fallout 3 intro sequence. It has bugs and complications that are unable to be resolved in a satisfactory way.
+  - We do not support the Fallout 3 intro sequence. It has bugs and complications that cannot be resolved in a satisfactory way.
 
 - **Flickering - Why are distant objects or mountains flickering?**
   - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
 
 - **FPS - How can I increase FPS in Uranium Fever?**
   - Step 1:
-    - Consider trying [Lossless scaling](https://uraniumfever.net/docs/losslessscalingguide). Please note that the Uranium Fever team has no affiliation or financial interest in Lossless Scaling, and will not provide any support for the application.
+    - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide). Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
   - Step 2:
-    - Switch to the High-Quality launcher preset. This will trade visual quality for improved performance.
+    - Switch to the High-Quality launcher preset to trade visual quality for improved performance.
   - Step 3:
-    - Enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-). This will trade visual quality for improved performance.
+    - Enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
 
 - **FPS Limiters - Do I need a separate FPS limiter?**
-  - Yes. Special K and RTSS use CPU functions for limiting FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
+  - Yes. Special K and RTSS use CPU functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
 - **Hardcore - Can I disable hardcore mode?**
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
@@ -78,7 +78,7 @@ sidebar_label: Frequently Asked Questions
   - Simply rerun the installation; Wabbajack errors are often temporary.
 
 - **Hacking - Why can’t I use the vanilla hacking mini-game?**
-  - It’s replaced by Immersive Minigames, which offers a balanced, resource-management-focused alternative.
+  - It’s replaced by Immersive Minigames, offering a balanced, resource-management-focused alternative.
 
 - **Keybinds - How can I view Uranium Fever’s keybinds?**
   - Press `K` in the pause menu.
@@ -91,9 +91,9 @@ sidebar_label: Frequently Asked Questions
 
 - **Manual Installs - Why must I manually install TTW and NVR?**
   - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
-    
-- **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do i fix it?
-  - An backup is pre-bundled with Uranium Fever. You can either restore to backup or simply re-run the Uranium Fever installer.
+
+- **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**
+  - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever installer.
 
 - **Modularity - Can I customize Uranium Fever to my preferences?**
   - Uranium Fever is not inherently modular. Due to optimizations, plugin merging, and updates, altered lists are unsupported.
