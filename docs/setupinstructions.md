@@ -129,7 +129,7 @@ Extra files inside of the Stock New Vegas folder will result in an error when la
 - If prompted to `register`, select `Yes`.
 
 :::note
-The prompts may not appear until launching the Uranium Fever launcher or launching the game, though the instructions remain the same.
+The prompts may not appear until launching the Uranium Fever launcher or launching the game, though the instructions remain the same. - PLEASE DM KAMCHATKA AND LET HIM KNOW WHEN THESE POPUP DURING YOUR INSTALLATION!
 :::
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
