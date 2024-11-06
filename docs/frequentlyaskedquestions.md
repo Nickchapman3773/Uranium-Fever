@@ -141,7 +141,7 @@ sidebar_label: Frequently Asked Questions
   - If using Special K, change the resolution in its menu and restart the game.
 
 - **Runtime Error - I’m getting a runtime error at launch.**
-  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the installer to fix this.
+  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Installer to fix this.
 
 - **Selecting Perks - Why can’t I select a perk every level?**
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
