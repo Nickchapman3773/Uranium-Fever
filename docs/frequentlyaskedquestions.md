@@ -8,7 +8,7 @@ sidebar_label: Frequently Asked Questions
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 - **Afterburner - Should I use Special K for an NVIDIA graphics card when using RTSS alongside Afterburner?**
-  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. Repeat these steps after each graphics card driver update, as Special K is the preferred FPS limiter.
+  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update.
 
 - **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
   - Official support is not provided for modified lists. However, the `uf-support-altered` channel on Discord allows community members to assist each other.
