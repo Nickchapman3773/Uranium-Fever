@@ -11,7 +11,7 @@ sidebar_label: Frequently Asked Questions
   - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update.
 
 - **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
-  - Official support is not provided for modified lists. However, the `uf-support-altered` channel on Discord allows community members to assist each other.
+  - Official support is not provided for modified lists. However, the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) channel on Discord allows community members to assist each other.
 
 - **Black Screen - My game launches to a black screen. How do I fix this?**
   - This issue usually stems from a conflict between Special K and the GeForce overlay. Disable the overlay as described in the Special K section above.  
@@ -142,6 +142,9 @@ sidebar_label: Frequently Asked Questions
 
 - **Selecting Perks - Why can’t I select a perk every level?**
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
+
+- **Wild Card Support - Can I ask questions about Wild Card here?**
+  - No, **this is NOT the place for Wild Card support**. Wild Card has been taken down and is no longer supported by its creator. Please refrain from asking any Wild Card-related questions here.
 
 - **Size - Why is Uranium Fever so large?**
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
