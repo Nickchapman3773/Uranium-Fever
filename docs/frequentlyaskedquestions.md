@@ -89,7 +89,7 @@ sidebar_label: Frequently Asked Questions
 - **Launcher - My launcher only shows "Install" and "Options" is greyed out. Why?**
   - Re-run the launcher from Steam/GOG to regenerate the necessary INIs. This usually happens after updating Uranium Fever.
 
-- **Long Load Screens - I have very long load screens, why?
+- **Long Load Screens - I have very long load screens, why?**
   - You likely capped your FPS at too low a value.
 
 - **Lockpicking - Why can’t I use the vanilla lockpicking mini-game?**
