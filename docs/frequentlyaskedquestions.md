@@ -149,9 +149,6 @@ sidebar_label: Frequently Asked Questions
 - **Selecting Perks - Why can’t I select a perk every level?**
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
 
-- **Wild Card Support - Can I ask questions about Wild Card here?**
-  - No, **this is NOT the place for Wild Card support**. Wild Card has been taken down and is no longer supported by its creator. Please refrain from asking any Wild Card-related questions here.
-
 - **Size - Why is Uranium Fever so large?**
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
 
