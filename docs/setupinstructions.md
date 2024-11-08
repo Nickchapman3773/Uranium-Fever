@@ -162,7 +162,7 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 
 - Once complete and the confirmation screen is visualized, close the Installer.
 
-	![TTW Confirmation](https://github.com/user-attachments/assets/db06e252-7768-460c-80a8-8dcea7dafa1e)
+	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
 
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right click the `[NoDelete] Tale of Two Wasteland` folder, select `Properties`, and verify that the installation size is exactly 17GB.
