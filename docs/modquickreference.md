@@ -7,6 +7,8 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
+![KBQD1](https://github.com/user-attachments/assets/4ed5d21f-6f5d-4666-83c0-d7b7e30449f9)
+
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `F`.
   - Swap Shoulder in 3rd Person: Press `F`.
@@ -80,7 +82,7 @@ sidebar_label: Mod Feature Reference List
 
 - **JIP Companion Command and Control:**
   - Overhauls the companion control system.
-  - Enter CCC Menu: Hold `N`.
+  - Enter CCC Menu: Hold `C`.
   - Navigate CCC Menu: Use Mouse Wheel up and down.
   - Select in CCC Menu: `Left Click`.
 
@@ -147,8 +149,16 @@ sidebar_label: Mod Feature Reference List
   - Allows for purchase of items directly off of shelves in shops. Some items in Uranium Fever are specially placed for purchase with this mod.
   - Mouse over desired vendor-owned item to see price, press Activate (`E`), select Yes.
 
+- **Quick Trade:**
+  - Mouse over companion or vendor.
+  - Hold `Left Shift`.
+
 - **Reload:**
   - Press `R`.
+
+- **Quest Log:**
+  - Press `,` to toggle quest log.
+  - Press `.` to switch quest.
 
 - **Quick Select:**
   - Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
@@ -164,6 +174,10 @@ sidebar_label: Mod Feature Reference List
 
 - **Sprint:**
   - Hold `Left Shift`.
+ 
+- **Stash Organizer:**
+  - Mouse over container.
+  - Press `B`.
 
 - **Swap Ammo Type:**
   - There are various different ammo types, each with unique effects.
