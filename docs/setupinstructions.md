@@ -400,7 +400,7 @@ This step will need to be repeated every time Nvidia drivers are updated.
 **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 :::
 
-### <p align="center"> ![Optional - Enabling the Performance Profile](https://github.com/user-attachments/assets/121f49bc-ccec-4028-9bb9-588826b8ee43) </p>
+### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
 	- High Quality - All mods in Uranium Fever and settings in Uranium Haze are enabled.
