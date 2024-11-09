@@ -388,6 +388,14 @@ This step will need to be repeated every time Nvidia drivers are updated.
 
 	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
+### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
+
+- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
+	- High Quality - All mods in Uranium Fever and settings in Uranium Haze are enabled.
+ 	- Standard Quality - All mods in Uranium fever are enabled, but several performance intensive settings in Uranium Haze have been adjusted (disabled the shadow shaders, terrain parallax shader, wetworld shader, and reduced Real Time Reflection settings).
+  	- Low Quality - Disabled several performance intensive mods (including Radiation Visuals, Real Time Reflections, Lumen, Afterglow, Vending Machine Flicker Emits Light, Bullet Trails, Energy Visuals Plus, Uranium Haze, New Vegas Relaoded, and all associated dependencies).
+
+	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
@@ -399,15 +407,6 @@ This step will need to be repeated every time Nvidia drivers are updated.
 :::danger Desktop Shortcuts
 **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 :::
-
-### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
-
-- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
-	- High Quality - All mods in Uranium Fever and settings in Uranium Haze are enabled.
- 	- Standard Quality - All mods in Uranium fever are enabled, but several performance intensive settings in Uranium Haze have been adjusted (disabled the shadow shaders, terrain parallax shader, wetworld shader, and reduced Real Time Reflection settings).
-  	- Low Quality - Disabled several performance intensive mods (including Radiation Visuals, Real Time Reflections, Lumen, Afterglow, Vending Machine Flicker Emits Light, Bullet Trails, Energy Visuals Plus, Uranium Haze, New Vegas Relaoded, and all associated dependencies).
-
-	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
 
 ### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 :::tip Optional
