@@ -16,7 +16,6 @@ sidebar_label: Creatures
 ![Creature2 - Humanoid1 - Pitt2](https://github.com/user-attachments/assets/1a1385c9-df08-48f4-859a-f5f5eb5f90f5)
 ![Creature2 - Humanoid3 - Forest1](https://github.com/user-attachments/assets/3a6953e8-2ac0-4972-9161-773410931a57)
 ![Creature2 - Humanoid4 - Skele1](https://github.com/user-attachments/assets/ce2020c0-e437-4c13-9943-54b62524c9c7)
-![Creature2 - Humanoid4 - Skele2](https://github.com/user-attachments/assets/0b686137-83c0-44de-9558-970b367a8cf5)
 ![Creature2 - Humanoid5 - Ghost1](https://github.com/user-attachments/assets/7e9d616f-9f87-4bce-9ced-40124c706989)
 ![Creature2 - Humanoid5 - Ghost2](https://github.com/user-attachments/assets/b05e72de-1d81-43c9-98be-92724386bcda)
 ![Creature3 - SM1](https://github.com/user-attachments/assets/d7916ead-6a8a-4753-9cf4-ac376f91f976)
