@@ -8,7 +8,6 @@ sidebar_label: Anchorage
 ![ANC2](https://github.com/user-attachments/assets/b40fa773-dfcd-4fa8-8f8c-bf159e03fe5d)
 ![ANC3](https://github.com/user-attachments/assets/44ef8ab1-eea1-468b-b0cf-1d52e85a9836)
 ![ANC4](https://github.com/user-attachments/assets/f23e2950-ded7-4b82-9a6e-315be2a1f0ea)
-![ANC5](https://github.com/user-attachments/assets/222413ac-f349-4a1c-ae12-f6527150c554)
 ![ANC6](https://github.com/user-attachments/assets/cd1f8a64-6a94-472f-b4d2-8cf2d6063e4f)
 ![ANC7](https://github.com/user-attachments/assets/cc8612a7-4586-4c51-bff7-9f664e8006c7)
 ![ANC8](https://github.com/user-attachments/assets/998c1cd3-b964-4671-bf75-9c2b2a372049)
