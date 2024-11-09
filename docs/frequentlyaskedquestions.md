@@ -7,18 +7,11 @@ sidebar_label: Frequently Asked Questions
 
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
-- **Afterburner - Should I use Special K for an NVIDIA graphics card when using RTSS alongside Afterburner?**
-  - No. Refer to the [Performance Guide](https://performance.moddinglinked.com/falloutnv.html#DXVK), select `Nvidia` from the dropdown, and follow steps 2-8. These steps must be repeated after each graphics card driver update.
-
 - **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
   - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
 
 - **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
   - Official support is not provided for modified lists. However, the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) channel on Discord allows community members to assist each other.
-
-- **Black Screen - My game launches to a black screen. How do I fix this?**
-  - This issue usually stems from a conflict between Special K and the GeForce overlay. Disable the overlay as described in the Special K section above.  
-  - **Note**: We do not provide support for modified lists.
 
 - **Cannibal Perk - Why doesn’t the cannibalize function from the Cannibal perk work?**
   - You must be crouching to use the cannibalize function.
@@ -72,7 +65,7 @@ sidebar_label: Frequently Asked Questions
     - Enable the [Performance Profile](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-).
 
 - **FPS Limiters - Do I need a separate FPS limiter?**
-  - Yes. Special K and RTSS use CPU functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
+  - Yes. RTSS uses CPU functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
 - **Hardcore - Can I disable hardcore mode?**
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
@@ -139,9 +132,6 @@ sidebar_label: Frequently Asked Questions
 
 - **Reflections - Why are landscape reflections visible in windows?**
   - This prevents significant performance loss.
-
-- **Resolution - Why is my resolution locked at 4K?**
-  - If using Special K, change the resolution in its menu and restart the game.
 
 - **Runtime Error - I’m getting a runtime error at launch.**
   - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Installer to fix this.
