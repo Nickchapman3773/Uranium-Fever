@@ -23,7 +23,17 @@ sidebar_label: Mod Feature Reference List
 
 - **Automated Item Sorting:**
   - Use the Inventory Sorting Control to automatically sort items into different containers.
-  - Only available in homes added by Capital Wasteland Hideouts (SATCOM Utility Bunker A12, Basement Hideout, Forgotten Bomb Shelter, Survivalist Bunker, Listening Post Hideout, Mini Vault Hideout, Museum Office Hideout, Abandoned Safehouse, Reilly's Rangers Compound, GNR Studies).
+  - Only available in homes added by Capital Wasteland Hideouts:
+    - SATCOM Utility Bunker A12
+    - Basement Hideout
+    - Forgotten Bomb Shelter
+    - Survivalist Bunker
+    - Listening Post Hideout
+    - Mini Vault Hideout
+    - Museum Office Hideout
+    - Abandoned Safehouse
+    - Reilly's Rangers Compound
+    - GNR Studies.
 
 - **B42 Lean:**
   - Contextual leaning activated when aiming near a corner.
