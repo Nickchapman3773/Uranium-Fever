@@ -407,13 +407,13 @@ This step will need to be repeated every time Nvidia drivers are updated.
     - Uses the High launcher preset.
     - Disables several performance intensive mods:
       - Radiation Visuals
-    			- Real Time Reflections
-    			- Lumen
-  		  	- Afterglow
-    			- Vending Machine Flicker Emits Light
-    			- Bullet Trails
-    			- Energy Visuals Plus
-    			- Uranium Haze, New Vegas Reloaded, and all associated dependencies.
+      - Real Time Reflections
+      - Lumen
+      - Afterglow
+      - Vending Machine Flicker Emits Light
+      - Bullet Trails
+      - Energy Visuals Plus
+      - Uranium Haze, New Vegas Reloaded, and all associated dependencies.
 
 	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
 
