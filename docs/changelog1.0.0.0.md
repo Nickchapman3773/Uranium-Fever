@@ -28,7 +28,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Further balanced armors, weapons, and ingestibles added by mods outside of the Sweet Suite.
 - Increased death consequences reload penalty to 5% and revised the associated intro message.
 - Made story-based New Vegas radios locked behind the Mojave intro quest.
-- Disabled IgnoreFreeItems in Stewie Tweaks, making so that you cannot freely pickpocket caps back after spending them.
+- Disabled IgnoreFreeItems and enabled RemoveIfNoVendorContainer in Stewie Tweaks, making so that you cannot freely pickpocket caps back after spending them.
 - Adjusted a small handful of keybinds related to 3rd person camera and weapon hweel, all of which are displayed in the keybind display.
 
 **Fixes:**
