@@ -400,14 +400,6 @@ This step will need to be repeated every time Nvidia drivers are updated.
 **DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
 :::
 
-### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
-:::tip Optional
-This is an optional step to remove ~50GB of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
-:::
-
-- Confirm that the game launches and runs appropriately **BEFORE** following this step.
-- Navigate to the `C:\Modding\Uranium Fever` folder and delete the `downloads` folder.
-
 ### <p align="center"> ![Optional - Enabling the Performance Profile](https://github.com/user-attachments/assets/121f49bc-ccec-4028-9bb9-588826b8ee43) </p>
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
@@ -417,3 +409,10 @@ This is an optional step to remove ~50GB of unneeded archives from your computer
 
 	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
 
+### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
+:::tip Optional
+This is an optional step to remove ~50GB of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
+:::
+
+- Confirm that the game launches and runs appropriately **BEFORE** following this step.
+- Navigate to the `C:\Modding\Uranium Fever` folder and delete the `downloads` folder.
