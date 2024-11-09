@@ -7,11 +7,11 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-![KBQD1](https://github.com/user-attachments/assets/4ed5d21f-6f5d-4666-83c0-d7b7e30449f9)
+![KBQD1](https://github.com/user-attachments/assets/1e793708-1b58-4834-ad19-d4f438d96e0b)
 
 - **3rd Person Camera Overhaul:**
-  - Swap POV Between 1st and 3rd Person: Hold `F`.
-  - Swap Shoulder in 3rd Person: Press `F`.
+  - Swap POV Between 1st and 3rd Person: Hold `Z`.
+  - Swap Shoulder in 3rd Person: Press `Z`.
   - Open Camera Editor: Press `Delete`.
 
 - **Activate:**
@@ -196,5 +196,5 @@ sidebar_label: Mod Feature Reference List
 
 - **Weapon Hweel:**
   - A traditional hotkey-associated weapon wheel.
-  - Opening Weapon Wheel: Hold `Q`.
+  - Opening Weapon Wheel: Hold `7`.
   - Binding to Weapon Wheel: Open Weapon Inventory, hold hotkeys `1-4`, `Left Click` desired weapon.
