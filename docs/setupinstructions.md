@@ -409,10 +409,11 @@ This is an optional step to remove ~50GB of unneeded archives from your computer
 - Navigate to the `C:\Modding\Uranium Fever` folder and delete the `downloads` folder.
 
 ### <p align="center"> ![Optional - Enabling the Performance Profile](https://github.com/user-attachments/assets/121f49bc-ccec-4028-9bb9-588826b8ee43) </p>
-:::tip Optional
-This is an **OPTIONAL** step for those with weaker computers. Use the Performance Profile to gain better performance in exchange for worse visuals. This profile disables Real Time Reflections, New Vegas Reloaded, and other associated mods.
-:::
 
-- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then click the `Uranium Fever Performance` Profile.
+- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
+	- High Quality - All mods in Uranium Fever and settings in Uranium Haze are enabled.
+ 	- Standard Quality - All mods in Uranium fever are enabled, but several performance intensive settings in Uranium Haze have been adjusted (disabled the shadow shaders, terrain parallax shader, wetworld shader, and reduced Real Time Reflection settings).
+  	- Low Quality - Disabled several performance intensive mods (including Radiation Visuals, Real Time Reflections, Lumen, Afterglow, Vending Machine Flicker Emits Light, Bullet Trails, Energy Visuals Plus, Uranium Haze, New Vegas Relaoded, and all associated dependencies).
 
-	![Performance](https://github.com/user-attachments/assets/388b653f-2e6f-4374-bc17-85e71e4d8921)
+	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
+
