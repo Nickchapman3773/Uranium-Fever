@@ -374,7 +374,7 @@ This enables Flip Model (DXVK with DXGI), which improves latency and provides HD
 
 - Click `OK` on the on the `Profile Successfully Imported!` prompt.
 
-	![Successful Nvidia Profile](https://github.com/user-attachments/assets/2a004deb-8f4d-4d93-a0c2-10be9970387b)
+	![Nvidia Sucessfully Imported](https://github.com/user-attachments/assets/178cdbc0-cdf1-499c-bd7d-77aecc973e41)
 
 - Click `Apply Changes` then close the program.
 
