@@ -44,7 +44,6 @@ sidebar_label: Creatures
 ![Creature8 - Flying1 - Fly3](https://github.com/user-attachments/assets/37313e5e-ade9-4bf8-b6cd-a7066065f3c4)
 ![Creature8 - Flying2 - Mosquito1](https://github.com/user-attachments/assets/4ef4478c-1584-48e5-9a6c-7ef65e0ee0c9)![Creature8 - Flying2 - Mosquito2](https://github.com/user-attachments/assets/a6bf1af1-e1f3-4fd3-a90e-54429eaca173)
 ![Creature8 - Flying4 - Blimp1](https://github.com/user-attachments/assets/3a5465b9-a215-4981-8c59-bd1f32124c06)
-![Creature9 - Robot1 - Turret2](https://github.com/user-attachments/assets/52587267-4486-414f-9738-7fd78f47a3bd)
 ![Creature9 - Robot1 - Turret3](https://github.com/user-attachments/assets/6ca3b54b-3a3e-4361-9b88-2121fc4135d9)
 ![Creature9 - Robot2 - Hominid1 -2leg1](https://github.com/user-attachments/assets/400f799b-ad04-4b97-8778-6086eb346d57)
 ![Creature9 - Robot2 - Hominid1 -2leg2](https://github.com/user-attachments/assets/d398bf98-9bd2-4a58-a0f7-1917c78e0e22)
