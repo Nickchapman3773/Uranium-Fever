@@ -8,7 +8,7 @@ sidebar_label: House Interiors
 ![HO02](https://github.com/user-attachments/assets/697b0cbf-0425-4e0c-a985-7fd4583f51f2)
 ![HO03](https://github.com/user-attachments/assets/1fb7bbb8-aa18-4aaf-9554-bc2c01a51780)
 ![HO04](https://github.com/user-attachments/assets/1ae2f6dd-7b5d-4b9c-a4b9-09efff31efc0)
-![HO05](https://github.com/user-attachments/assets/d2ae1f3e-2b1a-4f15-9c7e-de2e81b2c314)
+![HO07](https://github.com/user-attachments/assets/2eee1d16-f989-4125-b5bb-04bfc0b40431)
 ![HO08](https://github.com/user-attachments/assets/9791c9fe-4d50-438d-ad0b-5cf5c9d0a2ca)
 ![HO09](https://github.com/user-attachments/assets/f9244733-4db4-40de-aef6-d7ddfc7f2dae)
 ![HO10](https://github.com/user-attachments/assets/42ae9449-925f-4951-8ef9-2a21e028d3ff)
