@@ -7,7 +7,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 # <p align="center"> 1.0.0.0 - Nov 9, 2024 </p>
 
 **Removals:**
-- Removed Craterside Supply Expansion & Flak N Shrapnel - not needed with SPARE.
+- Removed Craterside Supply Expansion & Flak N Shrapnel, as it is redundant with SPARE.
 - Removed Vanilla Lockpick Disabler due to persistent, unresolvable bugs.
 - Removed Mojave NPCs to decrease memory footprint.
 - Removed Simple Mojave Urbanization and associated patches to decrease memory footprint.
