@@ -17,6 +17,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Disabled Children Glowing Ones due to an associated missing mesh.
 
 **Changes:**
+- Switched from recommending Special K to recommending RTSS and a preconfigured Nvidia profile for Nvidia users.
 - Updated to a revamped UI layout courtesy of DoktorAkcel.
 - Updated to new quickthrow tweaks with UI and icon adjustments.
 - Changed to Nexus version of Character Build Presets and added the provided example preset.
