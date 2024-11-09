@@ -79,6 +79,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Added Basements and Bunkers.
 - Added Inspiring Interiors.
 - Added Swampfolk, courtesy of MedRenace.
+- Added Quality SX.
 - Added B42 Optics - Laser Rifle Rebirth Patch, fixing the laser rifles broken scope mesh.
 - Added Stash Organizer with custom edits and keybinding set to B.
 - **Added The Overseer Collection and many associated patches, all with significant custom edits to modernize, fix, balance, and otherwise adjust the mods to fit Uranium Fever. Removed some unsavory content. Customized all worldspaces and interiors in Uranium Haze and patched for Desert Natural Weathers. This was a massive, long-worked-on, and much-appreciated undertaking by DarkSolarLegend.**
