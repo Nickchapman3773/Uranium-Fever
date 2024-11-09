@@ -18,6 +18,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 
 **Changes:**
 - Switched from recommending Special K to recommending RTSS and a preconfigured Nvidia profile for Nvidia users.
+- Flagged any remaining appropriate mods as ESM if they contained temp worldspace edits and adjusted patching accordingly, which should provide improved performance.
 - Updated to a revamped UI layout courtesy of DoktorAkcel.
 - Updated to new quickthrow tweaks with UI and icon adjustments.
 - Changed to Nexus version of Character Build Presets and added the provided example preset.
@@ -27,6 +28,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Further balanced armors, weapons, and ingestibles added by mods outside of the Sweet Suite.
 - Increased death consequences reload penalty to 5% and revised the associated intro message.
 - Made story-based New Vegas radios locked behind the Mojave intro quest.
+- Adjusted a small handful of keybinds related to 3rd person camera and weapon hweel, all of which are displayed in the keybind display.
 
 **Fixes:**
 - Fixed abnormal compass marker shapes.
@@ -59,6 +61,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Fixed console null spam.
 
 **Additions:**
+- Added an optional seperator with an altered keybind to change activate to F and enable manual leaning with Q and E.
 - Added GECK Extender and associated config file for tinkerers.
 - Added a better Missing Icon Icon.
 - Added various texture improvements to SOFT AF, including much-needed interior rubble textures, courtesy of OrgasmicSneeze.
@@ -76,6 +79,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Added Basements and Bunkers.
 - Added Inspiring Interiors.
 - Added Swampfolk, courtesy of MedRenace.
+- Added B42 Optics - Laser Rifle Rebirth Patch, fixing the laser rifles broken scope mesh.
 - Added Stash Organizer with custom edits and keybinding set to B.
 - **Added The Overseer Collection and many associated patches, all with significant custom edits to modernize, fix, balance, and otherwise adjust the mods to fit Uranium Fever. Removed some unsavory content. Customized all worldspaces and interiors in Uranium Haze and patched for Desert Natural Weathers. This was a massive, long-worked-on, and much-appreciated undertaking by DarkSolarLegend.**
 - **Added Scratch - A Ghoulish Companion and its various patches. Balanced and adjusted for appropriate integration into Uranium Fever. Another DarkSolarLegend passion project.**
