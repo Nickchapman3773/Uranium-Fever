@@ -19,4 +19,4 @@ Altered lists ***will not*** be officially supported. However, there is a Discor
 - Post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA).
 - Prior to posting suggestions, perform a search to ensure the suggestion has not been made previously.
 
-	![discord](https://github.com/user-attachments/assets/2b2ff9a1-e9ad-4237-8b23-5284dad8d358)
+	![discord](https://discord.gg/vUNsFx7AGu)
