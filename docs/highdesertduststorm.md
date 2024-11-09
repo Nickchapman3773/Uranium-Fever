@@ -1,8 +1,8 @@
 ---
 sidebar_position 1
-title Arroyo Canyon
+title Dust Storm
 hide_title true
-sidebar_label Arroyo Canyon
+sidebar_label Dust Storm
 ---
 ![DS1](https://github.com/user-attachments/assets/5d0db738-0ce3-4467-a30d-502d408ed0b3)
 ![DS2](https://github.com/user-attachments/assets/d4c36381-e0fe-4399-acd3-361eb0d6a44c)
