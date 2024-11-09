@@ -40,9 +40,15 @@ sidebar_label: Frequently Asked Questions
     - Lake Havasu - 10
     - Dry Wells - 10
     - Honest Hearts - 10
+    - The Initiation - 15
     - Old World Blues - 15
+    - Eliza - 20
+    - Headhunting - 20
+    - Depths of Depravity - 20
+    - The High Desert - 20
     - Dead Money (with Dead Money Tweaks) - 25
     - Lonesome Road - 25
+    - North Road - 35
 
 - **Failed and Slow Nexus Downloads - Why are my downloads slow or failing?**
   - Make sure your Nexus account is connected to Wabbajack. Open Wabbajack settings to link your Nexus account.
