@@ -80,6 +80,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Added Basements and Bunkers.
 - Added Inspiring Interiors.
 - Added Swampfolk, courtesy of MedRenace.
+- Added Sentry Bots Retexture, courtesy of Salamander.
 - Added Quality SX.
 - Added B42 Optics - Laser Rifle Rebirth Patch, fixing the laser rifles broken scope mesh.
 - Added Stash Organizer with custom edits and keybinding set to B.
