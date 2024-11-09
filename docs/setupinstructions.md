@@ -327,11 +327,9 @@ DXVK Cache Storage is known to cause memory related crashes. This step disables 
   		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 - Restart your computer for this to take effect.
 
-### <p align="center"> ![AMD Graphics Card Users - Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/53b53292-faf3-4115-9d92-f2e1d7f2c32a) </p>
+### <p align="center"> ![Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/f83c6525-1de0-415e-bf59-88d03053bf07) </p>
 :::tip Why?
 FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
-
-RTSS is the required FPS limiter for AMD users. Special K is incompatible with modern AMD GPU drivers.
 :::
 
 - Install and launch [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
@@ -358,39 +356,38 @@ RTSS is the required FPS limiter for AMD users. Special K is incompatible with m
 
 	![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
-### <p align="center"> ![NVIDIA Graphics Card Users - Installing Special K](https://github.com/user-attachments/assets/d53e2ccc-df55-4a21-b765-e48a8939c1ca) </p>
+### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
 :::tip Why?
-FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
 
-Special K is the required FPS limiter for NVIDIA users. RTSS will result in inappropriate configuration and memory related crashes with NVIDIA GPUs.
+This enables Flip Model (DXVK with DXGI), which improves latency and provides HDR and VRR support.
 :::
 
-- Navigate to the NVIDIA app settings and turn off the `NVIDIA overlay`, otherwise it will cause a black screen followed by a game crash when paired with Special K.
+- Download the premade [ModdingLinked - Fallout: New Vegas Nvidia Driver Profile](https://performance.moddinglinked.com/files/FNV-NvidiaProfile.nip).
+- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.4/nvidiaProfileInspector.zip) and `extract the contents of the archive`.
+- Run the newly extracted `Nvidia Profile Inspector`, click `Import user defined profiles`, then select `Import Profiles`.
+
+	![Import Nvidia Profile](https://github.com/user-attachments/assets/976cfd96-b6ff-4c95-ac87-2b888c2dbaa2)
+
+- Select `FNV-NvidiaProfile.nip` and click `Open`.
+
+	![Selecting Premade Nvidia Profile](https://github.com/user-attachments/assets/ad14fe39-3b9a-452e-8b99-e5ad65ccc3a8)
+
+- Click `OK` on the on the `Profile Successfully Imported!` prompt.
+
+	![Successful Nvidia Profile](https://github.com/user-attachments/assets/2a004deb-8f4d-4d93-a0c2-10be9970387b)
+
+- Click `Apply Changes` then close the program.
+
+	![Apply Nvidia Profile](https://github.com/user-attachments/assets/3cf964e6-fb5d-4407-a0dc-16d0f45b90b7)
+
+:::warning Driver Updates
+This step will need to be repeated every time Nvidia drivers are updated.
+:::
+
+- Navigate to the NVIDIA app settings and turn off the `NVIDIA overlay`, as it can impact performance.
 
 	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
-- Download [Special K](https://performance.moddinglinked.com/files/SpecialK.7z).
-- Extract the downloaded archive into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- Launch Uranium Fever ([launch instructions are provided below](https://uraniumfever.net/docs/setupinstructions#-launching-the-game-)).
-- Select `Yes` when prompted to `enable DXVK support/vulkan bridge`, then relaunch the game.
-- Press `Ctrl + Shift + Backspace` to enter the `Special K Control Panel`.
-- Under the `Framerate Limiter`, check the `Enable Framerate Limit` checkbox.
-  
-	![SK1](https://github.com/user-attachments/assets/860a3559-3335-465d-b6be-b9ad20a59ced)
-
-- Right click `the FPS Limit Bar`, which is located just to the right of the Framerate Limit text. This will open a submenu.
-- In the submenu, check the `Latent Sync` checkbox.
-- In the `Scan Mode` dropdown, select your `monitor's refresh rate`.
-  
-	![SK2](https://github.com/user-attachments/assets/f013262c-26b3-423a-8650-6378ed05f7f7)
-
-- Double Left-Click the `FPS Limit Bar`, `enter 59.995`, and press enter.
-	- Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor, and should be consistently achievable without significant sustained drops. Setting this too low may result in poor performance and long load screens.
-   
-	![SK4](https://github.com/user-attachments/assets/4bbfbd64-f714-4cf2-bc3e-b180865c3824)
-
-- For instructions on configuring Latent Sync or enabling V-Sync or Variable Refresh Rate, please reference the [Special K section of Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html#RecommendedLimiters), as this is beyond the scope of Uranium Fever configuration.
-	- G-Sync will be compatible without changing any settings.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
