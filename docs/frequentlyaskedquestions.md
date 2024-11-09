@@ -132,8 +132,8 @@ sidebar_label: Frequently Asked Questions
 - **Ragdolls - Does the Ragdolls mod cause crashes?**
   - No. The Death Throes plugin used here is stable.
 
-- **Reflections - Why are landscape reflections visible in windows?**
-  - This prevents significant performance loss.
+- **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**
+  - This is intentional and prevents significant performance loss.
 
 - **Runtime Error - I’m getting a runtime error at launch.**
   - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Installer to fix this.
