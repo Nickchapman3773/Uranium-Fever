@@ -6,6 +6,7 @@ sidebar_label: 1.0.0.0 - Nov, 9, 2024
 
 # <p align="center"> 1.0.0.0 - Nov, 9, 2024 </p>
 
+**Removals:**
 - Removed Craterside Supply Expansion & Flak N Shrapnel - not needed with SPARE
 - Removed Vanilla Lockpick Disabler - had unresolvable persistent bugs
 - Removed Mojave NPCs - to decrease memory footprint
@@ -15,14 +16,18 @@ sidebar_label: 1.0.0.0 - Nov, 9, 2024
 - Disabled Glass and Tumbleweed damage in Bad Touch - both were difficult to discern when they were causing damage
 - Disabled Children Glowing Ones - had an associated missing mesh
 
-  
+**Changes:**
+- Updated to a revamped UI layout courtesy of DoktorAkcel
+- Updated to new quickthrow tweaks with UI and icon adjustments
+- Changed to Nexus version of Character Build Presets and added the provided example preset
+- Changed More of Less Rads to the Radius Only version
 - Created three different performance profiles, which are detailed on the website under Setup Instructions
 - Gave Dogmeat 50lbs of carry weight to match his texture
 - Further balancing of armors, weapons, and ingestibles added by mods outside of the Sweet Suite
 - Increased death consequences reload penalty to 5% and revised the associated intro message
 - Made story based New Vegas radios locked behind the Mojave intro quest
 
-  
+**Fixes:**
 - Fixed abnormal compass marker shapes
 - Fixed companions failing to appropriately dismiss
 - Fixed transmission building landscape seam
@@ -52,13 +57,7 @@ sidebar_label: 1.0.0.0 - Nov, 9, 2024
 - Fixed missing scout outfit description
 - Fixed console null spam
 
-  
-- Updated to a revamped UI layout courtesy of DoktorAkcel
-- Updated to new quickthrow tweaks with UI and icon adjustments
-- Changed to Nexus version of Character Build Presets and added the provided example preset
-- Changed More of Less Rads to the Radius Only version
-
-  
+**Additions:**
 - Added GECK Extender and associated config file for tinkerers
 - Added a better Missing Icon Icon
 - Added various texture improvements to SOFT AF, including some much needed interior rubble textures, courtesy of OrgasmicSneeze
@@ -76,21 +75,17 @@ sidebar_label: 1.0.0.0 - Nov, 9, 2024
 - Added Basements and Bunkers
 - Added Inspiring Interiors
 - Added Stash Organizer with custom edits and keybinding set to B
-
-  
 - **Added The Overseer Collection and many associated patches, all with significant custom edits to modernize, fix, balance, and otherwise adjust the mods to fit Uranium Fever. Removed some unsavory content. Customized all worldspaces and interiors in Uranium Haze and patched for Desert Natural Weathers. This was a massive, long worked on, and much appreciated undertaking by DarkSolarLegend.**
 - Added Scratch - **A Ghoulish Companion and its various patches. Balanced and adjusted for appropriate integration into Uranium Fever. Another DarkSolarLegend passion project.**
 
-
+**Notes:**
 - I attempted to make Willow - A Better Companion Experience work with Uranium Fever, but some of her scripting and other parts of the mod make her hard incompatible with Uranium Fever. - DarkSolarLegend
 
-
-Updating:
+**Updating:**
 - **NEW SAVES AND INSTALLATIONS ARE REQUIRED FOR THIS UPDATE**
 - Altered or outdated lists will not be supported.
 
-
-Community:
+**Community:**
 - Submit screenshots of different aspects of Uranium Fever to help build a gallery to market the list!
 - Submit custom scenarios for Immersive Fast Travel and Immersive Sleep to the suggestions channel for vetting and approval! My hope is that we can build a fun set of UF specific scenarios!
 
