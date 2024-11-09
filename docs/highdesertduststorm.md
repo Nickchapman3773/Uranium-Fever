@@ -1,7 +1,7 @@
 ---
-sidebar_position 1
+sidebar_position: 1
 title: Dust Storm
-hide_title true
+hide_title: true
 sidebar_label: Dust Storm
 ---
 ![DS1](https://github.com/user-attachments/assets/5d0db738-0ce3-4467-a30d-502d408ed0b3)
