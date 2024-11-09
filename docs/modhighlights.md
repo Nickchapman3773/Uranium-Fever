@@ -66,6 +66,8 @@ sidebar_label: Mod Highlights
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
+- [Prodlimen Creature Pack](https://www.nexusmods.com/newvegas/mods/71569) - Adds 17 new creatures to the Wastelands.
+- [Ghoul Variation](https://www.nexusmods.com/newvegas/mods/82237) - Adds 15 new varieties of ghouls to the Wastelands.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
 
 # <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
