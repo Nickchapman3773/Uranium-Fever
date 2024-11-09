@@ -1,0 +1,37 @@
+[
+ {
+    "title": "Uranium Fever",
+    "description": "Uranium Fever (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, focused on modernizing, expanding, rebalancing, and enhancing all aspects of both games. Designed for a hardcore gameplay experience, UF draws inspiration from renowned survival-horror titles like STALKER and Resident Evil. UF strives to integrate new content thoughtfully and rapidly. Every addition and configuration is carefully evaluated, and exclusive optimizations ensure stable performance despite the extensive modlist. We consider UF to be the most visually stunning, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!"
+    "author": "Kamchatka, DarkSolarLegend, & OrgasmicSneeze",
+    "maintainers": [
+      "github/Nickchapman3773, github.com/DarkSolarLegend, github.com/anonymoussynon"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "Hardcore",
+      "Overhaul",
+      "Balanced",
+      "Visuals",
+      "Graphics"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/Nickchapman3773/Uranium-Fever/blob/main/static/img/mainpage.png?raw=true",
+      "readme": "https://uraniumfever.net/",
+      "download": "{DOWNLOAD LINK}",
+      "machineURL": "UraniumFever",
+      "discordURL": "https://discord.gg/vUNsFx7AGu"
+    },
+    "download_metadata": {
+      "Hash": "check meta data",
+      "Size": "check meta data",
+      "NumberOfArchives": "check meta data",
+      "SizeOfArchives": "check meta data",
+      "NumberOfInstalledFiles": "check meta data",
+      "SizeOfInstalledFiles": "check meta data"
+    },
+    "version": "1.0.0.0"
+  }
+]
