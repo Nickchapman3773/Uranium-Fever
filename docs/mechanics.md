@@ -4,8 +4,8 @@ title: Mechanics
 hide_title: true
 sidebar_label: Mechanics
 ---
-![Mech1 - Display1](https://github.com/user-attachments/assets/097599c9-5541-4e88-a3a9-af8e0bd33b44)
-![Mech1 - Display2](https://github.com/user-attachments/assets/b207bc4c-16f9-4599-b6b8-193699f67bb2)
+![Mech1 - Display1](https://github.com/user-attachments/assets/c6b506c4-7947-4ef1-acca-b6986cc4c3e3)
+![Mech1 - Display2](https://github.com/user-attachments/assets/84d8e745-c242-4aab-8d99-768ed6a37827)
 ![Mech2 - VR1](https://github.com/user-attachments/assets/ed42e909-c16f-4c52-97e9-07db81127afe)
 ![Mech3 - MR1](https://github.com/user-attachments/assets/c428fcb5-1780-41f4-8df4-94e3eeea2306)
 ![Mech4 - Delivery1](https://github.com/user-attachments/assets/bcb4d86b-7372-406b-92d2-2c48618d029f)
