@@ -126,7 +126,7 @@ links: [
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/Uu6gZZSaeA',
+                href: 'https://discord.gg/vUNsFx7AGu',
               },
             ],
           },
