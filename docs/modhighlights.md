@@ -66,6 +66,7 @@ sidebar_label: Mod Highlights
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
+- [The Overseer Collection](https://mod.pub/falloutnv/55-th3overseer-mod-collection) - Adds 6 massive DLC quest mods to the Mojave Wasteland.
 - [Prodlimen Creature Pack](https://www.nexusmods.com/newvegas/mods/71569) - Adds 17 new creatures to the Wastelands.
 - [Ghoul Variation](https://www.nexusmods.com/newvegas/mods/82237) - Adds 15 new varieties of ghouls to the Wastelands.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
