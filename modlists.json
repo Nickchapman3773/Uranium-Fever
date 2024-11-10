@@ -18,7 +18,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://github.com/Nickchapman3773/Uranium-Fever/blob/main/static/img/mainpage.png?raw=true",
+      "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
       "readme": "https://uraniumfever.net/",
       "download": "https://authored-files.wabbajack.org/Uranium%20Fever.wabbajack_ae9ed0fb-8f5d-47d0-beb3-94ed3b5dc887",
       "machineURL": "UraniumFever",
