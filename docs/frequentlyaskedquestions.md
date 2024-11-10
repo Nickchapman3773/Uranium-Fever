@@ -150,6 +150,9 @@ sidebar_label: Frequently Asked Questions
 - **Size - Why is Uranium Fever so large?**
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
 
+- **Tale of Two Wastelands - Is TTW required for Uranium Fever?**
+  - Yes. The modlist cannot be installed or used without TTW.
+
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**
   - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
 
