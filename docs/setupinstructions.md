@@ -399,11 +399,9 @@ This step will need to be repeated every time Nvidia drivers are updated.
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
   - High Quality
-    - Uses the Ultra launcher preset.
     - All mods in Uranium Fever are enabled.
     - All Uranium Haze settings are enabled.
   - Standard Quality
-    - Uses the Ultra launcher preset.
     - All mods in Uranium Fever are enabled.
     - Several performance intensive settings in Uranium Haze have been disabled or adjusted:
       - Disabled the shadow shaders.
@@ -411,7 +409,6 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Disabled the wetworld shader.
       - Reduced Real Time Reflection render distance.
   - Low Quality
-    - Uses the High launcher preset.
     - Disables several performance intensive mods:
       - Radiation Visuals
       - Real Time Reflections
