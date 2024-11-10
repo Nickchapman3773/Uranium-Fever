@@ -62,7 +62,14 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 - These clean installs and backups will be further utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section of these instructions.
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
-- Run the `Uranium Fever.wabbajack` file (Currently linked in the [Uranium Fever Discord Updates channel](https://discord.com/channels/1247305852738736219/1248734738449960981)).
+- Launch the `Wabbajack application`.
+- Open the `settings cogwheel` in Wabbajack and log into your Nexus account.
+- Hit back and select `Browse Modlists`.
+- Select `Fallout New Vegas` under games at the top of the page.
+- Toggle the `Show Unofficial Lists` filter.
+- Search for `Uranium Fever` and click the `download` button.
+- Once finished, hit the play button (which has now replaced the download button).
+- Run the `Uranium Fever.wabbajack` file.
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
