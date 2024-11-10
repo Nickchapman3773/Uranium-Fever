@@ -95,5 +95,6 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Altered or outdated lists will not be supported.
 
 **Community:**
-- Submit screenshots of different aspects of Uranium Fever to help build a gallery to market the list!
-- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep to the suggestions channel for vetting and approval! My hope is that we can build a fun set of UF-specific scenarios!
+- Submit screenshots of different aspects of Uranium Fever to the UF-Screen-Archery Discord channel!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep to the suggestions channel for vetting and approval!
+- Type ?rank Uranium Fever User into the uf-discussion chat to be pinged in Discord for updates.
