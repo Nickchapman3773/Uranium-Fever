@@ -82,11 +82,12 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 	![UFDownload](https://github.com/user-attachments/assets/739fbe82-bea3-4178-afc3-d61429c75a7a)
 
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
+	- This filepath may differ depending on the version of Wabbajack and Uranium Fever. This is not problematic.
 - `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
 - Enable the `Overwrite Installation` checkbox.
   
-	![InstallUF](https://github.com/user-attachments/assets/2b92884a-3191-46bc-88f3-e3c1e561f718)
+	![Installing](https://github.com/user-attachments/assets/d63404a2-94b6-43a1-9699-6a6f2861f452)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
