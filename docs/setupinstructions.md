@@ -166,7 +166,6 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 - Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
-)
 
 - Once complete and the confirmation screen is visualized, close the Installer.
 
