@@ -72,7 +72,7 @@ sidebar_label: Frequently Asked Questions
 - **Hardcore - Can I disable hardcore mode?**
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
 
-- **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?
+- **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**
   - No, Fallout uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
 - **Installation Error - I encountered an error during Wabbajack installation. What should I do?**
