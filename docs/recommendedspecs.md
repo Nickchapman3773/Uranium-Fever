@@ -10,7 +10,7 @@ sidebar_label: Recommended Specs
 - **CPU:** Intel i5 2xxx/AMD FX 8xxx or higher required; Intel i5 6xxx/Ryzen 5 or higher recommended.
 - **RAM:** 16GB or higher required, with dual-channel recommended.
 - **GPU:** GTX 1070 8GB/R9 390 8GB required; RTX 8GB or RDNA recommended.
-- **Storage:** SSD required; NVMe SSD recommended, with at least 165GB of free space available.
+- **Storage:** SSD required; NVMe SSD recommended, with at least 170GB of free space available.
 
 :::note
 - An optional [Storage Space Clean-Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) section is available in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for those needing to manage the large installation size.
