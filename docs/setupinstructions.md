@@ -192,7 +192,7 @@ The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of th
 
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
 - Select the `NewVegasReloaded.zip` from your `Downloads` folder.
-- Name it `[NoDelete] NVR (PV)`.
+- Name it `[NoDelete] NVR (LQ)`.
 - Select `Replace` when prompted `Mod Exists`.
 
 	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
