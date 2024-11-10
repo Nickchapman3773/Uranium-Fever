@@ -86,7 +86,7 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 - `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
 - Enable the `Overwrite Installation` checkbox.
   
-	![Updating](https://github.com/user-attachments/assets/a77d43aa-1810-4603-b38c-200a9df2fdba)
+	![InstallUF](https://github.com/user-attachments/assets/2b92884a-3191-46bc-88f3-e3c1e561f718)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
@@ -119,12 +119,12 @@ This process facilitates the creation of a **SELF-CONTAINED** installation that 
 - Step 3: Verifying Files in the Clean Stock New Vegas Folder
 	- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, re-run the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-) step, then start this section over.
 		- Steam - `[NoDelete] Stock New Vegas` file contents:
-   
- 			![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
+
+    	![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
 
  		- GOG - `[NoDelete] Stock New Vegas` file contents:
 
-			![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
+	![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
 :::danger No Extra Files
 Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
