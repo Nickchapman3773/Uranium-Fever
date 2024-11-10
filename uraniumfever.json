@@ -9,8 +9,8 @@
     "game": "falloutnewvegas",
     "tags": [
       "Hardcore",
-      "Overhaul",
       "Balanced",
+      "Overhaul",
       "Visuals",
       "Graphics"
     ],
@@ -20,17 +20,17 @@
     "links": {
       "image": "https://github.com/Nickchapman3773/Uranium-Fever/blob/main/static/img/mainpage.png?raw=true",
       "readme": "https://uraniumfever.net/",
-      "download": "{DOWNLOAD LINK}",
+      "download": "**********",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu"
     },
     "download_metadata": {
-      "Hash": "check meta data",
-      "Size": "check meta data",
-      "NumberOfArchives": "check meta data",
-      "SizeOfArchives": "check meta data",
-      "NumberOfInstalledFiles": "check meta data",
-      "SizeOfInstalledFiles": "check meta data"
+      "Hash": "fz7XX/bMovM=",
+      "Size": "5988558080",
+      "NumberOfArchives": "1102",
+      "SizeOfArchives": "76924123685",
+      "NumberOfInstalledFiles": "136937",
+      "SizeOfInstalledFiles": "89940660984"
     },
     "version": "1.0.0.0"
   }
