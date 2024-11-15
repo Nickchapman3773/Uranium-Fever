@@ -7,7 +7,7 @@ sidebar_label: Credits & Thanks
 
 # ![Credits & Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
-**Uranium Fever** is authored and supported by [Kamchatka](https://next.nexusmods.com/profile/kamchatkaa) and [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), but would not be possible without the numerous contributions from:
+**Uranium Fever** is authored and supported by [Kamchatka](https://next.nexusmods.com/profile/kamchatkaa), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze) and [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend) but would not be possible without the numerous contributions from:
 
 - The entire **Uranium Fever** community!
 - The expansive team of testers who helped troubleshoot early iterations of the list and provided invaluable suggestions.
