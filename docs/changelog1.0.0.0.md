@@ -7,94 +7,57 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 # <p align="center"> 1.0.0.0 - Nov 9, 2024 </p>
 
 **Removals:**
-- Removed Craterside Supply Expansion & Flak N Shrapnel, as it is redundant with SPARE.
+- Removed Craterside Supply Expansion & Flak N Shrapnel due to redundancy with SPARE.
 - Removed Vanilla Lockpick Disabler due to persistent, unresolvable bugs.
-- Removed Mojave NPCs to decrease memory footprint.
-- Removed Simple Mojave Urbanization and associated patches to decrease memory footprint.
-- Removed CKR hands edit due to several mismatched hands related to armor/clothing mesh replacers.
-- Removed extra BoS Holotags placed by Citadel Overhaul due to balance implications.
-- Disabled Glass and Tumbleweed damage in Bad Touch as both were difficult to discern when causing damage.
-- Disabled Children Glowing Ones due to an associated missing mesh.
+- Removed Mojave NPCs and Simple Mojave Urbanization (and associated patches) to reduce memory usage.
+- Removed CKR hands edit due to mismatched armor/clothing meshes.
+- Removed extra BoS Holotags added by Citadel Overhaul for balance reasons.
+- Disabled Glass and Tumbleweed damage in Bad Touch, as both were difficult to discern.
+- Disabled Children Glowing Ones due to a missing mesh issue.
 
 **Changes:**
-- Switched from recommending Special K to recommending RTSS and a preconfigured Nvidia profile for Nvidia users.
-- Flagged any remaining appropriate mods as ESM if they contained temp worldspace edits and adjusted patching accordingly, which should provide improved performance.
-- Updated to a revamped UI layout courtesy of DoktorAkcel.
-- Updated to new quickthrow tweaks with UI and icon adjustments.
-- Changed to Nexus version of Character Build Presets and added the provided example preset.
-- Changed More of Less Rads to the Radius Only version.
-- Created three different performance profiles, detailed on the website under Setup Instructions.
+- Replaced Special K recommendation with RTSS and a preconfigured Nvidia profile for Nvidia users.
+- Flagged appropriate mods with temp worldspace edits as ESM for improved performance.
+- Updated UI layout, courtesy of DoktorAkcel.
+- Updated quick-throw tweaks with improved UI and icons.
+- Switched to Nexus version of Character Build Presets and included the example preset.
+- Changed More or Less Rads to the Radius Only version.
+- Created three performance profiles detailed on the website under Setup Instructions.
 - Gave Dogmeat 50 lbs of carry weight to match his texture.
-- Further balanced armors, weapons, and ingestibles added by mods outside of the Sweet Suite.
-- Increased death consequences reload penalty to 5% and revised the associated intro message.
-- Made story-based New Vegas radios locked behind the Mojave intro quest.
-- Disabled IgnoreFreeItems and enabled RemoveIfNoVendorContainer in Stewie Tweaks, making so that you cannot freely pickpocket caps back after spending them.
-- Adjusted a small handful of keybinds related to 3rd person camera and weapon hweel, all of which are displayed in the keybind display.
+- Balanced armors, weapons, and ingestibles from mods outside the Sweet Suite.
+- Increased death penalty reload penalty to 5% and revised the intro message.
+- Locked story-based New Vegas radios behind the Mojave intro quest.
+- Enabled `RemoveIfNoVendorContainer` in Stewie Tweaks to prevent freely pickpocketing spent caps.
+- Adjusted keybinds for 3rd-person camera and weapon wheel (details in keybind display).
 
 **Fixes:**
-- Fixed abnormal compass marker shapes.
-- Fixed companions failing to appropriately dismiss.
-- Fixed transmission building landscape seam.
-- Fixed Megaton exterior landscape seam.
-- Fixed Red Rocks missing boulder.
-- Fixed dialogue option inappropriately ending a 3DNPC quest.
-- Fixed Lucky 38 mesh flicker.
-- Fixed Jury St Raiders misaligned pillar.
-- Fixed Quarry Junction Rest Area misaligned door.
-- Fixed missing wall on the 13th floor.
-- Fixed black wall in Sperrys Quarry.
-- Fixed many black rock textures in DC.
-- Fixed floating vehicles near the strip.
-- Fixed the Silver Rush using the wrong static, resulting in inaccessible rooms.
-- Fixed inappropriately placed buildings in the strip when viewed distantly.
-- Fixed floating stingers in the citadel.
-- Fixed broken Animal Sounds.
-- Fixed clipping mines in Minefield.
-- Fixed TOTNW animations not being appropriately used.
-- Fixed double-barrel shotgun flicker.
-- Fixed clipping ammo box in Grayditch Auto Services.
-- Fixed Lands Edge and Infested Sewers location, door, fast travel, and map marker conflicts.
-- Fixed broken Vault Boy Paper Doll.
-- Fixed multiple missing dialog lines.
-- Fixed misspelling of Abandoned Safehouse.
-- Fixed erroneous AGE script overwrite.
-- Fixed missing scout outfit description.
-- Fixed console null spam.
+- Resolved various landscape seams, floating objects, missing meshes, and misaligned assets across DC and the Mojave.
+- Fixed issues with black rock textures, clipping objects, and null console spam.
+- Corrected dialog options, quest endings, and Vault Boy Paper Doll issues.
+- Addressed spelling errors, broken scripts, and animation inconsistencies.
+- Repaired conflicts with locations, fast travel points, and map markers.
 
 **Additions:**
-- Added an optional seperator with an altered keybind to change activate to F and enable manual leaning with Q and E.
-- Added GECK Extender and associated config file for tinkerers.
-- Added a better Missing Icon Icon.
-- Added various texture improvements to SOFT AF, including much-needed interior rubble textures, courtesy of OrgasmicSneeze.
-- Added and merged Skillful Lockpickery - A Lockpick Reworkery, as we were forced to unlock vanilla lockpicking. This is an attempt to provide some balance for those who opt for vanilla over Immersive Minigames.
-- Added Fever Dream, a custom plasma pistol textured by Salamand3r-, with custom effects from OrgasmicSneeze, and balanced by Sweet6Shooter. The base model is located somewhere in the Capital Wasteland, and the upgraded version is located somewhere in the Mojave Wasteland.
-- Added The Thorn Overhauled.
-- Added Animated and illuminated Metro Signs and Broken Metro Signs Patch.
-- Added Tenpenny Lobby Music and Tenpenny Lobby Music Extra Tracks.
-- Added Quick Trade (and required Companions and Traders Keywords). Patched for many NPCs and vendors added to Uranium Fever by mods.
-- Added and merged Faster Doctors' Interactions.
-- Added and merged Skip Fallout 3 Outro - Tale of Two Wastelands.
-- Added Sandstone Desert TTW Alpha Fixes to fix the broken snowy trench meshes.
-- Added Charisma Affects Reputation.
-- Added Repair Kit Clarity.
-- Added Basements and Bunkers.
-- Added Inspiring Interiors.
-- Added Swampfolk, courtesy of MedRenace.
-- Added Sentry Bots Retexture, courtesy of Salamander.
-- Added Quality SX.
-- Added B42 Optics - Laser Rifle Rebirth Patch, fixing the laser rifles broken scope mesh.
-- Added Stash Organizer with custom edits and keybinding set to B.
-- **Added The Overseer Collection and many associated patches, all with significant custom edits to modernize, fix, balance, and otherwise adjust the mods to fit Uranium Fever. Removed some unsavory content. Customized all worldspaces and interiors in Uranium Haze and patched for Desert Natural Weathers. This was a massive, long-worked-on, and much-appreciated undertaking by DarkSolarLegend.**
-- **Added Scratch - A Ghoulish Companion and its various patches. Balanced and adjusted for appropriate integration into Uranium Fever. Another DarkSolarLegend passion project.**
+- Added an optional separator with updated keybinds for `F` (activate) and `Q`/`E` (manual leaning).
+- Added GECK Extender with a preconfigured setup for tinkerers.
+- Enhanced textures in SOFT AF, including interior rubble textures, courtesy of OrgasmicSneeze.
+- Added and merged Skillful Lockpickery to replace vanilla lockpicking.
+- Introduced Fever Dream, a custom plasma pistol, with balanced stats and unique effects.
+- Added The Thorn Overhauled, Animated Metro Signs, and Quick Trade with patches for modded NPCs and vendors.
+- Merged Faster Doctors' Interactions and Skip Fallout 3 Outro - Tale of Two Wastelands.
+- Added Sandstone Desert TTW Alpha Fixes for snowy trench meshes.
+- Introduced new mods like Charisma Affects Reputation, Basements and Bunkers, Inspiring Interiors, and Swampfolk.
+- Added The Overseer Collection with extensive patches and customizations (This was a massive, long-worked-on, and much-appreciated undertaking by DarkSolarLegend).
+- Added Scratch - A Ghoulish Companion, integrated and balanced for Uranium Fever (Another DarkSolarLegend passion project).
 
 **Notes:**
-- I attempted to make Willow - A Better Companion Experience work with Uranium Fever, but some of her scripting and other parts of the mod make her hard incompatible with Uranium Fever. - DarkSolarLegend
+- Willow - A Better Companion Experience is incompatible with Uranium Fever due to scripting conflicts. - DarkSolarLegend
 
 **Updating:**
 - **NEW SAVES AND INSTALLATIONS ARE REQUIRED FOR THIS UPDATE.**
-- Altered or outdated lists will not be supported.
+- Outdated or altered lists will not be supported.
 
 **Community:**
-- Submit screenshots of different aspects of Uranium Fever to the UF-Screen-Archery Discord channel!
-- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep to the suggestions channel for vetting and approval!
-- Type ?rank Uranium Fever User into the uf-discussion chat to be pinged in Discord for updates.
+- Submit screenshots of Uranium Fever to the UF-Screen-Archery Discord channel!
+- Share custom scenarios for Immersive Fast Travel and Immersive Sleep in the suggestions channel for vetting.
+- Type `?rank Uranium Fever User` in uf-discussion to receive Discord update notifications.
