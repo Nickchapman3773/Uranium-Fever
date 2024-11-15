@@ -31,11 +31,34 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Adjusted keybinds for 3rd-person camera and weapon wheel (details in keybind display).
 
 **Fixes:**
-- Resolved various landscape seams, floating objects, missing meshes, and misaligned assets across DC and the Mojave.
-- Fixed issues with black rock textures, clipping objects, and null console spam.
-- Corrected dialog options, quest endings, and Vault Boy Paper Doll issues.
-- Addressed spelling errors, broken scripts, and animation inconsistencies.
-- Repaired conflicts with locations, fast travel points, and map markers.
+- Fixed abnormal compass marker shapes.
+- Fixed companions failing to appropriately dismiss.
+- Fixed transmission building landscape seam.
+- Fixed Megaton exterior landscape seam.
+- Fixed Red Rocks missing boulder.
+- Fixed dialogue option inappropriately ending a 3DNPC quest.
+- Fixed Lucky 38 mesh flicker.
+- Fixed Jury St Raiders misaligned pillar.
+- Fixed Quarry Junction Rest Area misaligned door.
+- Fixed missing wall on the 13th floor.
+- Fixed black wall in Sperrys Quarry.
+- Fixed many black rock textures in DC.
+- Fixed floating vehicles near the strip.
+- Fixed the Silver Rush using the wrong static, resulting in inaccessible rooms.
+- Fixed inappropriately placed buildings in the strip when viewed distantly.
+- Fixed floating stingers in the citadel.
+- Fixed broken Animal Sounds.
+- Fixed clipping mines in Minefield.
+- Fixed TOTNW animations not being appropriately used.
+- Fixed double-barrel shotgun flicker.
+- Fixed clipping ammo box in Grayditch Auto Services.
+- Fixed Lands Edge and Infested Sewers location, door, fast travel, and map marker conflicts.
+- Fixed broken Vault Boy Paper Doll.
+- Fixed multiple missing dialog lines.
+- Fixed misspelling of Abandoned Safehouse.
+- Fixed erroneous AGE script overwrite.
+- Fixed missing scout outfit description.
+- Fixed console null spam.
 
 **Additions:**
 - Added an optional separator with updated keybinds for `F` (activate) and `Q`/`E` (manual leaning).
@@ -51,7 +74,7 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Added Scratch - A Ghoulish Companion, integrated and balanced for Uranium Fever (Another DarkSolarLegend passion project).
 
 **Notes:**
-- Willow - A Better Companion Experience is incompatible with Uranium Fever due to scripting conflicts. - DarkSolarLegend
+- I attempted to make Willow - A Better Companion Experience work with Uranium Fever, but some of her scripting and other parts of the mod make her hard incompatible with Uranium Fever. - DarkSolarLegend
 
 **Updating:**
 - **NEW SAVES AND INSTALLATIONS ARE REQUIRED FOR THIS UPDATE.**
