@@ -197,6 +197,7 @@ The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of th
 
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
+  - DO NOT download the versions available in the Ready Builds or Testing channels.
 
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
 
