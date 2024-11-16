@@ -6,10 +6,10 @@ sidebar_label: Sweet's Load Order
 
 # ![Banner Sweet's Load Order](https://github.com/user-attachments/assets/3107bc4e-f267-4886-af12-014a7402807d)
 
-The following is the recommended load order of all plugins in Sweet's mod suite, along with a few essential external plugins she uses. Other non-Sweet plugins are not included in this list, though general modding rules still apply.
+Below is the recommended load order for all plugins in Sweet's mod suite, along with a few essential external plugins she uses. Non-Sweet plugins are not included in this list, though general modding rules still apply.
 
 :::warning
-Do not combine [Vanilla SWEEP](https://www.nexusmods.com/newvegas/mods/81043), [TTW Hunting Rifle 556mm](https://www.nexusmods.com/newvegas/mods/81720), and the [.32 Weapons pack](https://www.nexusmods.com/newvegas/mods/75068). These will eventually be included in the full version of SWEEP.
+Do not combine [Vanilla SWEEP](https://www.nexusmods.com/newvegas/mods/81043), [TTW Hunting Rifle 556mm](https://www.nexusmods.com/newvegas/mods/81720), and the [.32 Weapons Pack](https://www.nexusmods.com/newvegas/mods/75068). These will eventually be included in the full version of SWEEP.
 :::
 
 :::tip
