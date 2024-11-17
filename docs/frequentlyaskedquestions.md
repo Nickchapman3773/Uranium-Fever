@@ -149,6 +149,9 @@ sidebar_label: Frequently Asked Questions
 
 - **Size - Why is Uranium Fever so large?**
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
+ 
+- **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**
+  - Select "memory" when prompted after leaving the Vault 101 cave.
 
 - **Tale of Two Wastelands - Is TTW required for Uranium Fever?**
   - Yes. The modlist cannot be installed or used without TTW.
