@@ -17,10 +17,6 @@ sidebar_label: Mod Feature Reference List
 - **Activate:**
   - Press `E`.
 
-- **Armed to the Teeth:**
-  - Allows for holstering of up to four weapons on the player's body simultaneously.
-  - Holsters correspond to the `1-4` weapon hotkeys.
-
 - **Automated Item Sorting:**
   - Use the Inventory Sorting Control to automatically sort items into different containers.
   - Only available in homes added by Capital Wasteland Hideouts:
