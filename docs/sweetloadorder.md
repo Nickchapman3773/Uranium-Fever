@@ -37,7 +37,6 @@ The following information is formatted as "Mod Name - `plugin name`".
 - [TTW 32 Caliber Weapons Pack](https://www.nexusmods.com/newvegas/mods/75068) - `TTW .32 Weapons Pack.esp` (Not to be used with SWEEP)
 - [TTW Hunting Rifle Change to 556mm](https://www.nexusmods.com/newvegas/mods/81720) - `TTW Hunting Rifle 556mm.esp` (Not to be used with SWEEP)
 - [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - `New Blood TTW Patch.esp`
-- [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237) - `Another Ghoul Variant Mod.esp`
 - [Another Ghoul Variant Mod](https://www.nexusmods.com/newvegas/mods/82237) - `Another Ghoul Variant EDGE+NB Patch.esp`
 - [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) - `Sweet Consumables.esp`
 - [Aid Addon - Medkits - Blood Draw - Bandages - Afterburner Gum - More](https://www.nexusmods.com/newvegas/mods/74379) - `Aid Addon.esp`
