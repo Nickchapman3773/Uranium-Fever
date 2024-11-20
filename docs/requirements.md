@@ -22,6 +22,6 @@ UF’s instructions are designed to be accessible for all users, regardless of m
 - The latest drivers for your GPU.
 - An archiving tool – [7-zip](https://www.7-zip.org/) is recommended.
 - A text editor – [Notepad++](https://notepad-plus-plus.org/downloads/v8.7/) is recommended.
-- A [Nexus Mods account](https://users.nexusmods.com/register) – A Premium subscription is **HIGHLY** recommended; otherwise, more than 1,100 mods must be manually downloaded.
+- A [Nexus Mods account](https://users.nexusmods.com/register) – A Premium subscription is **HIGHLY** recommended; otherwise, more than 1200 mods must be manually downloaded.
 - A [ModPub account](https://mod.pub/account/register).
 - A [Discord account](https://discord.com/register).
