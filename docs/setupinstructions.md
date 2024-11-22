@@ -171,8 +171,8 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 - Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and `extract the contents of the archive`.
 - Open the extracted `Tale of Two Wastelands Installer` folder, right click `TTW Install.exe`, and select `Run as Administrator`.
 - Verify that the `file path` for the `Fallout 3` folder matches your normal `Steam/GOG Fallout 3 installation path` (this should be auto-configured).
-- **CHANGE** the `Fallout New Vegas file path` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-- **CHANGE** the `Tale of Two Wastelands Installation Path` to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`.
+- **COPY** `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and **PASTE** it into the `Fallout New Vegas file path`.
+- **COPY** `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` and **PASTE** it into the `Tale of Two Wastelands Installation Path`.
 - Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
