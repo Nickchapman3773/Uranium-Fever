@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-![KBQD1](https://github.com/user-attachments/assets/1e793708-1b58-4834-ad19-d4f438d96e0b)
+![ScreenShot41](https://github.com/user-attachments/assets/2dff0d5d-65ed-4c5b-9e07-d924b733ee0a)
 
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
@@ -118,9 +118,6 @@ sidebar_label: Mod Feature Reference List
     - Durga (BS DC) (Energy/Big Guns)
     - Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed)
 
-- **Open Data:**
-  - Press `P`.
-
 - **Open Inventory:**
   - Press `I`.
 
@@ -140,11 +137,13 @@ sidebar_label: Mod Feature Reference List
   - Hold `Tab`.
 
 - **Pip-Boy Vendor Radio:**
+  - Available in the optional separator.
   - Allows for purchasing of items directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter.
   - Adding Vendors: Stand near a vendor, open the Pip-Boy Radio tab, press `Q`, select Settings, select Add Vendor, select the desired vendor.
   - Purchasing from Vendors: Open the Pip-Boy Radio tab, press `Q`, select the desired vendor.
 
 - **Pip-Boy Weapon Mod Vendor:**
+  - Available in the optional separator.
   - Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
   - Mouse over target weapon, press Activate (`E`), select desired mod, select Yes.
 
@@ -162,9 +161,16 @@ sidebar_label: Mod Feature Reference List
 - **Reload:**
   - Press `R`.
 
+- **Quick Load:**
+  - Press `PgDn`.
+
 - **Quest Log:**
   - Press `,` to toggle quest log.
   - Press `.` to switch quest.
+
+- **Quick Save:**
+  - Press `PgUp`.
+
 
 - **Quick Select:**
   - Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
