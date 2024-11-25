@@ -49,7 +49,7 @@ sidebar_label: Mod Highlights
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Overhauls and diversifies Raider factions in the Mojave.
 - [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear, enemies, and encounters.
 - [DMT (Dead Money Tweaks)](https://www.nexusmods.com/newvegas/mods/72139) - Overhauls the Dead Money DLC into a survival horror experience.
-- [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances Point Lookout for engaging exploration.
+- [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances Point Lookout with new quests and engaging exploration.
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls ample facets of Tale of Two Wastelands for a hardcore cohesive experience.
 
 # <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
