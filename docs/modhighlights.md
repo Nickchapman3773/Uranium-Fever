@@ -52,14 +52,6 @@ sidebar_label: Mod Highlights
 - [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances Point Lookout with new quests and engaging exploration.
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls ample facets of Tale of Two Wastelands for a hardcore cohesive experience.
 
-# <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
-- [Brave New World](https://www.nexusmods.com/newvegas/mods/69562) - Revoices over 7,000 NPC lines across the Mojave.
-- [Dialogue & Interaction Expansion Overhaul](https://www.nexusmods.com/newvegas/mods/78189) - Revamps player dialogue choices.
-- [TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809) - Visually enhances NPCs from both Wastelands.
-- [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145) - Replaces humanoid assets for a modernized appearance.
-- [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Adds personality-based debuffs for companions.
-- [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Overhauls creature spawn points across the Mojave.
-
 # <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
 - [3DNPCs Fallout 3](https://www.nexusmods.com/newvegas/mods/83484) & [3DNPCs New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands both Wastelands with quests, companions, and NPCs.
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
@@ -69,6 +61,14 @@ sidebar_label: Mod Highlights
 - [Prodlimen Creature Pack](https://www.nexusmods.com/newvegas/mods/71569) - Adds 17 new creatures to the Wastelands.
 - [Ghoul Variation](https://www.nexusmods.com/newvegas/mods/82237) - Adds 15 new varieties of ghouls to the Wastelands.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
+
+# <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
+- [Brave New World](https://www.nexusmods.com/newvegas/mods/69562) - Revoices over 7,000 NPC lines across the Mojave.
+- [Dialogue & Interaction Expansion Overhaul](https://www.nexusmods.com/newvegas/mods/78189) - Revamps player dialogue choices.
+- [TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809) - Visually enhances NPCs from both Wastelands.
+- [Character Kit Remake](https://www.nexusmods.com/newvegas/mods/82145) - Replaces humanoid assets for a modernized appearance.
+- [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Adds personality-based debuffs for companions.
+- [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Overhauls creature spawn points across the Mojave.
 
 # <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
 - [ATMOS Ambience Overhaul Fallout 3](https://www.nexusmods.com/newvegas/mods/84054) & [ATMOS Ambience Overhaul New Vegas](https://www.nexusmods.com/newvegas/mods/85939) - Modernizes ambient sounds across both Wastelands.
