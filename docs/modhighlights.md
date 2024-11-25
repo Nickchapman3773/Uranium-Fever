@@ -23,7 +23,7 @@ sidebar_label: Mod Highlights
 - [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection abilities, nerfing sniping tactics.
 - [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Compiles AI improvements for more engaging combat.
 - [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for both players and NPCs, enhancing combat flow.
-- [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Adjusts weapon jamming to increase challenge, with fixes and a new clearing function.
+- [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Adjusts weapon jamming to increase challenge, with fixes and a new jam clearing function.
 - [STARS (Sweet's Total Armor Rework System)](https://www.nexusmods.com/newvegas/mods/76016) - Rebalances armor and integrates top modded armor textures.
 - [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with a heavy, imposing aesthetic, adding new animations and sounds.
 - [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) & [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) - Rebalances perks and adds 99 perks with 22 traits to accommodate various builds.
