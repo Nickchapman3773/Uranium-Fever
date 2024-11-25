@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-![ScreenShot41](https://github.com/user-attachments/assets/2dff0d5d-65ed-4c5b-9e07-d924b733ee0a)
+![ScreenShot45](https://github.com/user-attachments/assets/6ddafab3-c939-4988-8943-68932ca755c3)
 
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
@@ -121,6 +121,9 @@ sidebar_label: Mod Feature Reference List
 - **Open Inventory:**
   - Press `I`.
 
+- **Open Local Map:**
+  - Press `N`.
+
 - **Open Map:**
   - Press `M`.
 
@@ -129,9 +132,6 @@ sidebar_label: Mod Feature Reference List
 
 - **Open Quests:**
   - Press `J`.
-
-- **Open Stats:**
-  - Press `O`.
 
 - **Pip-Boy Flashlight:**
   - Hold `Tab`.
@@ -146,6 +146,10 @@ sidebar_label: Mod Feature Reference List
   - Available in the optional separator.
   - Allows for purchasing of weapon mods directly through the Pip-Boy, though for a far higher cost than those purchased through normal barter or Mod Delivery.
   - Mouse over target weapon, press Activate (`E`), select desired mod, select Yes.
+ 
+- **Portable Craftomatic:**
+  - Introduces various crafting kits for use while on the go.
+  - Mouse over desired crafting tool and press Activate (`E`).
 
 - **Prone:**
   - Hold Crouch (`Left Ctrl`).
@@ -170,7 +174,6 @@ sidebar_label: Mod Feature Reference List
 
 - **Quick Save:**
   - Press `PgUp`.
-
 
 - **Quick Select:**
   - Allows quick, time-scale adjusted, in-combat selection of weapons or aid.
