@@ -31,7 +31,6 @@ sidebar_label: Mod Highlights
 # <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
 - [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds consequences for environmental hazards like fire, electricity, and toxic sludge.
 - [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Causes unprotected humans and creatures to panic and flee when set on fire.
-- [Armed to the Teeth Redux](https://www.nexusmods.com/newvegas/mods/74936) - Enables the player to holster up to 4 weapons.
 - [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows breaking locks by attacking them, adding additional resource-management options.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Lets players fill bottles from any water source.
 - [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Replaces hacking and lockpicking with well-balanced resource-management mechanics.
