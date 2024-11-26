@@ -177,6 +177,10 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
 
+:::warning Confirm the File Path
+Ensure that this is installed into `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wasteland`. Mistakenly installing it into the Uranium Fever root folder will prevent Uranium Fever from launching.
+:::
+
 - Once complete and the confirmation screen is visualized, close the Installer.
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
