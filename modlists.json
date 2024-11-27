@@ -1,14 +1,15 @@
 [
- {
+  {
     "title": "Uranium Fever",
     "description": "Uranium Fever (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, focused on modernizing, expanding, rebalancing, and enhancing all aspects of both games. Designed for a hardcore gameplay experience, UF draws inspiration from renowned survival-horror titles like STALKER and Resident Evil. UF strives to integrate new content thoughtfully and rapidly. Every addition and configuration is carefully evaluated, and exclusive optimizations ensure stable performance despite the extensive modlist. We consider UF to be the most visually stunning, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!",
-    "author": "Kamchatka, DarkSolarLegend, & OrgasmicSneeze",
+    "author": "Kamchatka, DarkSolarLegend, \u0026 OrgasmicSneeze",
     "maintainers": [
       "github/Nickchapman3773",
-      "github/DarkSolarLegend", 
+      "github/DarkSolarLegend",
       "github/anonymoussynon"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Hardcore",
       "Balanced",
@@ -17,23 +18,28 @@
       "Graphics"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
       "readme": "https://uraniumfever.net/",
-      "download": "https://authored-files.wabbajack.org/Uranium%20Fever.wabbajack_ae9ed0fb-8f5d-47d0-beb3-94ed3b5dc887",
+      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_85a3b5fb-1af6-4d46-9719-19fb5f582720",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu"
     },
     "download_metadata": {
-      "Hash": "fz7XX/bMovM=",
-      "Size": "5988558080",
-      "NumberOfArchives": "1102",
-      "SizeOfArchives": "76924123685",
-      "NumberOfInstalledFiles": "136937",
-      "SizeOfInstalledFiles": "89940660984"
+      "Hash": "TCJ0lvdSYjk=",
+      "Size": 5629228187,
+      "NumberOfArchives": 1136,
+      "SizeOfArchives": 76228062442,
+      "NumberOfInstalledFiles": 141003,
+      "SizeOfInstalledFiles": 98772246678
     },
-    "version": "1.0.0.0"
+    "version": "1.1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-11-27T23:55:49.5377355Z",
+    "repositoryName": ""
   }
 ]
