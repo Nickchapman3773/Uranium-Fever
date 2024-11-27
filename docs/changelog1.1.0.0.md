@@ -148,7 +148,6 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
 
 **Notes:**
 - The climbable ladder mod only affects water towers at the moment, look at the ladder and press the activate key.
-- We are currently in talks with the creator of NPC VR to fix the graphical issue with NVR trees. Until that happens, you may still see floating trees. 
 
 **Updating:**
 - Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) section for details on updating.
