@@ -131,8 +131,8 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
     - Reverted to Pip Light from the NVR flashlight shader. We are using an adjusted version to compliment intentionally dark areas.
     - Designed PBR settings, which will go live after the current NVR testing version goes live. This will serve to match objects to terrain, provide the feeling of “wetness” during rain, and further enhance interior preset variation.
 - Soft AF:
-- Added fission batteries to metro animated kiosks and signs to enhance believability.
-- Fixed metro animated kiosk and sign glow.
+    - Added fission batteries to metro animated kiosks and signs to enhance believability.
+    - Fixed metro animated kiosk and sign glow.
     - Fixed inappropriate bison sign rotation.
     - Overhauled gomorrah exterior fire mesh.
     - Overhauled light beam meshes.
