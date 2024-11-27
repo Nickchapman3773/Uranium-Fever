@@ -11,7 +11,7 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
 - Removed Fallout Texture Overhaul (FTO) - Robots - Sentry Bot, replaced with an alternative.
 - Removed B42 - Inject Animations - Aid Addon due to unresolvable bugs.
 - Removed Armed to the Teeth and associated patches due to unresolvable bugs.
-- Removed Character Kit Remake Raiders Fix for IVMB - T4, which we felt was too muddy and skimpy.
+- Removed Character Kit Remake Raiders Fix for IVMB - T4, which we felt was too clean and skimpy.
 
 **Changes:**
 - Disabled the Return to Sender perk from B42 Quickthrow for balance concerns.
