@@ -16,4 +16,6 @@ sidebar_label: Updating Uranium Fever
 
 :::note Manual Downloads
 Manual downloads, such as Tale of Two Wastelands and New Vegas Reloaded, do not need to be redownloaded or reinstalled when updating Uranium Fever.
+
+Saves are **ALWAYS** save-safe unless otherwise specified in the update notes.
 :::
