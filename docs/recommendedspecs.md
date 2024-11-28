@@ -14,5 +14,5 @@ sidebar_label: Recommended Specs
 
 :::note
 - An optional [Storage Space Clean-Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) section is available in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for those needing to manage the large installation size.
-- An optional [Performance Profile](https://uraniumfever.net/docs/setupinstructions/#-optional---enabling-the-performance-profile-) is also discussed in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for users with lower-spec systems.
+- Optional [Performance Profiles](https://uraniumfever.net/docs/setupinstructions#-selecting-a-uranium-fever-profile-) are discussed in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for users with lower-spec systems.
 ::: 
