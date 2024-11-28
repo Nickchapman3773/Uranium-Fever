@@ -107,7 +107,7 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 - If a red `Installation Failed` screen appears, repeat the above steps.
 - Close Wabbajack.
 
-:::warning
+:::warning reminder
 Let the installation **FINISH** prior to starting the following sections.
 :::
 
