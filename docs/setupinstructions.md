@@ -67,7 +67,7 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 This is part one of a process that creates a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 :::
 
-- Navigate to the `C:\PLATFORMGAMES\Fallout New Vegas` folder and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
+- Navigate to the `C:\STEAM\GOG\Fallout New Vegas` folder and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder instead.
 - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
@@ -123,12 +123,12 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
-	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `C:\PLATFORMGAMES\Fallout New Vegas` folder.
+	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `C:\STEAM\GOG\Fallout New Vegas` folder.
 	- **COPY** ***ALL*** of the contents from inside of the `Fallout New Vegas` folder (click inside the folder, press `Ctrl+A`,then `Ctrl+C`) and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 - Step 2: Restoring Backups of Current Installs/Modded Instances
 	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
-		- Move your `Fallout New Vegas` folder from your desktop back into the `C:\PLATFORMGAMES` folder where it originated,  selecting `Replace` when prompted.
+		- Move your `Fallout New Vegas` folder from your desktop back into the `C:\STEAM\GOG` folder where it originated,  selecting `Replace` when prompted.
 		- Move your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
 
 - Step 3: Verifying Files in the Clean Stock New Vegas Folder
