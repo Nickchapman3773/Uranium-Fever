@@ -15,7 +15,7 @@ The first steps to be taken for any installation error include:
 - Confirming that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
 - Relogging into Nexus in the Wabbajack client as referenced in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Restarting the computer.
-- If the installation error remains persistent, delete the entire Uranium Fever folder and start the installation from the beginning.
+- If the installation error remains persistent, delete the `Uranium Fever` folder and start the installation process from the beginning.
 - For further support, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
