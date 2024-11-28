@@ -95,8 +95,8 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
 	- This filepath may differ slightly depending on the version of Wabbajack and Uranium Fever.
-- `Modlist Installation Location` must be changed to `C:\Modding\Uranium Fever`.
-- `Resource Download Location` will auto-populate `C:\Modding\Uranium Fever\downloads`.
+- **COPY** `C:\Modding\Uranium Fever`and **PASTE** it into the `Modlist Installation Location`.
+- `Resource Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
 - Enable the `Overwrite Installation` checkbox.
   
 	![Installing](https://github.com/user-attachments/assets/d63404a2-94b6-43a1-9699-6a6f2861f452)
