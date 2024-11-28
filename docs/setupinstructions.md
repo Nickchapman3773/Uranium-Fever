@@ -1,4 +1,4 @@
-h---
+---
 sidebar_position: 6
 title: Setup Instructions
 hide_title: true
@@ -63,6 +63,10 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
+:::tip Self-Contained
+This is part one of a process that creates a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+:::
+
 - Navigate to the `game library folder` and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder instead.
@@ -113,7 +117,7 @@ Let the installation **FINISH** prior to starting the following sections.
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
 :::tip Self-Contained
-This process facilitates the creation of a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+This is part two of a process that creates a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
 
 **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 :::
