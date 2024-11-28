@@ -17,7 +17,7 @@ Altered lists ***will not*** be officially supported. However, there is a Discor
 :::
 
 - Prior to requesting support, please review the warning at the beginning of the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions) and the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions).
-- If you still require support, post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA).
+- For topics not otherwise covered in this documentation, post your support requests and feedback in the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA).
 - Prior to posting suggestions, perform a search in the [uf-suggestions](https://discord.com/channels/1247305852738736219/1307480145413804132) Discord channel to ensure the suggestion has not been made previously.
 
 	![discord](https://discord.gg/vUNsFx7AGu)
