@@ -123,8 +123,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 - Step 1: Creating the Clean Stock New Vegas Folder
-	- Navigate to the **PREVIOUSLY REINSTALLED** `C:\STEAM\GOG\Fallout New Vegas` folder.
-	- **COPY** ***ALL*** of the contents from inside of the `Fallout New Vegas` folder (click inside the folder, press `Ctrl+A`, then `Ctrl+C`) and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+	- Navigate to the **PREVIOUSLY REINSTALLED** `C:\STEAM\GOG\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 - Step 2: Restoring Backups of Current Installs/Modded Instances
 	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
