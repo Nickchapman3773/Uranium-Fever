@@ -70,7 +70,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Navigate to the `C:\STEAM\GOG\Fallout New Vegas` folder and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder instead.
-- Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
+- Navigate to the `C:\Users\USERNAME\Documents\My Games` folder and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the settings and saves backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `FalloutNV` folder instead.
 - Uninstall both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
@@ -129,7 +129,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 - Step 2: Restoring Backups of Current Installs/Modded Instances
 	- After successfully creating the `Clean Stock New Vegas folder`, `restore` the files that were previously backed up.
 		- Move your `Fallout New Vegas` folder from your desktop back into the `C:\STEAM\GOG` folder where it originated,  selecting `Replace` when prompted.
-		- Move your `FalloutNV` folder from your desktop back into `C:\Users\USERNAME\Documents\My Games`, selecting `Replace` when prompted.
+		- Move your `FalloutNV` folder from your desktop back into the `C:\Users\USERNAME\Documents\My Games` folder, selecting `Replace` when prompted.
 
 - Step 3: Verifying Files in the Clean Stock New Vegas Folder
 	- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, re-run the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-) step, then start this section over.
