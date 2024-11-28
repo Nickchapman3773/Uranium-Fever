@@ -70,7 +70,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Navigate to the `C:\STEAM\GOG\Fallout New Vegas` folder and **MOVE** the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the Steam/GOG installation backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder instead.
-- Navigate to the `C:\Users\USERNAME\Documents\My Games` folder and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
+- Navigate to the `C:\Users\USERNAME\Documents\My Games` folder and **MOVE** the `FalloutNV` folder to the desktop.
 	- This will be the settings and saves backup for the pre-existing modded instance.
  	- **IF** a separate modded instance is not installed, simply delete the `FalloutNV` folder instead.
 - Uninstall both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
@@ -146,9 +146,6 @@ The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this wi
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch Fallout: New Vegas from `Steam/GOG`.
-- Click `OK` when prompted with `Detecting Video Hardware`.
-- Close the launcher.
-- Launch Fallout 3 from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 
