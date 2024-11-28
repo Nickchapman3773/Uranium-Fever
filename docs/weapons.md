@@ -60,7 +60,6 @@ sidebar_label: Weapons
 ![54](https://github.com/user-attachments/assets/3b22b0fc-2b7c-451a-baac-252e4181cff6)
 ![55](https://github.com/user-attachments/assets/9d65a4a3-f0ec-4346-8720-35450e9ef6a3)
 ![56](https://github.com/user-attachments/assets/bf5876ec-bca8-4419-8fd8-4d0a118e4802)
-![57](https://github.com/user-attachments/assets/0a6b5e10-f230-4dc9-abf6-293c6a58a315)
 ![58](https://github.com/user-attachments/assets/9fba475d-71b4-4c50-9cff-60b7fce7ace0)
 ![59](https://github.com/user-attachments/assets/7b7dde48-3921-4bb2-816a-ae7144286be9)
 ![60](https://github.com/user-attachments/assets/4613c2e4-2612-454f-9c1b-0c4a63a237e9)
