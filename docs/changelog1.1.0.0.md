@@ -157,6 +157,7 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
 - Notifications of missing mods following updates are expected, not problematic, and related to merging of plugins.
 
 - **UPDATING DXVK** - This is a critical manual step that must be followed. Manually download the new version of [DXVK](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000143106&game_id=130), extract it into the Uranium Fever > [NoDelete] Stock New Vegas folder, and select replace when prompted.
+- Those with Nvidia graphics cards, be sure to update your drivers and repeat the [Nvidia Users - Applying Nvidia Profile](https://uraniumfever.net/docs/setupinstructions#-nvidia-users---applying-nvidia-profile-) steps after you update your drivers. This must be repeated every driver update, as Nvidia resets them during  updates. <:geck:1247701931053551679>`
 
 **Community:**
 - Submit screenshots of different aspects of Uranium Fever to the UF-screen-archery Discord channel!
