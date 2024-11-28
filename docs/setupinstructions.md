@@ -68,7 +68,7 @@ Occasionally, the Manual Downloads.bat will fail. If this occurs, manually downl
  	- **IF** a separate modded instance is not installed, simply delete the `Fallout New Vegas` folder.
 - Navigate to `C:\Users\USERNAME\Documents\My Games` and **MOVE** the `FalloutNV` folder to the desktop. Delete the `Fallout 3` folder.
 	- This will be the settings and saves backup for the pre-existing modded instance.
- 	- **IF** a separate modded instance is not installed, simply delete the FalloutNV folder.
+ 	- **IF** a separate modded instance is not installed, simply delete the `FalloutNV` folder.
 - Uninstall both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG (this step may already be completed automatically).
 - Reinstall both `Fallout: New Vegas` and `Fallout 3` in Steam/GOG.
 - These clean installs and backups will be further utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section of these instructions.
