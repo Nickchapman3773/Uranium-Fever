@@ -132,7 +132,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 
 - Step 1: Creating the Clean Stock New Vegas Folder
 	- Navigate to the **CLEAN** `Fallout New Vegas` folder, which is located inside of the `game library folder`.
-	- Copy **ALL** of the contents from inside of the `Fallout New Vegas` folder.
+	- **COPY** ***ALL*** of the contents from inside of the `Fallout New Vegas` folder and **PASTE** them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 		- Click anywhere inside the `game library folder`, press `Ctrl+A` to highlight all files, then `Ctrl+C` to copy all files.
 		- Click anywhere inside the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder and press `Ctrl+V` to paste the previously copied files.
 
