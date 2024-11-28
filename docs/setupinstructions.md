@@ -150,7 +150,7 @@ The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this wi
 - Close the launcher.
 
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
-- Launch `ModOrganizer.exe`, which is located inside of `C:\Modding\Uranium Fever`.
+- Launch `ModOrganizer.exe` from `C:\Modding\Uranium Fever`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
 
