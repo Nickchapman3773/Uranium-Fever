@@ -12,11 +12,11 @@ The following instructions must be followed in a step-wise and specific manner. 
 
 The first steps to be taken for any installation error include:
 - Confirming that you own a supported version of `Fallout: New Vegas`, `Fallout 3`, and all associated DLCs as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
-- Confirming that you have installed the appropriate Runtimes and Frameworks as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
+- Confirming that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
 - Relogging into Nexus in the Wabbajack client as referenced in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
-- Restarting your computer.
-- If your installation error still persists, delete your entire Uranium Fever folder and start these steps again from the beginning, ensuring the instructions are followed carefully.
-- If the error still persists, seek support in the appropriate Uranium Fever Discord channels as referenced in [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback), including screenshots of `Mod Organizer 2`, the `Uranium Fever` folder, and the `[NoDelete] Stock New Vegas` folder.
+- Restarting the computer.
+- If the installation error remains persistent, delete the entire Uranium Fever folder and start the installation from the beginning.
+- For further support, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
