@@ -439,7 +439,7 @@ This step will need to be repeated every time Nvidia drivers are updated.
   - Low Quality
     - Disables several performance intensive mods:
       - Radiation Visuals
-      - Real Time Reflections
+      - Real Time Reflections (functionally disabled by reducing render distance to 0)
       - Lumen
       - Afterglow
       - Vending Machine Flicker Emits Light
