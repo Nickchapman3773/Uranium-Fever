@@ -7,6 +7,14 @@ sidebar_label: Setup Instructions
 
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
+:::tip TERMINOLOGY
+Throughout this installation process, you will encounter various acronyms and modding terms used interchangeably. Here’s a list of some of the most important terms we’ll be using:
+
+- [Tale of Two Wastelands (TTW)](https://mod.pub/ttw/133-tale-of-two-wastelands) - A large mod that ports Fallout 3 into the New Vegas engine, effectively merging both games.
+- [New Vegas Reloaded (NVR)](https://dlpnd.github.io/nvr-wiki/) - A graphics extender for New Vegas that significantly enhances lighting and visual quality.
+- Game library folder - The directory where both New Vegas and Fallout 3 are installed (e.g., `C:/Games/Fallout New Vegas`).
+:::
+
 :::danger IMPORTANT
 The following instructions must be followed in a step-wise and specific manner. Moving to subsequent steps prematurely may interfere with the installation in various different ways.
 
