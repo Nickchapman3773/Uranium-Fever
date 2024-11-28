@@ -7,6 +7,10 @@ sidebar_label: Frequently Asked Questions
 
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
+:::tip
+The best way to utilize the Frequently asked questions page is to use `Ctrl + F` to search for desired keywords.
+:::
+
 - **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
   - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
 
@@ -18,6 +22,9 @@ sidebar_label: Frequently Asked Questions
 
 - **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 to use Uranium Fever?**
   - No. Uranium Fever is fully self-contained and independent of your regular Fallout installations!
+ 
+- **Climbable Ladders - Can I climb any ladders in the game?**
+  - The climbable ladder mod only affects water towers currently. To utilize this, look at the ladder and press the activate key to begin climbing. Once you are at the top press the activate key to get off the ladder.
 
 - **Controller Support - Does Uranium Fever support controllers?**
   - Unfortunately, no. Creating a unified scheme for various equipment and platforms proved challenging. We recommend using Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
@@ -28,6 +35,14 @@ sidebar_label: Frequently Asked Questions
 
 - **Dialogue Skill Indicator - Why don’t I see the skill check indicator in dialogue like in the original game?**
   - This feature has been intentionally removed to prevent players from knowing if they’ll pass a skill check.
+
+- **Death, Reload, and Save Consequences - Can I disable Death, Reload, and Save Consequences? I do not understand why I am being charged to save and reload.***
+  - Yes, you can disable this by disabling Death, Reload, and Save Consequences and Death, Reload, and Save Consequences - Uranium Fever Patch in the Mod Organizer 2 Optional Settings & Additions separator.
+  - However, we consider this mod to be critical for well-balanced gameplay.
+  - The philosophy behind this is that the player can easily save and reload games when preparing for difficulty scenarios, including combat, lockpicking, hacking, or other luck based scenarios, thus ensuring a perfect outcome.
+  - To prevent the player from abusing this, a small cost (2.5% of total caps) has been imparted on creating quicksaves and reloading.
+  - Automatic saves created by save manager (configured to every 60 seconds), saves created while exiting the game, and loads performed while starting the game are free.
+  - This will force the player into unique scenarios they would otherwise avoid, such as fighting with a crippled arm, or continuing after the death of a companion.
 
 - **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
   - **Capital Wasteland:**
@@ -50,14 +65,36 @@ sidebar_label: Frequently Asked Questions
     - Lonesome Road - 25
     - North Road - 35
 
+- **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**
+  - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
+
 - **Failed and Slow Nexus Downloads - Why are my downloads slow or failing?**
   - Make sure your Nexus account is connected to Wabbajack. Open Wabbajack settings to link your Nexus account.
+
+- **Fallout 3 - Is Fallout 3 absolutely required to play Uranium Fever?**
+  - Yes. There is no way to play Uranium Fever without owning Fallout 3 and the associated DLCs.
+
+- **Fast Traveling - Can I fast travel in Uranium Fever?**
+  - Yes. The only circumstances in which fast travel is prohibited is when over-encumbered or while in combat.
 
 - **First Time Playing - Is this list suitable for a Fallout newcomer?**
   - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
 
 - **First Time Playing - I want to experience the intro sequence.**
-  - We do not support the Fallout 3 intro sequence. It has bugs and complications that cannot be resolved in a satisfactory way.
+  - To experience the intro sequence, disbale the `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator. Please note the intro sequence is known to be associated with bugs, and we will not provide support for associated bugs.
+ 
+- **First Time Playing - Do you have any tips on how to be successful?**
+  - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Uranium Fever, despite this being contrary to standard Fallout: New Vegas.
+  - Choose two weapon skills to focus on at the start of the game. Ammo is scarce, as are skill points. Melee is powerful, though weapons break easily.
+  - All perks and traits have been overhauled. Review their effect carefully, as they may have unintended consequences later on.
+  - Trash is important. Scavenge for everything possible, as selling much of this will be important to gaining enough caps to afford food, ammo, and aid.
+  - Empty bottles are invaluable for water collection.
+  - Food will not provide much healing. The best ways to heal are by sleeping and by visiting doctors.
+  - Chems and alcohol can give strong transient buffs, though are also associated with severe drawbacks during times of addiction. Visiting a doctor about the player's addiction will only help for a period of time while the player takes time to naturally recover from their addiction.
+  - Some crafting items have unexpected uses. Study crafting stations carefully.
+  - Challenges are a good source of XP.
+  - Carry weapons requiring different ammo types. Ammo scarcity will require you to switch weapons frequently.
+  - Do not consider the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
 - **Flickering - Why are distant objects or mountains flickering?**
   - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
@@ -156,8 +193,17 @@ sidebar_label: Frequently Asked Questions
 - **Tale of Two Wastelands - Is TTW required for Uranium Fever?**
   - Yes. The modlist cannot be installed or used without TTW.
 
+- **Traits - I can choose 99 traits. Is this a bug?**
+  - No, this is intentional behavior. Most traits have both benefits and downsides, which provide balance in having additional traits. Having the ability to have many traits provides ample opportunity for unique character experiences.
+
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**
   - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
 
+- **VATS - Can I disable Bullet Time and enable VATS instead?**
+  - No. VATS is very difficult to balance and is incompatible with mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
+
 - **Updates - Will updating impact my saves?**
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
+
+- **XP - Sometimes I do not get XP when I kill enemies. Why?
+  - XP is reported collectively at the end of combat. If a companion kills a target, the player is not rewarded XP for the kill.
