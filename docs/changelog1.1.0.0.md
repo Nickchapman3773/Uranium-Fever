@@ -1,4 +1,4 @@
- ---
+---
 title: 1.1.0.0 - Nov 27, 2024
 hide_title: true
 sidebar_label: 1.1.0.0 - Nov 27, 2024
