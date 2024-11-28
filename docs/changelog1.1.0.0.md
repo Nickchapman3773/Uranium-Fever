@@ -147,7 +147,7 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
     - Added a UF specific initiating loading screen.
 
 **Notes:**
-- The climbable ladder mod only affects water towers at the moment, look at the ladder and press the activate key.
+- The climbable ladder mod only affects water towers at the moment, look at the ladder and press the activate key to begin climbing. Once you are at the top press the activate key to get off the ladder.
 
 **Updating:**
 - Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) section for details on updating.
