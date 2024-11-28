@@ -7,13 +7,6 @@ sidebar_label: Setup Instructions
 
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
-:::tip TERMINOLOGY
-Throughout the installation process, you will encounter some acronyms and modding terms, including:
-
-- [Tale of Two Wastelands (TTW)](https://mod.pub/ttw/133-tale-of-two-wastelands) - A large mod that ports Fallout 3 into the New Vegas engine, effectively merging both games.
-- [New Vegas Reloaded (NVR)](https://dlpnd.github.io/nvr-wiki/) - A graphics extender that significantly enhances lighting and visual quality of the gsme.
-:::
-
 :::danger IMPORTANT
 The following instructions must be followed in a step-wise and specific manner. Moving to subsequent steps prematurely may interfere with the installation in various different ways.
 
