@@ -27,7 +27,7 @@ The first steps to be taken for any installation error include:
 - Create a folder named `downloads`.
 
 :::important Double Check
-Ensure these file paths exist, though the Root Directory may vary:
+Ensure the following file paths exist, though the Root Directory may vary:
 - `C:\Modding\Uranium Fever\downloads`
 - `C:\Modding\Wabbajack`
 :::
