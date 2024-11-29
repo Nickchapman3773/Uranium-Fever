@@ -162,5 +162,5 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
 **Community:**
 - Submit screenshots of different aspects of Uranium Fever to the UF-screen-archery Discord channel!
 - Submit custom scenarios for Immersive Fast Travel and Immersive Sleep to the suggestions channel for vetting and approval!
-- Submit custom character presets alongside screenshots to the suggestions channel for vetting and approval!
+- Submit custom character presets to the suggestions channel for vetting and approval!
 - Type `?rank Uranium Fever User` into the uf-discussion chat to be pinged in Discord for updates.
