@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-![ScreenShot45](https://github.com/user-attachments/assets/6ddafab3-c939-4988-8943-68932ca755c3)
+![UraniumShot28](https://github.com/user-attachments/assets/69457f86-126f-4697-9421-519e0535cdc0)
 
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
@@ -91,6 +91,7 @@ sidebar_label: Mod Feature Reference List
   - Enter CCC Menu: Hold `C`.
   - Navigate CCC Menu: Use Mouse Wheel up and down.
   - Select in CCC Menu: `Left Click`.
+  - Companion Equip Item: Open trade menu, `Right Click` desired item.
 
 - **Just Bullet Time:**
   - An AP-based, time-scaling VATS replacement. Slows time while the player takes aim.
@@ -183,6 +184,10 @@ sidebar_label: Mod Feature Reference List
 - **Quick Train:**
   - Allows the player to start in the Mojave Wasteland rather than the Capital Wasteland, while still maintaining the intended sequencing of various mods.
   - When leaving the vault for the first time, select "memory" when prompted "Is this now, or just a memory?"
+
+- **Screenshot:**
+  - UI Enabled: Press `F12`.
+  - UI Disabled: Press `Left Shift + F12`.
 
 - **Scope Zoom:**
   - Mouse wheel up and down.
