@@ -197,7 +197,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
   - No, this is intentional behavior. Most traits have both benefits and downsides, which provide balance in having additional traits. Having the ability to have many traits provides ample opportunity for unique character experiences.
 
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**
-  - Yes, with settings adjustments in the `Options` separator, but this setup is unofficial and unsupported.
+  - We do not currently provide support for atypical aspect ratios, though plan to in the future.
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**
   - No. VATS is very difficult to balance and is incompatible with mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
@@ -205,5 +205,5 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 - **Updates - Will updating impact my saves?**
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
 
-- **XP - Sometimes I do not get XP when I kill enemies. Why?
+- **XP - Sometimes I do not get XP when I kill enemies. Why?**
   - XP is reported collectively at the end of combat. If a companion kills a target, the player is not rewarded XP for the kill.
