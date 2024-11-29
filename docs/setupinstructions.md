@@ -148,6 +148,7 @@ The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this wi
 - Launch Fallout: New Vegas from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
+- Repeat this process with Fallout 3.
 
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
 - Launch `ModOrganizer.exe` from `C:\Modding\Uranium Fever`.
