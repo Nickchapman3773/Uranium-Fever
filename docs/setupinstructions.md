@@ -451,6 +451,11 @@ This step will need to be repeated every time Nvidia drivers are updated.
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
+
+:::warning Runtime Error
+If met with a runtime error while launching, re-run the Uranium Fever Installer. This is related to opening Mod Organizer 2 prior to creating the Stock New Vegas folder.
+:::
+
 - After starting a new game, open the pause menu and press `K` to see the `Keybinds and associated legend`. More details are included below in the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference) section.
 
 	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
