@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-![UraniumShot28](https://github.com/user-attachments/assets/69457f86-126f-4697-9421-519e0535cdc0)
+![UraniumShot30](https://github.com/user-attachments/assets/45615c58-f3f7-4559-a6f5-2241086ead9d)
 
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
