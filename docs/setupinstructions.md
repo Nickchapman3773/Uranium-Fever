@@ -436,7 +436,10 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Disabled the wetworld shader.
       - Reduced Real Time Reflection render distance.
   - Low Quality
+      - Disabled Uranium Haze, New Vegas Reloaded, and all associated dependencies.
+  - Very Low Quality
     - Disables several performance intensive mods:
+      - Uranium Haze, New Vegas Reloaded, and all associated dependencies.
       - Radiation Visuals
       - Real Time Reflections (functionally disabled by reducing render distance to 0)
       - Lumen
@@ -444,7 +447,6 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Vending Machine Flicker Emits Light
       - Bullet Trails
       - Energy Visuals Plus
-      - Uranium Haze, New Vegas Reloaded, and all associated dependencies.
 
 	![Profile](https://github.com/user-attachments/assets/f37effd0-bfed-4582-b4cc-d5188d399183)
 
