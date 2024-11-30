@@ -109,6 +109,9 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 - **Hardcore - Can I disable hardcore mode?**
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
 
+- **Healing - When I pay a doctor to heal me, I do not heal fully. Why?**
+  - This is an intentional balance design. You will need to pay for several different healing sessions or heal through other means to fully heal.
+
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**
   - No, Fallout uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
