@@ -425,6 +425,9 @@ This step will need to be repeated every time Nvidia drivers are updated.
 ### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
 - In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
+
+	![UFProfile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
+
   - High Quality
     - All mods in Uranium Fever are enabled.
     - All Uranium Haze settings are enabled.
@@ -447,8 +450,6 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Vending Machine Flicker Emits Light
       - Bullet Trails
       - Energy Visuals Plus
-
- ![UFProfile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
