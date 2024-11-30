@@ -12,9 +12,9 @@ sidebar_label: 1.1.0.1a - Nov 30, 2024
 **Fixes:**
 - Fixed incorrect JIP Companion Control Center hotkey and changed associated menu to toggle.
 
-
 **Additions:**
 - Added Aim Collision Indicator.
+
 
 # <p align="center"> 1.1.0.1 - Nov 30, 2024 </p>
 
