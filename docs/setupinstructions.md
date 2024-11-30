@@ -192,7 +192,7 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
 :::
 
 :::warning Launcher Crash
-The Uranium Fever Launcher may crash for users with graphics cards that lack Vulkan support or for intel iGPU users. If this occurs, please review Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK.
+The Uranium Fever Launcher may crash for users with graphics cards that lack Vulkan support or for intel iGPU users. If this occurs, please review [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 :::
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
