@@ -428,7 +428,7 @@ This step will need to be repeated every time Nvidia drivers are updated.
 
 	![UFProfile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
 
-  - High Quality
+  - High Quality Profile
     - All mods in Uranium Fever are enabled.
     - All Uranium Haze settings are enabled.
   - Standard Quality
@@ -438,11 +438,12 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Disabled the terrain parallax shader.
       - Disabled the wetworld shader.
       - Reduced Real Time Reflection render distance.
-  - Low Quality
-      - Disabled Uranium Haze, New Vegas Reloaded, and all associated dependencies.
-  - Very Low Quality
+  - Low Quality Profile
+    - Disables the most performance intensive mod in Uranium Fever:
+      - Disabled New Vegas Reloaded, Uranium Haze, and all associated dependencies.
+  - Very Low Quality Profile
     - Disables several performance intensive mods:
-      - Uranium Haze, New Vegas Reloaded, and all associated dependencies.
+      - New Vegas Reloaded, Uranium Haze, and all associated dependencies.
       - Radiation Visuals
       - Real Time Reflections (functionally disabled by reducing render distance to 0)
       - Lumen
@@ -450,6 +451,10 @@ This step will need to be repeated every time Nvidia drivers are updated.
       - Vending Machine Flicker Emits Light
       - Bullet Trails
       - Energy Visuals Plus
+  - Debugging Profile
+    - Only Tale of Two Wastelands and its essential mods are enabled:
+      - Useful for mod authors that opt to create mods while using Uranium Fever.
+      - Useful for troubleshooting bugs.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
