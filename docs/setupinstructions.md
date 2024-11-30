@@ -156,6 +156,21 @@ The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this wi
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register`, select `Yes`.
 
+### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
+
+:::warning Pre-Bundled DXVK
+The most recent version of DXVK comes bundled with Uranium Fever.
+
+Intel iGPUs and older GPUs without Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
+:::
+
+- Intel iGPU users:
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+- GPUs without Vulkan support:
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 - In the top right corner of MO2, open the drop-down menu that says `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
@@ -174,6 +189,10 @@ The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this wi
 :::tip Steam Polish-Czech-Russian (PCR) Version Users
 Steam PCR users should navigate to the `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083), click `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` into the corresponding field, then click apply.
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
+:::
+
+:::warning Launcher Crash
+The Uranium Fever Launcher may crash for users with graphics cards that lack Vulkan support or for intel iGPU users. If this occurs, please review Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK.
 :::
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
@@ -323,21 +342,6 @@ This process disables Steam Overlay, which has been known to cause crashes and w
 - Click `Apply`, then `Yes`.
 
 	![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
-
-### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
-
-:::warning Pre-Bundled DXVK
-The most recent version of DXVK comes bundled with Uranium Fever.
-
-Intel iGPUs and older GPUs without Vulkan support are incompatible with the most recent version of DXVK and must be downgraded.
-:::
-
-- Intel iGPU users:
-	- Navigate to the `Uranium Fever > DXVK` folder.
-	- Move the `d3d9.dll` and `dxvk.conf` from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
-- GPUs without Vulkan support:
-	- Navigate to the `Uranium Fever > DXVK` folder.
-	- Move the `d3d9.dll` and `dxvk.conf` from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 :::tip Why?
