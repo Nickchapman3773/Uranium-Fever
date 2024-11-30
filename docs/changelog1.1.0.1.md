@@ -50,7 +50,7 @@ sidebar_label: 1.1.0.1 - Nov 30, 2024
 - Notifications of missing mods following updates are expected, not problematic, and related to merging of plugins.
 
 - **CRITICAL**: If updating from versions before 1.1.0.0, review the 1.1.0.0 patch notes for instructions on updating DXVK.
-- **CRITICAL - PRIOR TO UPDATING**: Rename [NoDelete] NVR (LQ) to [NoDelete] NVR (VLQ) (LQ) **PRIOR TO UPDATING**. If you fail to do so and end up with two NVR mod folders, delete [NoDelete] NVR (VLQ) (LQ) and perform the aforementioned renaming step.
+- **CRITICAL - PRIOR TO UPDATING**: Rename [NoDelete] NVR (LQ) to [NoDelete] NVR (VLQ) (LQ). If you fail to do so and end up with two NVR mod folders, delete [NoDelete] NVR (VLQ) (LQ) and perform the aforementioned renaming step.
 
 **Community:**
 - Submit screenshots of different aspects of Uranium Fever to the UF-Screen-Archery Discord channel!
