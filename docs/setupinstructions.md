@@ -249,6 +249,14 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
 
+### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
+
+:::danger
+Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
+:::
+
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
   - **DO NOT** download the versions available in the Ready Builds or Testing channels.
 
@@ -261,14 +269,6 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 
 :::note Updating New Vegas Reloaded
 When instructed to update the mod, simply repeat these steps.
-:::
-
-### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
-- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
-
-:::danger
-Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
 :::
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
