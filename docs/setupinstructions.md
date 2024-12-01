@@ -16,6 +16,7 @@ The first steps to be taken for any installation error include:
 - Ensuring the [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-) was completed correctly.
 - Confirming that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
 - Restarting your computer.
+- Ensuring that you have the appropriate version of DXVK, as outlined in [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If persistent, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further support, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
