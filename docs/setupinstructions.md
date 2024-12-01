@@ -26,6 +26,20 @@ Ensure the following file paths exist, though the Root Directory may vary:
 - `C:\Modding\Wabbajack`
 :::
 
+### <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
+:::tip Why?
+This process prevents Windows from blocking MO2 and associated mod files from loading.
+ 
+- Open `Windows Security`.
+- Open `Virus & Threat Protection`.
+- Click `Manage Settings` under `Virus & Threat Protection Settings`.
+- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
+- `Add exclusions` for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
+
+	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
+
+- This process will also need to be replicated for any third-party antivirus.
+
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
@@ -295,20 +309,6 @@ This step can prevent unforeseen crashes.
 - Set `Force Randomization for Images (Mandatory ASLR)` to `Use Default (Off)`.
 
 	![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
-
-### <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
-> :::tip Why?
-> This process prevents Windows from blocking MO2 and associated mod files from loading.
- 
-- Open `Windows Security`.
-- Open `Virus & Threat Protection`.
-- Click `Manage Settings` under `Virus & Threat Protection Settings`.
-- Scroll down and select `Add or Remove Exclusions` under `Exclusions`.
-- `Add exclusions` for `C:\Modding\Uranium Fever` and `C:\Modding\Wabbajack`.
-
-	![Exclusions](https://github.com/user-attachments/assets/383f5259-3236-4acb-b00a-ce57e895716e)
-
-- This process will also need to be replicated for any third-party antivirus.
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
 :::tip Why?
