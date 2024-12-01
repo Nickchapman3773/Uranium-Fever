@@ -128,12 +128,6 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**
   - No, Fallout uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
-- **Installation Error - I encountered an error during Wabbajack installation. What should I do?**
-  - Simply rerun the installation; Wabbajack errors are often temporary.
-
-- **Hacking - Why can’t I use the vanilla hacking mini-game?**
-  - It’s replaced by Immersive Minigames, offering a balanced, resource-management-focused alternative.
-
 - **Keybinds - How can I view Uranium Fever’s keybinds?**
   - Press `K` in the pause menu.
 
