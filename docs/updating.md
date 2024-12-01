@@ -13,8 +13,10 @@ sidebar_label: Updating Uranium Fever
 	- [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-)
 	- [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-)
 
+:::tip new saves?
+Saves are **ALWAYS** save-safe unless otherwise specified in the update notes.
+:::
+
 :::note Manual Downloads
 Manual downloads, such as Tale of Two Wastelands and New Vegas Reloaded, do not need to be redownloaded or reinstalled when updating Uranium Fever.
-
-Saves are **ALWAYS** save-safe unless otherwise specified in the update notes.
 :::
