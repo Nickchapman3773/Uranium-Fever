@@ -83,8 +83,6 @@ This step ensures a **SELF-CONTAINED** installation that won't interfere with ex
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
-# ![Banner Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f)
-
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - Launch the `Wabbajack application`.
 - Open the `settings cogwheel` in Wabbajack and log into your Nexus account.
