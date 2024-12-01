@@ -22,6 +22,6 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
   - Extract the archive, open the extracted folder, right-click `install_all.bat`, then select `Run as administrator`. Once complete, reboot your computer.
 - An archiving tool – [7-zip](https://www.7-zip.org/) is recommended.
 - A text editor – [Notepad++](https://notepad-plus-plus.org/downloads/v8.7/) is recommended.
-- A [Nexus Mods account](https://users.nexusmods.com/register) – A Premium subscription is **HIGHLY** recommended; otherwise, more than 1200 mods must be manually downloaded.
+- A [Nexus Mods account](https://users.nexusmods.com/register) – A Premium subscription is **HIGHLY** recommended; otherwise, more than 1300 mods must be manually downloaded.
 - A [ModPub account](https://mod.pub/account/register).
 - A [Discord account](https://discord.com/register).
