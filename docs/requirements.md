@@ -17,7 +17,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 - Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
-  - Extract the archive, open the extracted folder, right-click `install_all.bat`, and select `Run as administrator`.
+  - Extract the archive, open the extracted folder, right-click `install_all.bat`, select `Run as administrator`, then restart your computer.
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - The latest drivers for your GPU.
 - An archiving tool – [7-zip](https://www.7-zip.org/) is recommended.
