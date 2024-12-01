@@ -12,7 +12,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 :::
 
 - **Abbreviations - What do all of the abbreviations that are used to label mods in Mod Organizer 2 mean?**
-  - They are shorthand that allows for easy maintenance of the list:
+  - The abbreviations are an organizational framework that simplify the maintenance of UF:
     - OP - The mod has optimized in some fashion.
     - MG - The plugin has been merged into a master patch.
     - FL - The plugin has been flagged as ESM.
