@@ -8,7 +8,7 @@ sidebar_label: Requirements
 # ![Banner Requirements](https://github.com/user-attachments/assets/6aa2396d-179c-4471-89df-5b206343fd87)
 
 :::important PATIENCE, COMPUTER EXPERIENCE, AND TIME ARE REQUIRED
-UF’s instructions are designed to be accessible for all users, regardless of modding experience. However, it is **REQUIRED** to thoroughly read each instruction, even if you consider yourself experienced enough to skip steps. While no prior modding knowledge is necessary, a general proficiency in computer operations is expected.
+Uranium Fever’s instructions are designed to be accessible for all users, regardless of modding experience. However, it is **REQUIRED** to thoroughly read each instruction, even if you consider yourself experienced enough to skip steps. While no prior modding knowledge is necessary, a general proficiency in computer operations is expected.
 :::
 
 - Legally purchased copies of *Fallout: New Vegas*, *Fallout 3*, and all DLCs for both games.
