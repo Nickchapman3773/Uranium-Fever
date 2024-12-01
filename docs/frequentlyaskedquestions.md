@@ -12,7 +12,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 :::
 
 - **Abbreviations - What do all of the abbreviations that are used to label mods in Mod Organizer 2 mean?**
-  - The abbreviations are an organizational framework that simplify the maintenance of UF:
+  - The abbreviations are an organizational framework that simplify the maintenance of Uranium Fever:
     - OP - The mod has optimized in some fashion.
     - MG - The plugin has been merged into a master patch.
     - FL - The plugin has been flagged as ESM.
@@ -64,6 +64,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
     - Operation Anchorage (with Anchorage Gameplay Expansion) - 25
   - **Mojave Wasteland:**
     - Autumn Leaves - 1
+    - Into the Deep - 10
     - Lake Havasu - 10
     - Dry Wells - 10
     - Honest Hearts - 10
