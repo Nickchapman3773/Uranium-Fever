@@ -11,6 +11,23 @@ sidebar_label: Frequently Asked Questions
 The best way to utilize the Frequently asked questions page is to use `Ctrl + F` to search for desired keywords.
 :::
 
+- **Abbreviations - What do all of the abbreviations that are used to label mods in Mod Organizer 2 mean?**
+  - They are shorthand that allows for easy maintenance of the list:
+    - OP - Optimized
+    - MG - Merged plugin
+      - Allows UF to bypass the plugin limit.
+    - FL - Plugin has been flagged as ESM
+      - Used to facilitate appropriate memory utilization.
+    - INF - Inlined File
+      - Typically includes customizable settings or private plugins that have been provided for inclusion in UF.
+    - AEN - Always enabled
+      - Forces inclusion of mods that are disabled on the compiling machine to be included in the final product.
+    - CDN - Uploaded and hosted on the Wabbajack CDN
+      - Typically includes custom textures or meshes that are added to UF.
+    - SQ - Disabled in Standard Quality Profile
+    - LQ - Disabled in Low Quality Profile
+    - VLQ - Disabled in Very Low Quality Profile
+
 - **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
   - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
 
