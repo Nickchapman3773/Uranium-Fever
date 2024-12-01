@@ -7,7 +7,7 @@ sidebar_label: Setup Instructions
 
 # ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
 
-:::danger IMPORTANT
+:::danger IMPORTANT - Troubleshooting
 The following instructions must be followed in a step-wise and specific manner. Moving to subsequent steps prematurely may interfere with the installation in various different ways.
 
 The first steps to be taken for any installation error include:
