@@ -16,8 +16,7 @@ sidebar_label: Updating Uranium Fever
 :::danger Check the Changelog
 The Changelog includes update notes, additions, removals, fixes, and, most importantly, any manual steps required for updating. Be sure to review the [Changelog](https://uraniumfever.net/docs/changelog1.1.0.1).
 
-:::tip new saves?
-Saves are **ALWAYS** save-safe unless otherwise specified in the update notes.
+Saves are **ALWAYS** save-safe unless otherwise specified in the changelog.
 :::
 
 :::note Manual Downloads
