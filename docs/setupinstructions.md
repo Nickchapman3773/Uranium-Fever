@@ -105,7 +105,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Close Wabbajack.
 
 :::warning Red `Installation Failed` Notification
-- Follow the `IMPORTANT - TROUBLESHOOTING` steps outlined at the top of the page.
+- Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 :::warning reminder
@@ -188,8 +188,8 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 :::
 
-:::warning Launcher Crash
-The Uranium Fever Launcher may crash for users with graphics cards that lack Vulkan support or for intel iGPU users. If this occurs, please review [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+:::warning Launcher Crashes
+Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
@@ -393,8 +393,8 @@ FPS limiters make the game feel smoother by preventing rapid FPS fluctuations an
 	![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
 ### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
-:::tip Why?
 
+:::tip Why?
 This enables Flip Model (DXVK with DXGI), which improves latency and provides HDR and VRR support.
 :::
 
@@ -462,8 +462,8 @@ This step will need to be repeated every time Nvidia drivers are updated.
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 
-:::warning Runtime Error
-If met with a runtime error while launching, re-run the Uranium Fever Installer. This is related to opening Mod Organizer 2 prior to creating the Stock New Vegas folder.
+:::warning Crashing
+Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 - After starting a new game, open the pause menu and press `K` to see the `Keybinds and associated legend`. More details are included below in the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference) section.
