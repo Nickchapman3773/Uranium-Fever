@@ -19,7 +19,7 @@ The first steps to be taken for any installation error or launch crash include:
 - Confirming that the required Runtimes and Frameworks were installed, as outlined in [Requirements](https://uraniumfever.net/docs/requirements).
 - Restarting your computer.
 - Ensuring that you have the appropriate version of DXVK, as outlined in [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
-- Rerunning the Uranium Fever installer as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
+- Rerunning the Uranium Fever Wabbajack Installer as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-). The Installer will resume where it last left off, attempting to correct any errors as it does so.
 - Ensuring that the Tale of Two Wasteland filepath and mod size are correct, as outlined in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - If persistent despite the above steps, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - If further assistance is required, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
@@ -30,7 +30,7 @@ The first steps to be taken for any installation error or launch crash include:
   - OP - The mod has been optimized in some fashion.
   - MG - The plugin has been merged into a master patch.
   - FL - The plugin has been flagged as ESM.
-  - INF - The mod has been inlined into the UF installer.
+  - INF - The mod has been inlined into the Uranium Fever Wabbajack Installer.
   - AEN - The mod has been included despite defaulting to disabled.
   - CDN - The mod is being hosted on the Wabbajack server.
   - SQ - The mod is disabled in the Standard Quality Profile.
@@ -158,7 +158,7 @@ The first steps to be taken for any installation error or launch crash include:
   - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**
-  - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever installer.
+  - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
 
 - **Modularity - Can I customize Uranium Fever to my preferences?**
   - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, altered lists are unsupported.
@@ -191,7 +191,7 @@ The first steps to be taken for any installation error or launch crash include:
   - This is intentional and prevents significant performance loss.
 
 - **Runtime Error - I’m getting a runtime error at launch.**
-  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Installer to fix this.
+  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will **NOT** reninstall the entire list.
 
 - **Selecting Perks - Why can’t I select a perk every level?**
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
