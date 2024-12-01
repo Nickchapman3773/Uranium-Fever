@@ -88,7 +88,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 	![WJBrowse](https://github.com/user-attachments/assets/143d2c44-789f-434e-aa56-3b0673c9c460)
 
-- Select `Fallout New Vegas` under games at the top of the page.
+- Open the `games` drop-down menu and select `Fallout New Vegas`.
 - Toggle the `Show Unofficial Lists` filter.
 - Search for `Uranium Fever` and click the `download` button.
 
