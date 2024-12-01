@@ -104,7 +104,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
 - Close Wabbajack.
 
-:::tip Red `Installation Failed` Notification
+:::warning Red `Installation Failed` Notification
 - Follow the `IMPORTANT - TROUBLESHOOTING` steps outlined at the top of the page.
 :::
 
