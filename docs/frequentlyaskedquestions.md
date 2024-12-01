@@ -19,8 +19,9 @@ The first steps to be taken for any installation error or launch crash include:
 - Confirming that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
 - Restarting your computer.
 - Ensuring that you have the appropriate version of DXVK, as outlined in [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- Rerunning the Uranium Fever installer as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - If persistent, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further support, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
+- If further assistance is required, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
 - **Abbreviations - There are a bunch of abbreviations in mod names in Mod Organizer 2. What do they mean?**
