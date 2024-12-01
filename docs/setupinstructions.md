@@ -11,11 +11,11 @@ sidebar_label: Setup Instructions
 The following instructions must be followed in a step-wise and specific manner. Moving to subsequent steps prematurely may interfere with the installation in various different ways.
 
 The first steps to be taken for any installation error include:
-- Confirm ownership of a supported version of `Fallout: New Vegas`, `Fallout 3`, and all associated DLCs as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
-- Confirm that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
-- Log out of and back into Nexus in the Wabbajack client as referenced in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
-- Restart the computer.
-- If the persistent, delete the `Uranium Fever` folder and restart the installation process from the beginning.
+- Confirming ownership of a supported version of `Fallout: New Vegas`, `Fallout 3`, and all associated DLCs as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
+- Confirming that the required Runtimes and Frameworks were installed as referenced in [Requirements](https://uraniumfever.net/docs/requirements).
+- Logging out of and back into Nexus in the Wabbajack client as referenced in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
+- Restarting your computer.
+- If persistent, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further support, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
