@@ -104,7 +104,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
 - Close Wabbajack.
 
-:::warning Red `Installation Failed` Notification
+:::danger Red `Installation Failed` Notification
 - Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
@@ -188,7 +188,7 @@ Steam PCR users should navigate to the `executable settings` ![352871292-1de0e25
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 :::
 
-:::warning Launcher Crashes
+:::danger Launcher Crashes
 Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
@@ -216,7 +216,7 @@ Ensure that this is installed into `C:\Modding\Uranium Fever\mods\[NoDelete] Tal
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right click the `[NoDelete] Tale of Two Wasteland` folder, select `Properties`, and verify that the installation size is exactly 17GB.
 
-If this is not the case, delete the `[NoDelete] Tale of Two Wasteland` and `[NoDelete] Stock New Vegas` folders, and repeat the above steps starting at the [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-) section.
+If this is not the case, delete the `[NoDelete] Tale of Two Wasteland` and `[NoDelete] Stock New Vegas` folders, and repeat the above steps starting at [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
 :::
 
 :::warning
@@ -232,7 +232,6 @@ The TTW Installer **MUST** be run on the copy of Fallout: New Vegas inside of th
 
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
   - **DO NOT** download the versions available in the Ready Builds or Testing channels.
-
 
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
 - Select the `NewVegasReloaded.zip` from your `Downloads` folder.
@@ -462,7 +461,7 @@ This step will need to be repeated every time Nvidia drivers are updated.
 - The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
 - In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
 
-:::warning Crashing
+:::danger Crashing During Game Launch
 Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
