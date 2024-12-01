@@ -479,7 +479,7 @@ If met with a runtime error while launching, re-run the Uranium Fever Installer.
 
 ### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 :::tip Optional
-This is an optional step to remove ~50GB of unneeded archives from your computer. Deleted archives **WILL** need to be redownloaded when updating Uranium Fever **IF** the original mod or the associated assets have been **ALTERED** in any way.
+This is an optional step to remove ~50GB of unneeded archives from your computer. Only follow this step when critically low on storage space. Many deleted archives **WILL** need to be redownloaded when updating Uranium Fever.
 :::
 
 - Confirm that the game launches and runs appropriately **BEFORE** following this step.
