@@ -8,7 +8,7 @@ sidebar_label: Frequently Asked Questions
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 :::tip
-The best way to utilize the Frequently asked questions page is to use `Ctrl + F` to search for desired keywords.
+The best way to utilize this page is to use `Ctrl + F` to search for desired keywords.
 :::
 
 :::danger Troubleshooting
