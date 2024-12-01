@@ -22,7 +22,7 @@ sidebar_label: 1.1.1.0 - Dec 1, 2024
   - Updated to reflect the new Dec 1, 2024 nightly build of NVR.
   - Enabled PBR and leveraged it to amplify local brightness and darkness.
   - Enabled depth inversion by default. Z-fighting is now a thing of the past.
-  - Enabled built-in fog remover, please remove the simple fog remover mod.
+  - Enabled built-in fog remover.
 
 **Notes:**
 - Some textures shimmer with the PBR shader enabled. This is due to flaws in the creation of the texture. Salamand3r is working to retexture the culprits.
