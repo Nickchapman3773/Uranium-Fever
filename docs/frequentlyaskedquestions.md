@@ -12,16 +12,16 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 :::
 
 - **Abbreviations - What do all of the mod name abbreviations in Mod Organizer 2 mean?**
-  - The abbreviations are an organizational framework that simplify the maintenance of Uranium Fever:
-    - OP - The mod has optimized in some fashion.
-    - MG - The plugin has been merged into a master patch.
-    - FL - The plugin has been flagged as ESM.
-    - INF - The mod has been inlined into the UF installer.
-    - AEN - The mod has been included despite defaulting to disabled.
-    - CDN - The mod is being hosted on the Wabbajack server.
-    - SQ - The mod is disabled in the Standard Quality Profile.
-    - LQ - The mod is disabled in the Low Quality Profile.
-    - VLQ - The mod is disabled in the Very Low Quality Profile.
+  - The abbreviations are an organizational framework that simplify the maintenance of Uranium Fever.
+  - OP - The mod has been optimized in some fashion.
+  - MG - The plugin has been merged into a master patch.
+  - FL - The plugin has been flagged as ESM.
+  - INF - The mod has been inlined into the UF installer.
+  - AEN - The mod has been included despite defaulting to disabled.
+  - CDN - The mod is being hosted on the Wabbajack server.
+  - SQ - The mod is disabled in the Standard Quality Profile.
+  - LQ - The mod is disabled in the Low Quality Profile.
+  - VLQ - The mod is disabled in the Very Low Quality Profile.
 
 - **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
   - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
