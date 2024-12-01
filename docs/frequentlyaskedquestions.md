@@ -21,9 +21,7 @@ The first steps to be taken for any installation error or launch crash include:
 - Ensuring that you have the appropriate version of DXVK, as outlined in [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Rerunning the Uranium Fever installer as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Ensuring that the Tale of Two Wasteland filepath and mod size are correct, as outlined in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
-
 - If persistent despite the above steps, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-
 - If further assistance is required, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
