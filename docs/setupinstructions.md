@@ -10,7 +10,7 @@ sidebar_label: Setup Instructions
 :::danger Important
 The following instructions must be followed in a step-wise and specific manner. Moving to subsequent steps prematurely may interfere with the installation in various different ways.
 
-Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors.
+Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
