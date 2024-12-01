@@ -11,6 +11,7 @@ sidebar_label: 1.1.1.0 - Dec 1, 2024
 - Disabled Aim Collision Indicator during hipfire mode.
 - Changed color scheme of Aim Collision Indicator to mirror UI colors.
 - Changed JIP CCC companion portraits to be visible during combat or while selection is toggled.
+- Restored 3DNPCFO3 companion's essential flag until a better solution can be found.
 
 **Additions:**
 - Added Wordle Hack.
