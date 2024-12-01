@@ -16,10 +16,10 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
   - Windows Store, Gamepass, and Epic Games versions **ARE NOT** compatible.
 - Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
+- The latest drivers for your GPU.
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
-  - Extract the archive, open the extracted folder, right-click `install_all.bat`, select `Run as administrator`, then reboot the computer following completion of the installation.
-- The latest drivers for your GPU.
+  - Extract the archive, open the extracted folder, right-click `install_all.bat`, then select `Run as administrator`. Once complete, reboot your computer.
 - An archiving tool – [7-zip](https://www.7-zip.org/) is recommended.
 - A text editor – [Notepad++](https://notepad-plus-plus.org/downloads/v8.7/) is recommended.
 - A [Nexus Mods account](https://users.nexusmods.com/register) – A Premium subscription is **HIGHLY** recommended; otherwise, more than 1200 mods must be manually downloaded.
