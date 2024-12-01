@@ -242,13 +242,6 @@ If not, delete the `[NoDelete] Tale of Two Wastelands` and `[NoDelete] Stock New
 The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** simply be moved into the Uranium Fever TTW mod folder. The TTW installation process performs BSA decompression, binary patching, and sound file extension alterations, which are critical for a functional TTW copy.
 :::
 
-### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
-:::danger Required Mod
-:::
-
-- Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
-- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
-
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
 	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
@@ -256,6 +249,13 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 :::danger
 Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
 :::
+
+### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
+:::danger Required Mod
+:::
+
+- Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
+- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
 
 	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
   - **DO NOT** download the versions available in the Ready Builds or Testing channels.
