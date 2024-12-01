@@ -197,7 +197,7 @@ The first steps to be taken for any installation error or launch crash include:
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
 
 - **Shimmering Objects - Why do some objects shimmer?**
-  - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced. The benefits of PBR far outweigh this negative, however.
+  - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
 - **Size - Why is Uranium Fever so large?**
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
