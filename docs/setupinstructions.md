@@ -108,9 +108,12 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
-- When complete, Wabbajack will display a green, confirmatory `Installation Complete` screen.
-- If a red `Installation Failed` screen appears, repeat the above steps.
+- When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
 - Close Wabbajack.
+
+:::tip Red `Installation Failed` Notification
+- Follow the `IMPORTANT - TROUBLESHOOTING` steps outlined at the top of the page.
+:::
 
 :::warning reminder
 Let the installation **FINISH** prior to starting the following sections.
