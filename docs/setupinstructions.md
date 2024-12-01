@@ -99,7 +99,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
   ![UFBrowse](https://github.com/user-attachments/assets/0872230a-6365-4300-a68f-8003edf6af69)
 
-- Once finished, hit the play button (which has now replaced the download button).
+- Once finished, click the play button (which has now replaced the download button).
 
   ![UFDownload](https://github.com/user-attachments/assets/739fbe82-bea3-4178-afc3-d61429c75a7a)
 
