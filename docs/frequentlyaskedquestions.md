@@ -11,7 +11,7 @@ sidebar_label: Frequently Asked Questions
 The best way to utilize the Frequently asked questions page is to use `Ctrl + F` to search for desired keywords.
 :::
 
-- **Abbreviations - What do all of the abbreviations that are used to label mods in Mod Organizer 2 mean?**
+- **Abbreviations - What do all of the mod name abbreviations in Mod Organizer 2 mean?**
   - The abbreviations are an organizational framework that simplify the maintenance of Uranium Fever:
     - OP - The mod has optimized in some fashion.
     - MG - The plugin has been merged into a master patch.
