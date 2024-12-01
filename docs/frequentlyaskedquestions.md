@@ -140,9 +140,6 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 - **Long Load Screens - I have very long load screens, why?**
   - You likely capped your FPS at too low a value.
 
-- **Lockpicking - Why can’t I use the vanilla lockpicking mini-game?**
-  - It has been replaced by Immersive Minigames.
-
 - **Manual Installs - Why must I manually install TTW and NVR?**
   - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
 
@@ -150,16 +147,10 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever installer.
 
 - **Modularity - Can I customize Uranium Fever to my preferences?**
-  - Uranium Fever is not inherently modular. Due to optimizations, plugin merging, and updates, altered lists are unsupported.
+  - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, altered lists are unsupported.
 
 - **NoDelete - What does [NoDelete] mean?**
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
-
-- **Notification Size - Why are my notifications so large?**
-  - Notification size is large at the start of a new game but will normalize after reloading.
-
-- **NPCs - Why aren’t certain NPCs completing quest tasks?**
-  - You may have interrupted their scripted actions. Reload a prior save and allow them to complete their tasks.
 
 - **Optimization - How is Uranium Fever optimized?**
   - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. Animations are BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
@@ -178,9 +169,6 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 
 - **Plugin No Longer Present - I'm notified that certain plugins are missing. Is this an issue?**
   - No, unless specifically noted. Some plugins may be merged or removed during optimization, which doesn’t affect your save.
-
-- **Quick Save - Why is there no quick save button?**
-  - This is to prevent reloading to avoid negative outcomes in combat or skill checks.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**
   - No. The Death Throes plugin used here is stable.
@@ -210,7 +198,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
   - We do not currently provide support for atypical aspect ratios, though plan to in the future.
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**
-  - No. VATS is very difficult to balance and is incompatible with mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
+  - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
 
 - **Updates - Will updating impact my saves?**
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
