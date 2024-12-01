@@ -19,7 +19,7 @@ sidebar_label: 1.1.1.0 - Dec 1, 2024
 
 **Uranium Haze and Soft AF Updates:**
 - Uranium Haze:
-  - Updated to reflect the new 12/1/2024 nightly build of NVR.
+  - Updated to reflect the new Dec 1, 2024 nightly build of NVR.
   - Enabled PBR and leveraged it to amplify local brightness.
   - Enabled depth inversion by default. Z-fighting is now a thing of the past.
   - Enabled built-in fog remover, please remove the simple fog remover mod.
