@@ -72,11 +72,11 @@ This step ensures a **SELF-CONTAINED** installation that won't interfere with ex
 
 1. Navigate to `C:\STEAM\GOG\Fallout New Vegas` and:
    - Move the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
-   - **If** no existing modded instance exists, delete the `Fallout New Vegas` folder instead.
+   - **If** no alternate modded instance exists, delete the `Fallout New Vegas` folder instead.
 
 2. Navigate to `C:\Users\USERNAME\Documents\My Games` and:
    - Move the `FalloutNV` folder to the desktop.
-   - **If** no existing modded instance exists, delete the `FalloutNV` folder instead.
+   - **If** no alternate modded instance exists, delete the `FalloutNV` folder instead.
 
 3. Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
 4. Reinstall Fallout: New Vegas and Fallout 3.
