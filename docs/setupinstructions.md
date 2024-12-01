@@ -77,7 +77,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 	![WJLogIn](https://github.com/user-attachments/assets/8590caa0-18d7-482b-b814-c93eb604917c)
 
-- Hit back and select `Browse Modlists`.
+- Click back and select `Browse Modlists`.
 
 	![WJBrowse](https://github.com/user-attachments/assets/143d2c44-789f-434e-aa56-3b0673c9c460)
 
