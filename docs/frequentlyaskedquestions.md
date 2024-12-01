@@ -48,7 +48,7 @@ The best way to utilize the Frequently asked questions page is to use `Ctrl + F`
 - **Dialogue Skill Indicator - Why don’t I see the skill check indicator in dialogue like in the original game?**
   - This feature has been intentionally removed to prevent players from knowing if they’ll pass a skill check.
 
-- **Death, Reload, and Save Consequences - Can I disable Death, Reload, and Save Consequences? I do not understand why I am being charged to save and reload.***
+- **Death, Reload, and Save Consequences - Can I disable Death, Reload, and Save Consequences? I do not understand why I am being charged caps to save and reload.**
   - Yes, you can disable this by disabling Death, Reload, and Save Consequences and Death, Reload, and Save Consequences - Uranium Fever Patch in the Mod Organizer 2 Optional Settings & Additions separator.
   - However, we consider this mod to be critical for well-balanced gameplay.
   - The philosophy behind this is that the player can easily save and reload games when preparing for difficulty scenarios, including combat, lockpicking, hacking, or other luck based scenarios, thus ensuring a perfect outcome.
