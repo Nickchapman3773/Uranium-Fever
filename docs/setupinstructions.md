@@ -105,7 +105,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
   - This filepath may differ slightly depending on the version of Wabbajack and Uranium Fever.
-- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever` and **PASTE** (`Ctrl+V`) it into the `Modlist Installation Location`.
+- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the drive path if necessary, and **PASTE** (`Ctrl+V`) it into the `Modlist Installation Location`, changing the drive path if necessary.
 - `Resource Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
 - Enable the `Overwrite Installation` checkbox.
 
@@ -132,7 +132,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
-- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - Move `GECK.exe` from `C:\Modding\Uranium Fever` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` **IF** prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
@@ -216,8 +216,8 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the archive.
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
 - Verify that the `Fallout 3` file path matches your Steam or GOG Fallout 3 installation path (this is usually auto-configured).
-- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
-- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the drive path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`, changing the drive path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 - Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
