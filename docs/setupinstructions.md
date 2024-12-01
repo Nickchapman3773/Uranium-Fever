@@ -70,16 +70,16 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 This step ensures a **SELF-CONTAINED** installation that won't interfere with existing modded setups.
 :::
 
-1. Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and:
+- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and:
    - Move the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
    - **If** no alternate modded instance exists, delete the `Fallout New Vegas` folder instead.
 
-2. Navigate to `C:\Users\[USERNAME]\Documents\My Games` and:
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and:
    - Move the `FalloutNV` folder to the desktop.
    - **If** no alternate modded instance exists, delete the `FalloutNV` folder instead.
 
-3. Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
-4. Reinstall Fallout: New Vegas and Fallout 3.
+- Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
+- Reinstall Fallout: New Vegas and Fallout 3.
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
@@ -173,35 +173,33 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with this ver
 :::
 
 - **For Intel iGPU users:**
-	1. Navigate to the `Uranium Fever > DXVK` folder.
-	2. Move the `d3d9.dll` and `dxvk.conf` files from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` files from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 - **For GPUs without Vulkan support:**
-	1. Navigate to the `Uranium Fever > DXVK` folder.
-	2. Move the `d3d9.dll` and `dxvk.conf` files from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
-
----
+	- Navigate to the `Uranium Fever > DXVK` folder.
+	- Move the `d3d9.dll` and `dxvk.conf` files from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
-1. In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Uranium Fever Launcher`.
-2. Click `Run`.
-3. If prompted that INIs are read-only, select `Clear the Read Only Flag`.
+- In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Uranium Fever Launcher`.
+- Click `Run`.
+- If prompted that INIs are read-only, select `Clear the Read Only Flag`.
 
 	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
-4. Navigate to `Options` and select the `Ultra Preset`.
+- Navigate to `Options` and select the `Ultra Preset`.
 	- For weaker machines or performance concerns, select the `Very High` preset, though this reduces visual quality.
-5. Uncheck the `Windowed` option and select your monitor's resolution.
+- Uncheck the `Windowed` option and select your monitor's resolution.
 	- If your monitor's resolution is unavailable, manually set it by opening MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and adjusting `iSize W` and `iSize H` under the `Display` section to match your screen's width and height.
-6. Click `OK` and close the launcher.
+- Click `OK` and close the launcher.
 
 	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
 :::tip Steam Polish-Czech-Russian (PCR) Version Users
 Steam PCR users should:
-1. Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
-2. Select `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
+- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
+- Select `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
 
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 :::
@@ -215,12 +213,12 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 :::danger Required Mod
 :::
 
-1. Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the archive.
-2. Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
-3. Verify that the `Fallout 3` file path matches your Steam or GOG Fallout 3 installation path (this is usually auto-configured).
-4. Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
-5. Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
-6. Click `Install`.
+- Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the archive.
+- Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
+- Verify that the `Fallout 3` file path matches your Steam or GOG Fallout 3 installation path (this is usually auto-configured).
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands` and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+- Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
 
@@ -228,7 +226,7 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 Ensure installation is directed to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`. Installing to the Uranium Fever root folder will prevent Uranium Fever from launching.
 :::
 
-7. Once the installation is complete and the confirmation screen appears, close the installer.
+- Once the installation is complete and the confirmation screen appears, close the installer.
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
 
@@ -244,7 +242,7 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
 - Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-	- Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
+  - Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
 :::danger
 Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
@@ -257,7 +255,7 @@ Failure to run the 4GB Patch will result in a pink screen and/or crash when laun
 - Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
 - Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
 
-	![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
+  ![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
   - **DO NOT** download the versions available in the Ready Builds or Testing channels.
 
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
@@ -265,7 +263,7 @@ Failure to run the 4GB Patch will result in a pink screen and/or crash when laun
 - Name it `[NoDelete] NVR (VLQ) (LQ)`.
 - Select `Replace` when prompted `Mod Exists`.
 
-	![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
+  ![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
 :::note Updating New Vegas Reloaded
 When instructed to update the mod, simply repeat these steps.
@@ -278,39 +276,39 @@ Expand
 
 Linux inherently requires above average operating system knowledge and troubleshooting capability. As such, these instructions are less specific. Support **WILL NOT** be provided for the Linux installation process.
 
-- Requirements:
-	- Windows - Access to Windows via a separate installation or a virtual machine.
- 	- Lutris, Libstrangle, Steam, and SteamTinkerLaunch.
+- **Requirements**:
+  - Windows - Access to Windows via a separate installation or a virtual machine.
+  - Lutris, Libstrangle, Steam, and SteamTinkerLaunch.
 
-- Instructions: 
-	- Follow the Uranium Fever Installation Instructions **ON WINDOWS** up until the [Disable Base Address Randomization](https://uraniumfever.net/docs/setupinstructions#-disabling-base-address-randomization-) section.
-	- Copy the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
-	- Open Lutris, click the `plus arrow`, then search for and install Fallout: New Vegas.
-		- Take note of the installation location.
-		- Test Fallout: New Vegas to ensure it functions prior to proceeding.
-	- Install MO2 via `SteamTinkerLaunch`.
-	- Locate the SteamTinkerLaunch installation of MO2 and copy its `wine prefix folder` over to Lutris **WITHOUT** overwriting any files.
-	- In Lutris, right click `Fallout New Vegas`, `duplicate its folder`, and name it `Uranium Fever`.
-	- Open the `Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters` and `vcrun2022`. Then, `enable fontsmooth-rgb` in winetricks' settings.
-	- Move your Uranium Fever folder into the `Fallout New Vegas wine prefix folder`, preferably next to the `Fallout New Vegas` folder.
-	- Right click the `Uranium Fever` profile and:
-		- In the `Runner Options` tab and change the runner to `wine-ge`.
- 		- In the `Game Options` tab and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever` folder.
-  		- In the `System Options` tab, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
-	- In command prefix, type `strangle 60`.
-	- Launch Uranium Fever through Lutris to open MO2.
-	- In MO2:
-		- In the MO2 settings, navigate to `Paths`, then `Managed Games`. Ensure this path reflects the `Stock New Vegas` folder.
- 		- Change the `Executable Path` for `Uranium Fever Launcher` and `Uranium Fever` to reflect the corresponding executables in the Stock New Vegas folder.
-  		- Open `falloutcustom.ini` and `add iPresentInterval=0 under [Display]`.
-	- Repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section of the Windows installation instructions.
-	- The game should now launch appropriately. Prior to starting a new game, open settings, then `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
+- **Instructions**:
+  - Follow the Uranium Fever Installation Instructions **ON WINDOWS** up until the [Disable Base Address Randomization](https://uraniumfever.net/docs/setupinstructions#-disabling-base-address-randomization-) section.
+  - Copy the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
+  - Open Lutris, click the `plus arrow`, then search for and install Fallout: New Vegas.
+    - Take note of the installation location.
+    - Test Fallout: New Vegas to ensure it functions prior to proceeding.
+  - Install MO2 via `SteamTinkerLaunch`.
+  - Locate the SteamTinkerLaunch installation of MO2 and copy its `wine prefix folder` over to Lutris **WITHOUT** overwriting any files.
+  - In Lutris, right click `Fallout New Vegas`, `duplicate its folder`, and name it `Uranium Fever`.
+  - Open the `Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters` and `vcrun2022`. Then, `enable fontsmooth-rgb` in winetricks' settings.
+  - Move your Uranium Fever folder into the `Fallout New Vegas wine prefix folder`, preferably next to the `Fallout New Vegas` folder.
+  - Right click the `Uranium Fever` profile and:
+    - In the `Runner Options` tab and change the runner to `wine-ge`.
+    - In the `Game Options` tab and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever` folder.
+    - In the `System Options` tab, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
+  - In command prefix, type `strangle 60`.
+  - Launch Uranium Fever through Lutris to open MO2.
+  - In MO2:
+    - In the MO2 settings, navigate to `Paths`, then `Managed Games`. Ensure this path reflects the `Stock New Vegas` folder.
+    - Change the `Executable Path` for `Uranium Fever Launcher` and `Uranium Fever` to reflect the corresponding executables in the Stock New Vegas folder.
+    - Open `falloutcustom.ini` and `add iPresentInterval=0 under [Display]`.
+  - Repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section of the Windows installation instructions.
+  - The game should now launch appropriately. Prior to starting a new game, open settings, then `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
 
-Caveats:
+**Caveats**:
 - MO2's `Nexus Handler` does not work. As Uranium Fever is updated, corresponding updates will need to be installed manually.
 - Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
 - If problems are encountered, launch Lutris with debug output via the terminal by typing in `lutris -d`.
- </details>
+</details>
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
 :::tip Why?
@@ -322,11 +320,11 @@ This step can prevent unforeseen crashes.
 - Open `Exploit Protection Settings` under `Exploit Protection`.
 - Set `Force Randomization for Images (Mandatory ASLR)` to `Use Default (Off)`.
 
-	![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
+  ![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
 :::tip Why?
-This process disables Steam Overlay, which has been known to cause crashes and worsen performance. 
+This process disables Steam Overlay, which has been known to cause crashes and worsen performance.
 :::
 
 - Navigate to your `Steam Folder` (the same folder where `steam.exe` is).
@@ -334,154 +332,129 @@ This process disables Steam Overlay, which has been known to cause crashes and w
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
-  
-	![Steam Overlay 1](https://github.com/user-attachments/assets/49fdeabe-c964-4290-a28d-af6f06a9b1a9)
+
+  ![Steam Overlay 1](https://github.com/user-attachments/assets/49fdeabe-c964-4290-a28d-af6f06a9b1a9)
 
 - In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
 - Click `Apply`, then `Yes`.
 
-	![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
+  ![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 :::tip Why?
-DXVK Cache Storage is known to cause memory related crashes. This step disables the creation of the DXVK cache.
+Disabling DXVK Cache Storage prevents memory-related crashes by halting the creation of the DXVK cache.
 :::
 
-- Press the `Windows button`.
-- Type `Env` in the search bar and click `Edit the system environmental variables`.
-- Click `Environmental Variables`.
-- Click `New` under `User variables for USER NAME`.
-- Type `DXVK_STATE_CACHE` into the `Variable name`.
-- Type `disable` into the `Variable value`.
-- Click `OK`.
-- Exit `Environmental Variables`.
+- Press the `Windows` button.
+- Search for `Env` and click `Edit the system environmental variables`.
+- In the dialog box, click `Environmental Variables`.
+- Under `User variables for USER NAME`, click `New`.
+- Enter `DXVK_STATE_CACHE` in the `Variable name` field.
+- Enter `disable` in the `Variable value` field.
+- Click `OK` and exit the `Environmental Variables` window.
 
-	![Cache](https://github.com/user-attachments/assets/6bb4cd54-1c6f-4e91-b3ff-006cd95576f7)
+  ![Cache](https://github.com/user-attachments/assets/6bb4cd54-1c6f-4e91-b3ff-006cd95576f7)
 
 - Delete any existing DXVK Cache:
-	- Steam Users:
-		- Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
-  	- GOG Users:
-  		- Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
-- Restart your computer for this to take effect.
+  - **Steam Users**:
+    - Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
+  - **GOG Users**:
+    - Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
+
+- Restart your computer for changes to take effect.
 
 ### <p align="center"> ![Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/f83c6525-1de0-415e-bf59-88d03053bf07) </p>
 :::tip Why?
-FPS limiters make the game feel smoother by preventing rapid FPS fluctuations and also prevent timescale desync bugs.
+FPS limiters make the game smoother by reducing rapid FPS fluctuations and preventing timescale desync bugs.
 :::
 
-- Install and launch [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
+- Download and install [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
 - Open the `System Tray` and click the `RTSS icon`.
 
-	![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
+  ![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
 
-- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, then click `ok`.
-	- RTSS will detect any running instance of `FalloutNV.exe` regardless of the file path origin.
+- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`. Click `OK`.
 
- 	![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
+  ![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
 
 - Select `FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-	- Some users with powerful GPUs may increase this value, though the framerate limit should not exceed more than 0.05 less than the refresh rate of the associated monitor, and should be consistently achievable without significant sustained drops. Setting this too low may result in poor performance and long load screens.
+  - Users with powerful GPUs can increase this value. However, it should not exceed more than `0.05` less than the monitor's refresh rate and should remain stable without significant drops. Setting it too low can cause poor performance and long loading times.
 
-	![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
+  ![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
 
-- Enter the settings using the `Setup` button.
-- Scroll down and enable `Passive Waiting`.
-- Set `Framerate Limiter` to `Front Edge Sync`.
-- Select `OK` then **MINIMIZE** (not close) RTSS back to the System Tray.
+- Open the settings using the `Setup` button.
+- Enable `Passive Waiting` and set `Framerate Limiter` to `Front Edge Sync`.
+- Click `OK`, then **MINIMIZE** (not close) RTSS back to the System Tray.
 
-	![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
+  ![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
 ### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
-
 :::tip Why?
-This enables Flip Model (DXVK with DXGI), which improves latency and provides HDR and VRR support.
+Enabling Flip Model (DXVK with DXGI) reduces latency and supports HDR and VRR.
 :::
 
 - Download the premade [ModdingLinked - Fallout: New Vegas Nvidia Driver Profile](https://performance.moddinglinked.com/files/FNV-NvidiaProfile.nip).
-- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.4/nvidiaProfileInspector.zip) and `extract the contents of the archive`.
-- Run the newly extracted `Nvidia Profile Inspector`, click `Import user defined profiles`, then select `Import Profiles`.
+- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.4/nvidiaProfileInspector.zip) and extract the contents.
+- Run `Nvidia Profile Inspector` and click `Import user defined profiles`, then select `Import Profiles`.
 
-	![Import Nvidia Profile](https://github.com/user-attachments/assets/976cfd96-b6ff-4c95-ac87-2b888c2dbaa2)
+  ![Import Nvidia Profile](https://github.com/user-attachments/assets/976cfd96-b6ff-4c95-ac87-2b888c2dbaa2)
 
 - Select `FNV-NvidiaProfile.nip` and click `Open`.
 
-	![Selecting Premade Nvidia Profile](https://github.com/user-attachments/assets/ad14fe39-3b9a-452e-8b99-e5ad65ccc3a8)
+  ![Selecting Premade Nvidia Profile](https://github.com/user-attachments/assets/ad14fe39-3b9a-452e-8b99-e5ad65ccc3a8)
 
-- Click `OK` on the on the `Profile Successfully Imported!` prompt.
+- Click `OK` on the `Profile Successfully Imported!` prompt.
 
-	![Nvidia Sucessfully Imported](https://github.com/user-attachments/assets/178cdbc0-cdf1-499c-bd7d-77aecc973e41)
+  ![Nvidia Successfully Imported](https://github.com/user-attachments/assets/178cdbc0-cdf1-499c-bd7d-77aecc973e41)
 
-- Click `Apply Changes` then close the program.
+- Click `Apply Changes`, then close the program.
 
-	![Apply Nvidia Profile](https://github.com/user-attachments/assets/3cf964e6-fb5d-4407-a0dc-16d0f45b90b7)
+  ![Apply Nvidia Profile](https://github.com/user-attachments/assets/3cf964e6-fb5d-4407-a0dc-16d0f45b90b7)
 
 :::warning Driver Updates
-This step will need to be repeated every time Nvidia drivers are updated.
+Repeat this process after every Nvidia driver update.
 :::
 
-- Navigate to the NVIDIA app settings and turn off the `NVIDIA overlay`, as it can impact performance.
+- Disable the `NVIDIA overlay` in the NVIDIA app settings, as it can reduce performance.
 
-	![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
+  ![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
 ### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
-- In MO2, select `Uranium Fever` from the large dropdown list in the top middle, then select a profile.
+- In MO2, select `Uranium Fever` from the dropdown in the top middle, then choose a profile.
 
-	![UFProfile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
+  ![UF Profile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
 
-  - High Quality Profile
-    - All mods in Uranium Fever are enabled.
-    - All Uranium Haze settings are enabled.
-  - Standard Quality
-    - All mods in Uranium Fever are enabled.
-    - Several performance intensive settings in Uranium Haze have been disabled or adjusted:
-      - Disabled the shadow shaders.
-      - Disabled the terrain parallax shader.
-      - Disabled the wetworld shader.
-      - Reduced Real Time Reflection render distance.
-  - Low Quality Profile
-    - Disables the most performance intensive mod in Uranium Fever:
-      - Disabled New Vegas Reloaded, Uranium Haze, and all associated dependencies.
-  - Very Low Quality Profile
-    - Disables several performance intensive mods:
-      - New Vegas Reloaded, Uranium Haze, and all associated dependencies.
-      - Radiation Visuals
-      - Real Time Reflections (functionally disabled by reducing render distance to 0)
-      - Lumen
-      - Afterglow
-      - Vending Machine Flicker Emits Light
-      - Bullet Trails
-      - Energy Visuals Plus
-  - Debugging Profile
-    - Only Tale of Two Wastelands and its essential mods are enabled:
-      - Useful for mod authors that opt to create mods while using Uranium Fever.
-      - Useful for troubleshooting bugs.
+  - **High Quality Profile**: Enables all mods and settings.
+  - **Standard Quality Profile**: Disables several performance-intensive settings (e.g., shadow shaders, terrain parallax shader).
+  - **Low Quality Profile**: Disables New Vegas Reloaded, Uranium Haze, and related mods.
+  - **Very Low Quality Profile**: Further reduces settings and disables additional visual mods.
+  - **Debugging Profile**: Minimal load order, only essential mods enabled.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
-- The game **CANNOT** be launched outside of MO2. Launching from Steam or GOG **WILL FAIL** to launch Uranium Fever.
-- In MO2, select `Uranium Fever` from the dropdown list in the top right, then click `run`.
+
+- Launch the game via MO2. Launching from Steam or GOG **will fail**.
 
 :::danger Crashing During Game Launch
-Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
+Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
 :::
 
-- After starting a new game, open the pause menu and press `K` to see the `Keybinds and associated legend`. More details are included below in the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference) section.
+- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference).
 
-	![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
+  ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
 :::danger Desktop Shortcuts
-**DO NOT** create a desktop shortcut. If run after updating Uranium Fever, this will cause your load order to be scrambled.
+Do **NOT** create desktop shortcuts. Updating Uranium Fever will scramble the load order.
 :::
 
-### <p align="center"> ![Optional - Storage Space Clean Up](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
+### <p align="center"> ![Optional - Storage Space Cleanup](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 :::tip Optional
-This is an optional step to remove ~50GB of unneeded archives from your computer. Only follow this step when critically low on storage space. Many deleted archives **WILL** need to be redownloaded when updating Uranium Fever.
+This step removes ~50GB of unnecessary archives but requires re-downloading files when updating Uranium Fever.
 :::
 
-- Confirm that the game launches and runs appropriately **BEFORE** following this step.
-- Navigate to the `C:\Modding\Uranium Fever` folder and delete the `downloads` folder.
+- Confirm the game runs properly **BEFORE** proceeding.
+- Navigate to `C:\Modding\Uranium Fever` and delete the `downloads` folder.
