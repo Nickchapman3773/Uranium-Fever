@@ -29,6 +29,7 @@ Ensure the following file paths exist, though the Root Directory may vary:
 ### <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
 :::tip Why?
 This process prevents Windows from blocking MO2 and associated mod files from loading.
+:::
  
 - Open `Windows Security`.
 - Open `Virus & Threat Protection`.
