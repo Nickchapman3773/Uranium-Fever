@@ -70,11 +70,11 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 This step ensures a **SELF-CONTAINED** installation that won't interfere with existing modded setups.
 :::
 
-1. Navigate to `C:\STEAM\GOG\Fallout New Vegas` and:
+1. Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and:
    - Move the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
    - **If** no alternate modded instance exists, delete the `Fallout New Vegas` folder instead.
 
-2. Navigate to `C:\Users\USERNAME\Documents\My Games` and:
+2. Navigate to `C:\Users\[USERNAME]\Documents\My Games` and:
    - Move the `FalloutNV` folder to the desktop.
    - **If** no alternate modded instance exists, delete the `FalloutNV` folder instead.
 
@@ -132,13 +132,13 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
-- Navigate to the newly **reinstalled** `C:\STEAM\GOG\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - Move `GECK.exe` from `C:\Modding\Uranium Fever` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
-  - Move your `Fallout New Vegas` folder from your desktop back into the `C:\STEAM\GOG` folder where it originated, selecting `Replace` when prompted.
-  - Move your `FalloutNV` folder from your desktop back into the `C:\Users\USERNAME\Documents\My Games` folder, selecting `Replace` when prompted.
+  - Move your `Fallout New Vegas` folder from your desktop back into the `C:\[STEAM or GOG FILEPATH]` folder where it originated, selecting `Replace` when prompted.
+  - Move your `FalloutNV` folder from your desktop back into the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
 #### Step 3: Verifying Files in the Clean Stock New Vegas Folder
 - The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without some of the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
