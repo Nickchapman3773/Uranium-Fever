@@ -24,19 +24,19 @@ sidebar_label: 1.1.1.0 - Dec 1, 2024
   - Enabled built-in fog remover, please remove the simple fog remover mod.
 
 **Notes:**
-- Some textures shimmer with the PBR shader enabled. This is due to flaws in the creation of the texture. Salamander is working to retexture the culprits.
+- Some textures shimmer with the PBR shader enabled. This is due to flaws in the creation of the texture. Salamand3r is working to retexture the culprits.
 
 **Updating:**
 - Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
 - Updating from versions earlier than 1.0.0.0 requires a full reinstallations and new saves.
 - Updates from 1.0.0.0 onward are save-safe unless otherwise specified.
-- Altered or outdated lists will not be supported.
+- Altered or outdated lists will not be supported
 - Notifications of missing mods post-update are normal and reflect plugin merging.
 
 - **CRITICAL**: For updates from pre-1.1.0.0 versions, review the 1.1.0.0 patch notes for DXVK update instructions.
 - **CRITICAL**: For updates from pre-1.1.0.1 versions, review the 1.1.0.1 patch notes for NVR renaming instructions.
 
-- **CRITICAL**: NVR must be updated to the new Nightly Build. To do so, repeat [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-). After installing, open the Overwrite folder at the bottom of the Mod Organizer 2 modlist, and delete the Shaders folder.
+- **CRITICAL**: NVR must be updated to the new Nightly Build. To do so, repeat [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-). After installing, open the `Overwrite` folder at the bottom of the Mod Organizer 2 modlist, and delete the `Shaders` folder.
 
 **Community:**
 - Submit Uranium Fever screenshots to the UF-screen-archery channel on Discord!
