@@ -132,7 +132,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
-- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 - Move `GECK.exe` from `C:\Modding\Uranium Fever` to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` **IF** prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
