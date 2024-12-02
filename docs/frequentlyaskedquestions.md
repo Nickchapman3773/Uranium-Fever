@@ -8,67 +8,60 @@ sidebar_label: Frequently Asked Questions
 # ![Frequently Asked Questions Banner](https://github.com/user-attachments/assets/b491a1d0-15e0-4a4a-a0c3-1f99cebb5bdf)
 
 :::tip
-The best way to utilize this page is to use `Ctrl + F` to search for desired keywords.
+To find information quickly, use `Ctrl + F` to search for relevant keywords.
 :::
 
 :::danger Troubleshooting
-The first steps to be taken for any installation error or launch crash include:
-- Confirming ownership of a supported version of `Fallout: New Vegas`, `Fallout 3`, and all associated DLCs, as outlined in [Requirements](https://uraniumfever.net/docs/requirements).
-- Logging out of and back into Nexus in the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
-- Ensuring the Manual Downloads were appropriately downloaded and moved into the correct location, as outlined in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
-- Confirming that the required Runtimes and Frameworks were installed, as outlined in [Requirements](https://uraniumfever.net/docs/requirements).
-- Restarting your computer.
-- Ensuring that you have the appropriate version of DXVK, as outlined in [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
-- Rerunning the Uranium Fever Wabbajack Installer as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-). The Installer will resume where it last left off, attempting to correct any errors as it does so.
-- Ensuring that the Tale of Two Wasteland filepath and mod size are correct, as outlined in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
-- If persistent despite the above steps, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- If further assistance is required, visit [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
+For any installation errors or launch crashes, perform these steps:
+- Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
+- Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
+- Ensure Manual Downloads were correctly placed, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
+- Confirm required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
+- Restart your computer.
+- Check you have the correct DXVK version, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- Re-run the Uranium Fever Wabbajack Installer, which will attempt to fix errors while resuming from the last progress point.
+- Verify Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
+- If issues persist, delete the `Uranium Fever` folder and restart the installation.
+- For further help, refer to [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
 :::
 
-- **Abbreviations - There are a bunch of abbreviations in mod names in Mod Organizer 2. What do they mean?**
-  - The abbreviations are an organizational framework that simplify the maintenance of Uranium Fever.
-  - OP - The mod has been optimized in some fashion.
-  - MG - The plugin has been merged into a master patch.
-  - FL - The plugin has been flagged as ESM.
-  - INF - The mod has been inlined into the Uranium Fever Wabbajack Installer.
-  - AEN - The mod has been included despite defaulting to disabled.
-  - CDN - The mod is being hosted on the Wabbajack server.
-  - SQ - The mod is disabled in the Standard Quality Profile.
-  - LQ - The mod is disabled in the Low Quality Profile.
-  - VLQ - The mod is disabled in the Very Low Quality Profile.
+- **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
+  - These abbreviations help organize and maintain Uranium Fever:
+    - **OP**: Optimized mod.
+    - **MG**: Plugin merged into a master patch.
+    - **FL**: Plugin flagged as ESM.
+    - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
+    - **AEN**: Mod included but defaulted to disabled.
+    - **CDN**: Mod hosted on the Wabbajack server.
+    - **SQ, LQ, VLQ**: Mod disabled in Standard, Low, or Very Low Quality profiles.
 
-- **Application load error P:0000065432 - I am getting an error called Application load error P:0000065432. How do I fix it?**
-  - Refer to the Steam PCR Users instructions in the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section.
+- **Application Load Error P:0000065432 - How do I fix this error?**
+  - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
 
-- **Altering Uranium Fever - Can I modify mods in Uranium Fever?**
-  - Official support is not provided for modified lists. However, the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) channel on Discord allows community members to assist each other.
+- **Altering Uranium Fever - Can I modify the mods?**
+  - Modifying the list voids official support. Use the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel for community assistance.
 
-- **Cannibal Perk - Why doesn’t the cannibalize function from the Cannibal perk work?**
-  - You must be crouching to use the cannibalize function.
+- **Cannibal Perk - Why doesn’t the cannibalize function work?**
+  - Ensure you’re crouching to use the cannibalize feature.
 
-- **Clean Install - Do I need a clean install of Fallout: New Vegas and Fallout 3 to use Uranium Fever?**
-  - No. Uranium Fever is fully self-contained and independent of your regular Fallout installations!
- 
-- **Climbable Ladders - Can I climb any ladders in the game?**
-  - The climbable ladder mod only affects water towers currently. To utilize this, look at the ladder and press the activate key to begin climbing. Once you are at the top press the activate key to get off the ladder.
+- **Clean Install - Do I need a clean installation of Fallout: New Vegas and Fallout 3?**
+  - No, Uranium Fever is fully self-contained and independent of your existing Fallout installations.
 
-- **Controller Support - Does Uranium Fever support controllers?**
-  - Unfortunately, no. Creating a unified scheme for various equipment and platforms proved challenging. We recommend using Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
+- **Climbable Ladders - Which ladders can I climb?**
+  - Only water tower ladders are climbable. Look at the ladder and press the activate key to climb. Use the activate key again to dismount at the top.
 
-- **Crashing - My game crashes. How can I fix it?**
-  - Post your crash log (located in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the Uranium Fever Support channel on Discord.
-  - If you’ve modified the list, use the modified Uranium Fever support channel. Note that altering Uranium Fever voids official support.
+- **Controller Support - Is there controller support?**
+  - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
 
-- **Dialogue Skill Indicator - Why don’t I see the skill check indicator in dialogue like in the original game?**
-  - This feature has been intentionally removed to prevent players from knowing if they’ll pass a skill check.
+- **Crashing - How do I troubleshoot game crashes?**
+  - Share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the Discord support channel.
+  - For altered lists, use the modified Uranium Fever support channel.
 
-- **Death, Reload, and Save Consequences - Can I disable Death, Reload, and Save Consequences? I do not understand why I am being charged caps to save and reload.**
-  - Yes, you can disable this by disabling Death, Reload, and Save Consequences and Death, Reload, and Save Consequences - Uranium Fever Patch in the Mod Organizer 2 Optional Settings & Additions separator.
-  - However, we consider this mod to be critical for well-balanced gameplay.
-  - The philosophy behind this is that the player can easily save and reload games when preparing for difficulty scenarios, including combat, lockpicking, hacking, or other luck based scenarios, thus ensuring a perfect outcome.
-  - To prevent the player from abusing this, a small cost (2.5% of total caps) has been imparted on creating quicksaves and reloading.
-  - Automatic saves created by save manager (configured to every 60 seconds), saves created while exiting the game, and loads performed while starting the game are free.
-  - This will force the player into unique scenarios they would otherwise avoid, such as fighting with a crippled arm, or continuing after the death of a companion.
+- **Dialogue Skill Indicator - Why was it removed?**
+  - This feature was intentionally removed to enhance immersion and prevent metagaming.
+
+- **Death, Reload, and Save Consequences - Can I disable these?**
+  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator. However, this mechanic is considered integral to gameplay balance.
 
 - **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
   - **Capital Wasteland:**
