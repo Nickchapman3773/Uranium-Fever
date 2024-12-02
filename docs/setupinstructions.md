@@ -137,8 +137,8 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
-  - Move your `Fallout New Vegas` folder from your desktop back into the `C:\[STEAM or GOG FILEPATH]` folder where it originated, selecting `Replace` when prompted.
-  - Move your `FalloutNV` folder from your desktop back into the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
+  - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
+  - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
 #### Step 3: Verifying Files in the Clean Stock New Vegas Folder
 - The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without some of the GECK files). If any **ADDITIONAL** files **NOT INCLUDED** in the following screenshots are present within this folder, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
