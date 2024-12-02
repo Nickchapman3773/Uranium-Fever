@@ -153,7 +153,7 @@ Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and wi
     ![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
 :::danger Extra Files
-Extra files beyond those included in the above screenshots indicate unsuccessful creation of a `clean [NoDelete] Stock New Vegas` and will prevent the game from launching.
+Extra files beyond those included in the above screenshots indicate unsuccessful creation of a clean `[NoDelete] Stock New Vegas` and will prevent the game from launching.
 :::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
