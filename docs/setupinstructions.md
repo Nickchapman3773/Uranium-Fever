@@ -67,7 +67,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
 :::tip Self-Contained
-This step ensures a **SELF-CONTAINED** installation that won't interfere with existing modded setups.
+This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
 - Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and:
@@ -116,7 +116,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
 - Close Wabbajack.
 
-:::danger Red `Installation Failed` Notification
+:::danger Red `INSTALLATION FAILED` Notification
 - Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
@@ -126,7 +126,7 @@ Let the installation **FINISH** prior to starting the following sections.
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
 :::tip Self-Contained
-This is part two of a process that creates a **SELF-CONTAINED** installation that does not interfere with any other modded installation of Fallout: New Vegas.
+This is part two of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 
 **SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 :::
