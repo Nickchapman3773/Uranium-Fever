@@ -141,16 +141,19 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
 #### Step 3: Verifying Files in the Clean Stock New Vegas Folder
-- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files (with or without some of the GECK files). If **EXTRA** files **NOT INCLUDED** in the following screenshots are present, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
+- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files. If **EXTRA** files **NOT INCLUDED** in the following screenshots are present, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
+
+:::note
+Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and will not negatively impact your installation.
+:::
+
   - Steam - `[NoDelete] Stock New Vegas` file contents:
     ![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
   - GOG - `[NoDelete] Stock New Vegas` file contents:
     ![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
-:::danger No Extra Files
-Extra files inside of the Stock New Vegas folder will result in an error when launching the game. These extra files are most often a byproduct of prior modded instances or playthroughs of Fallout 3 or Fallout: New Vegas. As such, the above steps are **CRITICAL**.
-
-The `GECK` files and `SSCE5432.dll` may be missing. If this is the case, this will not impact your installation.
+:::danger Extra Files
+Extra files beyond those included in the above screenshots indicate unsuccessful creation of a clean `[NoDelete] Stock New Vegas` and will prevent the game from launching.
 :::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
