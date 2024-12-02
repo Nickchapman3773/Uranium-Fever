@@ -34,7 +34,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 - Open `Windows Security`.
 - Go to `Virus & Threat Protection`.
 - Under `Virus & Threat Protection Settings`, select `Manage Settings`.
-- Scroll to `Exclusions` and click `Add or Remove Exclusions`.
+- Scroll to `Exclusions` and select `Add or Remove Exclusions`.
 - Add exclusions for:
   - `C:\Modding\Uranium Fever`
   - `C:\Modding\Wabbajack`
