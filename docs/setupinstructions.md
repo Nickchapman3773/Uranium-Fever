@@ -455,7 +455,7 @@ Do **NOT** create desktop shortcuts. Updating Uranium Fever will scramble the lo
 
 ### <p align="center"> ![Optional - Storage Space Cleanup](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 :::tip Optional
-This step removes ~50GB of unnecessary archives but requires re-downloading files when updating Uranium Fever.
+This step removes ~50GB of unnecessary archives but requires re-downloading files when updating Uranium Fever. This is not recommended unless extra storage space is critically necessary.
 :::
 
 - Confirm the game runs properly **BEFORE** proceeding.
