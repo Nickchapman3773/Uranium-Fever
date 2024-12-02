@@ -255,11 +255,14 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
 :::danger Required Mod
 :::
 
-- Navigate to [TES Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
-- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel.
+- Navigate to [New Vegas Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
+- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel in the `NEWVEGASRELOADED` category.
 
   ![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
-  - **DO NOT** download the versions available in the Ready Builds or Testing channels.
+
+:::warning
+ **DO NOT** download the versions available in the Ready Builds or Testing channels.
+:::
 
 - Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be).
 - Select the `NewVegasReloaded.zip` from your `Downloads` folder and name it `[NoDelete] NVR (VLQ) (LQ)`.
