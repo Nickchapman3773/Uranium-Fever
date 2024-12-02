@@ -176,12 +176,12 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 :::
 
 - **Intel iGPU users:**
-	- Navigate to the `Uranium Fever > DXVK` folder.
-	- Move the `d3d9.dll` and `dxvk.conf` files from the `DXVK 1.10.1` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+	- Navigate to the `C:\Modding\Uranium Fever\DXVK\DXVK 1.10.1` folder.
+	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 - **GPUs without Vulkan support:**
-	- Navigate to the `Uranium Fever > DXVK` folder.
-	- Move the `d3d9.dll` and `dxvk.conf` files from the `1.10.3` folder into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+ - Navigate to the `C:\Modding\Uranium Fever\DXVK\DXVK 1.10.3` folder.
+	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
