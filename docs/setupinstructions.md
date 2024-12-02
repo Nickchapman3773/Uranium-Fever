@@ -199,8 +199,7 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 
 	![Game Settings](https://github.com/user-attachments/assets/7b3de77d-03f8-4f86-82b2-8411b5f98dd0)
 
-:::tip Steam Polish-Czech-Russian (PCR) Version Users
-Steam PCR users should:
+:::tip Steam Polish-Czech-Russian (PCR) Version
 - Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
 - Select `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
 
