@@ -54,7 +54,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 :::danger Required Mods
 :::
 
-- Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing). When prompted, click `Download anyway` for the Google Drive links that open.
+- Download and run [Manual Downloads.bat](https://drive.google.com/file/d/11qu8i0fHgCYord0Tw6V3-5VmdY_j8rlj/view?usp=sharing). When prompted, select `Download anyway` for the Google Drive links that open.
 - Verify that the following archives are in the `downloads` folder. If any are missing, download them manually:
   - [Ghouls](https://drive.usercontent.google.com/download?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download&authuser=0)
   - [MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0](https://drive.usercontent.google.com/download?id=1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi&export=download&authuser=0)
