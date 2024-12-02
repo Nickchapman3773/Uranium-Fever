@@ -102,7 +102,7 @@ sidebar_label: Mod Feature Reference List
   - Commission weapon mods for your equipped weapon from vendors.
   - Mouse over vendor, press Grab (`G`), and follow instructions.
   - Supported Vendors:
-    - Vendortron, Gloria Van Graff, Torres, Mick, Boomers Munitions Manager, 188 Arms Merchant, Khan Armorer, SINK, Commissary, Flak/Shrapnel, Friday (The Pitt), Pronto, Durga, Uncle Roe.
+    - Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Commissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
 
 - **Open Inventory:**
   - Press `I`.
@@ -186,6 +186,6 @@ sidebar_label: Mod Feature Reference List
   - Activate modes for compatible headgear using Pip-Boy charge (Small Energy Cells).
   - Hold Grab (`G`) and press Flashlight (`Tab`).
 
-- **Weapon Wheel:**
+- **Weapon Hweel:**
   - Open: Hold `7`.
   - Bind: Open Weapon Inventory, hold hotkeys (`1-4`), and select weapon.
