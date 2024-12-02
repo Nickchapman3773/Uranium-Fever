@@ -105,7 +105,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 - `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
   - This filepath may differ slightly depending on the version of Wabbajack and Uranium Fever.
-- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Modlist Installation Location`, changing the Root Directory path if necessary.
+- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Modlist Installation Location`.
 - `Resource Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
 - Enable the `Overwrite Installation` checkbox.
 
