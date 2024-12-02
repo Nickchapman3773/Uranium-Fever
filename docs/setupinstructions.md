@@ -144,7 +144,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 - The clean `[NoDelete] Stock New Vegas` folder should now contain the following files. If **EXTRA** files **NOT INCLUDED** in the following screenshots are present, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
 
 :::note
-Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and will not negatively impact your installation.
+Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and will not negatively impact the installation.
 :::
 
   - Steam - `[NoDelete] Stock New Vegas` file contents:
