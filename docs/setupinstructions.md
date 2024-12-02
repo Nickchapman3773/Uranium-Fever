@@ -217,16 +217,17 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 
 - Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the archive.
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
-- Verify that the `Fallout 3` file path matches your Steam or GOG Fallout 3 installation path (this is usually auto-configured).
+- Verify that the `Fallout 3` file path matches your Steam/GOG Fallout 3 installation path.
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+
+:::warning Confirm the File Path
+Ensure installation is directed to `C:\Modding\Uranium Fever\MODS\[NoDelete] Tale of Two Wastelands`. Installing outside of the `mods` folder will prevent the game from launching.
+:::
+
 - Click `Install`.
 
 	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
-
-:::warning Confirm the File Path
-Ensure installation is directed to `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`. Installing to the Uranium Fever root folder will prevent Uranium Fever from launching.
-:::
 
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
@@ -235,11 +236,11 @@ Ensure installation is directed to `C:\Modding\Uranium Fever\mods\[NoDelete] Tal
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] Tale of Two Wastelands` folder, select `Properties`, and verify that the folder size is exactly 17GB.
 
-If not, delete the `[NoDelete] Tale of Two Wastelands` and `[NoDelete] Stock New Vegas` folders. Then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
+If not, delete the `[NoDelete] Tale of Two Wastelands` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
 :::
 
 :::warning
-The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** simply be moved into the Uranium Fever TTW mod folder. The TTW installation process performs BSA decompression, binary patching, and sound file extension alterations, which are critical for a functional TTW copy.
+The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** be moved into the Uranium Fever TTW mod folder. The TTW installation process performs BSA decompression, binary patching, and sound file extension alterations, which are critical for a functional installation.
 :::
 
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
