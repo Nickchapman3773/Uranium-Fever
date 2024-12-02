@@ -222,7 +222,7 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
 :::warning Confirm the File Path
-Ensure installation is directed to `C:\Modding\Uranium Fever\MODS\[NoDelete] Tale of Two Wastelands`. Installing outside of the `mods` folder will prevent the game from launching.
+Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] Tale of Two Wastelands`. Installing outside of the `mods` folder will prevent the game from launching.
 :::
 
 - Click `Install`.
