@@ -172,7 +172,7 @@ Extra files beyond those included in the above screenshots indicate unsuccessful
 :::warning Pre-Bundled DXVK
 The latest version of DXVK comes included with Uranium Fever.
 
-Intel iGPUs and older GPUs without Vulkan support are incompatible with this version and must use a downgraded DXVK version.
+Intel iGPUs and older GPUs without Vulkan support are incompatible with the bundled version of DXVK and must instead use a downgraded version.
 :::
 
 - **For Intel iGPU users:**
