@@ -244,11 +244,11 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 :::
 
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
-- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
-  - Run `FNVpatch.exe`. A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`.
+- A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
 
 :::danger
-Failure to run the 4GB Patch will result in a pink screen and/or crash when launching the game.
+Failure to run the 4GB Patch will result in a pink screen or crash when launching the game.
 :::
 
 ### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
