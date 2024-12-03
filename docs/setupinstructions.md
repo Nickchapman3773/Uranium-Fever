@@ -296,8 +296,8 @@ Linux inherently requires above average operating system knowledge and troublesh
   - Open the `Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters` and `vcrun2022`. Then, `enable fontsmooth-rgb` in winetricks' settings.
   - Move your Uranium Fever folder into the `Fallout New Vegas wine prefix folder`, preferably next to the `Fallout New Vegas` folder.
   - Right click the `Uranium Fever` profile and:
-    - In the `Runner Options` tab and change the runner to `wine-ge`.
-    - In the `Game Options` tab and `change the executable path` to the `modorganizer.exe` in the `Uranium Fever` folder.
+    - In the `Runner Options` tab, change the runner to `wine-ge`.
+    - In the `Game Options` tab, `change the executable path` to the `modorganizer.exe` in the `Uranium Fever` folder.
     - In the `System Options` tab, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
   - In command prefix, type `strangle 60`.
   - Launch Uranium Fever through Lutris to open MO2.
