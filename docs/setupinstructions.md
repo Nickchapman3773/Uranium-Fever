@@ -285,7 +285,7 @@ Linux inherently requires above average operating system knowledge and troublesh
   - Lutris, Libstrangle, Steam, and SteamTinkerLaunch.
 
 - **Instructions**:
-  - Follow the Uranium Fever Installation Instructions **ON WINDOWS** up until the [Disable Base Address Randomization](https://uraniumfever.net/docs/setupinstructions#-disabling-base-address-randomization-) section.
+  - Follow all of the above installation instructions **ON WINDOWS**.
   - Copy the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
   - Open Lutris, click the `plus arrow`, then search for and install Fallout: New Vegas.
     - Take note of the installation location.
