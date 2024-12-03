@@ -352,7 +352,7 @@ Disabling DXVK Cache Storage prevents memory-related crashes by halting the crea
 :::
 
 - Press the `Windows` button.
-- Search for `Env` and click `Edit the system environmental variables`.
+- Search for `Env`, then select `Edit the system environmental variables`.
 - In the dialog box, click `Environmental Variables`.
 - Under `User variables for USER NAME`, click `New`.
 - Enter `DXVK_STATE_CACHE` in the `Variable name` field.
