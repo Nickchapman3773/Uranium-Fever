@@ -331,7 +331,7 @@ This step can prevent unforeseen crashes.
 This process disables Steam Overlay, which has been known to cause crashes and worsen performance.
 :::
 
-- Navigate to your `Steam Folder` (the same folder where `steam.exe` is).
+- Navigate to the `Steam Root Folder` (where `steam.exe` is located).
 - Right click `GameOverlayRenderer.dll` and open `properties`.
 - Open the `security tab` and click `edit`.
 - Click the `Deny` option under `Read & Execute` for every user.
