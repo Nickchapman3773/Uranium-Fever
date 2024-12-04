@@ -429,14 +429,14 @@ Repeat this process after every Nvidia driver update.
 
 ### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
-- In MO2, select `Uranium Fever` from the dropdown in the top middle, then choose a profile.
+- In MO2, select `Uranium Fever` from the dropdown menu, then choose a profile.
 
   ![UF Profile](https://github.com/user-attachments/assets/18d341e3-7c9d-49eb-b770-ca2ed36ea3c9)
 
   - **High Quality Profile**: Enables all mods and settings.
-  - **Standard Quality Profile**: Disables several performance-intensive settings (e.g., shadow shaders, terrain parallax shader).
+  - **Standard Quality Profile**: Disables several performance-intensive New Vegas Reloaded settings (e.g., shadow shaders, terrain parallax shader, and wetworld shader).
   - **Low Quality Profile**: Disables New Vegas Reloaded, Uranium Haze, and related mods.
-  - **Very Low Quality Profile**: Further reduces settings and disables additional visual mods.
+  - **Very Low Quality Profile**: Further reduces settings and disables additional effect and lighting mods.
   - **Debugging Profile**: Minimal load order, only essential mods enabled.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
