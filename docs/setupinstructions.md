@@ -379,7 +379,7 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 
   ![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
 
-- Press the green `Add` button and select `FalloutNV.exe` from the `Steam/GOG directory` **OR** from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`. Click `OK`.
+- Press the green `Add` button and select `FalloutNV.exe` from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`. Click `OK`.
 
   ![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
 
