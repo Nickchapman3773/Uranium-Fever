@@ -441,7 +441,7 @@ Repeat this process after every Nvidia driver update.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 
-- Launch the game via MO2. Launching from Steam or GOG **will fail**.
+- Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
 
 :::danger Crashing During Game Launch
 Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
