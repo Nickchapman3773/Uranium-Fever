@@ -457,7 +457,7 @@ Do **NOT** create desktop shortcuts. This will cause load order abnormalities wh
 
 ### <p align="center"> ![Optional - Storage Space Cleanup](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
 :::tip Optional
-This step removes ~50GB of unnecessary archives but requires re-downloading files when updating Uranium Fever. This is not recommended unless extra storage space is critically necessary.
+This is not recommended unless extra storage space is critically necessary. This step will remove ~50GB of unnecessary archives, though many of these will need to be refownloaded when updating Uranium Fever.
 :::
 
 - Confirm the game runs properly **BEFORE** proceeding.
