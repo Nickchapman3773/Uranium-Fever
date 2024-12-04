@@ -443,16 +443,16 @@ Repeat this process after every Nvidia driver update.
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
 
+  ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
+
 :::danger Crashing During Game Launch
 Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
 :::
 
 - After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference).
 
-  ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
-
-:::danger Desktop Shortcuts
-Do **NOT** create desktop shortcuts. Updating Uranium Fever will scramble the load order.
+:::warning Desktop Shortcuts
+Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
 :::
 
 ### <p align="center"> ![Optional - Storage Space Cleanup](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
