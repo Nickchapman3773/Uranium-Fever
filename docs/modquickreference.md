@@ -113,7 +113,7 @@ sidebar_label: Mod Feature Reference List
   - Buy: Open Radio tab, press `Q`, and select vendor.
 
 - **Portable Craftomatic:**
-  - Access crafting kits on the go.
+  - Portable crafting kit.
   - Mouse over tool, press Activate (`E`).
 
 - **Prone:**
