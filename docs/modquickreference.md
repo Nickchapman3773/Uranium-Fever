@@ -7,6 +7,8 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
+  ![UraniumShot30](https://github.com/user-attachments/assets/45615c58-f3f7-4559-a6f5-2241086ead9d)
+
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
   - Swap Shoulder in 3rd Person: Press `Z`.
@@ -95,8 +97,6 @@ sidebar_label: Mod Feature Reference List
 - **Keybind Quick Display:**
   - View all custom keybinds in Uranium Fever.
   - Open Pause Menu, press `K`.
-
-  ![UraniumShot30](https://github.com/user-attachments/assets/45615c58-f3f7-4559-a6f5-2241086ead9d)
 
 - **Mod Delivery:**
   - Commission weapon mods for your equipped weapon from vendors.
