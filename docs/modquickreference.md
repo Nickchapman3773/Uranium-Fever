@@ -36,7 +36,6 @@ sidebar_label: Mod Feature Reference List
 
 - **B42 Optics:**
   - Toggle Night Vision on Compatible Scopes: Aim down scope (`Right Click`), press Flashlight (`Tab`).
-  - Edit Optic Lenses: `Right Control` + `Enter`.
 
 - **B42 Quickthrow:**
   - Throw: Side Mouse Button 1 (Back Left).
