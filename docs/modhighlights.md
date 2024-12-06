@@ -8,49 +8,49 @@ sidebar_label: Mod Highlights
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/04a080db-7406-45cf-8cc9-3bb18be1f018)
 
 # <p align="center"> ![Balance](https://github.com/user-attachments/assets/7796c80a-53e9-4f38-b2f2-98e2e6642a03) </p>
-- [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts various gameplay elements to provide a more challenging experience, modifying factors such as damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn timing.
-- [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Rebalances the economy to make the barter skill a central component, creating a more punishing economy.
-- [Bullet Time](https://www.nexusmods.com/newvegas/mods/67448) - Replaces VATS with Bullet Time, an AP-based time-scaling feature that emphasizes careful aim and decision-making.
-- [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267) - Revamps the armor degradation system with a more intuitive, customizable, and impactful implementation.
-- [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - Reconstructs and rebalances damage mechanics, introducing bleeding from blade hits and knockdown effects from blunt impacts.
-- [Famine](https://www.nexusmods.com/newvegas/mods/74985) - Enforces resource scarcity to encourage more active use of bartering and crafting.
-- [RAD - Radiation Is Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) - Overhauls the effects of radiation, dehydration, hunger, and sleep deprivation, making them more impactful.
-- [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) - Revamps consumables and miscellaneous items for balanced gameplay.
-- [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) - Adds 16 hardcore-focused healing items and new survival healing options.
-- [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) - Overhauls doctors, sleep, endurance, and radiation removal systems for balanced healing.
-- [SPARE (Sweet Part and Ammo Rebalance and Expansion)](https://www.nexusmods.com/newvegas/mods/83937) - Rebalances ammo crafting, with cohesive recipes, energy cell recharging, new ammo types, and vendor-carried ammo boxes.
-- [SWEEP (Sweet Weapon Enhancement and Expansion Package)](https://www.nexusmods.com/newvegas/mods/81043) - Balances weapon progression and cohesion across the game.
-- [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection abilities, nerfing sniping tactics.
-- [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Compiles AI improvements for more engaging combat.
-- [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for both players and NPCs, enhancing combat flow.
-- [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Adjusts weapon jamming to increase challenge, with fixes and a new jam clearing function.
-- [STARS (Sweet's Total Armor Rework System)](https://www.nexusmods.com/newvegas/mods/76016) - Rebalances armor and integrates top modded armor textures.
-- [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with a heavy, imposing aesthetic, adding new animations and sounds.
-- [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) & [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) - Rebalances perks and adds 99 perks with 22 traits to accommodate various builds.
+- [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts gameplay elements like damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn for a challenging experience.
+- [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Makes the barter skill central to a more punishing economy.
+- [Bullet Time](https://www.nexusmods.com/newvegas/mods/67448) - Replaces VATS with AP-based time-scaling for precise aiming and decision-making.
+- [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267) - Revamps armor degradation for a more intuitive, customizable system.
+- [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - Introduces bleeding from blade hits and knockdown effects from blunt impacts.
+- [Famine](https://www.nexusmods.com/newvegas/mods/74985) - Adds resource scarcity, encouraging bartering and crafting.
+- [RAD - Radiation Is Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) - Overhauls survival mechanics like radiation, hunger, and dehydration for greater impact.
+- [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) - Balances consumables and miscellaneous items.
+- [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) - Adds 16 hardcore-focused healing items and new survival options.
+- [Sweet Healing Systems](https://www.nexusmods.com/newvegas/mods/83473) - Balances doctors, sleep, endurance, and radiation removal systems.
+- [SPARE (Sweet Part and Ammo Rebalance and Expansion)](https://www.nexusmods.com/newvegas/mods/83937) - Overhauls ammo crafting with cohesive recipes, new ammo types, and vendor-carried options.
+- [SWEEP (Sweet Weapon Enhancement and Expansion Package)](https://www.nexusmods.com/newvegas/mods/81043) - Balances weapon progression and cohesion.
+- [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection, nerfing sniping tactics.
+- [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Combines AI improvements for engaging combat.
+- [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for players and NPCs.
+- [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Tweaks weapon jamming mechanics with fixes and a jam-clearing function.
+- [STARS (Sweet's Total Armor Rework System)](https://www.nexusmods.com/newvegas/mods/76016) - Rebalances armor and integrates high-quality modded textures.
+- [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with heavy aesthetics, animations, and sounds.
+- [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) & [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) - Rebalances and expands perks, adding 99 perks and 22 traits.
 
 # <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
-- [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds consequences for environmental hazards like fire, electricity, and toxic sludge.
-- [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Causes unprotected humans and creatures to panic and flee when set on fire.
-- [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows breaking locks by attacking them, adding additional resource-management options.
-- [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Lets players fill bottles from any water source.
-- [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Replaces hacking and lockpicking with well-balanced resource-management mechanics.
-- [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Integrates night vision and thermal vision to select headgear.
-- [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686) - Adds modernized throwable weapon mechanics.
-- [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Enables item purchase directly from store shelves.
-- [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641) - Adds dual-rendered scopes to the game.
-- [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Adds contextual leaning while aiming.
+- [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds environmental hazard consequences like fire and toxic sludge.
+- [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
+- [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows lock-breaking by attacking locks.
+- [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
+- [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Replaces hacking and lockpicking with balanced minigames.
+- [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
+- [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686) - Introduces modern throwable weapon mechanics.
+- [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
+- [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641) - Adds dual-rendered scopes.
+- [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
 # <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
-- [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world with consequences based on player actions.
-- [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809) - Adds carefully balanced new locations to sparse areas of the Mojave Wasteland.
-- [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1) & [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) - Restores and improves previously removed scenery, NPCs, quests, and items.
-- [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) - Adds NPCs and scripted events across the Mojave Wasteland, enhancing immersion.
-- [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569) & [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523) - Adds lore-rich, unique locations throughout the game.
-- [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Overhauls and diversifies Raider factions in the Mojave.
-- [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear, enemies, and encounters.
-- [DMT (Dead Money Tweaks)](https://www.nexusmods.com/newvegas/mods/72139) - Overhauls the Dead Money DLC into a survival horror experience.
-- [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances Point Lookout with new quests and engaging exploration.
-- [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls ample facets of Tale of Two Wastelands for a hardcore cohesive experience.
+- [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
+- [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809) - Adds carefully balanced locations to sparse areas.
+- [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1) & [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) - Restores removed content like NPCs, quests, and scenery.
+- [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) - Adds dynamic NPCs and events for immersion.
+- [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569) & [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523) - Adds lore-rich locations across the game.
+- [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Diversifies Raider factions with unique themes.
+- [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear and encounters.
+- [DMT (Dead Money Tweaks)](https://www.nexusmods.com/newvegas/mods/72139) - Converts Dead Money DLC into survival horror.
+- [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances exploration and quests in Point Lookout.
+- [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls Tale of Two Wastelands for hardcore play.
 
 # <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
 - [3DNPCs Fallout 3](https://www.nexusmods.com/newvegas/mods/83484) & [3DNPCs New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands both Wastelands with quests, companions, and NPCs.
