@@ -92,7 +92,7 @@ For any installation errors or launch crashes, perform these steps:
   - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
 
 - **Failed and Slow Nexus Downloads - Why are my downloads slow or failing?**  
-  - Make sure your Nexus account is connected to Wabbajack. Open Wabbajack settings to link your Nexus account.
+  - Relog into your Nexus account in the Wabbajack settings.
 
 - **Fallout 3 - Is Fallout 3 absolutely required to play Uranium Fever?**  
   - Yes. There is no way to play Uranium Fever without owning Fallout 3 and the associated DLCs.
@@ -119,9 +119,6 @@ For any installation errors or launch crashes, perform these steps:
   - Challenges are a good source of XP.
   - Carry weapons requiring different ammo types. Ammo scarcity will require you to switch weapons frequently.
   - Do not consider the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
-
-- **Flickering - Why are distant objects or mountains flickering?**  
-  - This is called z-fighting. The only available mod to address this is not public and can cause issues like broken render distances.
 
 - **FPS - How can I increase FPS in Uranium Fever?**  
   - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide).  
