@@ -171,7 +171,7 @@ For any installation errors or launch crashes, perform these steps:
   - No. Overwolf causes the game to crash.
 
 - **Pagefile - Should I increase the pagefile size for New Vegas?**  
-  - No. Fallout: New Vegas has a 3.9GB memory limit, so increasing the pagefile won’t prevent memory-related crashes.
+  - No. Fallout: New Vegas has a 3.9GB memory limit, meaning that the pagefile will not even be used prior to memory-related crashes.
 
 - **Parse Errors - Are parse errors during installation an issue?**  
   - No, as long as the installer shows "Complete" at the end.
