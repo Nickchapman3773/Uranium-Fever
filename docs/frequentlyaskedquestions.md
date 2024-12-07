@@ -140,8 +140,8 @@ For any installation errors or launch crashes, perform these steps:
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Launcher - My launcher only shows "Install" and "Options" is greyed out. Why?**  
-  - Re-run the launcher from Steam/GOG to regenerate the necessary INIs. This usually happens after updating Uranium Fever.
+- **Launcher - "Install" and "Options" is greyed out in the launcher. Why?**  
+  - Re-run the launcher from Steam/GOG to regenerate the necessary INIs, then reopen the Uranium Fever Launcher. This can happen after updating Uranium Fever.
 
 - **Level Cap - What is the level cap in Uranium Fever?**  
   - 60, as set by Tale of Two Wastelands.
