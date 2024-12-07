@@ -183,7 +183,7 @@ For any installation errors or launch crashes, perform these steps:
   - No, unless specifically noted. Some plugins may be merged or removed during optimization, which will not have a major impact on your save unless otherwise specified.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
-  - No. The Death Throes plugin used here is stable.
+  - No. The Death Throes replacement plugin used here is stable.
 
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
   - This is intentional and prevents significant performance loss.
