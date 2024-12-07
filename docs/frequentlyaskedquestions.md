@@ -105,7 +105,7 @@ For any installation errors or launch crashes, perform these steps:
 
 - **First Time Playing - I want to experience the intro sequence.**  
   - To experience the intro sequence, disable the `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.  
-  - Please note the intro sequence is known to be associated with bugs, and we will not provide support for associated bugs.
+  - Please note the intro sequence is known to be associated with bugs, and we will not provide support for these bugs.
 
 - **First Time Playing - Do you have any tips on how to be successful?**  
   - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Uranium Fever, despite this being contrary to standard Fallout: New Vegas.
