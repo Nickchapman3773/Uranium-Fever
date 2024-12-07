@@ -135,7 +135,7 @@ For any installation errors or launch crashes, perform these steps:
   - This is an intentional balance design. You will need to pay for several different healing sessions or heal through other means to fully heal.
 
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**  
-  - No, Fallout uses the term HDR to reference the quality of rendering, which is independent of your monitor.
+  - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
