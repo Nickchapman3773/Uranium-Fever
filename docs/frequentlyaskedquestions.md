@@ -198,7 +198,7 @@ For any installation errors or launch crashes, perform these steps:
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
 - **Size - Why is Uranium Fever so large?**  
-  - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB. See [Optional Clean Up](https://uraniumfever.net/docs/setupinstructions#-optional---enabling-the-performance-profile-) for ways to save space.
+  - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB.
 
 - **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**  
   - Select `memory` when prompted after leaving the Vault 101 cave.
