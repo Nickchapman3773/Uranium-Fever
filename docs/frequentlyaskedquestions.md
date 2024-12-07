@@ -111,7 +111,7 @@ For any installation errors or launch crashes, perform these steps:
   - Avoid reducing any SPECIAL stat too low during character creation. No stat is useless in Uranium Fever, despite this being contrary to standard Fallout: New Vegas.
   - Choose two weapon skills to focus on at the start of the game. Ammo is scarce, as are skill points. Melee is powerful, though weapons break easily.
   - All perks and traits have been overhauled. Review their effects carefully, as they may have unintended consequences later on.
-  - Trash is important. Scavenge for everything possible, as selling much of this will be important to gaining enough caps to afford food, ammo, and aid.
+  - Trash is important. Scavenge for everything possible. Selling trash will be important to gaining enough caps to afford food, ammo, and aid.
   - Empty bottles are invaluable for water collection.
   - Food will not provide much healing. The best ways to heal are by sleeping and by visiting doctors.
   - Chems and alcohol can give strong transient buffs, though are also associated with severe drawbacks during times of addiction. Visiting a doctor about the player's addiction will only help for a period of time while the player takes time to naturally recover from their addiction.
