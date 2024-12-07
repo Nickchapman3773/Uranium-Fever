@@ -55,7 +55,7 @@ For any installation errors or launch crashes, perform these steps:
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
 
 - **Crashing - How do I troubleshoot game crashes?**
-  - Share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the Discord support channel.
+  - If the troubleshooting steps above are insuffucient, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the UF-support-unaltered Discord support channel.
   - For altered lists, use the modified Uranium Fever support channel.
 
 - **Dialogue Skill Indicator - Why was it removed?**
