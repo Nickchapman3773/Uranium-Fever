@@ -123,7 +123,7 @@ For any installation errors or launch crashes, perform these steps:
 - **FPS - How can I increase FPS in Uranium Fever?**  
   - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide).  
     Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
-  - Try a lower quality [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-).
+  - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS uses CPU functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
