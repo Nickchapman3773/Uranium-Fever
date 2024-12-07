@@ -17,7 +17,7 @@ sidebar_label: Credits & Thanks
 - [Tale of Two Wastelands](https://mod.pub/ttw/133-tale-of-two-wastelands) and the TTW team for permission to use many of the mod’s unique assets.
 - [Sweet6Shooter](https://next.nexusmods.com/profile/Sweet6Shooter) for extensive balancing support, numerous patches, and a general willingness to help in any way possible.
 - [Salamand3r](https://salamand3r.fail/) for permitting the adaptation of [New Vegas Visual Renewal](https://www.youtube.com/@salamand3r-), [SALVO](https://salamand3r.fail/salvo), and [H2O](https://www.nexusmods.com/newvegas/mods/89085) in early UF versions, and for advice on graphics and hardware.
-- [Stentorious](https://next.nexusmods.com/profile/Stentorious and [SkankingFuchs](https://next.nexusmods.com/profile/kittayman) for substantial troubleshooting efforts and creating custom patches and mods for UF.
+- [Stentorious](https://next.nexusmods.com/profile/Stentorious) and [SkankingFuchs](https://next.nexusmods.com/profile/kittayman) for substantial troubleshooting efforts and creating custom patches and mods for UF.
 - [Thebigchungoose](https://next.nexusmods.com/profile/funny2018memebigchungus) for developing and troubleshooting UF’s Linux installation instructions.
 - [Norvito](https://next.nexusmods.com/profile/Norvito), [ShabbyPirate](https://next.nexusmods.com/profile/ShabbyPirate), and [StrikeXV](https://next.nexusmods.com/profile/Redixes) for advice on early UF iterations.
 - [Ungeziefi](https://next.nexusmods.com/profile/Ungeziefi) for extensive troubleshooting with both Wabbajack and Mod Organizer 2, as well as troubleshooting Kam's broken RAM. :)
