@@ -29,6 +29,7 @@ For any installation errors or launch crashes, perform these steps:
   - These abbreviations help organize and maintain Uranium Fever:
     - **OP**: Optimized mod.
     - **MG**: Plugin merged into a master patch.
+    - **HID**: Merged plugin hidden rather than deleted, to ensure download on the user side.
     - **FL**: Plugin flagged as ESM.
     - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
     - **AEN**: Mod included but defaulted to disabled.
