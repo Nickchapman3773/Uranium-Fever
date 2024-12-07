@@ -18,7 +18,7 @@ For any installation errors or launch crashes, perform these steps:
 - Verify correct management of the Manual Downloads, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
 - Confirm the required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
 - Restart your computer.
-- Check you have the correct DXVK version, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+- Check that you have the correct version of DXVK, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Re-run the Uranium Fever Wabbajack Installer, which will attempt to fix errors while resuming from the last progress point.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation.
