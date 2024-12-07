@@ -98,7 +98,7 @@ For any installation errors or launch crashes, perform these steps:
   - Yes. There is no way to play Uranium Fever without owning Fallout 3 and the associated DLCs.
 
 - **Fast Traveling - Can I fast travel in Uranium Fever?**  
-  - Yes. The only circumstances in which fast travel is prohibited is when over-encumbered or while in combat.
+  - Yes. The only circumstances in which fast travel is prohibited is when over-encumbered, while in combat, or while prohibited by quest content.
 
 - **First Time Playing - Is this list suitable for a Fallout newcomer?**  
   - Yes. This list is ideal for anyone seeking a challenging experience. If Uranium Fever feels overwhelming, consider other TTW/FNV Wabbajack lists.
