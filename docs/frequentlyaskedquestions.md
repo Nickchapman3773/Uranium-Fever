@@ -42,7 +42,7 @@ For any installation errors or launch crashes, perform these steps:
 - **Altering Uranium Fever - Can I modify the mods?**
   - Modifying the list voids official support. Use the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel for community assistance.
 
-- **Cannibal Perk - Why doesn’t the cannibalize function work?**
+- **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
 
 - **Clean Install - Do I need a clean installation of Fallout: New Vegas and Fallout 3?**
