@@ -180,7 +180,7 @@ For any installation errors or launch crashes, perform these steps:
   - You likely skipped the 4GB patching process (`FNVPatch.exe` in `[NoDelete] Stock New Vegas`).
 
 - **Plugin No Longer Present - I'm notified that certain plugins are missing. Is this an issue?**  
-  - No, unless specifically noted. Some plugins may be merged or removed during optimization, which doesn’t affect your save.
+  - No, unless specifically noted. Some plugins may be merged or removed during optimization, which will not have a major impact on your save unless otherwise specified.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
   - No. The Death Throes plugin used here is stable.
