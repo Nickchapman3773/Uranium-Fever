@@ -189,7 +189,7 @@ For any installation errors or launch crashes, perform these steps:
   - This is intentional to prevent significant performance degradation.
 
 - **Runtime Error - I’m getting a runtime error at launch.**  
-  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will **NOT** reinstall the entire list.
+  - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will repair any errors and will be much quicker than the initial installation.
 
 - **Selecting Perks - Why can’t I select a perk every level?**  
   - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
