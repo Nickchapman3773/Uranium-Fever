@@ -218,5 +218,5 @@ For any installation errors or launch crashes, perform these steps:
 - **Updates - Will updating impact my saves?**  
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
 
-- **XP - Sometimes I do not get XP when I kill enemies. Why?**  
-  - XP is reported collectively at the end of combat. If a companion kills a target, the player is not rewarded XP for the kill.
+- **XP - I do not always get XP when I kill enemies. Why?**  
+  - XP is reported collectively at the end of combat and the player will not be rewarded XP for companion kills.
