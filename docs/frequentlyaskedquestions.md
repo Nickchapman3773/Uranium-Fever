@@ -16,7 +16,7 @@ For any installation errors or launch crashes, perform these steps:
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Ensure the Manual Downloads were all downloaded and moved into the correct folder, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
-- Confirm required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
+- Confirm the required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
 - Restart your computer.
 - Check you have the correct DXVK version, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Re-run the Uranium Fever Wabbajack Installer, which will attempt to fix errors while resuming from the last progress point.
