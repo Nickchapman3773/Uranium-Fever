@@ -126,7 +126,7 @@ For any installation errors or launch crashes, perform these steps:
   - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
-  - Yes. RTSS uses CPU functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
+  - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
 - **Hardcore - Can I disable hardcore mode?**  
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
