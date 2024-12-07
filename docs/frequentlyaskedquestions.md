@@ -29,10 +29,10 @@ For any installation errors or launch crashes, perform these steps:
   - These abbreviations help organize and maintain Uranium Fever:
     - **OP**: Optimized mod.
     - **MG**: Plugin merged into a master patch.
-    - **HID**: Merged plugin hidden rather than deleted, to ensure download on the user side.
+    - **HID**: Plugin hidden following merge.
     - **FL**: Plugin flagged as ESM.
     - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
-    - **AEN**: Mod included but defaulted to disabled.
+    - **AEN**: Mod included but defaults to disabled.
     - **CDN**: Mod hosted on the Wabbajack server.
     - **SQ, LQ, VLQ**: Mod disabled in Standard, Low, or Very Low Quality profiles.
 
