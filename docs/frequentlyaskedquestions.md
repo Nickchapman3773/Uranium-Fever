@@ -192,7 +192,7 @@ For any installation errors or launch crashes, perform these steps:
   - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will repair any errors and will be much quicker than the initial installation.
 
 - **Selecting Perks - Why can’t I select a perk every level?**  
-  - You can select perks only on even levels. Vegas Elysium requires the perk menu to display every level, even when perks aren’t available.
+  - You can only select perks on even levels. Vegas Elysium requires the perk menu to be displayed every level for appropriate functionality, even when perks aren’t available.
 
 - **Shimmering Objects - Why do some objects shimmer?**  
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
