@@ -186,7 +186,7 @@ For any installation errors or launch crashes, perform these steps:
   - No. The Death Throes replacement plugin used here is stable.
 
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
-  - This is intentional and prevents significant performance loss.
+  - This is intentional to prevent significant performance degradation.
 
 - **Runtime Error - I’m getting a runtime error at launch.**  
   - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will **NOT** reinstall the entire list.
