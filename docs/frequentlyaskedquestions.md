@@ -118,7 +118,7 @@ For any installation errors or launch crashes, perform these steps:
   - Some crafting items have unexpected uses. Study crafting stations carefully.
   - Challenges are a good source of XP.
   - Carry multiple weapons that require different ammo types. Ammo scarcity will require you to switch weapons frequently.
-  - Do not consider the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
+  - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
 - **FPS - How can I increase FPS in Uranium Fever?**  
   - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide).  
