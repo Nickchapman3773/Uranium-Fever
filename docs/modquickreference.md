@@ -71,9 +71,8 @@ sidebar_label: Mod Feature Reference List
 - **JIP Companion Command and Control:**
   - Overhauls companion controls.
   - Open CCC Menu: Hold `C`.
-  - Navigate: Use Mouse Wheel.
+  - Navigate: Use `Mouse Wheel`.
   - Select: `Left Click`.
-  - Equip Item: Open trade menu, `Right Click` on an item.
 
 - **Just Bullet Time:**
   - AP-based slow-motion aiming as a VATS alternative.
