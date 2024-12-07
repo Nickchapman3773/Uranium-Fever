@@ -52,7 +52,8 @@ sidebar_label: Mod Highlights
 - [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Enhances exploration and quests in Point Lookout.
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls Tale of Two Wastelands for hardcore play.
 
-# <p align="center"> ![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682) </p>
+# <p align="center">![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682)</p>
+
 - [3DNPCs Fallout 3](https://www.nexusmods.com/newvegas/mods/83484) & [3DNPCs New Vegas](https://www.nexusmods.com/newvegas/mods/84274) - Expands both Wastelands with quests, companions, and NPCs.
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
@@ -62,7 +63,8 @@ sidebar_label: Mod Highlights
 - [Ghoul Variation](https://www.nexusmods.com/newvegas/mods/82237) - Adds 15 new varieties of ghouls to the Wastelands.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
 
-# <p align="center"> ![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425) </p>
+# <p align="center">![Interactions](https://github.com/user-attachments/assets/80731ccc-53ae-4092-be1d-6b63223f0425)</p>
+
 - [Brave New World](https://www.nexusmods.com/newvegas/mods/69562) - Revoices over 7,000 NPC lines across the Mojave.
 - [Dialogue & Interaction Expansion Overhaul](https://www.nexusmods.com/newvegas/mods/78189) - Revamps player dialogue choices.
 - [TTW NPC Overhaul](https://www.nexusmods.com/newvegas/mods/79809) - Visually enhances NPCs from both Wastelands.
@@ -70,24 +72,28 @@ sidebar_label: Mod Highlights
 - [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Adds personality-based debuffs for companions.
 - [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Overhauls creature spawn points across the Mojave.
 
-# <p align="center"> ![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776) </p>
+# <p align="center">![Sound](https://github.com/user-attachments/assets/af69fa21-5dbe-40b6-8346-25a5bc501776)</p>
+
 - [ATMOS Ambience Overhaul Fallout 3](https://www.nexusmods.com/newvegas/mods/84054) & [ATMOS Ambience Overhaul New Vegas](https://www.nexusmods.com/newvegas/mods/85939) - Modernizes ambient sounds across both Wastelands.
 - [A Music Addition Project - Revised](https://www.nexusmods.com/newvegas/mods/84554) - Expands music with lore-friendly Fallout tracks.
 - [Capital Ruins](https://www.nexusmods.com/newvegas/mods/76591) - Adds darker, horror-inspired music to the Capital Wasteland.
 
-# <p align="center"> ![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df) </p>
+# <p align="center">![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df)</p>
+
 - [Quick Select](https://www.nexusmods.com/newvegas/mods/82249) - Adds new quick-access weapon and aid selection menus.
 - [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Adds real-time stat displays for inspected items.
 - [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Introduces effects like ionizing particles and static when exposed to radiation.
 - [3rd Person Camera Overhaul](https://www.nexusmods.com/newvegas/mods/79883) - Adds modernized 3rd person camera features.
 
-# <p align="center"> ![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2) </p>
+# <p align="center">![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2)</p>
+
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Overhauls movement with new animations and sprinting options.
 - [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Adds motion-captured stagger animations.
 - [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687) - Adds response animations for NPCs when injured.
 - [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591) - Improves ragdoll behavior for realistic animations.
 
-# <p align="center"> ![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425) </p>
+# <p align="center">![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425)</p>
+
 - [Real Time Reflections](https://www.nexusmods.com/newvegas/mods/82343) - Adds dynamic reflection effects.
 - [Special FX](https://www.nexusmods.com/newvegas/mods/87817) - Reimagines all game effects for explosions, lasers, blood, and more.
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
