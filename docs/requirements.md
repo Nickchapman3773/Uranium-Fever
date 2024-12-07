@@ -12,8 +12,9 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 :::
 
 - Legally purchased copies of *Fallout: New Vegas*, *Fallout 3*, and all DLCs for both games.
-  - Steam, Steam PCR, Steam Cut German, and GOG versions **ARE** compatible.
-  - Windows Store, Gamepass, and Epic Games versions **ARE NOT** compatible.
+  - Steam, Steam PCR, Steam Cut German, and GOG versions of Fallout: New Vegas **ARE** compatible.
+  - Windows Store, Gamepass, and Epic Games versions of Fallout: New Vegas **ARE NOT** compatible.
+  - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 - Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
 - The latest drivers for your GPU.
