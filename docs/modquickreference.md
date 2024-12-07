@@ -107,6 +107,7 @@ sidebar_label: Mod Feature Reference List
   - Hold `Tab`.
 
 - **Pip-Boy Vendor Radio:**
+  - Optional mod.
   - Purchase items remotely at a premium cost.
   - Add Vendors: Stand near them, open Pip-Boy Radio tab, press `Q`, and configure.
   - Buy: Open Radio tab, press `Q`, and select vendor.
