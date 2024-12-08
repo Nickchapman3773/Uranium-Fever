@@ -170,7 +170,7 @@ Extra files beyond those included in the above screenshots indicate unsuccessful
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
 - Launch `ModOrganizer.exe` from `C:\Modding\Uranium Fever`.
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
-- If prompted to `register`, select `Yes`.
+- If prompted to `register to handle nxm links`, select `Yes`.
 
 ### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
 
