@@ -77,7 +77,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
    - Delete the `Fallout 3` folder.
 
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games`.
-   - If **not** backing up another modded instance of Fallout: New Vegas.
+   - If **not** backing up another modded instance of Fallout: New Vegas:
     - Delete the `FalloutNV` folder.
    - If backing up another modded instance of Fallout: New Vegas:
     - Move the `FalloutNV` folder to the desktop.
