@@ -261,7 +261,7 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
 :::
 
 - Navigate to [New Vegas Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
-- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel in the `NEWVEGASRELOADED` category.
+- Download the most recent release from the [Nightly Builds](https://discord.com/channels/344843935123898369/1077004762425348106) channel in the `DEVELOPMENT` category.
 
   ![TES Nightly Builds](https://github.com/user-attachments/assets/a411a8b2-fb83-4270-9386-a26f2a4de02b)
 
