@@ -71,16 +71,16 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 - Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas`.
    - If **not** backing up another modded instance of Fallout: New Vegas:
-    - Delete the `Fallout New Vegas` folder.
+     - Delete the `Fallout New Vegas` folder.
    - If backing up another modded instance of Fallout: New Vegas:
-    - Move the `Fallout New Vegas` folder to the desktop.
+     - Move the `Fallout New Vegas` folder to the desktop.
    - Delete the `Fallout 3` folder.
 
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games`.
    - If **not** backing up another modded instance of Fallout: New Vegas:
-    - Delete the `FalloutNV` folder.
+     - Delete the `FalloutNV` folder.
    - If backing up another modded instance of Fallout: New Vegas:
-    - Move the `FalloutNV` folder to the desktop.
+     - Move the `FalloutNV` folder to the desktop.
 
 - Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
 - Reinstall Fallout: New Vegas and Fallout 3.
