@@ -192,7 +192,6 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 
 - In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Uranium Fever Launcher`.
 - Click `Run`.
-- If prompted that INIs are read-only, select `Clear the Read Only Flag`.
 
 	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
 
@@ -451,6 +450,7 @@ Repeat this process after every Nvidia driver update.
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
+- If prompted that INIs are read-only, select `Clear the Read Only Flag`.
 
   ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
