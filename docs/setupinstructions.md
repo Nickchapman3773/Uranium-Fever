@@ -333,7 +333,7 @@ This step can prevent unforeseen crashes.
 
 ### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
 :::tip Why?
-This process disables Steam Overlay, which has been known to cause crashes and worsen performance.
+This process disables Steam Overlay, which causes crashes and worsen performance.
 :::
 
 - Navigate to the `Steam Root Folder` (where `steam.exe` is located).
