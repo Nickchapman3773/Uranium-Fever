@@ -69,7 +69,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
-- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas`.
+- Navigate to `C:\[STEAM or GOG FILEPATH]`.
    - If **not** backing up another modded instance of Fallout: New Vegas:
      - Delete the `Fallout New Vegas` folder.
    - If backing up another modded instance of Fallout: New Vegas:
