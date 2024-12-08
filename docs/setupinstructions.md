@@ -69,13 +69,18 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
-- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and:
-   - Move the `Fallout New Vegas` folder to the desktop. Delete the `Fallout 3` folder.
-   - **If** no alternate modded instance exists, delete the `Fallout New Vegas` folder instead.
+- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas`.
+   - If **not** backing up another modded instance of Fallout: New Vegas:
+    - Delete the `Fallout New Vegas` folder.
+   - If backing up another modded instance of Fallout: New Vegas:
+    - Move the `Fallout New Vegas` folder to the desktop.
+   - Delete the `Fallout 3` folder.
 
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and:
-   - Move the `FalloutNV` folder to the desktop.
-   - **If** no alternate modded instance exists, delete the `FalloutNV` folder instead.
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games`.
+   - If **not** backing up another modded instance of Fallout: New Vegas.
+    - Delete the `FalloutNV` folder.
+   - If backing up another modded instance of Fallout: New Vegas:
+    - Move the `FalloutNV` folder to the desktop.
 
 - Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
 - Reinstall Fallout: New Vegas and Fallout 3.
@@ -126,8 +131,6 @@ Let the installation **FINISH** prior to starting the following sections.
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
 :::tip Self-Contained
 This is part two of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
-
-**SKIP** step 2 if you have never played or modded Fallout 3 or Fallout: New Vegas before.
 :::
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
@@ -135,6 +138,9 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 - Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` **IF** prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
+:::tip
+**SKIP** step 2 if **not** backing up another modded instance of Fallout: New Vegas.
+:::
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
   - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
