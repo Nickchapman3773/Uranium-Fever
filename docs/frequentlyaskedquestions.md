@@ -167,7 +167,7 @@ For any installation errors or launch crashes, perform these steps:
 - **Other Modded Instances - Can I keep my other modded setups while playing Uranium Fever?**  
   - Yes. Uranium Fever is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
 
-- **Overwolf - Can I use Overwolf with Uranium Fever?
+- **Overwolf - Can I use Overwolf with Uranium Fever?**
   - No. Overwolf causes the game to crash.
 
 - **Pagefile - Should I increase the pagefile size for New Vegas?**  
