@@ -61,7 +61,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
   - [FeralGhoulsHD](https://drive.usercontent.google.com/download?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download&authuser=0)
   - [RRTV_CapitalWasteland_Hideouts_TTW-v2.0](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0)
 
-- Move all of these downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
+- Move the five downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
