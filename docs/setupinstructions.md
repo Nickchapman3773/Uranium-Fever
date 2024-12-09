@@ -59,7 +59,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
   - [Tammer's NIF-Bashed Armor Mega-Pack v4.2](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0)
   - [FeralGhoulsHD](https://drive.usercontent.google.com/download?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download&authuser=0)
   - [RRTV_CapitalWasteland_Hideouts_TTW-v2.0](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0)
-  - (MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0) [https://drive.google.com/file/d/1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi/view]
+  - [MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0](https://drive.google.com/file/d/1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi/view)
 
 - Move the five downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
 
