@@ -35,6 +35,12 @@ sidebar_label: Mod Feature Reference List
   - Use Power Drill or Grinder for locks and Hacking Override Modules for terminals.
   - Activate (`E`) to receive a prompt to use the tool.
 
+- **Character Build Preset:**
+  - Selected at the doorway to leave Vault 101.
+  - Select Edit `Race/Sex`.
+  - Select `Presets`.
+  - Select `Builds`.
+
 - **Clear Gun Jam:**
   - Perform a preemptive animation to reduce jam likelihood.
   - Hold Grab (`G`) and press Reload (`R`).
@@ -154,9 +160,6 @@ sidebar_label: Mod Feature Reference List
 
 - **Sprint:**
   - Hold `Left Shift`.
-
-- **Stash Organizer:**
-  - Mouse over a container and press `B`.
 
 - **Swap Ammo Type:**
   - Double tap Reload (`R`) to cycle through ammo types.
