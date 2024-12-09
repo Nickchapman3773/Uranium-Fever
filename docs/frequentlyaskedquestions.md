@@ -58,6 +58,12 @@ For any installation errors or launch crashes, perform these steps:
   - If the troubleshooting steps above are insuffucient, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the UF-support-unaltered Discord support channel.
   - For altered lists, use the modified Uranium Fever support channel.
 
+- **Crippled - How do I heal crippled limbs?**
+  - Visit a doctor.
+  - Use a Doctor's Bag or Splint.
+  - Use healing items beyond full health.
+  - Sleep beyond full health.
+
 - **Dialogue Skill Indicator - Why was it removed?**
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
 
