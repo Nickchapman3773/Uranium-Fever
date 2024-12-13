@@ -50,6 +50,10 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 - Run `Wabbajack.exe` to complete the installation.
 - Close Wabbajack.
 
+:::warning Version Check
+If Wabbajack is already installed, ensure it is completely up to date. Old versions can cause corruption of file paths that will result in frequent crashes.
+:::
+
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
 :::danger Required Mods
 :::
