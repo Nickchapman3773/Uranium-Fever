@@ -51,7 +51,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 - Close Wabbajack.
 
 :::warning Version Check
-If Wabbajack is already installed, ensure it is completely up to date. Old versions can cause corruption of file paths that will result in frequent crashes.
+If Wabbajack is already installed, ensure it is completely up to date, as old versions can cause corruption of file paths that will result in frequent crashes. Wabbajack should always be launched directly from the `wabbajack.exe` provided in the installation folder to avoid abnormalities.
 :::
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
