@@ -52,7 +52,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 - Close Wabbajack.
 
 :::warning Version Check
-If Wabbajack is already installed, ensure it is completely up to date. Outdated versions can cause errors that result in frequent crashes.
+**DO NOT** use pre-existing versions of Wabbajack.
 
 Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 :::
@@ -74,7 +74,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 #### Step 1: Creating Backups of Current Modded Installations
-:::tip
+:::note
 **SKIP** step 1 if **not** backing up another modded instance of Fallout: New Vegas.
 :::
 - Navigate to `C:\[STEAM or GOG FILEPATH]` and move the `Fallout New Vegas` folder to the desktop.
@@ -145,7 +145,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 - Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` **IF** prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
-:::tip
+:::note
 **SKIP** step 2 if **not** backing up another modded instance of Fallout: New Vegas.
 :::
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
