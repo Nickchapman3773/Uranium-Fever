@@ -158,8 +158,10 @@ Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and wi
 :::
 
   - Steam - `[NoDelete] Stock New Vegas` file contents:
+
     ![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
   - GOG - `[NoDelete] Stock New Vegas` file contents:
+
     ![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
 
 :::danger Extra Files
