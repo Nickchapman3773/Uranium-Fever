@@ -84,12 +84,10 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder. 
   - This will already be removed if previously backed up.
 - Steam:
-  - Right click `Fallout: New Vegas` in the Steam library.
-  - Select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
+  - Right click `Fallout: New Vegas` in the Steam library, select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
   - Repeat this process for `Fallout 3`.
 - GOG:
-  - Right Click `Fallout: New Vegas` in the GOG library.
-  - Navigate to `Manage Installation and select `Verify / Repair`.
+  - Right Click `Fallout: New Vegas` in the GOG library, navigate to `Manage Installation`, then click `Verify / Repair`.
   - Repeat this process for `Fallout 3`.
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
