@@ -61,14 +61,11 @@ Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 :::danger Required Mods
 :::
 
-- Download each of the following archives:
-  - [Ghouls](https://drive.usercontent.google.com/download?id=1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv&export=download&authuser=0)
+- Download the following archives:
   - [Tammer's NIF-Bashed Armor Mega-Pack v4.2](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0)
-  - [FeralGhoulsHD](https://drive.usercontent.google.com/download?id=1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_&export=download&authuser=0)
   - [RRTV_CapitalWasteland_Hideouts_TTW-v2.0](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0)
-  - [MMTV_Mobile_Truck_Base_Sorting_Addon_v1.0](https://drive.google.com/file/d/1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi/view)
 
-- Move the five downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
+- Move the two downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
@@ -83,9 +80,9 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Navigate to `C:\[STEAM or GOG FILEPATH]` and move the `Fallout New Vegas` folder to the desktop.
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games` and move the `FalloutNV` folder to the desktop.
 
-
 #### Step 2: Verifying Game Files
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder if not previously backed up.
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder. 
+  - This will already be removed if previously backed up.
 - Steam:
   - Right click `Fallout: New Vegas` in the Steam library.
   - Select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
