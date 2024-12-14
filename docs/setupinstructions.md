@@ -76,21 +76,24 @@ Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
-- Navigate to `C:\[STEAM or GOG FILEPATH]`.
-   - Delete the `Fallout 3` folder.
-   - If **not** backing up another modded instance of Fallout: New Vegas:
-     - Delete the `Fallout New Vegas` folder.
-   - If backing up another modded instance of Fallout: New Vegas:
-     - Move the `Fallout New Vegas` folder to the desktop.
+#### Step 1: Creating Backups of Current Modded Installations
+:::tip
+**SKIP** step 1 if **not** backing up another modded instance of Fallout: New Vegas.
+:::
+- Navigate to `C:\[STEAM or GOG FILEPATH]` and move the `Fallout New Vegas` folder to the desktop.
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and move the `FalloutNV` folder to the desktop.
 
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games`.
-   - If **not** backing up another modded instance of Fallout: New Vegas:
-     - Delete the `FalloutNV` folder.
-   - If backing up another modded instance of Fallout: New Vegas:
-     - Move the `FalloutNV` folder to the desktop.
 
-- Uninstall both Fallout: New Vegas and Fallout 3 in Steam/GOG (if not already done).
-- Reinstall Fallout: New Vegas and Fallout 3.
+#### Step 2: Verifying Game Files
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder if not previously backed up.
+- Steam:
+  - Right click `Fallout: New Vegas` in the Steam library.
+  - Select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
+  - Repeat this process for `Fallout 3`.
+- GOG:
+  - Right Click `Fallout: New Vegas` in the GOG library.
+  - Navigate to `Manage Installation and select `Verify / Repair`.
+  - Repeat this process for `Fallout 3`.
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
@@ -152,7 +155,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
   - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
-#### Step 3: Verifying Files in the Clean Stock New Vegas Folder
+#### Step 3: Reviewing the Files in the Clean Stock New Vegas Folder
 - The clean `[NoDelete] Stock New Vegas` folder should now contain the following files. If **EXTRA** files **NOT INCLUDED** in the following screenshots are present, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
 
 :::note
