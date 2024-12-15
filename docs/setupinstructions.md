@@ -93,7 +93,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
   - Right Click `Fallout: New Vegas` in the GOG library, navigate to `Manage Installation`, then click `Verify / Repair`.
   - Repeat this process for `Fallout 3`.
 
- ![GOG Verify](https://github.com/user-attachments/assets/49e42d75-44b2-4e86-8465-6907555f12bf)
+  ![GOG Verify](https://github.com/user-attachments/assets/49e42d75-44b2-4e86-8465-6907555f12bf)
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
