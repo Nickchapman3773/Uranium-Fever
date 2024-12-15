@@ -13,6 +13,9 @@ To find information quickly, use `Ctrl + F` to search for relevant keywords.
 
 :::danger Troubleshooting
 For any installation errors or launch crashes, perform these steps:
+<details><summary>
+Expand
+</summary>
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Verify correct management of the Manual Downloads, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
@@ -24,6 +27,7 @@ For any installation errors or launch crashes, perform these steps:
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel.
+</details>
 :::
 
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
