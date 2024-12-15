@@ -131,6 +131,9 @@ For any installation errors or launch crashes, perform these steps:
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
+- **Freecam - How can I use freecam to look at myself?**
+  - Enter 3rd person, open the console with the ` key, type TFC, then press enter. You can move your camera around as needed to view your character. Type TFC into console again to exit freecam.
+
 - **Hardcore - Can I disable the hardcore mode?**  
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
 
