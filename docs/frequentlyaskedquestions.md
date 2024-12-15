@@ -17,12 +17,13 @@ For any installation errors or launch crashes, perform these steps:
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Verify correct management of the Manual Downloads, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
 - Confirm the required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
+- If using Overwolf, ensure it is disabled or uninstalled.
 - Restart your computer.
 - Check that you have the correct version of DXVK, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further help, refer to [Support, Feedback, & Updates](https://uraniumfever.net/docs/supportfeedback).
+- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel.
 :::
 
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
@@ -34,7 +35,7 @@ For any installation errors or launch crashes, perform these steps:
     - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
     - **AEN**: Mod included but defaults to disabled.
     - **CDN**: Mod hosted on the Wabbajack server.
-    - **SQ, LQ, VLQ**: Mod disabled in Standard, Low, or Very Low Quality profiles.
+    - **SQ, LQ, VLQ, DB**: Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
 
 - **Application Load Error P:0000065432 - How do I fix this error?**
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
@@ -53,10 +54,6 @@ For any installation errors or launch crashes, perform these steps:
 
 - **Controller Support - Is there controller support?**
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1301652878703726612).
-
-- **Crashing - How do I troubleshoot game crashes?**
-  - If the troubleshooting steps above are insuffucient, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the UF-support-unaltered Discord support channel.
-  - For altered lists, use the modified Uranium Fever support channel.
 
 - **Crippled - How do I heal crippled limbs?**
   - Visit a doctor.
@@ -134,7 +131,7 @@ For any installation errors or launch crashes, perform these steps:
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
-- **Hardcore - Can I disable hardcore mode?**  
+- **Hardcore - Can I disable the hardcore mode?**  
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
 
 - **Healing - When I pay a doctor to heal me, I do not heal fully. Why?**  
@@ -155,8 +152,8 @@ For any installation errors or launch crashes, perform these steps:
 - **Long Load Screens - I have very long load screens, why?**  
   - You likely capped your FPS at too low a value.
 
-- **Manual Installs - Why must I manually install TTW and NVR?**  
-  - TTW requires manual installation due to ModPub restrictions, and NVR is locked behind Discord, which Wabbajack cannot access.
+- **Manual Installs - Why must I manually install TTW, NVR, and other mods?**  
+  - TTW requires manual installation due to ModPub restrictions, NVR is only available on Discord, and the other manual downloads are inaccessible to Wabbajack.
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
