@@ -39,6 +39,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - DC Deathclaws will now look like FO4 Deathclaws and Mojave Deathclaws will use the Horrors of the New West meshes with a retexture.
 - Gatorclaws have been added to Point Lookout, thanks MedRenace!
 - Adjusted many Stewie Tweaks based on Sweets recommendations to promote balance or realism.
+- Significant reduced the XP gained from enemy kills.
 
 **Fixes:**
 - Fixed an error that was resulting in the original mod not being downloaded on the users end for many merged mods without any other assets.
