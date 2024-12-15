@@ -38,8 +38,8 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - Transitioned to a custom Keybind Quick Display build that will allow me to specifically customize the order in which categories are presented, thanks Physics!
 - DC Deathclaws will now look like FO4 Deathclaws and Mojave Deathclaws will use the Horrors of the New West meshes with a retexture.
 - Gatorclaws have been added to Point Lookout, thanks MedRenace!
-- Adjusted many Stewie Tweaks based on Sweets recommendations to promote balance or realism.
-- Significant reduced the XP gained from enemy kills.
+- Adjusted many of Stewie Tweaks based on Sweets recommendations to promote balance or realism.
+- Significantly reduced the XP gained from enemy kills.
 
 **Fixes:**
 - Fixed an error that was resulting in the original mod not being downloaded on the users end for many merged mods without any other assets.
@@ -136,6 +136,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
   - Updated static stain textures with a higher quality version.
   - Overhauled concrete impact effect and decal, currently UF exclusive Special FX add-on.
   - Overhauled quarry rocks to make them less blindingly bright.
+  - Overhauled Gomorrah pillows.
 
 **Updating:**
 - Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
