@@ -83,13 +83,13 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 #### Step 2: Verifying Game Files
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder. 
   - This will already be removed if previously backed up.
-- Steam:
+- Steam Users:
   - Right click `Fallout: New Vegas` in the Steam library, select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
   - Repeat this process for `Fallout 3`.
     
   ![Steam Verify](https://github.com/user-attachments/assets/85b899c8-1feb-4076-8aae-182c889052c5)
 
-- GOG:
+- GOG Users:
   - Right Click `Fallout: New Vegas` in the GOG library, navigate to `Manage Installation`, then click `Verify / Repair`.
   - Repeat this process for `Fallout 3`.
 
