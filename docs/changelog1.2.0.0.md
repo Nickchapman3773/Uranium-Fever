@@ -39,6 +39,7 @@ sidebar_label: 1.2.0.0 - Dec 15, 2024
 - Gatorclaws have been added to Point Lookout, thanks MedRenace!
 - Adjusted many of Stewie Tweaks based on Sweets recommendations to promote balance or realism.
 - Significantly reduced the XP gained from enemy kills.
+- Made an exception in CAO so that road textures won’t be recompressed.
 
 **Fixes:**
 - Fixed an error that was resulting in the original mod not being downloaded on the users end for many merged mods without any other assets.
@@ -101,7 +102,6 @@ sidebar_label: 1.2.0.0 - Dec 15, 2024
 - Added Classic-esque Deathclaw Retexture.
 - Added NCR Cold War by Red Menace.
 - Added CKR Hands Rerig by Med Renace.
-- Added TTW Classic Super Mutant Style Armor - MOTNW.
 - Added Menace of The New West Fawkes Mesh.
 - Added Pip-boy Glove Remade.
 - Added Pip-boy Glove Remade - Improved Vanilla Male Body Patch.
