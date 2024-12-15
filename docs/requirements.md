@@ -12,7 +12,8 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 :::
 
 - Legally purchased copies of *Fallout: New Vegas*, *Fallout 3*, and all DLCs for both games.
-  - Steam, Steam PCR, Steam Cut German, and GOG versions of Fallout: New Vegas **ARE** compatible.
+  - Steam, Steam PCR, Steam German, and GOG versions of Fallout: New Vegas **ARE** compatible.
+    - Those with the Steam German version must use [DepotDownloader](https://github.com/SteamRE/DepotDownloader) to download the `International EXE`.
   - Windows Store, Gamepass, and Epic Games versions of Fallout: New Vegas **ARE NOT** compatible.
   - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 :::warning Controller Support
