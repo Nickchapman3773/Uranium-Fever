@@ -138,8 +138,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 
 **Updating:**
 - Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
-- Updating from versions earlier than 1.0.0.0 requires a full reinstallations and new saves 
-- Updates from 1.0.0.0 onward are save-safe unless otherwise specified.
+- Updates from 1.2.0.0 onward are save-safe unless otherwise specified.
 - Altered or outdated lists will not be supported.
 - Notifications of missing mods post-update are normal and reflect plugin merging.
 
