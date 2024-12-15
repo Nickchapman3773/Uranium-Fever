@@ -97,7 +97,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - Added and merged Delayed Malcolm - Augmented Edition.
 - Added and merged Mothership Zeta Crash Site Tweaks.
 - Added Chinese Stealth Armor by Red Menace.
-- Added F4NV Deathclaws and Gatorclaws by Red Menace.
+- Added Deathclaws and Gatorclaws by Red Menace.
 - Added Classic-esque Deathclaw Retexture.
 - Added NCR Cold War by Red Menace.
 - Added CKR Hands Rerig by Med Renace.
@@ -106,6 +106,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - Added Pip-boy Glove Remade.
 - Added Pip-boy Glove Remade - Improved Vanilla Male Body Patch.
 - Added Pip-boy Glove Remade - TYPE 4 patch.
+- Added and merged Workbench Variation.
 
 
 **Uranium Haze and Soft AF Updates:**
