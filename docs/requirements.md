@@ -16,7 +16,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
   - Windows Store, Gamepass, and Epic Games versions of Fallout: New Vegas **ARE NOT** compatible.
   - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 :::warning Controller Support
-Controller support is present for Steam users, though is impossible to facilitate in a satisfactory manner for GOG users.
+Controller support is provided for Steam users, though is unable to be provided for GOG users.
 :::
 - Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
