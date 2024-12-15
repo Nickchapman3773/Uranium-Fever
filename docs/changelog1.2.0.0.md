@@ -36,7 +36,6 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - Made further title, load screen, and UI related adjustments for an overall smaller and sleeker aesthetic, utilizing XMLs from MUX (though not the majority of the mod), courtesy of Dok.	
 - Adjusted various settings in Benny Humbles You to make the Mojave transition much more difficult (skills will now be fully reset, you will no longer get a 15% xp bonus, and you will not regain your special when you get the brainless perk).
 - Transitioned to a custom Keybind Quick Display build that will allow me to specifically customize the order in which categories are presented, thanks Physics!
-- DC Deathclaws will now look like FO4 Deathclaws and Mojave Deathclaws will use the Horrors of the New West meshes with a retexture.
 - Gatorclaws have been added to Point Lookout, thanks MedRenace!
 - Adjusted many of Stewie Tweaks based on Sweets recommendations to promote balance or realism.
 - Significantly reduced the XP gained from enemy kills.
