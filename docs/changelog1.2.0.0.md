@@ -146,6 +146,7 @@ sidebar_label: 1.2.0.0 - Dec 14, 2024
 - **CRITICAL**: For updates from pre-1.1.0.1 versions, review the 1.1.0.1 patch notes for NVR renaming instructions.
 - **CRITICAL**: For updates from pre-1.1.1.0 versions, review the 1.1.1.0 patch notes for updating NVR to the newest nightly build.
 
+- **CRITICAL**: For updates from pre-1.2.0.0 versions, xNVSE must be manually updated. [Download the archive](https://github.com/xNVSE/NVSE/releases/download/6.3.6/nvse_6_3_6b.7z), right click it, select `extract all`, choose your `[NoDelete] Stock New Vegas` folder (`C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`), and select `Copy and Replace` for the various files when prompted.
 - **CRITICAL**: For updates from pre-1.2.0.0 versions, a **NEW SAVE** is **REQUIRED**.
 
 **Community:**
