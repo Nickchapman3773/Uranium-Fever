@@ -86,7 +86,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Steam:
   - Right click `Fallout: New Vegas` in the Steam library, select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
   - Repeat this process for `Fallout 3`.
-  - 
+    
     ![Steam Verify](https://github.com/user-attachments/assets/85b899c8-1feb-4076-8aae-182c889052c5)
 
 - GOG:
