@@ -81,6 +81,9 @@ sidebar_label: 1.0.0.0 - Nov 9, 2024
 - Outdated or altered lists will not be supported.
 
 **Community:**
-- Submit screenshots of Uranium Fever to the UF-Screen-Archery Discord channel!
-- Share custom scenarios for Immersive Fast Travel and Immersive Sleep in the suggestions channel for vetting.
-- Type `?rank Uranium Fever User` in uf-discussion to receive Discord update notifications.
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/mQZVW85H77) channel on Discord to receive update notifications on Discord.
+
