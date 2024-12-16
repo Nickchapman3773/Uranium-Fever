@@ -66,7 +66,8 @@ sidebar_label: 1.1.0.1a - Nov 30, 2024
 - **CRITICAL - PRIOR TO UPDATING**: In Mod Organizer 2, rename `[NoDelete] NVR (LQ)` to `[NoDelete] NVR (VLQ) (LQ)`. If two NVR mod folders appear, delete `[NoDelete] NVR (VLQ) (LQ)` and proceed with the renaming step.
 
 **Community:**
-- Submit Uranium Fever screenshots to the UF-screen-archery channel on Discord!
-- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the UF-suggestions channel on Discord!
-- Submit custom character presets in the UF-suggestions channel on Discord!
-- Use the command `?rank Uranium Fever User` in the uf-discussion chat to receive update notifications on Discord.
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/mQZVW85H77) channel on Discord to receive update notifications on Discord.
