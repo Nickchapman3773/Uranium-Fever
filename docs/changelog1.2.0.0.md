@@ -151,7 +151,7 @@ sidebar_label: 1.2.0.0 - Dec 15, 2024
 - **CRITICAL**: For updates from pre-1.2.0.0 versions, a **NEW SAVE** is **REQUIRED**.
 
 **Community:**
-- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens!
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord for a chance to be featured as an in-game loading screen with the Uranium Loading Screens layout. Post it with #FeverScreens and the team will vet our favorite ones ❤️!
 - Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
 - Submit custom character presets in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
 - If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
