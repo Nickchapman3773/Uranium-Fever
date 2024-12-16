@@ -286,7 +286,7 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
   ![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
 
 :::note Updating New Vegas Reloaded
-When instructed to update the mod, simply repeat these steps.
+When instructed to update the mod, simply repeat these steps. Ensure you delete the `shaders` in the `overwrite` folder at the bottom of the Mod Organizer 2 Modlist.
 :::
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
