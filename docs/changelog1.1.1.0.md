@@ -37,7 +37,7 @@ sidebar_label: 1.1.1.0 - Dec 1, 2024
 - **CRITICAL**: For updates from pre-1.1.0.0 versions, review the 1.1.0.0 patch notes for DXVK update instructions.
 - **CRITICAL**: For updates from pre-1.1.0.1 versions, review the 1.1.0.1 patch notes for NVR renaming instructions.
 
-- **CRITICAL**: NVR must be updated to the new Nightly Build. To do so, repeat [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-). After installing, open the `Overwrite` folder at the bottom of the Mod Organizer 2 modlist, and delete the `Shaders` folder.
+- **CRITICAL**: NVR must be updated to the new Nightly Build. To do so, repeat [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-).
 
 **Community:**
 - Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens!
