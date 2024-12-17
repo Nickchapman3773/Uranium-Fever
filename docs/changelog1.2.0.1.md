@@ -7,7 +7,7 @@ sidebar_label: 1.2.0.1 - Dec 16, 2024
 # <p align="center"> 1.2.0.1 - Dec 16, 2024 </p>
 
 **Fixes:**
-- Fixes crashes associated with the new xNVSE verrsion.
+- Fixes crashes associated with the new xNVSE version.
 - Fixes Low Quality Profile related grass performance issue.
 - Fixes inappropriate shadow rendering on parallaxed objects.
 
