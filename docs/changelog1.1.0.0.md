@@ -160,8 +160,9 @@ sidebar_label: 1.1.0.0 - Nov 27, 2024
 - Those with Nvidia graphics cards, be sure to update your drivers and repeat the [Nvidia Users - Applying Nvidia Profile](https://uraniumfever.net/docs/setupinstructions#-nvidia-users---applying-nvidia-profile-) steps after you update your drivers. This must be repeated every driver update, as Nvidia resets them during  updates.
 
 **Community:**
-- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
-- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
-- Submit custom character presets in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/Uu6gZZSaeA) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions]https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
 - If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
-- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/mQZVW85H77) channel on Discord to receive update notifications on Discord.
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/Uu6gZZSaeA) channel on Discord to receive update notifications on Discord.
+
