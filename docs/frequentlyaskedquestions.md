@@ -26,7 +26,7 @@ Expand
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel.
+- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
 :::
 
@@ -45,7 +45,7 @@ Expand
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
 
 - **Altering Uranium Fever - Can I modify the mods?**
-  - Modifying the list voids official support. Use the [uf-support-altered](https://discord.com/channels/1247305852738736219/1295564372978040906) Discord channel for community assistance.
+  - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
 
 - **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
