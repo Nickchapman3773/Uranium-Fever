@@ -24,8 +24,8 @@ sidebar_label: 1.2.0.1 - Dec 16, 2024
   - **CRITICAL**: For updates from pre-1.2.0.1 versions, xNVSE must be manually updated. [Download the archive](https://github.com/xNVSE/NVSE/releases/download/6.3.7/nvse_6_3_7b.7z), right click it, select `extract all`, choose your `[NoDelete] Stock New Vegas` folder (`C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`), and select `Copy and Replace` for the various files when prompted.
 
 **Community:**
-- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/nffAeX827c) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
-- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
-- Submit custom character presets in the [UF-suggestions](https://discord.gg/am65U8RynK) channel on Discord!
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/Uu6gZZSaeA) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions]https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
 - If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
-- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/mQZVW85H77) channel on Discord to receive update notifications on Discord.
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/Uu6gZZSaeA) channel on Discord to receive update notifications on Discord.
