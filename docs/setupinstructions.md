@@ -363,7 +363,7 @@ This process disables Steam Overlay, which causes crashes and worsen performance
   ![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
 
 :::warning
-This step will need to be repeated each time Steam updates.
+This step will need to be repeated each time Steam updates, which occurs each time time steam launches.
 :::
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
