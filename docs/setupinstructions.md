@@ -202,10 +202,10 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
-- In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Uranium Fever Launcher`.
+- In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Configuring Game Settings`.
 - Click `Run`.
 
-	![Launcher](https://github.com/user-attachments/assets/8a7ef12f-4dd6-45a7-a5a8-629ff8bb0c57)
+	![Configuring Game Settings](https://github.com/user-attachments/assets/f36d012c-9100-46d4-aea2-e90ea876b4bb)
 
 - Navigate to `Options` and select the `Ultra Preset`.
 	- For weaker machines or performance concerns, select the `Very High` preset, though this reduces visual quality.
@@ -217,12 +217,12 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 
 :::tip Steam Polish-Czech-Russian (PCR) Version
 - Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
-- Select `Uranium Fever Launcher`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
+- Select `Configuring Game Settings`, check the `Overwrite Steam AppID` box, enter `22490` in the corresponding field, and click `Apply`.
 
  	![PCR](https://github.com/user-attachments/assets/2d0ecd75-7a56-4f02-a902-dede6edf5120)
 :::
 
-:::danger Launcher Crashes
+:::danger Configuring Game Settings Crashes
 Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for common troubleshooting steps before requesting support.
 :::
 
