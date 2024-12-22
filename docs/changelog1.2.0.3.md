@@ -1,0 +1,59 @@
+---
+title: 1.2.0.3 - Dec 22, 2024
+hide_title: true
+sidebar_label: 1.2.0.3 - Dec 22, 2024
+---
+
+# <p align="center"> 1.2.0.3 - Dec 22, 2024 </p>
+
+**Removals:**
+- Removed Lumen - Physically Based Beverages Patch, replaced.
+
+**Changes:**
+- Further adjusted crosshair to restore the dynamic component.
+- Made a script to control mine lights. They will be on during the night, and off during the day.
+- Being over encumbered now makes movement much more difficult.
+- Removed ySI categories, as this had a lot of inconveniences associated with it.
+
+**Fixes:**
+- Fixed missing Workbench Variation assets.
+- Fixed broken SR pathing for Charon’s shotgun.
+- Fixed crash between B42 Loot and STARS (Industrial Gas Mask).
+- Fixed missing ySI icons.
+- Fixed Joshua Graham missing face textures.
+
+**Additions:**
+- Added Consuming banned items in the presence of Legionnaires incurs a reputation penalty.
+- Added Unique Apparel Redux - TTW.
+- Added Unique Apparel Redux - TTW - TOTNW 2.0 Patch.
+- Added Unique Apparel Redux - TTW - Compatibility Script Runner.
+- Added Unique Apparel Redux - Type 4 Patch.
+- Added Unique Apparel Redux - Type 4 Modest Patch.
+- Added Nuka Cola World - Nuka overhaul.
+- Added Lumen - Nuka Cola World Glowing Cola Patch.
+- Added B42  Inject - Nuka Cola World - Nuka overhaul.
+- Added B42  Inject - Nuka Cola World - Nuka overhaul Transparent Glowing Bottles.
+- Added an optional mod for Ultrawide support.
+
+**Uranium Haze and Soft AF Updates:**
+- Uranium Haze:
+	- Reduced master tonemapping exposure to address blown out illuminated objects and terrain.
+	- Slightly reduced the brightness of terrain and objects in DC.
+	- Recategorized a small handful of interiors.
+
+**Updating:**
+- Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **CRITICAL**: For updates from pre-1.1.0.0 versions, review the 1.1.0.0 patch notes for DXVK update instructions.
+- **CRITICAL**: For updates from pre-1.2.0.0 versions, a **NEW SAVE** is **REQUIRED**. Further updates remain save-safe unless otherwise specified.
+- **CRITICAL**: For updates from pre-1.2.0.1 versions, review the 1.2.0.1 patch notes for NVR updating instructions. 
+	- **CRITICAL**:  For updates from pre-1.2.0.3, manually extract [xNVSE 6.3.9b](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=1000144513&game_id=130) into the `[NoDelete] Stock New Vegas` folder, selecting `Copy and Replace` when prompted.
+
+**Community:**
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/Uu6gZZSaeA) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/Uu6gZZSaeA) channel on Discord to receive update notifications on Discord.
