@@ -1,8 +1,14 @@
 ---
-title: 1.2.0.3 - Dec 22, 2024
+title: 1.2.0.3a - Dec 22, 2024
 hide_title: true
-sidebar_label: 1.2.0.3 - Dec 22, 2024
+sidebar_label: 1.2.0.3a - Dec 22, 2024
 ---
+
+# <p align="center"> 1.2.0.3a - Dec 22, 2024 </p>
+
+**Fixes:**
+- Fixed initialization script load loop.
+- Fixed Basement Hideout map marker being immediately available to travel to.
 
 # <p align="center"> 1.2.0.3 - Dec 22, 2024 </p>
 
