@@ -477,11 +477,3 @@ For other sources of crashes, refer to [Frequently Asked Questions](https://uran
 :::warning Desktop Shortcuts
 Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
 :::
-
-### <p align="center"> ![Optional - Storage Space Cleanup](https://github.com/user-attachments/assets/d39fc256-33a6-44a8-b071-ec67a83c56e4) </p>
-:::tip Optional
-This is not recommended unless extra storage space is critically necessary. This step will remove ~50GB of unnecessary archives, though many of these will need to be redownloaded when updating Uranium Fever.
-:::
-
-- Confirm the game runs properly **BEFORE** proceeding.
-- Navigate to `C:\Modding\Uranium Fever` and delete the `downloads` folder.
