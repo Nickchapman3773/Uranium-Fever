@@ -57,7 +57,7 @@ Expand
   - Only water tower ladders are climbable. Look at the ladder and press the activate key to climb. Use the activate key again to dismount at the top.
 
 - **Controller Support - Is there controller support?**
-  - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1319501219802120233).
+  - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1320630774265020457).
 
 - **Crippled - How do I heal crippled limbs?**
   - Visit a doctor.
