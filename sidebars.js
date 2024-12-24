@@ -77,6 +77,7 @@ const sidebars = {
    'sweetrecommendedmods',
   ],
   changelogSidebar: [
+    'changelog1.2.0.4',
     'changelog1.2.0.3',
     'changelog1.2.0.2',
     'changelog1.2.0.1',
