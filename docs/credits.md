@@ -7,7 +7,7 @@ sidebar_label: Credits & Thanks
 
 # ![Credits & Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
 
-**Uranium Fever** is authored and supported by [Kamchatka](https://next.nexusmods.com/profile/kamchatkaa), [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), and [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), but it would not be possible without the numerous contributions from:
+**Uranium Fever** is authored and supported by [Kamchatka](https://next.nexusmods.com/profile/kamchatkaa), [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), and [Lime](https://next.nexusmods.com/profile/LimeMods) but it would not be possible without the numerous contributions from:
 
 - **The entire Uranium Fever community!**
 - The expansive team of testers who helped troubleshoot early iterations of the list and provided invaluable suggestions.
@@ -32,5 +32,4 @@ sidebar_label: Credits & Thanks
 - [Pr0bability](https://next.nexusmods.com/profile/Pr0bability) for providing private custom patches, creating [Cartographer](https://www.nexusmods.com/newvegas/mods/88451), and advising on shader aspects of UF.
 - [Woooombat](https://next.nexusmods.com/profile/Woooombat) for assistance with movement and animation troubleshooting, as well as releasing a mod on UF’s behalf.
 - [PhysicsGaming](https://next.nexusmods.com/profile/physicsgaming) for customizing multiple iterations of [Keybind Quick Display](https://www.nexusmods.com/newvegas/mods/85702) to enhance UF’s usability.
-- [Lime](https://next.nexusmods.com/profile/LimeMods) for designing mods upon request and offering various private mods for UF.
 - [DracoVampire786](https://next.nexusmods.com/profile/DracoVampire786), [Canadian𝓕𝓻𝓮𝓪𝓴oneer](https://next.nexusmods.com/profile/CanadianBaconeer), [Lufusol](https://next.nexusmods.com/profile/lufusol), [Audley](https://next.nexusmods.com/profile/Audley), [C0nzo](https://next.nexusmods.com/profile/C0nzo), [RedMenace](https://next.nexusmods.com/profile/RedMenaceKun), and [RWxAshley](https://next.nexusmods.com/profile/RWxAsh) for permitting the use of private patches and unreleased mods in UF.
