@@ -14,6 +14,7 @@ sidebar_label: 1.2.1.0 - Dec 31, 2024
 - Removed NV Intro Movie Improved, buggy for some users.
 - Removed Holorifle Redux, replaced.
 - Removed Holorifle Redux - Animation Patch.
+- Removed True Movement, as it made testing extremely cumbersome due to inability to change movement speed without relaunching the game.
 
 **Changes:**
 - Changed console key from ~ to Home to accommodate UK keyboard users.
