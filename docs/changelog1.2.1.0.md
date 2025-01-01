@@ -54,3 +54,20 @@ sidebar_label: 1.2.1.0 - Dec 31, 2024
   - Overhauled a Dining Table.
   - Overhauled a Radiation Warning Sign.
   - Overhauled Vault 22 Vines.
+
+**Updating:**
+- Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **CRITICAL**: For updates from pre-1.1.0.0 versions, review the 1.1.0.0 patch notes for DXVK update instructions.
+- **CRITICAL**: For updates from pre-1.2.0.0 versions, a **NEW SAVE** is **REQUIRED**. Further updates remain save-safe unless otherwise specified.
+- **CRITICAL**: For updates from pre-1.2.0.1 versions, review the 1.2.0.1 patch notes for NVR updating instructions. 
+- **CRITICAL**: For updates from pre-1.2.0.4 versions, review the 1.2.0.4 patch notes for [NoDelete] Stock New Vegas and [NoDelete] Tale of Two Wastelands reinstallation instructions, which will resolve many crashes.
+
+**Community:**
+- Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/Uu6gZZSaeA) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
+- Submit custom scenarios for Immersive Fast Travel and Immersive Sleep in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- Submit custom character presets in the [UF-suggestions](https://discord.gg/Uu6gZZSaeA) channel on Discord!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the [UF-discussion](https://discord.gg/Uu6gZZSaeA) channel on Discord to receive update notifications on Discord.
