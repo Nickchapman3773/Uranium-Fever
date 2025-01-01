@@ -32,4 +32,7 @@ sidebar_label: Credits & Thanks
 - [Pr0bability](https://next.nexusmods.com/profile/Pr0bability) for providing private custom patches, creating [Cartographer](https://www.nexusmods.com/newvegas/mods/88451), and advising on shader aspects of UF.
 - [Woooombat](https://next.nexusmods.com/profile/Woooombat) for assistance with movement and animation troubleshooting, as well as releasing a mod on UF’s behalf.
 - [PhysicsGaming](https://next.nexusmods.com/profile/physicsgaming) for customizing multiple iterations of [Keybind Quick Display](https://www.nexusmods.com/newvegas/mods/85702) to enhance UF’s usability.
+- [MissingMeshTV](https://www.sublevel3.com/mmtv/fnv_mods.html) for allowing us to create a custom hardcore themed edit to his Capital Wasteland Hideouts mod.
+- [Macintroll](https://next.nexusmods.com/profile/macintroll) for allowing reupload of his Ghouls and Feral Ghouls mods to simplify installation for users.
 - [DracoVampire786](https://next.nexusmods.com/profile/DracoVampire786), [Canadian𝓕𝓻𝓮𝓪𝓴oneer](https://next.nexusmods.com/profile/CanadianBaconeer), [Lufusol](https://next.nexusmods.com/profile/lufusol), [Audley](https://next.nexusmods.com/profile/Audley), [C0nzo](https://next.nexusmods.com/profile/C0nzo), [RedMenace](https://next.nexusmods.com/profile/RedMenaceKun), and [RWxAshley](https://next.nexusmods.com/profile/RWxAsh) for permitting the use of private patches and unreleased mods in UF.
+- 
