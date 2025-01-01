@@ -7,7 +7,8 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-  ![Uranium Fever Keybinds](https://github.com/user-attachments/assets/e6d7a9c1-74e8-4737-bebd-cb61099c40bd)
+  ![image](https://github.com/user-attachments/assets/2ca1cb4a-3f37-4cba-80b3-afb3943d417c)
+
 
 - **3rd Person Camera Overhaul:**
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
