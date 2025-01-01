@@ -28,7 +28,7 @@ sidebar_label: 1.2.0.4 - Dec 24, 2024
 - **CRITICAL**: For updates from pre-1.1.0.0 versions, review the 1.1.0.0 patch notes for DXVK update instructions.
 - **CRITICAL**: For updates from pre-1.2.0.0 versions, a **NEW SAVE** is **REQUIRED**. Further updates remain save-safe unless otherwise specified.
 - **CRITICAL**: For updates from pre-1.2.0.1 versions, review the 1.2.0.1 patch notes for NVR updating instructions. 
-	- **CRITICAL**:  For updates from pre-1.2.0.4, delete the `[NoDelete] Stock New Vegas` and `[NoDelete] Tale of Two Wastelands` folders and **REPEAT** the steps between the  [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) and [Running 4gb Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) sections, INCLUDING installing TTW.
+	- **CRITICAL**:  For updates from pre-1.2.0.4, **PRIOR** to downloading the update, delete the `[NoDelete] Stock New Vegas` and `[NoDelete] Tale of Two Wastelands` folders and **REPEAT** the steps between the  [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) and [Running 4gb Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) sections, INCLUDING installing TTW.
 
 **Community:**
 - Submit Uranium Fever screenshots to the [UF-screen-archery](https://discord.gg/Uu6gZZSaeA) channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen! We will review these and choose our favorites!
