@@ -13,6 +13,5 @@ sidebar_label: Recommended Specs
 - **Storage:** SSD required; NVMe SSD recommended, with at least 170GB of free space available.
 
 :::note
-- An optional [Storage Space Clean-Up](https://uraniumfever.net/docs/setupinstructions#-optional---storage-space-clean-up-) section is available in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for those needing to manage the large installation size.
 - Optional [Performance Profiles](https://uraniumfever.net/docs/setupinstructions#-selecting-a-uranium-fever-profile-) are discussed in the [Setup Instructions](https://uraniumfever.net/docs/setupinstructions/) for users with lower-spec systems.
 ::: 
