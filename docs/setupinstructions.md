@@ -80,7 +80,8 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 - Navigate to `C:\[STEAM or GOG FILEPATH]` and move the `Fallout New Vegas` folder to the desktop.
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games` and move the `FalloutNV` folder to the desktop.
 
-#### Step 2: Verifying Game Files
+#### Step 2: Verifying or Installing Game Files
+- If `Fallout: New Vegas` and `Fallout 3` are not already installed, install them.
 - Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder. 
   - This will already be removed if previously backed up.
 - Steam Users:
