@@ -69,7 +69,7 @@ Expand
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
 
 - **Death, Reload, and Save Consequences - Can I disable these?**
-  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator. However, this mechanic is considered integral to gameplay balance.
+  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator. However, these mechanics are considered integral to gameplay balance.
 
 - **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
 
