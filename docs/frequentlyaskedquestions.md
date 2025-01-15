@@ -156,6 +156,9 @@ Expand
 - **Level Cap - What is the level cap in Uranium Fever?**  
   - 60, as set by Tale of Two Wastelands.
 
+- **Loading and Unloading - MO2 seems to run the game but doesn't, why?**
+  - Your Uranium Fever folder is most likely set to read-only. Right-click the Uranium Fever parent folder and click properties. Untick "Read-Only" and click apply then okay.
+
 - **Long Load Screens - I have very long load screens, why?**  
   - You likely capped your FPS at too low a value.
 
