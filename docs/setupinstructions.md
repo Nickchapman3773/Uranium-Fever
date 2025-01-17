@@ -73,28 +73,17 @@ Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
-#### Step 1: Creating Backups of Current Modded Installations
-:::important
-**SKIP** step 1 if **not** backing up another modded instance of Fallout: New Vegas.
-:::
-- Navigate to `C:\[STEAM or GOG FILEPATH]` and move the `Fallout New Vegas` folder to the desktop.
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and move the `FalloutNV` folder to the desktop.
-
-#### Step 2: Verifying or Installing Game Files
-- If `Fallout: New Vegas` and `Fallout 3` are not already installed, install them.
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and delete the `FalloutNV` folder. 
-  - This will already be removed if previously backed up.
-- Steam Users:
-  - Right click `Fallout: New Vegas` in the Steam library, select `Properties`, switch to the `Installed Files` tab, then click `VERIFY INTEGRITY OF GAME FILES`.
-  - Repeat this process for `Fallout 3`.
-    
-  ![Steam Verify](https://github.com/user-attachments/assets/85b899c8-1feb-4076-8aae-182c889052c5)
-
-- GOG Users:
-  - Right Click `Fallout: New Vegas` in the GOG library, navigate to `Manage Installation`, then click `Verify / Repair`.
-  - Repeat this process for `Fallout 3`.
-
-  ![GOG Verify](https://github.com/user-attachments/assets/49e42d75-44b2-4e86-8465-6907555f12bf)
+- Navigate to `C:\[STEAM or GOG FILEPATH]` and:
+	- Move the `Fallout New Vegas` folder to the desktop.
+	- Delete the `Fallout New Vegas` folder instead if backups are not desired.
+	- Delete the `Fallout 3` folder.
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games`:
+	- Move the `FalloutNV` folder to the desktop.
+	- Delete the `FalloutNV` folder if backups are not desired.
+ 	- Delete the `Fallout3` folder.
+- Open `Steam or GOG`:
+	- If `Fallout: New Vegas` and `Fallout 3` are still installed, uninstall them.
+ 	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
@@ -146,7 +135,6 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
 - Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
-- Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` **IF** prompted.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
 :::important
@@ -478,3 +466,12 @@ For other sources of crashes, refer to [Frequently Asked Questions](https://uran
 :::warning Desktop Shortcuts
 Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
 :::
+
+### Modders - Installing GECK
+- Steam users:
+	- Navigate to Steam and install `GECK - New Vegas Edition`.
+ 	- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and move `SSCE5432.dll` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+ 	- Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+  
+- GOG users:
+	- Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
