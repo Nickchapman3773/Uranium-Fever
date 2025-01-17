@@ -77,12 +77,12 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 	- Move the `Fallout New Vegas` folder to the desktop.
 	- Delete the `Fallout New Vegas` folder instead if backups are not desired.
 	- Delete the `Fallout 3` folder.
-- Navigate to `C:\Users\[USERNAME]\Documents\My Games`:
+- Navigate to `C:\Users\[USERNAME]\Documents\My Games` and:
 	- Move the `FalloutNV` folder to the desktop.
 	- Delete the `FalloutNV` folder if backups are not desired.
  	- Delete the `Fallout3` folder.
-- Open `Steam or GOG`:
-	- If `Fallout: New Vegas` and `Fallout 3` are still installed, uninstall them.
+- Open `Steam or GOG` and:
+	- Uninstall `Fallout: New Vegas` and `Fallout 3` if they are still installed.
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
