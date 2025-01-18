@@ -30,6 +30,9 @@ Expand
 </details>
 :::
 
+- **3rd Person - Is 3rd person supported?**
+  - Partially. The Fallout: New Vegas modding community lacks high quality 3rd person animation replacers, which impacts both aesthetics and balance. We recommend only using 3rd person as a vanity camera.
+
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
   - These abbreviations help organize and maintain Uranium Fever:
     - **OP**: Optimized mod.
@@ -98,7 +101,7 @@ Expand
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
   - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
 
-- **Failed and Slow Nexus Downloads - Why are my downloads slow or failing?**  
+- **Failed or Slow Nexus Downloads - Why are my downloads slow or failing?**  
   - Relog into your Nexus account in the Wabbajack settings.
 
 - **Fallout 3 - Is Fallout 3 absolutely required to play Uranium Fever?**  
@@ -146,6 +149,11 @@ Expand
 
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**  
   - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
+
+- **Items - What does ___ item do?**
+  - **Bypass Module** Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
+  - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
+  - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
 
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
