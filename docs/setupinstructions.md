@@ -198,7 +198,7 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 
 - Navigate to `Options` and select the `Ultra Preset`.
 	- For weaker machines or performance concerns, select the `Very High` preset, though this reduces visual quality.
-- Uncheck the `Windowed` option and select your monitor's resolution.
+- Uncheck the `Windowed` option if checked and select your monitor's resolution.
 	- If your monitor's resolution is unavailable, manually set it by opening MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and adjusting `iSize W` and `iSize H` under the `Display` section to match your screen's width and height.
 - Click `OK` and close the launcher.
 
