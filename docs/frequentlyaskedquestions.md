@@ -232,12 +232,16 @@ Expand
 
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**  
   - We do not currently provide support for atypical aspect ratios, though plan to in the future.
+ 
+- **Updates - Will updating impact my saves?**  
+  - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
   - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
-
-- **Updates - Will updating impact my saves?**  
-  - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
+ 
+- **Wordle - How do I play wordle?**
+  - Letters are categorized into 3 categories when words are played: Solid green highlight means the letter is in the correct position; Solid yellow/orange highlight means the letter is in the word but in the wrong position; No highlight means the letter is not in the word. Already used letters that are not in the word will be darkened on the bottom keyboard.
+    [Visual example](https://staticdelivery.nexusmods.com/mods/130/images/89317/89317-1730412628-1110398251.png)
 
 - **XP - I do not always get XP when I kill enemies. Why?**  
   - XP is reported collectively at the end of combat and the player will not be rewarded XP for companion kills.
