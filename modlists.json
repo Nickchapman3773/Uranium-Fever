@@ -9,13 +9,14 @@
       "github/anonymoussynon"
     ],
     "game": "falloutnewvegas",
-    "official": false,
+    "official": true,
     "tags": [
       "Hardcore",
       "Balanced",
       "Overhaul",
       "Visuals",
-      "Graphics"
+      "Graphics",
+      "Official"
     ],
     "nsfw": false,
     "utility_list": false,
