@@ -58,14 +58,13 @@ Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 :::
 
 ### <p align="center"> ![Manual Downloads](https://github.com/user-attachments/assets/ee90c955-9d97-4252-a50c-c897eac2b381) </p>
-:::danger Required Mods
+:::danger Required Mod
 :::
 
 - Download the following archives:
   - [Tammer's NIF-Bashed Armor Mega-Pack v4.2](https://drive.usercontent.google.com/download?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download&authuser=0)
-  - [RRTV_CapitalWasteland_Hideouts_TTW-v2.0](https://drive.usercontent.google.com/download?id=1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo&export=download&authuser=0)
 
-- Move the two downloaded archives into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract them.
+- Move the downloaded archive into `C:\Modding\Uranium Fever\downloads`. **DO NOT** extract it.
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
