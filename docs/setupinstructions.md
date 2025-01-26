@@ -395,7 +395,10 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 - Select `FalloutNV.exe`.
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
-  - Users with powerful GPUs can increase this value, though increased stuttering will likely result from doing so. Please do not exceed a framerate limit of 99.95.
+
+:::danger Exceeding a Framerate Limit of 59.95
+Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
+:::
 
   ![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
 
