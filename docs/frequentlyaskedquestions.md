@@ -20,11 +20,18 @@ Expand
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Verify correct management of the Manual Downloads, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
 - Confirm the required runtimes and frameworks are installed, per [Requirements](https://uraniumfever.net/docs/requirements).
+- Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/setupinstructions#-creating-antivirus-exclusions-).
+- Disable or uinstall any 3rd party antivirus.
 - If using Overwolf, ensure it is disabled or uninstalled.
+- If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
+- Update to the most recent graphics card drivers.
 - Restart your computer.
-- Check that you have the correct version of DXVK, following [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
+- Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) step.
+- If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
+
+
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
@@ -44,8 +51,14 @@ Expand
     - **CDN**: Mod hosted on the Wabbajack server.
     - **SQ, LQ, VLQ, DB**: Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
 
+- **Addiction - How does addiction work in Uranium Fever?**
+  - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
+  - Paying a doctor to addres your addiction or using a fixer will provide a period of immunity against the negative effects of the addiction. The addiction will still naturally recover at the same rate.
+
 - **Application Load Error P:0000065432 - How do I fix this error?**
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
+- **Application Load Error P:0000065434 - How do I fix this error?**
+  - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://uraniumfever.net/docs/setupinstructions#-generating-fresh-ini-files-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
 
 - **Altering Uranium Fever - Can I modify the mods?**
   - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
@@ -171,7 +184,7 @@ Expand
   - You likely capped your FPS at too low a value.
 
 - **Manual Installs - Why must I manually install TTW, NVR, and other mods?**  
-  - TTW requires manual installation due to ModPub restrictions, NVR is only available on Discord, and the other manual downloads are inaccessible to Wabbajack.
+  - TTW requires manual installation due to ModPub restrictions, NVR is only available on Discord, and the other manual downloads are inaccessible to Wabbajack.o
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
@@ -221,6 +234,51 @@ Expand
 - **Size - Why is Uranium Fever so large?**  
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB.
 
+- **SPECIAL - How have SPECIAL stats been changed in Uranium Fever as compared to the standard game?**
+  - **All SPECIALS:**
+    - All grant extra items in starting gear in both Wastelands and various DLCs.
+    - Contribute the the players size during character creaton.
+  - **Strength:**
+    - Increased carry weight.
+    - Small knockdown resistance increase.
+    - Improved hip fire spread.
+    - Improved recoil control.
+  - **Perception:**
+    - Improved non-damaging forced entry bonus.
+    - Improved bullet spread.
+    - Improved degree of time dilation associated with Just Bullet Time.
+  - **Endurance:**
+    - Increased HP.
+    - Large knockdown resistance.
+    - Increased health regeneration over time.
+    - Increased sleep and wait health regeneration.
+    - Reduced addiction chance.
+  - **Charisma:**
+    - Improved barter prices.
+    - More frequent dialogue checks.
+    - Increased reputation gains and decreased reputation losses.
+  - **Intelligence:**
+    - Improved non-damagig forced entry bonus.
+    - Enemy intelligence reduces success in dialogue checks.
+  - **Agility:**
+    - Increased AP.
+    - Improved radiation decay.
+    - Improved non-damaging forced entry bonus.
+    - Faster swim speed.
+    - Faster reload speed.
+    - Faster weapon jam recovery speed.
+  - **Luck:**
+    - Improved chance for crippled limb recovery while sleeping at full health.
+    - Reduced odds for item destruction during forced entry.
+    - Reduced chance for bypass tool to be destroyed.
+    - Improved outcomes in various scripted events, such as repairing electrical boxes.
+    - Improved lockpicking chances when using Immersive Minigame Tweaks.
+    - Improved hacking chances when using Immersive Minigame Tweaks.
+    - Reduced weapon jam chance.
+
+- **Sped-up Game - Why is my game sped-up?**
+  - Cap your FPS below 120, this is a byproduct of exceeding the maximum capable FPS.
+
 - **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**  
   - Select `memory` when prompted after leaving the Vault 101 cave.
 
@@ -240,7 +298,11 @@ Expand
   - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
  
 - **Wordle - How do I play wordle?**
-  - Letters are categorized into 3 categories when words are played: Solid green highlight means the letter is in the correct position; Solid yellow/orange highlight means the letter is in the word but in the wrong position; No highlight means the letter is not in the word. Already used letters that are not in the word will be darkened on the bottom keyboard.
+  - Letters are categorized into three categories when words are played:
+    - Solid green highlight means the letter is in the correct position.
+    - Solid yellow/orange highlight means the letter is in the word but in the wrong position.
+    - No highlight means the letter is not in the word.
+  - Already used letters that are not in the word will be darkened on the bottom keyboard.
     [Visual example](https://staticdelivery.nexusmods.com/mods/130/images/89317/89317-1730412628-1110398251.png)
 
 - **XP - I do not always get XP when I kill enemies. Why?**  
