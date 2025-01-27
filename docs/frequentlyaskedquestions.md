@@ -33,6 +33,7 @@ Expand
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 
 
+
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
