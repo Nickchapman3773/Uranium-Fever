@@ -62,6 +62,9 @@ Expand
 
 - **Altering Uranium Fever - Can I modify the mods?**
   - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
+ 
+- **Bobbleheads - I used to know exactly where to find all of the bobbleheads, but they aren't where I expect them. Why?**
+  - They have all been relocated. Gone are the days of free and predictable SPECIAL points. We enjoy the sense of discovery of them being relocated, and hope you will too.
 
 - **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
@@ -72,9 +75,12 @@ Expand
 - **Climbable Ladders - Which ladders can I climb?**
   - Only water tower ladders are climbable. Look at the ladder and press the activate key to climb. Use the activate key again to dismount at the top.
  
-- **Companions - My companions keep running to their death, how can I stop them?**
+- **Companions Combat - My companions keep running to their death, how can I stop them?**
   - Open the Companions Command and Control menu (`C`) and try changing their tactics to `stay back` and `prefer ranged combat`.
   - Make sure you give them a weapon, ammo, and aid.
+ 
+- **Companions Healing - How do I heal my companions?**
+  - Companions heal in the same ways as the player does. Give them aid, pay the doctor for healing services, or sleep.
 
 - **Controller Support - Is there controller support?**
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1320630774265020457).
@@ -285,6 +291,9 @@ Expand
     - Improved lockpicking chances when using Immersive Minigame Tweaks.
     - Improved hacking chances when using Immersive Minigame Tweaks.
     - Reduced weapon jam chance.
+
+- **Sound - Why is the music or sound cutting in and out or crackling?**
+  - Bluetooth sound devices do not work correctly with Fallout: New Vegas. The solution is to play some type of video or music in the background when launching the game. This can be turned off after loading.
 
 - **Sped-up Game - Why is my game sped-up?**
   - Cap your FPS below 120, this is a byproduct of exceeding the maximum capable FPS.
