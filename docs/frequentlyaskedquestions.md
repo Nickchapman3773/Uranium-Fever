@@ -71,6 +71,10 @@ Expand
 
 - **Climbable Ladders - Which ladders can I climb?**
   - Only water tower ladders are climbable. Look at the ladder and press the activate key to climb. Use the activate key again to dismount at the top.
+ 
+- **Companions - My companions keep running to their death, how can I stop them?**
+  - Open the Companions Command and Control menu (`C`) and try changing their tactics to `stay back` and `prefer ranged combat`.
+  - Make sure you give them a weapon, ammo, and aid.
 
 - **Controller Support - Is there controller support?**
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1320630774265020457).
@@ -188,6 +192,9 @@ Expand
 
 - **Meat - Why don't animals drop meat?**
   - Without the Hunter perk, you struggle to hunt and harvest meat from your kills.
+
+- **Megaton Bomb - How do I defuse the megaton bomb?**
+  - The formula now depends on intelligence, science, repair, and explosives levels. The player must be a defusal skill level of 90, which is calculated by the defusal skill formula, `((Intelligence * Science) * .05) + Repair + Explosives`.
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
