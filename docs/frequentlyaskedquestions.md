@@ -25,6 +25,7 @@ Expand
 - If using Overwolf, ensure it is disabled or uninstalled.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Update to the most recent graphics card drivers.
+- Right click the Uranium Fever folder and uncheck Read-only.
 - Restart your computer.
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
@@ -208,6 +209,9 @@ Expand
 - **Modularity - Can I customize Uranium Fever to my preferences?**  
   - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, altered lists are unsupported.
 
+- **Mods - Why are there so many empty mods or mods that are completely overwritten in UF?**
+  - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
+
 - **NoDelete - What does [NoDelete] mean?**  
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
 
@@ -231,6 +235,9 @@ Expand
 
 - **Plugin No Longer Present - I'm notified that certain plugins are missing. Is this an issue?**  
   - No, unless specifically noted. Some plugins may be merged or removed during optimization, which will not have a major impact on your save unless otherwise specified.
+
+- **Purifier - Why do I return to main menu after activating the purifier? Is this a bug?**
+  - You died. Try a different method of activating the purifier.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
   - No. The Death Throes replacement plugin used here is stable.
