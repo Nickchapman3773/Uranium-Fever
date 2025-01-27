@@ -183,8 +183,11 @@ Expand
 - **Long Load Screens - I have very long load screens, why?**  
   - You likely capped your FPS at too low a value.
 
-- **Manual Installs - Why must I manually install TTW, NVR, and other mods?**  
-  - TTW requires manual installation due to ModPub restrictions, NVR is only available on Discord, and the other manual downloads are inaccessible to Wabbajack.o
+- **Manual Installs - Why must I manually install TTW and NVR?**  
+  - TTW requires manual installation due to ModPub restrictions and NVR is only available on Discord.
+
+- **Meat - Why don't animals drop meat?**
+  - Without the Hunter perk, you struggle to hunt and harvest meat from your kills.
 
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
