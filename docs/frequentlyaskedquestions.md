@@ -96,7 +96,8 @@ Expand
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
 
 - **Death, Reload, and Save Consequences - Can I disable these?**
-  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator. However, these mechanics are considered integral to gameplay balance.
+  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.
+  - However, these mechanics are considered integral to gameplay balance. Reloading after a poor engagement, failed skill check, failed minigame, or companion death invalidates many authentic situations the player might face. The goal of the mod is to impose a cost to do so.
 
 - **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
 
@@ -187,9 +188,6 @@ Expand
 
 - **Level Cap - What is the level cap in Uranium Fever?**  
   - 60, as set by Tale of Two Wastelands.
-
-- **Loading and Unloading - MO2 seems to run the game but doesn't, why?**
-  - Your Uranium Fever folder is most likely set to read-only. Right-click the Uranium Fever parent folder and click properties. Untick "Read-Only" and click apply then okay.
 
 - **Long Load Screens - I have very long load screens, why?**  
   - You likely capped your FPS at too low a value.
@@ -307,6 +305,12 @@ Expand
 
 - **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**  
   - Select `memory` when prompted after leaving the Vault 101 cave.
+
+- **Start - Which Wasteland should I choose to start in?**
+  - The original intent of Tale of Two Wastelands was to start in the Capital Wasteland. However, starting in the Mojave will provide a more challenging experience from start to finish as compared to a Capital Wasteland start.
+
+- **Steam Overlay - Can't I disable the Steam overlay directly through Steam?**
+  - No. Even if disabled via Steam, the overlay still injects its DLL directly into the game, which can result in crashing. 
 
 - **Tale of Two Wastelands - Is TTW required for Uranium Fever?**  
   - Yes. The modlist cannot be installed or used without TTW.
