@@ -95,6 +95,12 @@ sidebar_label: Mod Feature Reference List
   - Supported Vendors:
     - Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Commissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
 
+- **New Vegas Reloaded (NVR):**
+  - Press `End` to open the settings menu.
+  - Press `=` to manually edit a value.
+  - Press `[` to disable or decrease a value.
+  - Press `]` to enable or increase a value.
+
 - **Open Inventory:**
   - Press `I`.
 
