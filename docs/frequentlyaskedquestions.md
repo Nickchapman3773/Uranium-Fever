@@ -21,7 +21,7 @@ Expand
 - Repeat the installation process for the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/requirements).
 - Verify correct management of the Manual Downloads, as detailed in [Manual Downloads](https://uraniumfever.net/docs/setupinstructions/#-manual-downloads-).
 - Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/setupinstructions#-creating-antivirus-exclusions-).
-- Disable or uinstall any 3rd party antivirus.
+- Disable or uninstall any 3rd party antivirus.
 - If using Overwolf, ensure it is disabled or uninstalled.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Update to the most recent graphics card drivers.
