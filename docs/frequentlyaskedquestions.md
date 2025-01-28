@@ -280,7 +280,7 @@ Expand
     - More frequent dialogue checks.
     - Increased reputation gains and decreased reputation losses.
   - **Intelligence:**
-    - Improved non-damagig forced entry bonus.
+    - Improved non-damaging forced entry bonus.
     - Enemy intelligence reduces success in dialogue checks.
   - **Agility:**
     - Increased AP.
