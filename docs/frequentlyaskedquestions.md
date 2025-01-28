@@ -73,11 +73,8 @@ Expand
 
 - **Clean Install - Do I need a clean installation of Fallout: New Vegas and Fallout 3?**
   - No, Uranium Fever is fully self-contained and independent of your existing Fallout installations.
-
-- **Climbable Ladders - Which ladders can I climb?**
-  - Only water tower ladders are climbable. Look at the ladder and press the activate key to climb. Use the activate key again to dismount at the top.
  
-- **Companions Combat - My companions keep running to their death, how can I stop them?**
+- **Companion Combat - My companions keep running to their death, how can I stop them?**
   - Open the Companions Command and Control menu (`C`) and try changing their tactics to `stay back` and `prefer ranged combat`.
   - Make sure you give them a weapon, ammo, and aid.
  
