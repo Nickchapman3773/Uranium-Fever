@@ -67,7 +67,7 @@ Expand
   - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
  
 - **Bobbleheads - I used to know exactly where to find all of the bobbleheads, but they aren't where I expect them. Why?**
-  - They have all been relocated. Gone are the days of free and predictable SPECIAL points. We enjoy the sense of discovery of them being relocated, and hope you will too.
+  - They have all been relocated. Gone are the days of free, predictable SPECIAL points. We enjoy the sense of discovery assocaited with their relocation, and hope you will too.
 
 - **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
@@ -201,6 +201,9 @@ Expand
   - **Bypass Module** Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
   - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
   - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
+ 
+- **Items - Where is ___ item located? It used to be in this very specific location!**  
+  - Please enjoy the thrill of discovery, rather than focusing on what used to be. Any missing items you encounter have been relocated as part of an intentional overhaul. No, we will not tell you the new location.
 
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
