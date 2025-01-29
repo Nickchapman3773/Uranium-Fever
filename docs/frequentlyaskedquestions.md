@@ -21,6 +21,7 @@ Expand
 - Repeat the installation process for the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/requirements).
 - Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/setupinstructions#-creating-antivirus-exclusions-).
 - Disable or uninstall any 3rd party antivirus.
+- Disable any VPN.
 - If using Overwolf, ensure it is disabled or uninstalled.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Update to the most recent graphics card drivers.
@@ -30,9 +31,7 @@ Expand
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) step.
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
-
-
-
+<div style="page-break-after: always;"></div>
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
@@ -180,7 +179,7 @@ Expand
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Launcher - "Install" and "Options" is greyed out in the launcher. Why?**  
+- **Configuring Game Settings - "Install" and "Options" is greyed out in the launcher. Why?**  
   - Re-run the launcher from Steam/GOG to regenerate the necessary INIs, then reopen the Uranium Fever Launcher. This can happen after updating Uranium Fever.
 
 - **Level Cap - What is the level cap in Uranium Fever?**  
