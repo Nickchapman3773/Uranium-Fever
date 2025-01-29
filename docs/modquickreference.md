@@ -21,13 +21,6 @@ sidebar_label: Mod Feature Reference List
 - **B42 Lean:**
   - Contextual leaning automatically activated when aiming near corners.
 
-- **B42 Optics:**
-  - Toggle Night Vision on Compatible Scopes: Aim down scope (`Right Click`), press Flashlight (`Tab`).
-
-- **B42 Quickthrow:**
-  - Throw: Side Mouse Button 1 (Back Left).
-  - Swap Throwable: Side Mouse Button 2 (Front Left).
-
 - **Backpacks:**
   - Equip to increase carry capacity.
 
