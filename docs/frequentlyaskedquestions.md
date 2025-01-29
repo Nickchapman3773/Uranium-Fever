@@ -55,6 +55,9 @@ Expand
   - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
   - Paying a doctor to addres your addiction or using a fixer will provide a period of immunity against the negative effects of the addiction. The addiction will still naturally recover at the same rate.
 
+- **Adding Mods - How do I add ___ mod?**
+  - The Uranium Fever support team will not provide any advice or instructions on how to add mods to Uranium Fever. You may do so at your own risk, though you void any support by doing so.
+
 - **Application Load Error P:0000065432 - How do I fix this error?**
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
 - **Application Load Error P:0000065434 - How do I fix this error?**
@@ -82,6 +85,9 @@ Expand
 - **Controller Support - Is there controller support?**
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1320630774265020457).
 
+- **Console Commands - Can I safely use console commands when playing?**
+  - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
+
 - **Crippled - How do I heal crippled limbs?**
   - Visit a doctor.
   - Use a Doctor's Bag or Splint.
@@ -95,7 +101,26 @@ Expand
   - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.
   - However, these mechanics are considered integral to gameplay balance. Reloading after a poor engagement, failed skill check, failed minigame, or companion death invalidates many authentic situations the player might face. The goal of the mod is to impose a cost to do so.
 
-- **DLCs - What levels are recommended for the DLCs and DLC-like quest mods?**
+- **DLCs - How do I initiate the various DLCs?**
+  
+  - **Capital Wasteland:**
+    - **Point Lookout** - Walk past the Citadel towards the rivertboat, at which point a horn will sound.
+    - **The Pitt** - Listen to a radio broadcast near the Oasis.
+    - **Mothership Zeta** - Listen to the radio broadcast near MDPL-13 Power Station.
+    - **Operation Anchorage** - Listen to the radio broadcast near Bailey's Crossroads.
+
+  - **Mojave Wasteland:**
+    - **Autumn Leaves** - Visit Hypatia.
+    - **Into the Deep** - Visit Shamble.
+    - **Lake Havasu** - Visit Searchlight Airport.
+    - **Dry Wells** - Visit Blue Paradise Vacation Rentals.
+    - **Race To The Bottom** - Visit Freeside Coop.
+    - **Honest Hearts** - Listen to the radio broadcast near Freeside.
+    - **Old World Blues** - Listen to the radio broadcast near the Crashed Satellite.
+    - **Dead Money** - Listen to the radio broadcast near Helios One.
+    - **Lonesome Road** - Visit the Canyon Wreckage.
+
+- **DLCs & Quest Mods - What levels are recommended for the DLCs and quest mods?**
 
   - **Capital Wasteland:**
     - **Point Lookout (with Early Decisions and Gameplay Enhancement)** - 10
@@ -108,16 +133,14 @@ Expand
     - **Into the Deep** - 10
     - **Lake Havasu** - 10
     - **Dry Wells** - 10
+    - **Race To The Bottom** - 10
     - **Honest Hearts** - 10
-    - **The Initiation** - 15
     - **Old World Blues** - 15
-    - **Eliza** - 20
-    - **Headhunting** - 20
-    - **Depths of Depravity** - 20
-    - **The High Desert** - 20
     - **Dead Money (with Dead Money Tweaks)** - 25
     - **Lonesome Road** - 25
-    - **North Road** - 35
+
+- **Disabling Mods - Can I disable ___ mod?**
+  - The only mods you can safely enable or disable are those in the `Optional Settings & Additions` separator.
 
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
   - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
@@ -171,6 +194,9 @@ Expand
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**  
   - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
+- **Humbled - What do I get to keep when I transition from the Capital Wasteland to the Mojave Wasteland (get humbled)?**
+  - The players level, skills, and karma are completely reset. Perks are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
+
 - **Items - What does ___ item do?**
   - **Bypass Module** Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
   - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
@@ -181,6 +207,9 @@ Expand
 
 - **Configuring Game Settings - "Install" and "Options" is greyed out in the launcher. Why?**  
   - Re-run the launcher from Steam/GOG to regenerate the necessary INIs, then reopen the Uranium Fever Launcher. This can happen after updating Uranium Fever.
+
+- **Loading & Saving - In Skyrim I am told I can't quicksave or quickload. Is this also true in Uranium Fever?**
+  - No. Quicksaves, autosaves, and full saves are also functionally similar, and none of these negatively impact the game. Similarly, reloading will not negatively impact your game.
 
 - **Level Cap - What is the level cap in Uranium Fever?**  
   - 60, as set by Tale of Two Wastelands.
@@ -232,6 +261,9 @@ Expand
 
 - **Purifier - Why do I return to main menu after activating the purifier? Is this a bug?**
   - You died. Try a different method of activating the purifier.
+
+- **Radiation - ___ is too irradiated to complete! What can I do?**
+  - Use a combination of a radiation suit, rad-x, radaway, and alcohol to mitigate the effects of radiation.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
   - No. The Death Throes replacement plugin used here is stable.
@@ -313,6 +345,9 @@ Expand
 
 - **Traits - I can choose 99 traits. Is this a bug?**  
   - No, this is intentional behavior. Most traits have both benefits and downsides, which provide balance in having additional traits. Having the ability to have many traits provides ample opportunity for unique character experiences.
+
+- **Traits - I chose a trait that said I could immediately select a new perk, but I was not offered a new perk. Why?**
+  - You will be able to choose this perk when you next level up.
 
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**  
   - We do not currently provide support for atypical aspect ratios, though plan to in the future.
