@@ -170,7 +170,6 @@ Expand
   - Food will not provide much healing. The best ways to heal are by sleeping and by visiting doctors.
   - Chems and alcohol can give strong transient buffs, though are also associated with severe drawbacks during times of addiction. Visiting a doctor about the player's addiction will only help for a period of time while the player takes time to naturally recover from their addiction.
   - Some crafting items have unexpected uses. Study crafting stations carefully.
-  - Challenges are a good source of XP.
   - Carry multiple weapons that require different ammo types. Ammo scarcity will require you to switch weapons frequently.
   - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
