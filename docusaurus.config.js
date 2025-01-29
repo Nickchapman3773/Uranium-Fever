@@ -112,6 +112,12 @@ const config = {
           },
           {
             type: "doc",
+            docId: "donations",
+            position: "right",
+            label: "Donate",
+          },
+          {
+            type: "doc",
             docId: "supportfeedback",
             position: "right",
             label: "Help",
