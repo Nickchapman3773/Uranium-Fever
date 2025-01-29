@@ -35,9 +35,7 @@ sidebar_label: Mod Highlights
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
 - [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Replaces hacking and lockpicking with balanced minigames.
 - [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
-- [B42 Quickthrow](https://www.nexusmods.com/newvegas/mods/66686) - Introduces modern throwable weapon mechanics.
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
-- [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641) - Adds dual-rendered scopes.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
 # <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
