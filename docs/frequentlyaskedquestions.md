@@ -31,7 +31,6 @@ Expand
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
 - Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) step.
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/setupinstructions/#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
-<div style="page-break-after: always;"></div>
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
