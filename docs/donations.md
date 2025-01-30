@@ -14,6 +14,14 @@ Please consider donating to support the effort of these mod authors and/or one o
 
 
 
+# ![wallpic](https://github.com/user-attachments/assets/f9b38967-9ad8-4179-b829-8558d185670a) [Wall's Ko-Fi](https://ko-fi.com/wall_sogb)
+
+
+
+# ![vishpic](https://github.com/user-attachments/assets/59a481e6-880f-4de7-b034-59db1c18428d) [Vish's Paypal](https://www.paypal.com/paypalme/Ungeziefi)
+
+
+
 # ![Gamers_Outreach_logo___light_bg](https://github.com/user-attachments/assets/b83d75a6-92cb-4d48-b30d-b4814f9df51d) [Gamer's Outreach](https://gamersoutreach.org/donate/)
 
 
