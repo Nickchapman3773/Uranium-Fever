@@ -460,7 +460,8 @@ For other sources of crashes, refer to [Frequently Asked Questions](https://uran
 Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
 :::
 
-### Modders - Installing GECK
+![mig](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc)
+
 - Steam users:
 	- Navigate to Steam and install `GECK - New Vegas Edition`.
  	- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and move `SSCE5432.dll` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
