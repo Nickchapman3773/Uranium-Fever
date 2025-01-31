@@ -464,7 +464,7 @@ Do **NOT** create desktop shortcuts. This will cause load order abnormalities wh
 
 - Steam users:
 	- Navigate to Steam and install `GECK - New Vegas Edition`.
- 	- Navigate to `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` and move `SSCE5432.dll` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
+ 	- Navigate to `C:\[STEAM FILEPATH]\Fallout New Vegas` and move `SSCE5432.dll` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
  	- Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`.
   
 - GOG users:
