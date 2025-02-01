@@ -4,7 +4,7 @@ We do not accept donations on behalf of Uranium Fever, though would love to redi
 
 # <p align="center"> ![14e94265-5bf9-43ac-98d9-08de20a30b33](https://github.com/user-attachments/assets/9ed3ec94-f4db-4260-af5b-1cf39bf7e4ad) [Sweet6Shooter's Ko-Fi](https://ko-fi.com/sweetsixshooter) </p>
 
-# <p align="center"> ![stentpic](https://github.com/user-attachments/assets/340bb0d1-4daf-4a21-9b0d-d279fcac4f41) [Stentorious's Patreon](https://www.patreon.com/stentorious) </p>
+# <p align="center"> ![stentpic](https://github.com/user-attachments/assets/340bb0d1-4daf-4a21-9b0d-d279fcac4f41) [Stentorious' Patreon](https://www.patreon.com/stentorious) </p>
 
 # <p align="center"> ![gravepic](https://github.com/user-attachments/assets/080e4481-cc72-425a-98d7-8a3423455e18) [InTheGrave's Ko-Fi](https://ko-fi.com/gravy19125) </p>
 
