@@ -10,9 +10,9 @@ We do not accept donations on behalf of Uranium Fever, though would love to redi
 
 # <p align="center"> ![pr0bpic](https://github.com/user-attachments/assets/72f6b5b1-61ca-4cb3-9d93-df0223053af6) [Pr0bability's Ko-Fi](https://ko-fi.com/pr0bability) </p>
 
-# <p align="center"> ![wallpic](https://github.com/user-attachments/assets/ea7aaac3-7dbf-4c29-95e4-2460145037d3) [Wall's Ko-Fi](https://ko-fi.com/wall_sogb) </p>
-
 # <p align="center"> ![vishpic](https://github.com/user-attachments/assets/59a481e6-880f-4de7-b034-59db1c18428d) [Ungeziefi's Paypal](https://www.paypal.com/paypalme/Ungeziefi) </p>
+
+# <p align="center"> ![wallpic](https://github.com/user-attachments/assets/ea7aaac3-7dbf-4c29-95e4-2460145037d3) [Wall's Ko-Fi](https://ko-fi.com/wall_sogb) </p>
 
 # <p align="center"> ![Gamers_Outreach_logo___light_bg](https://github.com/user-attachments/assets/b83d75a6-92cb-4d48-b30d-b4814f9df51d) [Gamer's Outreach](https://gamersoutreach.org/donate/) </p>
 
