@@ -403,8 +403,8 @@ Exceeding this value, even on powerful machines, can result in significantly inc
 Enabling Flip Model (DXVK with DXGI) reduces latency and supports HDR and VRR.
 :::
 
-- Download the premade [Fallout: New Vegas Nvidia Driver Profile](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.8/nvidiaProfileInspector.zip).
-- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.4/nvidiaProfileInspector.zip) and extract the contents.
+- Download the premade [Fallout: New Vegas Nvidia Driver Profile](https://performance.moddinglinked.com/files/FO-NvidiaProfile.nip).
+- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.8/nvidiaProfileInspector.zip) and extract the contents.
 - Run `Nvidia Profile Inspector`, click `Import user defined profiles`, then select `Import Profiles`.
 
   ![Import Nvidia Profile](https://github.com/user-attachments/assets/976cfd96-b6ff-4c95-ac87-2b888c2dbaa2)
