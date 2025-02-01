@@ -18,5 +18,5 @@ sidebar_label: Features
 - Extensive optimizations unique to UF.
 - Complete retexturing and reimagining of both Wastelands, including [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817), a [New Vegas Reloaded](https://dlpnd.github.io/nvr-wiki/) multi-worldspace preset, specifically designed for UF (see [Mod Highlights](https://uraniumfever.net/docs/modhighlights) and [Showcase](https://uraniumfever.net/docs/userinterface/) for details).
 - Dramatically enhanced lighting and special effects to accentuate the ambiance of both Wastelands.
-- Numerous new animations to improve gameplay flow, immersion, and believability.
+- Ample new animations to improve gameplay flow, immersion, and believability.
 - An extensive overhaul of the entire music and soundscape, promoting a deeper level of immersion.
