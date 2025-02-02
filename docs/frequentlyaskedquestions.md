@@ -359,6 +359,9 @@ Expand
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
   - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
 
+- **Wabbajack - The Uranium Fever installation froze in Wabbajack. What do I do?**
+  - Re-run the `Uranium Fever.wabbajack` installer. The installer will resume where it left off, correcting any errors that occurred along the way.
+
 - **Weapon Sway - Why does my weapon sway around my crosshair?**
   - you do not meet the required SPECIAL and weapon skill recommended in order to use the weapon.
 
