@@ -39,6 +39,9 @@ Expand
 - **3rd Person - Is 3rd person supported?**
   - Partially. The Fallout: New Vegas modding community lacks high quality 3rd person animation replacers, which impacts both aesthetics and balance. We recommend only using 3rd person as a vanity camera.
 
+- **4GB Patcher - I am a GOG user and a 4GB patch is already bundled with GOG. I don't think 4GB patcher is necessary for me and I am much more stable without it.**
+  - This is a different utility than the one instructed for use with Uranium Fever. The 4GB patcher you are instructed to use patches the game to use xNVSE. Without running it, you are not playing with the majority of the mods included in Uranium Fever.
+
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
   - These abbreviations help organize and maintain Uranium Fever:
     - **OP**: Optimized mod.
@@ -235,6 +238,9 @@ Expand
 
 - **Mods - Why are there so many empty mods or mods that are completely overwritten in UF?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
+
+- **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
+  - It is no longer recommended. xNVSE has built in changes to the vanilla heap that are superior to those found in NVHR, but without the massively increased memory usage that results from NVHR.
 
 - **NoDelete - What does [NoDelete] mean?**  
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
