@@ -358,7 +358,10 @@ Expand
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
   - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
- 
+
+- **Weapon Sway - Why does my weapon sway around my crosshair?**
+  - you do not meet the required SPECIAL and weapon skill recommended in order to use the weapon.
+
 - **Wordle - How do I play wordle?**
   - Letters are categorized into three categories when words are played:
     - Solid green highlight means the letter is in the correct position.
