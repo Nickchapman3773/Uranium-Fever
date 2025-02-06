@@ -81,8 +81,11 @@ Expand
   - Open the Companions Command and Control menu (`C`) and try changing their tactics to `stay back` and `prefer ranged combat`.
   - Make sure you give them a weapon, ammo, and aid.
  
-- **Companions Healing - How do I heal my companions?**
+- **Companion Healing - How do I heal my companions?**
   - Companions heal in the same ways as the player does. Give them aid, pay the doctor for healing services, or sleep.
+
+- **Companion Recruitment - Why cant I recruit ___ companion?**
+  - The recruitment of companions is dependent on the player's charisma. The formula is `Charisma / 2, rounded down = x`, where `x=The number of companions that can be recruited simultaneously`. For example: with a charisma of 7, `7/2=3.5`, `3.5 rounded down=3`, thus the player can recruit 3 followers.
 
 - **Controller Support - Is there controller support?**
   - No. Due to equipment and platform variations, controllers are unsupported. Use Steam Input and this [Unofficial Controller Preset](https://discord.com/channels/1247305852738736219/1247325147950747699/1320630774265020457).
