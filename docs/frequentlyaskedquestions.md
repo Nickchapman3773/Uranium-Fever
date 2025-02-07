@@ -82,7 +82,7 @@ Expand
   - Make sure you give them a weapon, ammo, and aid.
  
 - **Companion Healing - How do I heal my companions?**
-  - Companions heal in the same ways as the player does. Give them aid, pay the doctor for healing services, or sleep.
+  - Companions heal in the same ways as the player does. Give them aid, pay the doctor for healing services (the doctor will stitch them up while they stitch you up), or sleep (they'll sleep when you sleep).
 
 - **Companion Recruitment - Why cant I recruit ___ companion?**
   - The recruitment of companions is dependent on the player's charisma. The formula is `Charisma / 2, rounded down = x`, where `x=The number of companions that can be recruited simultaneously`. For example: with a charisma of 7, `7/2=3.5`, `3.5 rounded down=3`, thus the player can recruit 3 followers.
