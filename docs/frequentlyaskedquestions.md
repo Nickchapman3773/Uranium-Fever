@@ -239,7 +239,7 @@ Expand
 - **Modularity - Can I customize Uranium Fever to my preferences?**  
   - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, altered lists are unsupported.
 
-- **Mods - Why are there so many empty mods or mods that are completely overwritten in UF?**
+- **Mods - Why are there so many empty mods or mods that are completely overwritten in Uranium Fever?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
 
 - **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
@@ -292,6 +292,9 @@ Expand
 
 - **Size - Why is Uranium Fever so large?**  
   - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB.
+
+- **Skill Tags - How do skill tags work in Uranium Fever? I do not see the 15 point increase I am used to?**
+  - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled.
 
 - **SPECIAL - How have SPECIAL stats been changed in Uranium Fever as compared to the standard game?**
   - **All SPECIALS:**
