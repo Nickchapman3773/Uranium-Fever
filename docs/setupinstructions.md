@@ -460,7 +460,7 @@ For other sources of crashes, refer to [Frequently Asked Questions](https://uran
 Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
 :::
 
-### <p align="center"> ![Modders Installing Geck](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc) </p>
+### <p align="center"> ![Modders - Installing Geck](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc) </p>
 
 - Steam users:
 	- Navigate to Steam and install `GECK - New Vegas Edition`.
