@@ -375,7 +375,7 @@ Expand
   - Re-run the `Uranium Fever.wabbajack` installer. The installer will resume where it left off, correcting any errors that occurred along the way.
 
 - **Weapon Sway - Why does my weapon sway around my crosshair?**
-  - you do not meet the required SPECIAL and weapon skill recommended in order to use the weapon.
+  - you do not meet the required SPECIAL and weapon skill recommended in order to use the weapon, which is specified in the weapon stats..
 
 - **Wordle - How do I play wordle?**
   - Letters are categorized into three categories when words are played:
