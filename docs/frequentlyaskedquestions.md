@@ -68,8 +68,8 @@ Expand
 - **Altering Uranium Fever - Can I modify the mods?**
   - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
  
-- **Bobbleheads - I used to know exactly where to find all of the bobbleheads, but they aren't where I expect them. Why?**
-  - They have all been relocated. Gone are the days of free, predictable SPECIAL points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
+- **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
+  - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
 
 - **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
