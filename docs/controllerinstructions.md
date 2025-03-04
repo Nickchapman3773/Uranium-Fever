@@ -8,7 +8,7 @@ sidebar_label: Steam Controller Instructions
 We only support Steam users with Steam Input. Unfortunately there are no viable third party programs with similar capabilities for GOG users.
 :::
 
-<iframe src="https://drive.google.com/file/d/1o31kGt0kZnDUkWVkkrDiXvB2qoeR2an6/preview" width="900" height="1000" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1o31kGt0kZnDUkWVkkrDiXvB2qoeR2an6/preview" width="800" height="900" allow="autoplay"></iframe>
 
 :::tip UF Controller Instructions Zip File
 [Uranium Fever Controller Instructions - March 2025.zip](https://github.com/user-attachments/files/19073939/Uranium.Fever.Controller.Instructions.-.March.2025.zip)
