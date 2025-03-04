@@ -11,5 +11,6 @@ We only support Steam users with Steam Input. Unfortunately there are no viable 
 <iframe src="https://drive.google.com/file/d/1o31kGt0kZnDUkWVkkrDiXvB2qoeR2an6/preview" width="900" height="1000" allow="autoplay"></iframe>
 
 :::tip UF Controller Instructions Zip File
-[Uranium Fever Controller Instructions Zip File](https://discord.com/channels/1247305852738736219/1247325147950747699/1346330718317314159)
+[Uranium Fever Controller Instructions - March 2025.zip](https://github.com/user-attachments/files/19073939/Uranium.Fever.Controller.Instructions.-.March.2025.zip)
+
 :::
