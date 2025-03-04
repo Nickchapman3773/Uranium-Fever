@@ -66,6 +66,7 @@ const sidebars = {
   ],
   resourcesSidebar: [
    'resourcesoverview',
+   'controllerinstructions',
    'importantlinks',
    'losslessscalingguide',
    'stars',
