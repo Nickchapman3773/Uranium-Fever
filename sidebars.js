@@ -25,6 +25,7 @@ const sidebars = {
     'requirements',
     'recommendedspecs',
     'setupinstructions',
+    'controllerinstructions',
     'updating',
     'modquickreference',
     'frequentlyaskedquestions',
@@ -66,7 +67,6 @@ const sidebars = {
   ],
   resourcesSidebar: [
    'resourcesoverview',
-   'controllerinstructions',
    'importantlinks',
    'losslessscalingguide',
    'stars',
