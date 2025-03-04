@@ -88,7 +88,7 @@ Expand
   - The recruitment of companions is dependent on the player's charisma. The formula is `Charisma / 2, rounded down = x`, where `x=The number of companions that can be recruited simultaneously`. For example: with a charisma of 7, `7/2=3.5`, `3.5 rounded down=3`, thus the player can recruit 3 followers.
 
 - **Controller Support - Is there controller support?**
-  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and the [Official Steam Controller Instructions](https://discord.com/channels/1247305852738736219/1247325147950747699/1346330718317314159).
+  - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://uraniumfever.net/docs/controllerinstructions).
 
 - **Console Commands - Can I safely use console commands when playing?**
   - No. Almost all console commands can have unintended downstream consequences. Using console commands will void any support.
