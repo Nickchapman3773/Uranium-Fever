@@ -23,7 +23,7 @@ sidebar_label: 1.3.0.0 - March 9, 2024
 - Removed Workbench Variation, unnecessary and sometimes jarring.
 - Removed Portrait Gallery, unnecessary and sometimes jarring.
 - Removed B42 Quickthrow and all associated patches. Another difficult decision, though this was done because of crashes associated with the mod and incompatibilities with Sweet’s throwable balance changes. Functionally replaced by Quick Select Throwables Patch.
-- Removed Uncut Wasteland, Uncut Wasteland Extra Collection, New Vegas Uncut, and Misc Content Restoration and all associated patches in favor of Goodies and Uncut Goodies.
+- Removed Uncut Wasteland, Uncut Wasteland Extra Collection, New Vegas Uncut, and Misc Content Restoration and all associated patches in favor of Goodies.
 - Removed More Mojave and Desert Landscapes in favor of the Dark versions.
 - Removed 3DNPC - DC and associated patches. A difficult decision, though this was done due to extremely buggy companions and quests.
 - Removed The Initiation, Eliza, Headhunting, The North Road, The Depths of Depravity, and The High Desert. Another difficult decision, and while these mods are extremely high quality, there were various reasons for removing these. They caused various conflicts with other mods that were difficult to resolve, had significant balance implications, and we felt the mods were not consistent with our vision of UF.
