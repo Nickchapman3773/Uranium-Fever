@@ -1,8 +1,8 @@
 ---
 sidebar_position: 5
-title: Recommended Specs
+title: Minimum Specs
 hide_title: true
-sidebar_label: Recommended Specs
+sidebar_label: Minimum Specs
 ---
 
 # ![Banner Minimum Specs](https://github.com/user-attachments/assets/0e667131-d607-4072-91a4-88e2a3ad6987)
