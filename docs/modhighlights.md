@@ -22,7 +22,6 @@ sidebar_label: Mod Highlights
 - [SWEEP (Sweet Weapon Enhancement and Expansion Package)](https://www.nexusmods.com/newvegas/mods/81043) - Balances weapon progression and cohesion.
 - [Sweet Dynamic Detection System](https://www.nexusmods.com/newvegas/mods/81293) - Enhances NPC detection, nerfing sniping tactics.
 - [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691) - Combines AI improvements for engaging combat.
-- [Immersive Recoil 2.0](https://www.nexusmods.com/newvegas/mods/61973) & [Immersive Recoil NPC](https://www.nexusmods.com/newvegas/mods/69971) - Adds realistic recoil for players and NPCs.
 - [Weapon Jamming Tweaks](https://www.nexusmods.com/newvegas/mods/82898) - Tweaks weapon jamming mechanics with fixes and a jam-clearing function.
 - [STARS (Sweet's Total Armor Rework System)](https://www.nexusmods.com/newvegas/mods/76016) - Rebalances armor and integrates high-quality modded textures.
 - [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with heavy aesthetics, animations, and sounds.
@@ -33,15 +32,12 @@ sidebar_label: Mod Highlights
 - [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
 - [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows lock-breaking by attacking locks.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
-- [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - Replaces hacking and lockpicking with balanced minigames.
 - [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
 # <p align="center"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/6a27835c-fdbc-4ca3-b5b3-4a95157910b6) </p>
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
-- [MoreMojave](https://www.nexusmods.com/newvegas/mods/69809) - Adds carefully balanced locations to sparse areas.
-- [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1) & [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1) - Restores removed content like NPCs, quests, and scenery.
 - [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) - Adds dynamic NPCs and events for immersion.
 - [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569) & [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523) - Adds lore-rich locations across the game.
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Diversifies Raider factions with unique themes.
@@ -56,7 +52,6 @@ sidebar_label: Mod Highlights
 - [Autumn Leaves](https://www.nexusmods.com/newvegas/mods/50146) - A DLC-sized mod set in a mysterious machine-inhabited library.
 - [Dry Wells - A Legion Expansion](https://www.nexusmods.com/newvegas/mods/88180) - Adds a dense new world space deep in Legion territory.
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
-- [Prodlimen Creature Pack](https://www.nexusmods.com/newvegas/mods/71569) - Adds 17 new creatures to the Wastelands.
 - [Ghoul Variation](https://www.nexusmods.com/newvegas/mods/82237) - Adds 15 new varieties of ghouls to the Wastelands.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
 
