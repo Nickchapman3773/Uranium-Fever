@@ -214,10 +214,10 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
 - Verify that the `Fallout 3` file path matches your Steam/GOG Fallout 3 installation path.
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
-- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] Tale of Two Wastelands`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
 :::warning Confirm the File Path
-Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] Tale of Two Wastelands`. Installing outside of the `mods` folder will prevent the game from launching.
+Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `mods` folder will prevent the game from launching.
 :::
 
 - Click `Install`.
@@ -229,9 +229,9 @@ Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] T
 	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
 
 :::tip Double Check
-Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] Tale of Two Wastelands` folder, select `Properties`, and verify that the folder size is exactly 17GB.
+Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` folder, select `Properties`, and verify that the folder size is exactly 17GB.
 
-If not, delete the `[NoDelete] Tale of Two Wastelands` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
+If not, delete the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
 :::
 
 :::warning
