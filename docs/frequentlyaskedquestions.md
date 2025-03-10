@@ -44,6 +44,7 @@ Expand
 
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
   - These abbreviations help organize and maintain Uranium Fever:
+    - **ALT**: Altered mod.
     - **OP**: Optimized mod.
     - **MG**: Plugin merged into a master patch.
     - **HID**: Plugin hidden following merge.
@@ -51,6 +52,8 @@ Expand
     - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
     - **AEN**: Mod included but defaults to disabled.
     - **CDN**: Mod hosted on the Wabbajack server.
+    - **BOS**: Mod utilized base object swapper.
+    - **SOFT AF**: These mods were created by OrgasmicSneeze, specifically for Uranium Fever.
     - **SQ, LQ, VLQ, DB**: Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
 
 - **Addiction - How does addiction work in Uranium Fever?**
@@ -119,6 +122,7 @@ Expand
     - **Into the Deep** - Visit Shamble.
     - **Lake Havasu** - Visit Searchlight Airport.
     - **Dry Wells** - Visit Blue Paradise Vacation Rentals.
+    - **Zion Trails** - Explore the Northwestern most corner of the Mojave Wasteland.
     - **Race To The Bottom** - Visit Freeside Coop.
     - **Honest Hearts** - Listen to the radio broadcast near Freeside.
     - **Old World Blues** - Listen to the radio broadcast near the Crashed Satellite.
@@ -140,6 +144,7 @@ Expand
     - **Dry Wells** - 10
     - **Race To The Bottom** - 10
     - **Honest Hearts** - 10
+    - **Zion Trails** - 10
     - **Old World Blues** - 15
     - **Dead Money (with Dead Money Tweaks)** - 25
     - **Lonesome Road** - 25
@@ -287,7 +292,7 @@ Expand
 - **Selecting Perks - Why can’t I select a perk every level?**  
   - You can only select perks on even levels. Vegas Elysium requires the perk menu to be displayed every level for appropriate functionality, even when perks aren’t available.
 
-- **Shimmering Objects - Why do some objects shimmer?**  
+- **Shimmering/Sparkling/Firefly Objects - Why do some objects shimmer?**  
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
 - **Size - Why is Uranium Fever so large?**  
@@ -363,7 +368,7 @@ Expand
   - You will be able to choose this perk when you next level up.
 
 - **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**  
-  - We do not currently provide support for atypical aspect ratios, though plan to in the future.
+  - Yes. Enable the appropriate optional mod pertaining to your monitors aspect ratio.
  
 - **Updates - Will updating impact my saves?**  
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
