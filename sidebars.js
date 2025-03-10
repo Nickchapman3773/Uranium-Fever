@@ -23,7 +23,7 @@ const sidebars = {
     'features',
     'modhighlights',
     'requirements',
-    'recommendedspecs',
+    'minimumspecs',
     'setupinstructions',
     'controllerinstructions',
     'updating',
