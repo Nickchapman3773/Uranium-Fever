@@ -10,7 +10,8 @@ sidebar_label: Mod Feature Reference List
   ![image](https://github.com/user-attachments/assets/2ca1cb4a-3f37-4cba-80b3-afb3943d417c)
 
 
-- **3rd Person Camera Overhaul:**
+- **3rd Person Camera Overhaul (Optional):**
+  - Optional Mod
   - Swap POV Between 1st and 3rd Person: Hold `Z`.
   - Swap Shoulder in 3rd Person: Press `Z`.
   - Open Camera Editor: Press `Delete`.
@@ -140,14 +141,11 @@ sidebar_label: Mod Feature Reference List
 - **Quick Load:**
   - Press `PgDn`.
 
-- **Quest Log:**
-  - Toggle with `,` and switch quests with `.`.
-
 - **Quick Save:**
   - Press `PgUp`.
 
 - **Quick Select:**
-  - Hold `5` (Weapons) or `6` (Aid), scroll to the desired item, release key.
+  - Hold `5` (Weapons), `6` (Aid) or `Mouse 4` (Throwables), scroll to the desired item, release key.
 
 - **Quick Train:**
   - Choose to start in Mojave Wasteland instead of Capital Wasteland.
