@@ -1,0 +1,243 @@
+---
+title: 1.3.0.0 - March 3, 2024
+hide_title: true
+sidebar_label: 1.3.0.0 - March 3, 2024
+---
+
+# <p align="center"> 1.3.0.0 - March 3, 2024</p>
+
+**Removals:**
+- Removed Combat Shotgun Reload Sounds Fix, redundant.
+- Removed Gun Runners Kiosk Glass Fix, redundant.
+- Removed Gauss Impact Fix, redundant.
+- Removed MZ Fog Fix, redundant.
+- Removed Impostors and LOD Flicker Fix, included in Goodies.
+- Removed Swimming Creatures Fix, included in Goodies.
+- Removed Clean AP and Health Bars, redundant.
+- Removed Reset Settings Prompt, unnecessary given the ability to restore settings via Wabbajack.
+- Removed B42 Notifications in favor of Smooth notifications.
+- Removed No Cocking Sound on Rifle Equip, redundant.
+- Removed Cooper Howard reference, unnecessary.
+- Removed Climbable Ladders and associated patches, unnecessary.
+- Removed Kaleidoscope, causing jarring LOD mismatch for little benefit.
+- Removed Workbench Variation, unnecessary and sometimes jarring.
+- Removed Portrait Gallery, unnecessary and sometimes jarring.
+- Removed B42 Quickthrow and all associated patches. Another difficult decision, though this was done because of crashes associated with the mod and incompatibilities with Sweet’s throwable balance changes. Functionally replaced by Quick Select Throwables Patch.
+- Removed Uncut Wasteland, Uncut Wasteland Extra Collection, New Vegas Uncut, and Misc Content Restoration and all associated patches in favor of Goodies and Uncut Goodies.
+- Removed More Mojave and Desert Landscapes in favor of the Dark versions.
+- Removed 3DNPC - DC and associated patches. A difficult decision, though this was done due to extremely buggy companions and quests.
+- Removed The Initiation, Eliza, Headhunting, The North Road, The Depths of Depravity, and The High Desert. Another difficult decision, and while these mods are extremely high quality, there were various reasons for removing these. They caused various conflicts with other mods that were difficult to resolve, had significant balance implications, and we felt the mods were not consistent with our vision of UF.
+- Removed Citadel Overhaul and associated dependencies, as this mod had extremely poorly made navmeshes and was of overall questionable quality.
+- Removed NCR Dialogue Expansion, questionable quality AI voicing.
+- Removed various old DMT assets that were no longer necessary.
+- Removed various old AGE assets that were no longer necessary.
+- Removed Terminals Lock Up, replaced by an alternative.
+- Removed Immersive Recoil in favor of B42 Recoil.
+- Removed Viewmodel Recoil, extremely high performance overhead.
+- Removed Repair Kit Clarity, redundant.
+- Removed various unnecessary animated meshes, including decorations, Pyelon Wires, Utility Poles, Urban Buildings, Sorrows Shacks, Ranch House Panels, and all Animated and Illuminated Metro Signs and Kiosks.
+- Removed Forbidden Zone Equations Restored, replaced by an addition.
+- Removed Resplendent Rugs, replaced by an addition.
+- Removed Casino Rugs HD, replaced by an addition.
+- Removed Bloodbath, redundant.
+- Removed B42 Optics and all associated patches. Another difficult decision, though this was done due to incompatibilities with NVR, various other bugs, and high performance demands. Functionally replaced by PSRO with Sneeze’s Overlay Overhaul.
+- Removed Dramatic Inertia, jarring and made it feel like the player was on rollerskates.
+- Removed 3rd Person - 10mm SMG Animations, as 3rd person is not the recommended camera view for combat.
+- Removed kNVSE Fixpack, redundant.
+- Removed Earthblighted Tunnelers replaced by an addition.
+- Removed Fallout Texture Overhaul (FTO) - Robots, Eyebot and ED-E, replaced by an addition.
+- Removed Prodlimens creature pack. Another difficult decision, though the creatures added by this pack were low quality textures and meshes, had questionable physics, and were occasionally implicated in crashes.
+- Removed Ms Galtron - Classic Assaultron, felt jarring and out of place.
+- Removed Wolfmeat Replacer and ED-E Backpack, which was mistakenly causing players to believe that they could carry items (which we have unsuccessfully attempted to implement in the past).
+- Removed Height Randomizer, unnecessary.
+- Removed Facial Asymmetry Distributor, unnecessary.
+- Removed Pip-Boy - Mobile Pip Light, unnecessary and incompatible.
+- Removed Pip-Boy - Counters, unnecessary.
+- Removed Arefu LOD, combined with another LOD addition mod
+- Removed Accurate Nasa Stars - Zeta Patch, replaced by an addition.
+- Removed Interior Rain and associated patches, extremely buggy and often jarring.
+
+**Changes:**
+- Overhauled the aesthetic of UF MO2 and utilized notes for mod and separator descriptions.
+- Moved Immersive Minigame Tweaks to the Optional section, mainly to reduce questions and confusion pertaining to the use of the mod, though also to reduce script overhead for those not utilizing it.
+- Moved Mod Delivery to the Optional section, primarily to reduce script overhead, considering this mod was egregiously underutilized.
+- Moved 3rd Person Camera Overhaul to the Optional section, as this contributes to script overhead and is not the recommended camera view for general gameplay.
+- Repositioned the HUD radiation meter.
+- Reduced the size of the 3D Grenade Indicator.
+- Reduced the size of Sneak Indicator.
+- Reduced the size of the Aim Collision Indicator.
+- Changed the console hotkey back to `.
+- Changed NVTF settings to prioritize stability over performance.
+- Changed save manager settings to rotate between 10 autosaves instead of 3.
+- Changed the default POV to be wider.
+- Changed Casino Max Bet settings to prevent economic abuse. Max bet is now reinstated.
+- Changed the time dilation settings when using Quick Select, which will now slow time to a lesser extent than previously.
+- Changed various New Vegas faction reputation multipliers in Charisma Affects Reputation to lessen the disparity of reputation gain between the factions.
+- Changed the location of Wasteland Starting Gear DC corpses to an unmissable location.
+- Changed the location of the New Vegas Bounties initiation corpse to an unmissable location.
+- Changed the Follower Formula Redone settings (and overhauled the associated scripting), which will now allow 1 follower at 4 charisma, 2 followers at 7 charisma, and 3 followers at 10 charisma.
+- Changed Benny Humbles You and Steals Your Stuff’s settings to provide 1 perk per 4 levels after being humbled  until the player reaches their pre-humbled level.
+- Changed terminal and lock skill requirements to reflect the new lockpick and hacking overhauls. These can now be interacted with regardless of skill level.
+- Changed the prevalence of fingers and ears being looted from corpses to be less frequent.
+- Changed Veronica’s 10mm pistol to use a laser pistol model instead, since SWEEP and Better Brotherhood changed it to be a laser pistol. (Not that this really matters, since Companion Characteristics makes Veronica favor melee, but hey, consistency. =]) 
+- Changed Dynamic LOD settings, which will reduce crashing and stutter.
+- Overhauled Radiation Visual’s settings to make them less obstructive.
+- Overhauled Simple Night Vision’s settings to make night vision and infrared vision of higher utility.
+- Overhauled Drowning Visual’s settings to prevent washed-out contrast behavior at night.
+- Overhauled the balance of PARCS to better reflect the balance of Sweets mods.
+- Overhauled the balance of Hardcore Zeta, which will now allow the player to bring weapons and ammo into the DLC, but not other equipment.
+- Overhauled the scripts of Titans of the New West, as many were still affecting balance and were contributing to significant script overhead despite the associated settings being disabled.
+- Overhauled road patching to utilize Sandy Roads in Havasu Blues, Zion Trails, and Dry Wells.
+- Disabled karma change notifications in association with stealing.
+- Disabled several extremely poorly balanced containers added by Nellis Air Force Base Lightweight Overhaul, also disabled weapons added by this mod.
+- Disabled most weapons and recipes added by PARCS, though kept the pipe bomb and leather belt recipes.
+- Disabled weapons added by Girdershade reborn.
+- Disabled weapons added by Functional FEV.
+- Disabled the ability to learn power armor training from the Outcasts.
+- Enabled scriptrunner for melee weapon replacers now that quickthrow is no longer conflicting with it.
+- Enabled the Mojave Regulator representatives.
+- Enabled the Outcast Tech Menu in TTW Tweaks.
+- Enabled water beggars, though they will now be removed after Project Purity.
+- Enabled the Underworld Casino.
+
+**Fixes:**
+- Fixed missing assets for Feral Ghoul Children.
+- Fixed missing Misc Items and Crafting Tweaks scripts.
+- Fixed incorrectly merged records from Repeatable Quests Rewards Rebalanced.
+- Fixed clanky sounds associated with ED-E and RL-3.
+- Fixed Xander Root Cave entrance conflict.
+- Fixed Weathered 10mm Pistol sounds.
+- Fixed the floating Goodsprings mannequin hat.
+- Fixed inappropriate navmeshing around the picnic table in Goodsprings that allowed Sunny to run across the table.
+- Fixed clipping rocks at the Firetooth Cavern entrance.
+- Fixed various random floating rock terrain in DC.
+- Fixed some static records not having the correct flags.
+- Fixed the Basement Hideout map marker being persistent and available for travel prior to discovery.
+- Fixed clipping terrain in various spots around the Mojave.
+- Fixed the invisible terminal in the Point Lookout lab.
+- Fixed missing doors in the Statesman Hotel.
+- Fixed instances of door collision behaving inappropriately.
+- Fixed various perks acting inappropriately. 
+- Fixed a conflict between TTW and Into the Deep that prevented Sarah being given vault suits.
+- Fixed the player inappropriately drinking from a water source when collecting bottled water.
+- FIxed various scope related abnormalities.
+- Fixed the incorrectly packaged Fission Battery - Famine patch.
+- Fixed XP exploits in Museum of Technology. 
+- Fixed missing dialogue options with Mister Crowley.
+- Fixed overlapping terminals in the Wind Farm Maintenance Shack.
+- Fixed NPCs performing infinite pushups despite entering combat.
+- Fixed fixer not applying appropriately to all addiction effects.
+- Fixed white Shoulder Mounted Machine Gun textures.
+- Fixed missing mesh associated Ranger Helmet on the Very Low Quality profile.
+- Fixed a long standing bug from TOTNW that prevented the user from fluidly moving in a backwards strafe direction with a two handed weapon out.
+- Fixed longstanding radiation overbloom.
+- Fixed Desert Ranger Combat Helmet having wrong stats.
+- Fixed players becoming old after Tranquility Lane.
+- Fixed missing arms in first person while wearing the environmental suit.
+
+**Additions:**
+- Added JIP Localized Damage Fix back, as this was mistakenly removed previously.
+- Added Vanilla Placement Fixes and various patches.
+- Added Audio Region Fix.
+- Added JAM - JLM Hide Fix.
+- Added Smooth notifications.
+- Added Dialogue Emotion Manager and associated preset.
+- Added Better Mr. House Ending.
+- Added Enclave NPC Overhaul - Tale of Two Wastelands Edition, removed all but one weapon.
+- Added various B42 Description patches.
+- Added Selectable Starting Karma.
+- Added Quick Select - Throwables and BATH, with Throwables leveraging the perks and speed modifiers of bath, though providing a reliable alternative to Quickthrow.
+- Added Freepost Mojave.
+- Added Mojave Merchants and Desert Dealers.
+- Transitioned to Goodies and associated patches instead of the various standalone Uncuts.
+- Transitioned to the Dark Side versions of More Mojave and Desert Landscapes and associated patches.
+- Added Mojave Scenery Overhaul and patches.
+- Transitioned to the Lived In merge.
+- Added The Great DC Interior Overhaul and associated patches
+- Added Zion Trail, Redux, Double Plus Goodies, Revised Rewritten and Revoiced, and Sweet’s patch.
+- Added TTW - Into The Deep Patch.
+- Added Sweets Famine Meat Patch.
+- Added Immersive Lockpick Overhaul.
+- Added terminal shock and a Wordle patch that mirrors the function of Immersive Minigame Tweaks.
+- Added B42 Recoil.
+- Added Scope Aim Tweaks, PSRO, associated patches, and a custom overlay created by Sneeze. This will simulate a close approximation to B42 Optics.
+- Added Proper CRAM.
+- Added Luminous Candles.
+- Added Rugs Plus.
+- Added Pillow Talk.
+- Added NMC Solar Battery Retexture.
+- Transitioned to the Graffiti Redone merge
+- Added WAP MF Hyperbreeder Projectile Fix.
+- Added saltex - Plaspistol.
+- Added saltex - MPLX Novasurge.
+- Added saltex eyebots and ED-E - RTR.
+- Added Andreas’ Swamp Ghouls patch.
+- Added Brotherhood of Steel Classic Combat Armors.
+- Added M1 Garand - A WWII Classic as a retexture for the Battle Rifle and This Machine.
+- Added Energy Weapons Ammo Retexture
+- Added Improved Pickaxe.
+- Added Lumen - TOTNW Patch
+- Added B42 Inject Stinger.
+- Added Hit - B42 Inject - Stimpaks.
+- Added Gold Bar - B42 Interact.
+- Added walking inertia.
+- Added P6Detonators.
+- Added Starlet Overhaul - Vera Keyes Improved.
+- Added Subtle Rifle Equip Sound.
+- Added B42 Weapon Iron Sights Foley and the mono patch.
+- Added Hunting Rifle and Friends.
+- Added Missile Launcher Scope Change - TOTNW .
+- Transitioned to the current version of TTW NPC Overhaul and removed redundant patching.
+- Added Type 4 - Compatibility Edition and the associated TTW patch.
+- Added an optional Hardercore mod for those who want a more difficult game.
+- Added optional support for different monitor aspect ratios.
+- Added High School Sign 2K
+
+**Uranium Haze and Soft AF Updates:**
+- Uranium Haze:
+  - Overhauled tone mapping settings, which will significantly reduce contrast washout and artifacting.
+  - Overhauled night brightness.
+  - Overhauled clouds in all world-spaces.
+  - Overhauled Dead Money exterior.
+  - Fixed Old World Blues fog brightness during sunrise.
+  - Overhauled interior brightness (underground, metro, vaults).
+  - Overhauled interior water.
+  - Overhauled Dead Money interiors.
+  - Reintroduced and overhauled flashlight settings, and identified and resolved a long standing bug related to flashlights and shadows.
+  - Overhauled underwater.
+  - Recategorized a large number of interiors to more accurately reflect the interior type.
+  - Created a custom preset for Zion Trails and categorized all of its interiors.
+  - Included a plugin to fix Havasu Blues behaving inappropriately and to correct sunset/sunrise timing. Required a large revision of the worldspace as a whole.
+  - Included FinalCatalysts dynamic flashlight brightness adjustments, fixes for screens/menus, and ADS fixes.
+  - Added Zion Trails support.
+
+- Soft AF:
+  - Created custom Scope Overlays for PSRO .
+  - Created new meshes and textures for brahmin skull, power box, and campfire benches.
+  - Retextured armors from Enclave NPC Overhaul.
+  - Overhauled power armor textures for compatibility with PBR.
+  - Overhauled Pip-Boy textures for compatibility with PBR.
+  - Overhauled 60+ textures for compatibility with PBR.
+  - Retextured a metal scrap door that is commonly seen in Megaton.
+  - Added a custom unique weapon to Havasu Blues.
+  - Added a custom icon for big guns
+
+**Updating:**
+- Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **CRITICAL**: For updates from pre-1.2.0.1 versions, review the 1.2.0.1 patch notes for NVR updating instructions. 
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, a **NEW SAVE** is **REQUIRED**. Subsequent updates remain save-safe unless otherwise specified.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, manually download the newest version of [xNVSE](https://www.nexusmods.com/newvegas/mods/67883?tab=files&file_id=1000145145&nmm=1), then extract the contents of the archive into the `[NoDelete] Stock New Vegas folder`, selecting `replace` in the following prompts.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, manually download the newest version of [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000147932), then extract the contents of the archive into the `[NoDelete] Stock New Vegas folder`, selecting `replace` in the following prompts.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, **PRIOR TO UPDATING**, rename `[NoDelete] NVR (VLQ) (LQ)` to `[NoDelete] [VLQ] [LQ] - New Vegas Reloaded (NVR)`. If this step is missed, this can be remedied by deleting the newly installed `[NoDelete] [VLQ] [LQ] - New Vegas Reloaded (NVR)`, completing the renaming process (the old file will now be located at the bottom of the load order), then restoring backup at the top of Mod Organizer 2.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, **PRIOR TO UPDATING**, rename `[NoDelete] Tale of Two Wastelands` to `[NoDelete] [DB] Tale of Two Wastelands (TTW)`. If this step is missed, this can be remedied by deleting the newly installed `[NoDelete] [DB] Tale of Two Wastelands (TTW)` mod and completing the renaminghttps://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000147932 process (the old file will now be located at the bottom of the load order), then restoring backup at the top of Mod Organizer 2.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, **MOD AUTHORS** should move `GECK.exe` from the `Uranium Fever` folder to the `[NoDelete] Stock New Vegas` folder. This step can be ignored by normal users.
+- **CRITICAL**: For updates from pre-1.3.0.0 versions, **SCREEN SHOTTERS** should navigate to `Uranium Fever > [NoDelete] Stock New Vegas` and create a Screenshots folder.
+
+ **Community:**
+- Submit Uranium Fever screenshots to the UF-screen-archery channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen!
+- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the UF-submissions channel on Discord!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command ?rank Uranium Fever User in the UF-discussion channel on Discord to receive update notifications on Discord.
