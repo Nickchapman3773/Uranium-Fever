@@ -259,7 +259,7 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
  **DO NOT** download the versions available in the Ready Builds or Testing channels.
 :::
 
-- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be), select the downloaded `NVR archive` from the `Downloads` folder, and name it `[NoDelete] NVR (VLQ) (LQ)`.
+- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be), select the downloaded `NVR archive` from the `Downloads` folder, and name it `[NoDelete] [VLQ] [LQ] - New Vegas Reloaded (NVR)`.
 - Select `Replace` when prompted `Mod Exists`.
 
   ![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
