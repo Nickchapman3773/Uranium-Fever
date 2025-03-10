@@ -9,5 +9,5 @@ sidebar_label: Resources Overview
 This section of the website includes a variety of community resources in a centralized location for easy access.
 
 :::warning Not for Uranium Fever Users!
-This section is not for Uranium Fever users! Everything included in these sections has been pre-configured and included in Uranium Fever as appropriate.
+This section is not for Uranium Fever users! Everything included in these sections aside from the [Loseless Scaling Guide](https://uraniumfever.net/docs/losslessscalingguide) has been pre-configured and included in Uranium Fever as appropriate.
 :::
