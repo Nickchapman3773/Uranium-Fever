@@ -64,7 +64,8 @@ sidebar_label: Mod Feature Reference List
 - **Hold Breath:**
   - Steady your aim by holding `Left Alt`.
 
-- **Immersive Minigame Tweaks:**
+- **Immersive Minigame Tweaks (Optional):**
+  - Optional mod.
   - Simplifies lockpicking and hacking with calculated success odds.
   - Holster weapon, aim at lock/terminal, hold Grab (`G`).
 
@@ -82,7 +83,8 @@ sidebar_label: Mod Feature Reference List
   - View all custom keybinds in Uranium Fever.
   - Open Pause Menu, press `K`.
 
-- **Mod Delivery:**
+- **Mod Delivery (Optional):**
+  - Optional Mod.
   - Commission weapon mods for your equipped weapon from vendors.
   - Mouse over vendor, press Grab (`G`), and follow instructions.
   - Supported Vendors:
@@ -112,7 +114,7 @@ sidebar_label: Mod Feature Reference List
 - **Pip-Boy Flashlight:**
   - Hold `Tab`.
 
-- **Pip-Boy Vendor Radio:**
+- **Pip-Boy Vendor Radio (Optional):**
   - Optional mod.
   - Purchase items remotely at a premium cost.
   - Add Vendors: Stand near them, open Pip-Boy Radio tab, press `Q`, and configure.
