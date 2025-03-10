@@ -1,11 +1,11 @@
 ---
 sidebar_position: 5
-title: Recommended Specs
+title: Minimum Specs
 hide_title: true
-sidebar_label: Recommended Specs
+sidebar_label: Minimum Specs
 ---
 
-# ![Banner Recommended Specs](https://github.com/user-attachments/assets/3f2c123a-e142-4a04-a234-fcf22f17c440)
+# ![Banner Minimum Specs](https://github.com/user-attachments/assets/0e667131-d607-4072-91a4-88e2a3ad6987)
 
 - **CPU:** Intel i5 2xxx/AMD FX 8xxx or higher required; Intel i5 6xxx/Ryzen 5 or higher recommended.
 - **RAM:** 16GB or higher required, with dual-channel recommended.
