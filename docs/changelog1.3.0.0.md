@@ -90,6 +90,7 @@ sidebar_label: 1.3.0.0 - March 9, 2024
 - Overhauled road patching to utilize Sandy Roads in Havasu Blues, Zion Trails, and Dry Wells.
 - Disabled karma change notifications in association with stealing.
 - Disabled several extremely poorly balanced containers added by Nellis Air Force Base Lightweight Overhaul, also disabled weapons added by this mod.
+- Disabled mine lights until full mod release.
 - Disabled most weapons and recipes added by PARCS, though kept the pipe bomb and leather belt recipes.
 - Disabled weapons added by Girdershade reborn.
 - Disabled weapons added by Functional FEV.
