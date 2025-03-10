@@ -2,7 +2,7 @@
   {
     "title": "Uranium Fever",
     "description": "Uranium Fever (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, focused on modernizing, expanding, rebalancing, and enhancing all aspects of both games. Designed for a hardcore gameplay experience, UF draws inspiration from renowned survival-horror titles like STALKER and Resident Evil. UF strives to integrate new content thoughtfully and rapidly. Every addition and configuration is carefully evaluated, and exclusive optimizations ensure stable performance despite the extensive modlist. We consider UF to be the most visually stunning, innovative, comprehensive, balanced, and cohesive Tale of Two Wastelands experience. Enjoy!",
-    "author": "Kam, Dark, Sneeze, Dok, Lime, & Cat",
+    "author": "Kam, Dark, Sneeze, Dok, Lime, \u0026 Cat",
     "maintainers": [
       "github/Nickchapman3773",
       "github/DarkSolarLegend",
@@ -26,21 +26,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
       "readme": "https://uraniumfever.net/",
-      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_2fadd077-1287-49ba-ba98-022bfd1fbde8",
+      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_009385b3-0dc2-4cbe-beb0-200f23a0b672",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu"
     },
     "download_metadata": {
-      "Hash": "s0+FxzP404E=",
-      "Size": 5656303707,
-      "NumberOfArchives": 1293,
-      "SizeOfArchives": 76389765258,
-      "NumberOfInstalledFiles": 136922,
-      "SizeOfInstalledFiles": 91736416415
+      "Hash": "D2DVVCIDwNQ=",
+      "Size": 5100918193,
+      "NumberOfArchives": 1258,
+      "SizeOfArchives": 73980190814,
+      "NumberOfInstalledFiles": 106304,
+      "SizeOfInstalledFiles": 85988121989
     },
-    "version": "1.2.1.0",
+    "version": "1.3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-01T06:34:43.5960104Z",
+    "dateUpdated": "2025-03-10T03:01:53.0727431Z",
     "repositoryName": ""
   }
 ]
