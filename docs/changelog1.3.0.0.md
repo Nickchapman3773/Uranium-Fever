@@ -1,10 +1,10 @@
 ---
-title: 1.3.0.0 - March 9, 2024
+title: 1.3.0.0 - March 9, 2025
 hide_title: true
-sidebar_label: 1.3.0.0 - March 9, 2024
+sidebar_label: 1.3.0.0 - March 9, 2025
 ---
 
-# <p align="center"> 1.3.0.0 - March 9, 2024</p>
+# <p align="center"> 1.3.0.0 - March 9, 2025</p>
 
 **Removals:**
 - Removed Combat Shotgun Reload Sounds Fix, redundant.
