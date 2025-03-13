@@ -278,7 +278,7 @@ Expand
   - You died. Try a different method of activating the purifier.
 
 - **Radiation - ___ is too irradiated to complete! What can I do?**
-  - Use a combination of a radiation suit, rad-x, radaway, and alcohol to mitigate the effects of radiation.
+  - Use a combination of a Radiation Suit, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the uf-bug-reports chat on our Discord server.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
   - No. The Death Throes replacement plugin used here is stable.
@@ -296,10 +296,10 @@ Expand
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
 - **Size - Why is Uranium Fever so large?**  
-  - Despite optimizations, the list's texture enhancements are extensive, with original downloads alone requiring 50GB.
+  - Despite optimizations, the list's texture enhancements are extensive, with the original downloads alone requiring 50GB.
 
 - **Skill Tags - How do skill tags work in Uranium Fever? I do not see the 15 point increase I am used to?**
-  - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled.
+  - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
 
 - **SPECIAL - How have SPECIAL stats been changed in Uranium Fever as compared to the standard game?**
   - **All SPECIALS:**
@@ -380,7 +380,7 @@ Expand
   - Re-run the `Uranium Fever.wabbajack` installer. The installer will resume where it left off, correcting any errors that occurred along the way.
 
 - **Weapon Sway - Why does my weapon sway around my crosshair?**
-  - you do not meet the required SPECIAL and weapon skill recommended in order to use the weapon, which is specified in the weapon stats..
+  - You do not meet the required SPECIAL and weapon skill recommended in order to use the weapon, which are specified in the weapon statstics once you hover over the weapon in the Pip-Boy.
 
 - **Wordle - How do I play wordle?**
   - Letters are categorized into three categories when words are played:
