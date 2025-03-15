@@ -52,7 +52,6 @@ sidebar_label: 1.3.0.1 - March 14, 2025
 - **CRITICAL**: For updates from pre-1.3.0.0 versions, **MOD AUTHORS** should move `GECK.exe` from the `Uranium Fever` folder to the `[NoDelete] Stock New Vegas` folder. This step can be ignored by normal users.
 - **CRITICAL**: For updates from pre-1.3.0.0 versions, **SCREEN SHOTTERS** should navigate to `Uranium Fever > [NoDelete] Stock New Vegas` and create a Screenshots folder.
 - **CRITICAL**: For updates from pre-1.3.0.1 versions, manually download the newest version of [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000143106&nmm=1), then extract the contents of the archive into the `[NoDelete] Stock New Vegas folder`, selecting `replace` in the following prompts.
-- **CRITICAL**: For those updating from 1.3.0.0 to 1.3.0.1, download 
 
  **Community:**
 - Submit Uranium Fever screenshots to the UF-screen-archery channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen!
