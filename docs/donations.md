@@ -1,3 +1,8 @@
+---
+title: Characters
+hide_title: true
+---
+
 # ![donationspage](https://github.com/user-attachments/assets/33bef0b9-b1ea-4d01-979e-8053dcb97dc2)
 
 We do not accept donations on behalf of Uranium Fever, though would love to redirect you to some of our favorite mod authors and charities. Uranium Fever would not be possible without these authors. Similarly, these are the charities that are near and dear to our hearts.
