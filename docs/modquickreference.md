@@ -89,7 +89,20 @@ sidebar_label: Mod Feature Reference List
   - Commission weapon mods for your equipped weapon from vendors.
   - Mouse over vendor, press Grab (`G`), and follow instructions.
   - Supported Vendors:
-    - Vendortron (Guns/Big Guns/Explosives), Gloria Van Graff (Energy Weapons), Torres (Energy/Big Guns), Mick (Melee/Unarmed), Boomers Munitions Manager (Explosives/Big Guns), 188 Arms Merchant (Explosives/Big Guns/Guns), Khan Armorer (Explosives/Guns), SINK (All), Commissary (All), Flak/Shrapnel (Guns/Explosives), Friday (The Pitt) (Guns/Melee/Unarmed/Explosives), Pronto (Guns/Explosives/Big Guns), Durga (BS DC) (Energy/Big Guns), Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
+    - Vendortron (Guns/Big Guns/Explosives)
+    - Gloria Van Graff (Energy Weapons)
+    - Torres (Energy/Big Guns)
+    - Mick (Melee/Unarmed)
+    - Boomers Munitions Manager (Explosives/Big Guns)
+    - 188 Arms Merchant (Explosives/Big Guns/Guns)
+    - Khan Armorer (Explosives/Guns)
+    - SINK (All)
+    - Commissary (All)
+    - Flak/Shrapnel (Guns/Explosives)
+    - Friday (The Pitt) (Guns/Melee/Unarmed/Explosives)
+    - Pronto (Guns/Explosives/Big Guns)
+    - Durga (BS DC) (Energy/Big Guns)
+    - Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
 
 - **New Vegas Reloaded (NVR):**
   - Press `End` to open the settings menu.
