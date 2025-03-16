@@ -88,7 +88,7 @@ Expand
   - Companions heal in the same ways as the player does. Give them aid, pay the doctor for healing services (the doctor will stitch them up while they stitch you up), or sleep (they'll sleep when you sleep).
 
 - **Companion Recruitment - Why cant I recruit ___ companion?**
-  - The recruitment of companions is dependent on the player's charisma. The formula is `Charisma / 2, rounded down = x`, where `x=The number of companions that can be recruited simultaneously`. For example: with a charisma of 7, `7/2=3.5`, `3.5 rounded down=3`, thus the player can recruit 3 followers.
+  - The recruitment of companions is dependent on the player's permanent charisma (this does not take modifiers such as equipment or chems into account. The player can recruit one companion at 4 charisma, two companions at 7 charisma, and 3 companions at 10 charisma.
 
 - **Controller Support - Is there controller support?**
   - Yes, but only on Steam. Unfortunately there are no viable third party programs with similar capabilities for GOG users. Use Steam Input and follow the [Official Steam Controller Instructions](https://uraniumfever.net/docs/controllerinstructions).
