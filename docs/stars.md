@@ -74,8 +74,6 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `NVSE` folder.
 - Main File - [Fallout 2 combat armor mark II (green textures) v1.0.0.3](https://www.nexusmods.com/newvegas/mods/78947?tab=files&file_id=1000102214&nmm=1)
   - **HIDE** the `Fallout 2 combat armor MK2 (remastered) replacer.esp` plugin.
-- Main File - [Veronica Outfit Replacer - Recon Variant](https://www.nexusmods.com/newvegas/mods/71823?tab=files&file_id=1000108904&nmm=1)
-  - **HIDE** the `Veronica Outfit Replacer.esp` plugin.
 - Main File - [Classic Combat Armor Replacer Redux FNV](https://www.nexusmods.com/newvegas/mods/77658?tab=files&file_id=1000096873&nmm=1)
   - **HIDE** the `Classic Combat Armor Replacer Redux FNV.esp` plugin.
 - Main File - [Classic Combat Armor Replacer Redux TTW](https://www.nexusmods.com/newvegas/mods/77858?tab=files&file_id=1000097245&nmm=1)
