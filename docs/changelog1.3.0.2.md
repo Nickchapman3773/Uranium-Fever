@@ -16,6 +16,7 @@ sidebar_label: 1.3.0.2 - March 18, 2025
 **Changes:**
 - Rebalanced Snowglobe turn-in amount to 500 caps each.
 - Moved Wasteland Starting Gear DC corpses to an even more unmissable location.
+- Overhauled Simple Night Vision Settings.
 
 **Fixes:**
 - Fixed pink loading screens.
