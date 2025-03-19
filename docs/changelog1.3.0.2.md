@@ -1,8 +1,18 @@
 ---
-title: 1.3.0.2 - March 18, 2025
+title: 1.3.0.2a - March 19, 2025
 hide_title: true
-sidebar_label: 1.3.0.2 - March 18, 2025
+sidebar_label: 1.3.0.2a - March 19, 2025
 ---
+
+# <p align="center"> 1.3.0.2a - March 19, 2025 </p>
+
+**Changes:**
+- Reduced chance of Fast Travel Encounters from 100% to 65%
+
+**Fixes:**
+- Fixed missing Physically Based Rangers Assets.
+- Removed erroneous alt overencumberance overwrite accidentally packed into Uranium Haze.
+- Fixed abnormalities associated with the 25mm Grenade AWP.
 
 # <p align="center"> 1.3.0.2 - March 18, 2025</p>
 
