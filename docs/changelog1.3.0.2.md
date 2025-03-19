@@ -25,6 +25,7 @@ sidebar_label: 1.3.0.2 - March 18, 2025
 - Fixed erroneous keybind displays in some optional mods.
 - Fixed multiple weapon asset issues.
 - Fixed floating Megaton crops.
+- Fixed weather overwrite in the Mojave that was causing brightness abnormalities.
 
 **Additions:**
 - Added Sweet Pain NV TTW Patch.
