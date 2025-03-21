@@ -35,3 +35,4 @@ sidebar_label: Credits & Thanks
 - [MissingMeshTV](https://www.sublevel3.com/mmtv/fnv_mods.html) for allowing us to create a custom hardcore themed edit to his Capital Wasteland Hideouts mod.
 - [Macintroll](https://next.nexusmods.com/profile/macintroll) for allowing reupload of his Ghouls and Feral Ghouls mods to simplify installation for users.
 - [DracoVampire786](https://next.nexusmods.com/profile/DracoVampire786), [Canadian𝓕𝓻𝓮𝓪𝓴oneer](https://next.nexusmods.com/profile/CanadianBaconeer), [Lufusol](https://next.nexusmods.com/profile/lufusol), [Audley](https://next.nexusmods.com/profile/Audley), [C0nzo](https://next.nexusmods.com/profile/C0nzo), [RedMenace](https://next.nexusmods.com/profile/RedMenaceKun), and [RWxAshley](https://next.nexusmods.com/profile/RWxAsh) for permitting the use of private patches and unreleased mods in UF.
+- [Rustie](https://next.nexusmods.com/profile/rrustie) for making the Switch Pro controller community layout.
