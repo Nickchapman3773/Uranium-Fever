@@ -285,7 +285,7 @@ Expand
   - You died. Try a different method of activating the purifier.
 
 - **Radiation - ___ is too irradiated to complete! What can I do?**
-  - Use a combination of a Radiation Suit, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the uf-bug-reports chat on our Discord server.
+  - Use a combination of a Radiation Suit, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the [uf-bug-reports](https://discord.gg/WswmBGXQZt) Discord channel.
 
 - **Ragdolls - Does the Ragdolls mod cause crashes?**  
   - No. The Death Throes replacement plugin used here is stable.
