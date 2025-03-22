@@ -250,6 +250,9 @@ Expand
 - **Mods - Why are there so many empty mods or mods that are completely overwritten in Uranium Fever?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
 
+- **Mod Configuration Menu (MCM) - Can I change settings in the MCM?**
+  - Doing so is considered altering the list and will invalidate support.
+
 - **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
   - It is no longer recommended. xNVSE has built in changes to the vanilla heap that are superior to those found in NVHR, but without the massively increased memory usage that results from NVHR.
 
@@ -289,8 +292,11 @@ Expand
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
   - This is intentional to prevent significant performance degradation.
 
-- **Runtime Error - I’m getting a runtime error at launch.**  
+- **Runtime Error - I’m getting a runtime error at launch. Why?**  
   - You likely opened MO2 before creating your Stock New Vegas folder. Re-run the Uranium Fever Wabbajack Installer to correct the error. This will repair any errors and will be much quicker than the initial installation.
+
+- **Saving - How does saving work in Uranium Fever?**
+  - In addition to manual saves, there is an auto-save function that rotates through 10 auto-saves on one minute save intervals.
 
 - **Selecting Perks - Why can’t I select a perk every level?**  
   - You can only select perks on even levels. Vegas Elysium requires the perk menu to be displayed every level for appropriate functionality, even when perks aren’t available.
@@ -377,6 +383,9 @@ Expand
 
 - **Traits - I chose a trait that said I could immediately select a new perk, but I was not offered a new perk. Why?**
   - You will be able to choose this perk when you next level up.
+
+- **Tweaks - Can I change settings in Stewie's Tweaks?**
+  - Doing so is considered altering the list and will invalidate support.
 
 - **Ultrawide - Can I use an ultrawide resolution with Uranium Fever?**  
   - Yes. Enable the appropriate preset corresponding to your monitor's aspect ratio in the `Optional - Settings` separator in Mod Organizer 2.
