@@ -190,7 +190,7 @@ Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [
 
 - Click `Install`.
 
-	![TTW Install](https://github.com/user-attachments/assets/56978202-4fa0-4256-be05-d92dfda9b66c)
+	![TTW Install](https://github.com/user-attachments/assets/543efca6-bf31-46b1-a80f-79329900d7bf)
 
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
