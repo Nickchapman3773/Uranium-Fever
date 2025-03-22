@@ -368,6 +368,9 @@ Expand - Troubleshooting Steps
 - **Sped-up Game - Why is my game sped-up?**
   - Cap your FPS below 120, this is a byproduct of exceeding the maximum capable FPS.
 
+- **Start - For some reason my game launches with unmodded Fallout: New Vegas instead of Uranium Fever. How do I fix it?**
+  - This is due to incorrect filepaths. Rerun the Uranium Fever Wabbajack installer. This process will repair errors and is much quicker than the initial installation.
+
 - **Start - How do I start in the Mojave Wasteland instead of the Capital Wasteland?**  
   - Select `memory` when prompted after leaving the Vault 101 cave.
 
