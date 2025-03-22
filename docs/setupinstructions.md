@@ -399,11 +399,10 @@ Repeat this process after every Nvidia driver update.
  
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
-- Various optional mods with associated descriptions are bundled that the user can enable or disable without voiding support. When enabling or disabling an optional mod, ensure that all other similarly named mods are also enabled or disabled.
-
 <details><summary>
 Expand - Optional Mods
 </summary>
+
 - **Optional Mods - Gameplay:**
 	- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
 	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
