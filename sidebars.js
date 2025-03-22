@@ -72,6 +72,7 @@ const sidebars = {
    'stars',
    'sweetloadorder',
    'sweetrecommendedmods',
+   'downgradingdxvk',
   ],
   changelogSidebar: [
     'changelog1.3.0.2',
