@@ -206,7 +206,7 @@ Expand
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**  
   - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
-- **Humbled - What do I get to keep when I transition from the Capital Wasteland to the Mojave Wasteland (get humbled/Benny'd)?**
+- **Humbled/Traveling to the Mojave - What do I get to keep when I transition from the Capital Wasteland to the Mojave Wasteland (get humbled/Benny'd)?**
   - The players level, skills, and karma are completely reset. Perks are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
 
 - **Items - What does ___ item do?**
