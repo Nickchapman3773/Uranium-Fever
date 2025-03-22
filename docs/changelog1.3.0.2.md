@@ -16,6 +16,7 @@ sidebar_label: 1.3.0.2b - March 22, 2025
 - Optimized some memory related considerations of Bullet Time scripting.
 - Fixed a bug in Hardercore allowing radiation resistance to go to very large negative values.
 - Fixed missing Veronica mesh.
+- Fixed optional stability presets not being included.
 
 # <p align="center"> 1.3.0.2a - March 19, 2025 </p>
 
