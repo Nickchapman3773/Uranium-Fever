@@ -4,6 +4,10 @@ hide_title: true
 sidebar_label: Troubleshooting
 ---
 
+:::tip
+This page contains various Uranium Fever troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) or Uranium Fever authors.
+:::
+
 ### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
 
 :::warning Pre-Bundled DXVK
