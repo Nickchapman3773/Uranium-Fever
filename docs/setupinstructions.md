@@ -79,42 +79,35 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - Launch the `Wabbajack application`.
-- Open the `settings cogwheel` in Wabbajack and log into your Nexus account.
+- Open the `settings` page and log into your Nexus account.
 
   ![WJLogIn](https://github.com/user-attachments/assets/365c2c63-67a1-48d0-be77-15a4b6dac42f)
 
-- Click back and select `Browse Modlists`.
+- Open the `Browse Lists` page, type `Uranium Fever` into the search bar, and click the `Uranium Fever modlist` image.
 
-  ![WJBrowse](https://github.com/user-attachments/assets/143d2c44-789f-434e-aa56-3b0673c9c460)
+  Pending screenshot WJBrowse2
 
-- Open the `games` drop-down menu and select `Fallout New Vegas`.
-- Search for `Uranium Fever` and click the `download` button.
+- Click `Download & Install`.
 
-  ![UFBrowse](https://github.com/user-attachments/assets/0872230a-6365-4300-a68f-8003edf6af69)
+  Pending screenshot WJBrowse3
+  
+- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Installation Location`.
+- `Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
+- Once finished, click `Install`.
 
-- Once finished, click the play button (which has now replaced the download button).
-
-  ![UFDownload](https://github.com/user-attachments/assets/739fbe82-bea3-4178-afc3-d61429c75a7a)
-
-- `Target Modlist` will auto-populate with the filepath of the `Uranium Fever Installation file`.
-  - This filepath may differ slightly depending on the version of Wabbajack and Uranium Fever.
-- **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Modlist Installation Location`.
-- `Resource Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
-- Enable the `Overwrite Installation` checkbox.
-
-  ![Installing](https://github.com/user-attachments/assets/d63404a2-94b6-43a1-9699-6a6f2861f452)
+  ![WJUFInstall](https://github.com/user-attachments/assets/ac393510-1047-449c-ae8e-5f2d04a90802)
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
 - When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
-- Close Wabbajack.
+- Close Wabbajack. **DO NOT** select the `Create Desktop Shortcut` option.
 
 :::danger Red `INSTALLATION FAILED` Notification
 - Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 :::warning Reminder
-Let the installation **FINISH** prior to starting the following sections.
+Let the installation **FINISH COMPLETELY** prior to starting the following sections.
 :::
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
