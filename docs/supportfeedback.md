@@ -18,8 +18,8 @@ sidebar_label: Support, Feedback, & Updates
   ![Discord Channels](https://github.com/user-attachments/assets/112dd7f7-664d-4beb-809f-349b57025d7c)
 
 - Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions).
-- Prior to posting bug reports, perform a search in the `uf-bug-reports` Discord channel to ensure the bug has not already been reported previously.
-- Prior to posting suggestions, perform a search in the `uf-suggestions` Discord channel to ensure the suggestion has not been made previously.
+- Prior to posting bug reports, perform a search in the [uf-bug-reports](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the bug has not already been reported previously.
+- Prior to posting suggestions, perform a search in the [uf-suggestions](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the suggestion has not been made previously.
 
 :::danger Altering Uranium Fever
 Altered lists ***will not*** be officially supported. However, there is a Discord support channel called [uf-support-altered](https://discord.gg/WswmBGXQZt), in which community members may choose to help one another.
