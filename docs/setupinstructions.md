@@ -400,7 +400,7 @@ Repeat this process after every Nvidia driver update.
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
 <details><summary>
-Expand - Optional Mods
+Expand - Optional Mod Descriptions
 </summary>
 
 - **Optional Mods - Gameplay:**
