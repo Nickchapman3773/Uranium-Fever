@@ -8,6 +8,8 @@ sidebar_label: Troubleshooting
 This page contains various Uranium Fever troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) or Uranium Fever authors.
 :::
 
+# ![Banner Troubleshooting](https://github.com/user-attachments/assets/95f45159-0f7c-4a72-ae88-825327a70434)
+
 ### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
 
 :::warning Pre-Bundled DXVK
