@@ -10,7 +10,7 @@ sidebar_label: Updating Uranium Fever
 - To update the list, re-run the `Uranium Fever Wabbajack Installer` by repeating the steps outlined in the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-) section.
 - Follow any additional instructions outlined in the `uf-announcements` Discord channel.
 
-- After updating, you may be prompted to reconfigure certain settings included im the [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) sections.
+- After updating, you may be prompted to reconfigure certain portions of the [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) sections.
 
 :::danger Check the Changelog
 The Changelog includes update notes, additions, removals, fixes, and, most importantly, any manual steps required for updating.
