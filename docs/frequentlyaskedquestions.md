@@ -106,7 +106,7 @@ Expand
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
 
 - **Death, Reload, and Save Consequences - Can I disable these?**
-  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional Settings & Additions` separator.
+  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional - Gameplay` separator.
   - However, these mechanics are considered integral to gameplay balance. Reloading after a poor engagement, failed skill check, failed minigame, or companion death invalidates many authentic situations the player might face. The goal of the mod is to impose a cost to do so.
 
 - **DLCs - How do I initiate the various DLCs?**
@@ -150,7 +150,7 @@ Expand
     - **Lonesome Road** - 25
 
 - **Disabling Mods - Can I disable ___ mod?**
-  - The only mods you can safely enable or disable are those in the `Optional Settings & Additions` separator.
+  - The only mods you can safely enable or disable are those in the `Optional` separators.
 
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
   - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
@@ -367,8 +367,8 @@ Expand
 - **Traits - I chose a trait that said I could immediately select a new perk, but I was not offered a new perk. Why?**
   - You will be able to choose this perk when you next level up.
 
-- **Ultra-wide - Can I use an ultra-wide resolution with Uranium Fever?**  
-  - Yes. Enable the appropriate optional mod pertaining to your monitors aspect ratio.
+- **Ultrawide - Can I use an ultrawide resolution with Uranium Fever?**  
+  - Yes. Enable the appropriate preset corresponding to your monitor's aspect ratio in the `Optional - Settings` separator in Mod Organizer 2.
  
 - **Updates - Will updating impact my saves?**  
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
