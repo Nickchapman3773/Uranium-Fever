@@ -80,7 +80,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 :::
 
 :::danger
-If clean installs are not appropriate completed, the Uranium Fever installation process will fail.
+If clean installs are not appropriate creared, the Uranium Fever installation process will fail.
 :::
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
@@ -133,7 +133,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
 :::danger
-If a clean `Stock New Vegas` folder is not appropriate completed, the game will fail to launch.
+If a clean `Stock New Vegas` folder is not appropriate created, the game will fail to launch.
 :::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
