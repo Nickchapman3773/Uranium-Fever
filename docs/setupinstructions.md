@@ -52,7 +52,7 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 - Close Wabbajack.
 
 :::warning Version Check
-**DO NOT** use pre-existing installations of Wabbajack.
+**DO NOT** use pre-existing installations of Wabbajack or pre-existing Wabbajack shortcuts.
 
 Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 :::
