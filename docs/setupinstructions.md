@@ -448,7 +448,7 @@ Overwolf is incompatible and will cause a launch crash.
 For other sources of crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
 :::
 
-- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Quick Reference List](https://uraniumfever.net/docs/modquickreference).
+- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
 
 :::warning Desktop Shortcuts
 Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
