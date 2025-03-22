@@ -405,6 +405,7 @@ Repeat this process after every Nvidia driver update.
 	  	- **Death, Reload, and Save Consequences** - Leveraged in Uranium Fever to impose a cost on reloading, with a goal of preventing [save scumming](https://blog.acer.com/en/discussion/911/what-is-save-scumming). Keeping this mod enabled is **HIGHLY** recommended.
 	  	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	 	- **Pip-Boy Weapon Mod Vendor** - Enables purchase of weapon mods directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default for balance and immersion considerations.
+ 		- **Vendor Radio** - Enables purchase of items directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
 		- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 		- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
   			- One perk is gained every 3 levels
@@ -424,7 +425,6 @@ Repeat this process after every Nvidia driver update.
   			- Forced entry settings are more likely to break items in containers and door locks have more health.
   			- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
   			- The ammo press can now only be used once.
-		- **Vendor Radio** - Enables purchase of items directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
 	- **Optional - Settings**
 		- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
 		- **Stability - More Stable but Worse Performance** - Sacrifices a moderate amount of performance for stability. May be enabled by users with frequent crashes.
