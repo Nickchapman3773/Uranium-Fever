@@ -399,24 +399,24 @@ Repeat this process after every Nvidia driver update.
  
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
-- **Optional - Gameplay**:
-	- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
-	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
-  	- **Death, Reload, and Save Consequences** - Leveraged in Uranium Fever to impose a cost on reloading, with a goal of preventing [save scumming](https://blog.acer.com/en/discussion/911/what-is-save-scumming). Keeping this mod enabled is **HIGHLY** recommended.
-  	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
- 	- **Pip-Boy Weapon Mod Vendor** - Enables purchase of weapon mods directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default for balance and immersion considerations.
-	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
-	- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever..
-	- **Vendor Radio** - Enables purchase of items directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
-- **Optional - Settings**
-	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
-	- **Stability - More Stable but Worse Performance** - Sacrifices a moderate amount of performance for stability. May be enabled by users with frequent crashes.
-	- **Stability - Most Stable but Worst Performance** - Sacrifices a large amount of performance for stability. May be enabled by users with frequent crashes despite enabling `Stability - More Stable but Worse Performance`.
-	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
-	- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial. May be disabled by those who have played the game before.
-	- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
-	- **UI - 21-9 Aspect Ratio Monitor (Ultrawide) Support** - Enables support for ultrawide (21:9) monitors.
-	- **UI - 32-9 Aspect Ratio Monitor (Super Ultrawide) Support** - Enables support for super ultrawide (32:9) monitors.
+	- **Optional - Gameplay**:
+		- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
+		- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
+	  	- **Death, Reload, and Save Consequences** - Leveraged in Uranium Fever to impose a cost on reloading, with a goal of preventing [save scumming](https://blog.acer.com/en/discussion/911/what-is-save-scumming). Keeping this mod enabled is **HIGHLY** recommended.
+	  	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
+	 	- **Pip-Boy Weapon Mod Vendor** - Enables purchase of weapon mods directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default for balance and immersion considerations.
+		- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
+		- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever..
+		- **Vendor Radio** - Enables purchase of items directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
+	- **Optional - Settings**
+		- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
+		- **Stability - More Stable but Worse Performance** - Sacrifices a moderate amount of performance for stability. May be enabled by users with frequent crashes.
+		- **Stability - Most Stable but Worst Performance** - Sacrifices a large amount of performance for stability. May be enabled by users with frequent crashes despite enabling `Stability - More Stable but Worse Performance`.
+		- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
+		- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial. May be disabled by those who have played the game before.
+		- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
+		- **UI - 21-9 Aspect Ratio Monitor (Ultrawide) Support** - Enables support for ultrawide (21:9) monitors.
+		- **UI - 32-9 Aspect Ratio Monitor (Super Ultrawide) Support** - Enables support for super ultrawide (32:9) monitors.
 
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 
