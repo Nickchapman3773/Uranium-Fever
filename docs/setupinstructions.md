@@ -304,30 +304,6 @@ This step can prevent unforeseen crashes.
 
   ![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
 
-### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
-:::tip Why?
-This process disables Steam Overlay, which causes crashes and worsen performance.
-:::
-
-- Navigate to the `Steam Root Folder` (where `steam.exe` is located).
-- Right click `GameOverlayRenderer.dll` and open `properties`.
-- Open the `security tab` and click `edit`.
-- Click the `Deny` option under `Read & Execute` for every user.
-- Click `Apply`, then `Yes`.
-
-  ![Steam Overlay 1](https://github.com/user-attachments/assets/49fdeabe-c964-4290-a28d-af6f06a9b1a9)
-
-- In the same folder, right click `SteamOverlayVulkanLayer.dll` and open `properties`.
-- Open the `security tab` and click `edit`.
-- Click the `Deny` option under `Read & Execute` for every user.
-- Click `Apply`, then `Yes`.
-
-  ![Steam Overlay 2](https://github.com/user-attachments/assets/0f84d294-f5f0-4a0d-9927-d0524785362f)
-
-:::warning
-This step will need to be repeated each time Steam updates, which occurs each time time steam launches.
-:::
-
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 :::tip Why?
 Disabling DXVK Cache Storage prevents memory-related crashes by halting the creation of the DXVK cache.
