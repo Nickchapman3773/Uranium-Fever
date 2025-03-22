@@ -304,45 +304,53 @@ Expand
 - **Skill Tags - How do skill tags work in Uranium Fever? I do not see the 15 point increase I am used to?**
   - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
 
-- **SPECIAL - How have SPECIAL stats been changed in Uranium Fever as compared to the standard game?**
+- **SPECIAL - What do SPECIAL do in Uranium Fever?**
   - **All SPECIALS:**
     - All grant extra items in starting gear in both Wastelands and various DLCs.
     - Contribute the the players size during character creaton.
   - **Strength:**
     - Increased carry weight.
-    - Small knockdown resistance increase.
+    - Increased melee damage.
+    - Increased knockdown resistance.
     - Improved hip fire spread.
     - Improved recoil control.
   - **Perception:**
+    - Improved NPC sneak awareness recognition.
     - Improved non-damaging forced entry bonus.
     - Improved bullet spread.
     - Improved degree of time dilation associated with Just Bullet Time.
   - **Endurance:**
     - Increased HP.
-    - Large knockdown resistance.
+    - Increased radiation resistance.
+    - Increased poison resistance.
+    - Increased knockdown resistance.
     - Increased health regeneration over time.
     - Increased sleep and wait health regeneration.
     - Reduced addiction chance.
   - **Charisma:**
+    - Improved companion damage and defense.
     - Improved barter prices.
     - More frequent dialogue checks.
     - Increased reputation gains and decreased reputation losses.
   - **Intelligence:**
+    - Improved skill points per level.
     - Improved non-damaging forced entry bonus.
     - Enemy intelligence reduces success in dialogue checks.
   - **Agility:**
     - Increased AP.
     - Improved radiation decay.
     - Improved non-damaging forced entry bonus.
+    - Improved lockpicking.
     - Faster swim speed.
     - Faster reload speed.
+    - Faster draw and holster speed.
     - Faster weapon jam recovery speed.
   - **Luck:**
     - Improved chance for crippled limb recovery while sleeping at full health.
     - Reduced odds for item destruction during forced entry.
     - Reduced chance for bypass tool to be destroyed.
     - Improved outcomes in various scripted events, such as repairing electrical boxes.
-    - Improved lockpicking chances when using Immersive Minigame Tweaks.
+    - Improved lockpicking chances.
     - Improved hacking chances when using Immersive Minigame Tweaks.
     - Reduced weapon jam chance.
 
