@@ -81,7 +81,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 - Launch the `Wabbajack application`.
 - Open the `settings cogwheel` in Wabbajack and log into your Nexus account.
 
-  ![WJLogIn](https://github.com/user-attachments/assets/8590caa0-18d7-482b-b814-c93eb604917c)
+  ![WJLogIn](https://github.com/user-attachments/assets/023319f7-309f-415a-a456-9707184b1179)
 
 - Click back and select `Browse Modlists`.
 
