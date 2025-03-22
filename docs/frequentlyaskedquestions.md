@@ -14,7 +14,7 @@ To find information quickly, use `Ctrl + F` to search for relevant keywords.
 :::danger Troubleshooting
 For any installation errors, launch crashes, or launch freezes, perform these steps sequentially, testing again after each:
 <details><summary>
-Expand
+Expand - Troubleshooting Steps
 </summary>
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
