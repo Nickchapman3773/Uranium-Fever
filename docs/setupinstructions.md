@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f9dcb94a-53b9-46cf-9b73-95dcd639d00d)![image](https://github.com/user-attachments/assets/d496ee15-4cb7-490c-b5df-fff795a7e1e0)---
+---
 sidebar_position: 6
 title: Setup Instructions
 hide_title: true
