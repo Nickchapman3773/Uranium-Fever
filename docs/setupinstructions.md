@@ -338,11 +338,11 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 - Set `Application Detection Level` to `Low`.
 - Set `Framerate Limit` to `59.95`.
 
+  ![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
+
 :::danger Exceeding a Framerate Limit of 59.95
 Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
 :::
-
-  ![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
 
 - Open the settings using the `Setup` button.
 - Enable `Passive Waiting` and set `Framerate Limiter` to `Front Edge Sync`.
