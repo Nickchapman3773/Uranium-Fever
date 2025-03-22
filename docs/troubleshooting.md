@@ -46,4 +46,6 @@ This process disables Steam Overlay, which causes crashes and worsen performance
 
 :::warning
 This step will need to be repeated each time Steam updates, which occurs each time time steam launches.
+
+This CANNOT be done directly through the Steam settings. Even if disabled via Steam, the overlay still injects its DLL directly into the game, which can result in crashes. 
 :::
