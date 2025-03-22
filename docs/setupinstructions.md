@@ -75,7 +75,9 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 	- Uninstall `Fallout: New Vegas` and `Fallout 3` if they are still installed.
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
+:::note
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
+:::
 
 :::danger
 If clean installs are not appropriate completed, the Uranium Fever installation process will fail.
