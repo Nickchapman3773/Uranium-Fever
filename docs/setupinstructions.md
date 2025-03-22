@@ -91,12 +91,12 @@ If clean installs are not appropriate creared, the Uranium Fever installation pr
 
 - Open the `Browse Lists` page, type `Uranium Fever` into the search bar, and click the `Uranium Fever modlist` image.
 
-  Pending screenshot WJBrowse
+  ![WJBrowse](https://github.com/user-attachments/assets/28d6edf5-a694-4679-9cef-39f79d9e1fef)
 
 - Click `Download & Install`.
 
-  Pending screenshot WJDownload
-  
+  ![WJDownload](https://github.com/user-attachments/assets/c938ea10-d071-480b-ac4e-7b9152777707)
+
 - **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Installation Location`.
 - `Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
 - Once finished, click `Install`.
