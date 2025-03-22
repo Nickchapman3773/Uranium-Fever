@@ -373,9 +373,6 @@ Expand
 - **Start - Which Wasteland should I choose to start in?**
   - The original intent of Tale of Two Wastelands was to start in the Capital Wasteland. However, starting in the Mojave will provide a more challenging experience from start to finish as compared to a Capital Wasteland start.
 
-- **Steam Overlay - Can't I disable the Steam overlay directly through Steam?**
-  - No. Even if disabled via Steam, the overlay still injects its DLL directly into the game, which can result in crashing. 
-
 - **Tale of Two Wastelands - Is TTW required for Uranium Fever?**  
   - Yes. The modlist cannot be installed or used without TTW.
 
