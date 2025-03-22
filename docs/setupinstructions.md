@@ -431,7 +431,7 @@ Repeat this process after every Nvidia driver update.
 
   ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
-:::danger Crashing During Game Launch
+:::danger Crashing or Freezing During Game Launch
 Overwolf is incompatible and will cause a launch crash.
 
 For other sources of crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
