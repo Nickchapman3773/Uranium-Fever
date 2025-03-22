@@ -399,8 +399,8 @@ Repeat this process after every Nvidia driver update.
  
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
-	- <details><summary>
-**Optional - Gameplay**:
+<details><summary>
+	- **Optional - Gameplay**:
 </summary>
 		- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
 		- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
@@ -427,10 +427,8 @@ Repeat this process after every Nvidia driver update.
   			- Forced entry settings are more likely to break items in containers and door locks have more health.
   			- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
   			- The ammo press can now only be used once.
-<details>
-	- 
-	- <details><summary>
-**Optional - Settings**:
+<details><summary>
+	- **Optional - Settings**:
 </summary>
 		- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
 		- **Stability - More Stable but Worse Performance** - Sacrifices a moderate amount of performance for stability. May be enabled by users with frequent crashes.
