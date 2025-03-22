@@ -18,7 +18,7 @@ sidebar_label: Support, Feedback, & Updates
   ![Discord Channels](https://github.com/user-attachments/assets/112dd7f7-664d-4beb-809f-349b57025d7c)
 
 - Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions).
-- Prior to psoting bug reports, perform a search in the `uf-bug-reports` Discord channel to ensure the bug has not already been reported previously.
+- Prior to posting bug reports, perform a search in the `uf-bug-reports` Discord channel to ensure the bug has not already been reported previously.
 - Prior to posting suggestions, perform a search in the `uf-suggestions` Discord channel to ensure the suggestion has not been made previously.
 
 :::danger Altering Uranium Fever
