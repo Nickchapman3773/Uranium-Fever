@@ -85,11 +85,11 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 - Open the `Browse Lists` page, type `Uranium Fever` into the search bar, and click the `Uranium Fever modlist` image.
 
-  Pending screenshot WJBrowse2
+  Pending screenshot WJBrowse
 
 - Click `Download & Install`.
 
-  Pending screenshot WJBrowse3
+  Pending screenshot WJDownload
   
 - **COPY** (`Ctrl+C`) `C:\Modding\Uranium Fever`, changing the Root Directory if necessary, and **PASTE** (`Ctrl+V`) it into the `Installation Location`.
 - `Download Location` will **auto-populate** `C:\Modding\Uranium Fever\downloads`.
