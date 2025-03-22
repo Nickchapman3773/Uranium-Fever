@@ -57,7 +57,7 @@ sidebar_label: 1.3.0.2a - March 19, 2025
 - Added Dead Money Gas Bomb - Fixed.
 
 **Updating:**
-- Please refer to the [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) guide for instructions.
+- Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for instructions.
 - Altered or outdated lists will not be supported.
 - Notifications of missing mods post-update are normal and reflect plugin merging.
 
@@ -71,7 +71,7 @@ sidebar_label: 1.3.0.2a - March 19, 2025
 - **CRITICAL**: For updates from pre-1.3.0.1 versions, manually download the newest version of [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000143106&nmm=1), then extract the contents of the archive into the `[NoDelete] Stock New Vegas folder`, selecting `replace` in the following prompts.
 
  **Community:**
-- Submit Uranium Fever screenshots to the UF-screen-archery channel on Discord with the tag #FeversScreens for a chance to be featured on the website or as an in-game loading screen!
-- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the UF-submissions channel on Discord!
+- Submit Uranium Fever screenshots to the UF-screen-archery Discord channel for a chance to be featured on the website or loading screens!
+- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the `uf-submissions` Discord channel!
 - If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
-- Use the command ?rank Uranium Fever User in the UF-discussion channel on Discord to receive update notifications on Discord.
+- Use the command `rank Uranium Fever User` in the `uf-discussion channel` Discord channel to receive update notifications on Discord.
