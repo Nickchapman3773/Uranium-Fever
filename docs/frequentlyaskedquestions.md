@@ -12,17 +12,18 @@ To find information quickly, use `Ctrl + F` to search for relevant keywords.
 :::
 
 :::danger Troubleshooting
-For any installation errors or launch crashes, perform these steps:
+For any installation errors or launch crashes, perform these steps sequentially, testing again after each:
 <details><summary>
 Expand
 </summary>
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
-- Repeat the installation process for the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/requirements).
+- Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/requirements).
 - Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/setupinstructions#-creating-antivirus-exclusions-).
 - Disable or uninstall any 3rd party antivirus.
 - Disable any VPN.
 - If using Overwolf, ensure it is disabled or uninstalled.
+- Disable Windows Defender.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Update to the most recent graphics card drivers.
 - Right click the Uranium Fever folder and uncheck Read-only.
