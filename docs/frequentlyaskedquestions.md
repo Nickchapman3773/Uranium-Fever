@@ -12,7 +12,7 @@ To find information quickly, use `Ctrl + F` to search for relevant keywords.
 :::
 
 :::danger Troubleshooting
-For any installation errors or launch crashes, perform these steps sequentially, testing again after each:
+For any installation errors, launch crashes, or launch freezes, perform these steps sequentially, testing again after each:
 <details><summary>
 Expand
 </summary>
