@@ -402,7 +402,7 @@ Repeat this process after every Nvidia driver update.
 - Various optional mods with associated descriptions are bundled that the user can enable or disable without voiding support. When enabling or disabling an optional mod, ensure that all other similarly named mods are also enabled or disabled.
 
 <details><summary>
-- Expand - Optional Mods
+Expand - Optional Mods
 </summary>
 - **Optional Mods - Gameplay:**
 	- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
