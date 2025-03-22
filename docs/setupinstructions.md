@@ -88,7 +88,6 @@ These clean installations and backups will be utilized in the [Creating a Clean 
   ![WJBrowse](https://github.com/user-attachments/assets/143d2c44-789f-434e-aa56-3b0673c9c460)
 
 - Open the `games` drop-down menu and select `Fallout New Vegas`.
-- Toggle the `Show Unofficial Lists` filter.
 - Search for `Uranium Fever` and click the `download` button.
 
   ![UFBrowse](https://github.com/user-attachments/assets/0872230a-6365-4300-a68f-8003edf6af69)
