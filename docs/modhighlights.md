@@ -92,7 +92,7 @@ sidebar_label: Mod Highlights
 # <p align="center">![Animations](https://github.com/user-attachments/assets/470b5aa9-1cd6-4167-8ebc-a53e4dc56fc2)</p>
 
 - [New Vegas Animation Overhaul - Guns](https://www.nexusmods.com/newvegas/mods/86354), [New Vegas Animation Overhaul - Melee](https://www.nexusmods.com/newvegas/mods/88830), and [New Vegas Animation Overhaul - Throwables](https://www.nexusmods.com/newvegas/mods/91374) - Overhauls all gun, melee, and throwable animations.
-- - [B42 Interact](https://www.nexusmods.com/newvegas/mods/83119), [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437), & [B42 Loot](https://www.nexusmods.com/newvegas/mods/82369) - Overhauls all interaction, looting, and item use animations.
+- [B42 Interact](https://www.nexusmods.com/newvegas/mods/83119), [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437), & [B42 Loot](https://www.nexusmods.com/newvegas/mods/82369) - Overhauls all interaction, looting, and item use animations.
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Overhauls movement with new animations and sprinting options.
 - [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Adds motion-captured stagger animations.
 - [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687) - Adds response animations for NPCs when injured.
