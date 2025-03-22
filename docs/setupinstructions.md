@@ -77,6 +77,10 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
 
+:::danger
+If clean installs are not appropriate completed, the Uranium Fever installation process will fail.
+:::
+
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
@@ -118,6 +122,10 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 #### Step 1: Creating the Clean Stock New Vegas Folder
 - Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
+:::danger
+If a clean `Stock New Vegas` folder is not appropriate completed, the game will fail to launch.
+:::
+
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
 :::important
 **SKIP** step 2 if **not** backing up another modded instance of Fallout: New Vegas.
@@ -125,24 +133,6 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
   - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
-
-#### Step 3: Reviewing the Files in the Clean Stock New Vegas Folder
-- The clean `[NoDelete] Stock New Vegas` folder should now contain the following files. If **EXTRA** files **NOT INCLUDED** in the following screenshots are present, **DELETE** the `[NoDelete] Stock New Vegas` folder, repeat [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-), then start this section over.
-
-:::note
-Some of the `GECK` files or `SSCE5432.dll` may be missing. This is normal and will not negatively impact the installation.
-:::
-
-  - Steam - `[NoDelete] Stock New Vegas` file contents:
-
-    ![Steam Stock](https://github.com/user-attachments/assets/a8b535fa-3c46-4bcb-92a3-adf1f479a5c6)
-  - GOG - `[NoDelete] Stock New Vegas` file contents:
-
-    ![GOG Stock](https://github.com/user-attachments/assets/4076bc90-cc20-4ef8-8af3-c1767a720abe)
-
-:::danger Extra Files
-Extra files beyond those included in the above screenshots indicate unsuccessful creation of a clean `[NoDelete] Stock New Vegas` and will prevent the game from launching.
-:::
 
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch Fallout: New Vegas from `Steam/GOG`.
