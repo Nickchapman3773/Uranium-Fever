@@ -405,8 +405,9 @@ Expand
     - Solid green highlight means the letter is in the correct position.
     - Solid yellow/orange highlight means the letter is in the word but in the wrong position.
     - No highlight means the letter is not in the word.
-  - Already used letters that are not in the word will be darkened on the bottom keyboard.
-    [Visual example](https://staticdelivery.nexusmods.com/mods/130/images/89317/89317-1730412628-1110398251.png)
+  - Previously utilized letters that are not in the word will be darkened on the bottom keyboard.
+
+  ![image](https://github.com/user-attachments/assets/b7be4085-6be8-4df9-bd14-a3dc546b5d44)
 
 - **XP - I do not always get XP when I kill enemies. Why?**  
   - XP is reported collectively at the end of combat and the player will not be rewarded XP for companion kills.
