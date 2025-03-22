@@ -408,22 +408,22 @@ Repeat this process after every Nvidia driver update.
 		- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 		- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
   			- One perk is gained every 3 levels
-     			- No perks are gained after being humbled (traveling to the Mojave Wasteland) until the player reaches their pre-humbled level.
-     			- Less skill points are gained per level.
-     			- Harsher loot scarcity settings.
-     			- Hardcore need accumulation rate is doubled.
-         		- Overencumbrance has a much more dramatic impact on movement speed.
-     			- Sleeping will restore a much smaller amount of health. 
-     			- Radiation resist effects are reduced by 50% unianimously.
-          		- Bottled water must be boiled to become clean water.
-     			- One follower can now be recruited at five permanent charisma, and two followers can be recruited at ten charisma.
-     			- Pip-boy can no longer be used in combat.
-     			- Fast travel now costs caps. This effect scales based on distance traveled.
-          		- Time dilation is halved when using quick select menus.
-     			- Weapon sway is increased when not meeting weapon requirements.
-     			- Forced entry settings are more likely to break items in containers and door locks have more health.
-     			- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
-     			- The ammo press can now only be used once.
+  			- No perks are gained after being humbled (traveling to the Mojave Wasteland) until the player reaches their pre-humbled level.
+  			- Less skill points are gained per level.
+  			- Harsher loot scarcity settings.
+  			- Hardcore need accumulation rate is doubled.
+  			- Overencumbrance has a much more dramatic impact on movement speed.
+  			- Sleeping will restore a much smaller amount of health. 
+  			- Radiation resist effects are reduced by 50% unianimously.
+  			- Bottled water must be boiled to become clean water.
+  			- One follower can now be recruited at five permanent charisma, and two followers can be recruited at ten charisma.
+  			- Pip-boy can no longer be used in combat.
+  			- Fast travel now costs caps. This effect scales based on distance traveled.
+  			- Time dilation is halved when using quick select menus.
+  			- Weapon sway is increased when not meeting weapon requirements.
+  			- Forced entry settings are more likely to break items in containers and door locks have more health.
+  			- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
+  			- The ammo press can now only be used once.
 		- **Vendor Radio** - Enables purchase of items directly via the pipboy, but at a premium cost. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
 	- **Optional - Settings**
 		- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
