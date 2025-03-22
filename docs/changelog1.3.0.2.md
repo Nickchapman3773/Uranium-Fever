@@ -1,8 +1,21 @@
 ---
-title: 1.3.0.2a - March 19, 2025
+title: 1.3.0.2b - March 22, 2025
 hide_title: true
-sidebar_label: 1.3.0.2a - March 19, 2025
+sidebar_label: 1.3.0.2b - March 22, 2025
 ---
+
+# <p align="center"> 1.3.0.2b - March 22, 2025 </p>
+
+**Changes:**
+- Adjusted famine scarcity rates for bobby pins to make them more common.
+- Adjusted Alt Encumbrance settings in Hardercore to be more impactful.
+
+**Fixes:**
+- Actually fixed erroneous alt encumbrance overwrite being mistakenly packaged into Uranium Haze.
+- Fixed abnormalities related to swapping from V.A.T.S to Bullet Time in Perk Descriptions.
+- Optimized some memory related considerations of Bullet Time scripting.
+- Fixed a bug in Hardercore allowing radiation resistance to go to very large negative values.
+- Fixed missing Veronica mesh.
 
 # <p align="center"> 1.3.0.2a - March 19, 2025 </p>
 
