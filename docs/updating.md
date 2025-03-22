@@ -7,14 +7,13 @@ sidebar_label: Updating Uranium Fever
 
 # ![Banner Updating Uranium Fever](https://github.com/user-attachments/assets/50f8351b-d958-41d5-a6c8-a0b8e412c52d)
 
-- Repeat the steps outlined in the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-) section.
+- To update, rerun the `Uranium Fever Wabbajack Installer` by repeat the steps outlined in the [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-) section.
+- Follow any additional instructions outlined in the `uf-announcements` Discord channel.
 
-- If prompted, also repeat the following sections:
-	- [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-)
-	- [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-)
+- After updating, you may be prompted to reconfigure certain settings included im the [Launching Mod Organizer 2 (MO2)](https://uraniumfever.net/docs/setupinstructions#-launching-mod-organizer-2-mo2-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) sections.
 
 :::danger Check the Changelog
-The Changelog includes update notes, additions, removals, fixes, and, most importantly, any manual steps required for updating. Be sure to review the [Changelog](https://uraniumfever.net/docs/changelog1.1.0.1).
+The Changelog includes update notes, additions, removals, fixes, and, most importantly, any manual steps required for updating.
 
 Saves are **ALWAYS** save-safe unless otherwise specified in the Changelog.
 :::
