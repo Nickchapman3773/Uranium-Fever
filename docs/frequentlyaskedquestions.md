@@ -338,7 +338,7 @@ Expand - Troubleshooting Steps
   - **Charisma:**
     - Improved companion damage and defense.
     - Improved barter prices.
-    - More frequent dialogue checks.
+    - Easier dialogue checks.
     - Increased reputation gains and decreased reputation losses.
   - **Intelligence:**
     - Improved skill points per level.
