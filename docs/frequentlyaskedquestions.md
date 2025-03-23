@@ -395,6 +395,9 @@ Expand - Troubleshooting Steps
 - **Updates - Will updating impact my saves?**  
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
 
+- **Updates - ___ mod updated. am I safe to update it?**  
+  - No. Unless instructed otherwise, you should not manually update any mods.
+
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
   - No. VATS is very difficult to balance and is inherently incompatible with other mods included in Uranium Fever. All perks and traits are functional with Bullet Time, which is a superior skill-based alternative to VATS.
 
