@@ -387,7 +387,8 @@ Repeat this process after every Nvidia driver update.
  
 ### <p align="center"> ![Optional Mods](https://github.com/user-attachments/assets/ac08818b-a893-4d46-aa3f-77f40e0e3453) </p>
 
-- Various optional mods with associated descriptions are bundled that the user can enable or disable without voiding support. When enabling or disabling an optional mod, ensure that all other similarly named mods are also enabled or disabled.
+- Various optional mods with associated descriptions are bundled that the user can enable or disable without voiding support.
+	- When enabling or disabling an optional mod, ensure that **all other similarly named mods** are also enabled or disabled.
  
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
