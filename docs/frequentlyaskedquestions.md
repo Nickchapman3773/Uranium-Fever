@@ -395,7 +395,7 @@ Expand - Troubleshooting Steps
 - **Updates - Will updating impact my saves?**  
   - Unless specified otherwise, your saves will still work, though updates after starting a save may introduce small bugs.
 
-- **Updates - ___ mod updated. am I safe to update it?**  
+- **Updates - ___ mod updated. Should I update it?**  
   - No. Unless instructed otherwise, you should not manually update any mods.
 
 - **VATS - Can I disable Bullet Time and enable VATS instead?**  
