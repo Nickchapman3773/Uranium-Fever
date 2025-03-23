@@ -209,7 +209,7 @@ Expand - Troubleshooting Steps
   - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
 - **Humbled/Traveling to the Mojave - What do I get to keep when I transition from the Capital Wasteland to the Mojave Wasteland (get humbled/Benny'd)?**
-  - The players level, skills, and karma are completely reset. Perks are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
+  - The players level, skills, and karma are reset. Perks are retained. Skills gained from skill books are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
 
 - **Items - What does ___ item do?**
   - **Bypass Module** Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
