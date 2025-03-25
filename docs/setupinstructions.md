@@ -80,7 +80,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 :::
 
 :::danger
-If clean installs are not appropriate creared, the Uranium Fever installation process will fail.
+If clean installs are not appropriately created, the Uranium Fever installation process will fail. Simply uninstalling the game through Steam/GOG is insufficient.
 :::
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
