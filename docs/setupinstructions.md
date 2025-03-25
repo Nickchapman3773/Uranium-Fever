@@ -63,6 +63,10 @@ Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 This is part one of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
 :::
 
+:::danger
+If clean installs are not appropriately created, the Uranium Fever installation process will fail. Simply uninstalling the game through Steam/GOG is insufficient.
+:::
+
 - Navigate to `C:\[STEAM or GOG FILEPATH]` and:
 	- Move the `Fallout New Vegas` folder to the desktop.
 	- Delete the `Fallout New Vegas` folder instead if backups are not desired.
@@ -77,10 +81,6 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 
 :::note
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
-:::
-
-:::danger
-If clean installs are not appropriately created, the Uranium Fever installation process will fail. Simply uninstalling the game through Steam/GOG is insufficient.
 :::
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
