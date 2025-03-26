@@ -188,9 +188,6 @@ Expand - Troubleshooting Steps
     Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
   - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
 
-- **FPS Cap - Can I increase my FPS cap higher than the recommended 59.95?**
-  - Yes, though the higher you raise your cap, the more noticable stutter will be, and the more likely you will experience timesync abnormalities. Exceeding 120 is highly inadvisable.
-
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
 
