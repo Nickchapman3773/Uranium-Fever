@@ -223,6 +223,9 @@ Expand - Troubleshooting Steps
 - **Configuring Game Settings - "Install" and "Options" is greyed out in the launcher. Why?**  
   - Re-run the launcher from Steam/GOG to regenerate the necessary INIs, then reopen the Uranium Fever Launcher. This can happen after updating Uranium Fever.
 
+- **Leaning - Is there a way to toggle leaning?**
+  - Yes. Activate the `Keybinds - F Activates, Q & E Lean` mod in the `Optional - Settings` separator.
+
 - **Loading & Saving - In Skyrim I am told I can't quicksave or quickload. Is this also true in Uranium Fever?**
   - No. Quicksaves, autosaves, and full saves are also functionally similar, and none of these negatively impact the game. Similarly, reloading will not negatively impact your game.
 
