@@ -221,8 +221,8 @@ Expand - Troubleshooting Steps
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Configuring Game Settings - "Install" and "Options" is greyed out in the launcher. Why?**  
-  - Re-run the launcher from Steam/GOG to regenerate the necessary INIs, then reopen the Uranium Fever Launcher. This can happen after updating Uranium Fever.
+- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches un-modded Fallout: New Vegas. How do I fix it?**
+  - Re-run the Uranium Fever Wabbajack installer, it will fix repair any incorrect filepaths.
 
 - **Leaning - Is there a way to toggle leaning?**
   - Yes. Activate the `Keybinds - F Activates, Q & E Lean` mod in the `Optional - Settings` separator.
