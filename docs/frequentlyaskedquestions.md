@@ -409,7 +409,7 @@ Expand - Troubleshooting Steps
 - **Weapon Sway - Why does my weapon sway around my crosshair?**
   - You do not meet the required SPECIAL and weapon skill recommended in order to use the weapon, which are specified in the weapon statstics once you hover over the weapon in the Pip-Boy.
 
-- **Wordle - How do I play wordle?**
+- **Wordle/Hacking - How do I play wordle?**
   - Letters are categorized into three categories when words are played:
     - Solid green highlight means the letter is in the correct position.
     - Solid yellow/orange highlight means the letter is in the word but in the wrong position.
