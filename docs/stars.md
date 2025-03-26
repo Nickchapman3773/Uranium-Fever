@@ -154,6 +154,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 - Main File - [Classic Lightweight Leather Armor Replacer](https://www.nexusmods.com/newvegas/mods/69594?tab=files&file_id=1000097176&nmm=1)
   - **HIDE** the `Classic Lightweight Leather Armor Replacer.esp` plugin.
 - Main File - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
+- Assets - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files).
 - Main File - [STARS TTW and ySI Patch](https://www.nexusmods.com/newvegas/mods/76509)
 - Optional File - [Classic Fallout Tesla Consistent Icons v0.1](https://www.nexusmods.com/newvegas/mods/80347?tab=description)
 - Main File - [AVCCA - Animated Visor for Classic Combat Armor](https://www.nexusmods.com/newvegas/mods/81974)
@@ -171,5 +172,3 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - If you downloaded [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
 - Optional File - [Wasteland Starting Gear DC Patch](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
   - If you downloaded [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
-- Main File - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
-- Assets - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
