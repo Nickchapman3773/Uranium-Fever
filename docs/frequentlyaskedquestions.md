@@ -80,9 +80,6 @@ Expand - Troubleshooting Steps
 - **Cannibal Perk - Why doesn’t the cannibalize perk work?**
   - Ensure you’re crouching to use the cannibalize feature.
 
-- **Clean Install - Do I need a clean installation of Fallout: New Vegas and Fallout 3?**
-  - No, Uranium Fever is fully self-contained and independent of your existing Fallout installations.
- 
 - **Companion Combat - My companions keep running to their death, how can I stop them?**
   - Open the Companions Command and Control menu (`C`) and try changing their tactics to `stay back` and `prefer ranged combat`.
   - Make sure you give them a weapon, ammo, and aid.
