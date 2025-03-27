@@ -19,7 +19,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 :::warning Controller Support
 Controller support is ONLY provided for Steam users due to technical limitations associated with GOG installations.
 :::
-- Windows 10 or higher (64-bit).
+- Legal and activated copy of Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
 - The latest drivers for your GPU.
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
