@@ -36,7 +36,7 @@ Expand - Troubleshooting Steps
 - Repeat the [New Vegas Reloaded (NVR) installation process](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-).
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-unaltered](https://discord.gg/WswmBGXQZt) Discord channel.
+- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-unmodified-support](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
 :::
 
@@ -71,9 +71,6 @@ Expand - Troubleshooting Steps
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
 - **Application Load Error P:0000065434 - How do I fix this error?**
   - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://uraniumfever.net/docs/setupinstructions#-generating-fresh-ini-files-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
-
-- **Altering Uranium Fever - Can I modify the mods?**
-  - Modifying the list voids official support. Use the [uf-support-altered](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
  
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
@@ -249,13 +246,16 @@ Expand - Troubleshooting Steps
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
 
 - **Modularity - Can I customize Uranium Fever to my preferences?**  
-  - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, altered lists are unsupported.
+  - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, modified lists are unsupported.
+
+- **Mod Configuration Menu (MCM) - Can I change settings in the MCM?**
+  - Doing so is considered modifying the list and will invalidate support.
+
+- **Modifying Uranium Fever - Can I modify the mods?**
+  - Modifying the list voids official support. Use the [uf-modified-support](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
 
 - **Mods - Why are there so many empty mods or mods that are completely overwritten in Uranium Fever?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
-
-- **Mod Configuration Menu (MCM) - Can I change settings in the MCM?**
-  - Doing so is considered altering the list and will invalidate support.
 
 - **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
   - It is no longer recommended. xNVSE has built in changes to the vanilla heap that are superior to those found in NVHR, but without the massively increased memory usage that results from NVHR.
@@ -389,7 +389,7 @@ Expand - Troubleshooting Steps
   - You will be able to choose this perk when you next level up.
 
 - **Tweaks - Can I change settings in Stewie's Tweaks?**
-  - Doing so is considered altering the list and will invalidate support.
+  - Doing so is considered modifying the list and will invalidate support.
 
 - **Ultrawide - Can I use an ultrawide resolution with Uranium Fever?**  
   - Yes. Enable the appropriate preset corresponding to your monitor's aspect ratio in the `Optional - Settings` separator in Mod Organizer 2.
