@@ -198,6 +198,9 @@ Expand - Troubleshooting Steps
 - **Hardcore - Can I disable the hardcore mode?**  
   - No. Many mods in Uranium Fever rely on hardcore mode, and the list is designed around it.
 
+- **Hardercore - What changes does the Hardercore Optional Mod change?**  
+  - The changes for hardercore can be found in the [Optional Mods Section](https://uraniumfever.net/docs/setupinstructions#-optional-mods-) of the Setup Instructions
+
 - **Healing - When I pay a doctor to heal me, I do not heal fully. Why?**  
   - This is an intentional balance design. You will need to pay for several different healing sessions or heal through other means to fully heal.
 
