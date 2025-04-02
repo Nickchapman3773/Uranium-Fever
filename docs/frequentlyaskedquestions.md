@@ -266,6 +266,9 @@ Expand - Troubleshooting Steps
 - **Optimization - How is Uranium Fever optimized?**  
   - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. These are subsequently further adjusted by SNIFF when appropriate. Animations are compressed then BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
 
+- **Optional Mods - How do I use the bundled optional mods?**
+  - Instructions are provided in the [Optional Mods](https://uraniumfever.net/docs/setupinstructions#-optional-mods-) section.
+
 - **Other Modded Instances - Can I keep my other modded setups while playing Uranium Fever?**  
   - Yes. Uranium Fever is self-contained in the Stock New Vegas folder and won’t interfere with other setups.
 
