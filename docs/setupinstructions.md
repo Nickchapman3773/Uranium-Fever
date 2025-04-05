@@ -114,6 +114,8 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 :::warning Reminder
 Let the installation **FINISH COMPLETELY** prior to starting the following sections.
+
+**DO NOT** open Mod Organizer 2 **BEFORE** being instructed to do so.
 :::
 
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
@@ -438,11 +440,12 @@ Expand - Optional Mod Descriptions
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
 - If prompted that INIs are read-only, select `Clear the Read Only Flag`.
+- If an unmodded version of the game is launched, re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
 
   ![Launch](https://github.com/user-attachments/assets/7713003d-0e46-45a3-aad4-ec2d21d5c446)
 
 :::danger Crashing or Freezing During Game Launch
-Overwolf is incompatible and will cause a launch crash.
+- Overwolf is incompatible and will cause a launch crash.
 
 For other sources of crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
 :::
