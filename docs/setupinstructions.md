@@ -386,6 +386,10 @@ Repeat this process after every Nvidia driver update.
   - **Low Quality Profile**: Disables New Vegas Reloaded, Uranium Haze, and related mods.
   - **Very Low Quality Profile**: Further reduces settings and disables additional effect and lighting mods.
   - **Debugging Profile**: Minimal load order, only essential mods enabled.
+
+:::tip Swapping profiles
+When swapping profiles, the same save can be used safely. Experiment and find out what profile works best for you!
+:::
  
 ### <p align="center"> ![Optional Mods](https://github.com/user-attachments/assets/ac08818b-a893-4d46-aa3f-77f40e0e3453) </p>
 
@@ -397,6 +401,7 @@ Repeat this process after every Nvidia driver update.
 <details><summary>
 Expand - Optional Mod Descriptions
 </summary>
+
 
 - **Optional Mods - Gameplay:**
 	- **3rd Person Camera Overhaul** - A comprehensive overhaul of the 3rd person camera with shoulder swapping, scope toggling, and smooth camera movement. May be enabled by 3rd person users, though 1st person is **HIGHLY** recommended for balance and animation considerations.
