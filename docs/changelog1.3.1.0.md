@@ -21,7 +21,7 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Removed Passive Combat Music Tweaked.
 
 **Changes:**
-- Adjusted the penalties associated with the Weapon Requirement System to prevent profound sway
+- Adjusted the penalties associated with the Weapon Requirement System to lessen the intensity of sway.
 - Disabled chance for thrown explosives to fail as this has the potential to cause crashes.
 - Increased sleep deprivation rate.
 - Enabled extra raider spawns in The Living Desert.
