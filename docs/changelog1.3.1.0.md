@@ -173,9 +173,6 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Edited prospector saloon ceiling texture to be compatible with NVR.
 - Overhauled Anchorage Rocks and LOD.
 
-**Notes:**
-- 
-
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
 - Altered or outdated lists will not be supported.
