@@ -184,7 +184,7 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - **OLD**: For updates from pre-1.3.0.0 versions, **PRIOR TO UPDATING**, rename `[NoDelete] Tale of Two Wastelands` to `[NoDelete] [DB] Tale of Two Wastelands (TTW)`. If this step is missed, this can be remedied by deleting the newly installed `[NoDelete] [DB] Tale of Two Wastelands (TTW)` mod and completing the renaming process (the old file will now be located at the bottom of the load order), then restoring backup at the top of Mod Organizer 2.
 - **OLD**: For updates from pre-1.3.0.0 versions, **MOD AUTHORS** should move `GECK.exe` from the `Uranium Fever` folder to the `[NoDelete] Stock New Vegas` folder. This step can be ignored by normal users.
 - **OLD**: For updates from pre-1.3.0.0 versions, **SCREEN SHOTTERS** should navigate to `Uranium Fever > [NoDelete] Stock New Vegas` and create a Screenshots folder.
-- 
+  
 - **NEW**: For updates from pre-1.3.1.0 versions, manually download the newest version of [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files&file_id=1000149635), then extract the contents of the archive into the `[NoDelete] Stock New Vegas folder`, selecting `replace` in the following prompts.
 - **NEW**: For updates from pre-1.3.1.0 versions, repeat the [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions/#-installing-new-vegas-reloaded-nvr-) instructions to update the mod to the newest version. 
 
