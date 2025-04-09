@@ -19,6 +19,10 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Removed Benny smokes his entire cigarettes.
 - Removed Vent Lighting Fix.
 - Removed Passive Combat Music Tweaked.
+- Removed Awesome Bullet Sounds.
+- Removed Craft-O-Matic Suite.
+- Removed Craft-O-Matic Suite - Reworked.
+
 
 **Changes:**
 - Adjusted the penalties associated with the Weapon Requirement System to lessen the intensity of sway.
