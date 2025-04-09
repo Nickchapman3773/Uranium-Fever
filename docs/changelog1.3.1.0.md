@@ -65,6 +65,7 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Fixed locker in Abandoned Safehouse being a Vault 21 locker.
 - Fixed addiction encounters mistakenly being turned on.
 - Fixed Hardercore giving perks at normal rate instead of every 3 levels.
+- Fixed Wasteland Stealth Armor camera clipping while sprinting.
 - Flagged the Camp Forlorn Hope Supply Crate so it will be ignored by Famine.
 
 **Additions:**
@@ -75,6 +76,7 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Added More Distinctive Cigarette Butts.
 - Added Bullet Time - Perk Consistency Patch. 
 - Added Hit 'n Darian - JIP Companion Command Animations.
+- Added Havasu Blues Tweaks and Extras.
 - Added Lonesome Road ED-E Dialogue Tweaks - Robot.
 - Added Top Level Cass Dialogue Overhaul.
 - Added Dogmeat Must Survive. 
@@ -121,58 +123,61 @@ sidebar_label: 1.3.1.0 - April 7, 2025
 - Added Parallax Shaders - Objects.
 
 **Mod updates:**
-- Updated Vegas Elysium Perk Pack to version 11.36
-- Updated Smooth Notifications to version 1.3
-- Updated Sweet Weapon Enhancement and Expansion Pack (SWEEP) to version 2.21
-- Updated The Living Desert to version 2.71
-- Updated Immersive Lockpick Overhaul to version 1.1.2
-- Updated TTW Caravan in DC Fixed to version 4
-- Updated Early Decision and Gameplay Enhancement (EDGE) to version 8.15
-- Updated Better Brotherhood to version 2.5.0b 
-- Updated Skinned Mesh Improvement Mod to version 28
-- Updated New Vegas Mesh Improvement Mod (NVMIM) to version 1.12.8hf
-- Updated New Blood to version 2.60
-- Updated Vanilla Placement Fixes to version 1.6 and the TTW version
-- Updated Into The Deep to version 2.0.1
-- Updated Lived-In All-in-One to version 1.6
-- Updated MAPMO - Main and Pause Menus Overhaul to version 6.1
-- Updated High Resolution Bloom NVSE to version 6
-- Updated DC Metropolis - TTW to version 1.02
-- Updated 3D Grenade Indicator to version 2.0
-- Updated Immersive Sleeping Encounters to version 2.0.2
-- Updated Immersive Fast Travel Encounters to version 3.0.6 
-- Updated Decent Rubble Piles - Add-on Patch - NVR Version to version 1.02
-- Updated Special Series - Fire Barrel FX to version1.11
-- Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN) - TTW to version 2.0
-- Updated Detonators (ESPLESS) to version 1.4
-- Updated Skip Tranquility Lane to version 1.1.0
-- Updated Uranium Bullet Casings to version 3.0
-- Updated Stewie Tweaks to version 9.55
-- Updated Improved Vanilla Male Body - IVMB to version 2.3
-- Updated Goodies to version 1.8
-- Updated Better Caravan to version 1.6
-- Updated Point Lookout Reborn to version 1.08
-- Updated Dialogue and Interactions Expansion (DIEO) to version 2.2
-- Updated Shader Loader - NVSE to version 1.32
-- Updated Audio Region Fix - NVSE to version 1.3.2
-- Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN) to version 11.0
-- Updated TTW Fallout 3 LOD to version 1.5
-- Updated Aim Collision Indicator to version 1.3
-- Updated Iron Sights Aligned to version 5.0
-- Updated The Great DC Interior Overhaul to version 1.2.1
+- Updated Vegas Elysium Perk Pack to version 11.36.
+- Updated Smooth Notifications to version 1.3.
+- Updated Sweet Weapon Enhancement and Expansion Pack (SWEEP) to version 2.21.
+- Updated The Living Desert to version 2.71.
+- Updated Immersive Lockpick Overhaul to version 1.1.2.
+- Updated TTW Caravan in DC Fixed to version 4.
+- Updated Early Decision and Gameplay Enhancement (EDGE) to version 8.15.
+- Updated Better Brotherhood to version 2.5.0b.
+- Updated Skinned Mesh Improvement Mod to version 28.
+- Updated New Vegas Mesh Improvement Mod (NVMIM) to version 1.12.8hf.
+- Updated New Blood to version 2.60.
+- Updated Vanilla Placement Fixes to version 1.6 and the TTW version.
+- Updated Into The Deep to version 2.0.1.
+- Updated Lived-In All-in-One to version 1.6.
+- Updated MAPMO - Main and Pause Menus Overhaul to version 6.1.
+- Updated High Resolution Bloom NVSE to version 6.
+- Updated DC Metropolis - TTW to version 1.02.
+- Updated 3D Grenade Indicator to version 2.0.
+- Updated Immersive Sleeping Encounters to version 2.0.2.
+- Updated Immersive Fast Travel Encounters to version 3.0.6.
+- Updated Decent Rubble Piles - Add-on Patch - NVR Version to version 1.02.
+- Updated Special Series - Fire Barrel FX to version1.11.
+- Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN) - TTW to version 2.0.
+- Updated Detonators (ESPLESS) to version 1.4.
+- Updated Skip Tranquility Lane to version 1.1.0.
+- Updated Uranium Bullet Casings to version 3.0.
+- Updated Stewie Tweaks to version 9.55.
+- Updated Improved Vanilla Male Body - IVMB to version 2.3.
+- Updated Better Caravan to version 1.6.
+- Updated Point Lookout Reborn to version 1.08.
+- Updated Dialogue and Interactions Expansion (DIEO) to version 2.2.
+- Updated Shader Loader - NVSE to version 1.32.
+- Updated Audio Region Fix - NVSE to version 1.3.2.
+- Updated TTW Fallout 3 LOD to version 1.5.
+- Updated Aim Collision Indicator to version 1.3.
+- Updated Iron Sights Aligned to version 5.0.
+- Updated The Great DC Interior Overhaul to version 1.2.1.
+- Updated More Mojave Dark Side Edition to version 1.06a.
+- Updated Goodies to version 1.9.
+- Updated DC Metropolis - TTW to version 1.0.2.
+- Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN) to version 11.1.
+
 
 **Uranium Haze and Soft AF Updates:**
 - Uranium Haze:
-- Removed the Bloom Legacy shader, which is no longer necessary and will reduce blurriness across the board.
-- Made substantial changes to tonemapping to reduce blowout of very light or very dark textures and to promote a moodier aesthetic.
+  - Removed the Bloom Legacy shader, which is no longer necessary and will reduce blurriness across the board.
+  - Made substantial changes to tonemapping to reduce blowout of very light or very dark textures and to promote a moodier aesthetic.
 
 - Soft AF:
-- Overhauled Megaton textures for compatibility with PBR.
-- Fixed overbloom of some paper textures.
-- Reincluded a metal door texture commonly seen in Megaton.
-- Slight edits to DC Rock Remesh textures to be more mossy.
-- Edited prospector saloon ceiling texture to be compatible with NVR.
-- Overhauled Anchorage Rocks and LOD.
+  - Overhauled Megaton textures for compatibility with PBR.
+  - Fixed overbloom of some paper textures.
+  - Reincluded a metal door texture commonly seen in Megaton.
+  - Slight edits to DC Rock Remesh textures to be more mossy.
+  - Edited prospector saloon ceiling texture to be compatible with NVR.
+  - Overhauled Anchorage Rocks and LOD.
 
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
