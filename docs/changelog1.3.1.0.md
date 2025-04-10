@@ -42,7 +42,7 @@ sidebar_label: 1.3.1.0 - April 9, 2025
 - Changed Alt Encumberance settings to prevent movement when carrying too much
 
 **Fixes:**
-- Fixed a large number of memory corruption crashes (some were associated with a prior setting in High Resolution Bloom, some were associated with the Random Anim Start / High Priority LOD flag being enabled, some were associated with a script error in audio region fix).
+- Fixed a large number of memory corruption crashes (some were associated with a prior setting in High Resolution Bloom, some were associated with the Random Anim Start / High Priority LOD flag being enabled, some were associated with audio region fix).
 - Fixed the void teleportation bug.
 - Fixed the invisible character creation face bug.
 - Fixed floating map in Meresti Metro.
