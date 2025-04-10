@@ -1,10 +1,10 @@
 ---
-title: 1.3.1.0 - April 7, 2025
+title: 1.3.1.0 - April 9, 2025
 hide_title: true
-sidebar_label: 1.3.1.0 - April 7, 2025
+sidebar_label: 1.3.1.0 - April 9, 2025
 ---
 
-# <p align="center"> 1.3.1.0 - April 7, 2025 </p>
+# <p align="center"> 1.3.1.0 - April 9, 2025 </p>
 
 **Removals:**
 - Removed Into The Deep - Armor Mesh Fix.
