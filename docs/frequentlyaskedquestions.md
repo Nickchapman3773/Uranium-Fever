@@ -371,7 +371,8 @@ Expand - Troubleshooting Steps
     - Reduced weapon jam chance.
 
 - **Sound - Why is the music or sound cutting in and out or crackling?**
-  - Bluetooth sound devices do not work correctly with Fallout: New Vegas. One solution is to play some type of video or music in the background when launching the game, which then can be turned off after loading. Another solution is to download and run the [Soundkeeper 64](https://veg.by/en/projects/soundkeeper/) executable. It plays a constant imperceptible tone to fix any audio lag or connection oddities when using bluetooth headphones.
+  - Bluetooth sound devices do not work correctly with Fallout: New Vegas. One solution is to play some type of video or music in the background when launching the game, which then can be turned off after loading.
+    Another solution is to download and run the [Soundkeeper 64](https://veg.by/en/projects/soundkeeper/) executable. It plays a constant imperceptible tone to fix any audio lag or connection oddities when using bluetooth headphones.
 
 - **Sped-up Game - Why is my game sped-up?**
   - Cap your FPS below 120, this is a byproduct of exceeding the maximum capable FPS.
