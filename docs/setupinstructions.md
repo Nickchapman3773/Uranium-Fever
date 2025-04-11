@@ -220,7 +220,7 @@ Failure to run the 4GB Patch will result in a pink screen or crash when launchin
 :::danger Required Mod
 :::
 
-- Navigate to [New Vegas Reloaded Discord Server](https://discord.com/invite/r8EFG5YGBj).
+- Navigate to [New Vegas Reloaded Discord Server](https://discord.com/invite/BYY7SNfQeJ).
 - Download the most recent release from the `Nightly Builds` channel in the `DEVELOPMENT` category.
 
 	![image](https://github.com/user-attachments/assets/41a44610-eb6a-4f89-a918-8907f30466df)
