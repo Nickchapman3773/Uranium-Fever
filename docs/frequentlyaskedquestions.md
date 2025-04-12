@@ -398,6 +398,9 @@ Expand - Troubleshooting Steps
 - **Traits - I chose a trait that said I could immediately select a new perk, but I was not offered a new perk. Why?**
   - You will be able to choose this perk when you next level up.
 
+- - **Traits - Why can I sometimes select new traits upon leveling up?**
+  - New trait selections occur every 4 levels (levels 5, 9, 13, 17, etc).
+
 - **Tweaks - Can I change settings in Stewie's Tweaks?**
   - Doing so is considered modifying the list and will invalidate support.
 
