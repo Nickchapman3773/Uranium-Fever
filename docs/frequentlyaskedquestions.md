@@ -263,6 +263,9 @@ Expand - Troubleshooting Steps
 - **New Vegas Heap Replacer (NVHR) - Why don't you include NVHR in the Uranium Fever installation?**
   - It is no longer recommended. xNVSE has built in changes to the vanilla heap that are superior to those found in NVHR, but without the massively increased memory usage that results from NVHR.
 
+- **Nexus Upload - A new update to LODGen/Facegen/SOFT AF was posted to the Nexus page. Should I download it?**
+  - No. This was uploaded in preparation for a future update, and may break the game if downloaded in isolation. Mods should only be updated when included as part of Uranium Fever update or when instructed to.
+
 - **NoDelete - What does [NoDelete] mean?**  
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
 
