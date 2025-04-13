@@ -6,7 +6,7 @@ sidebar_label: 1.3.1.1 - April 12, 2025
 
 # <p align="center"> 1.3.1.1 - April 12, 2025 </p>
 
-**Changes:**
+**Removals:**
 - Removed Animated Pipboy Light.
 - Removed Consumables Widget until this can be more thoroughly profiled and stress tested.
 
