@@ -7,7 +7,11 @@ sidebar_label: 1.3.1.1 - April 12, 2025
 # <p align="center"> 1.3.1.1 - April 12, 2025 </p>
 
 **Changes:**
--  Removed kNVSE animations for the Chainsaws, Rippers, and Industrial Hand. The teeth on the Chainsaws and Rippers were not animated and the Industrial Hand animations would break with B42 animations.
+- Removed Animated Pipboy Light.
+- Removed Consumables Widget until this can be more thoroughly profiled and stress tested.
+
+**Changes:**
+- Removed kNVSE animations for the Chainsaws, Rippers, and Industrial Hand. The teeth on the Chainsaws and Rippers were not animated and the Industrial Hand animations would break with B42 animations.
 - Changed the kNVSE animations for the Service Rifle, Assault Carbine, Marksman Carbine, and their uniques to Hitman’s animations.
 - Changed the challenge description of White Line Nightmare ** to reference Pitt Raiders since they count towards the challenge.
 - Added notes outside both Mobile Truck Base locations to answer various user questions.
