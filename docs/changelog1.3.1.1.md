@@ -30,6 +30,7 @@ sidebar_label: 1.3.1.1 - April 12, 2025
 - Fixed Chevy Chase terrain abnormalities.
 - Fixed inappropriate LOD rendering.
 - Fixed duplicated dialogue options.
+- Fixed broken Night Vision (please note the new hotkey is N).
 
 **Additions:**
 - Added Modern Old Mormon Fort.
