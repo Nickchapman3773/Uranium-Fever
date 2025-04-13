@@ -389,6 +389,9 @@ Expand - Troubleshooting Steps
 - **Start - Which Wasteland should I choose to start in?**
   - The original intent of Tale of Two Wastelands was to start in the Capital Wasteland. However, starting in the Mojave will provide a more challenging experience from start to finish as compared to a Capital Wasteland start.
 
+- **Storage - What can be safely deleted/uninstalled after Uranium Fever installation?**
+  - Fallout 3 can be uninstalled from Steam/GOG and the `Uranium Fever > Downloads` folder can be deleted (though much of this will be redownloaded during updates).
+
 - **Tale of Two Wastelands - Is TTW required for Uranium Fever?**  
   - Yes. The modlist cannot be installed or used without TTW.
 
@@ -398,7 +401,7 @@ Expand - Troubleshooting Steps
 - **Traits - I chose a trait that said I could immediately select a new perk, but I was not offered a new perk. Why?**
   - You will be able to choose this perk when you next level up.
 
-- - **Traits - Why can I sometimes select new traits upon leveling up?**
+- **Traits - Why can I sometimes select new traits upon leveling up?**
   - New trait selections occur every 4 levels (levels 5, 9, 13, 17, etc).
 
 - **Tweaks - Can I change settings in Stewie's Tweaks?**
