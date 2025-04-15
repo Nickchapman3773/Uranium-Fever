@@ -348,6 +348,7 @@ Expand - Troubleshooting Steps
     - Reduced addiction chance.
   - **Charisma:**
     - Improved companion damage and defense.
+    - Higher number of recruitable companions.
     - Improved barter prices.
     - Easier dialogue checks.
     - Increased reputation gains and decreased reputation losses.
