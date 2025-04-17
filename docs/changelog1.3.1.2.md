@@ -70,6 +70,7 @@ sidebar_label: 1.3.1.2 - April 16, 2025
   - Fixed a longstanding interior lighting abnormality.
   - Slightly reduced the intensity of the DC exterior flashlight.
   - Disabled snow shader due to associated jank.
+  - Reverted unintentional shadow changes.
 
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
