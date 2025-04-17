@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-  ![image](https://github.com/user-attachments/assets/2b016142-bd97-4981-b5fd-8ed5cac1ea46)
+  ![image](https://github.com/user-attachments/assets/0fbd345d-c0db-4b45-9fe4-b39b175a8cc7)
 
 - **3rd Person Camera Overhaul (Optional):**
   - Optional Mod
