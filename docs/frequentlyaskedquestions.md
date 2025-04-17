@@ -248,6 +248,9 @@ Expand - Troubleshooting Steps
 - **Mod Order/Load Order - I accidentally messed up my mod order/load order. How do I fix it?**  
   - A backup is pre-bundled with Uranium Fever. You can either restore from the backup or re-run the Uranium Fever Wabbajack Installer, which will revert the modlist and load order to default configuration.
 
+- **Mod Organizer 2 - Mod Organizer 2 isn't locking when I launch the game. Why?**
+  - This is intentional in order to avoid long refresh times with BSA archive parsing enabled.
+
 - **Modularity - Can I customize Uranium Fever to my preferences?**  
   - Uranium Fever is not inherently modular. Due to various complicated optimizations, plugin merges, and custom updates, modified lists are unsupported.
 
@@ -366,6 +369,7 @@ Expand - Troubleshooting Steps
     - Faster draw and holster speed.
     - Faster weapon jam recovery speed.
   - **Luck:**
+    - Improved chance for critical hit.
     - Improved chance for crippled limb recovery while sleeping at full health.
     - Reduced odds for item destruction during forced entry.
     - Reduced chance for bypass tool to be destroyed.
