@@ -24,7 +24,6 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 **Fixes:**
 - Fixed missing Dynamic Interaction Prompt ini settings.
 - Fixed missing Item Cards ini settings.
-- Fixed Chemistry Sets being Base Object Swapped.
 - Fixed the broken keybind page.
 - Fixed the performance issues in DC from high poly landscape meshes.
 - Fixed invisible deathclaws in New Vegas.
