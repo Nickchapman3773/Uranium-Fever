@@ -20,16 +20,10 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Removed Recharger Pistols and Rifles from the Enclave equipment pool since they can’t use them.
 - Removed .32 and Police Pistol from the Enclave Recruit and Officer equipment pools.
 - Gave melee Enclave a slight health boost.
-<<<<<<< HEAD
-- Hardercore - Lessen Special Points on Chargen from 5 to 2
-- Hardercore - Lessen number of traits during chargen from 99 to 5
-- Hardercore - Locks and Terminals now have a random chance to be a higher lock level
-- Hardercore - Make DC Humble settings consistent with Benny Humble settings
-=======
 - Hardercore - Lessen Special Points on Chargen from 5 to 2.
 - Hardercore - Lessen number of traits during chargen from 99 to 5.
 - Hardercore - Locks and Terminals now have a random chance to be a higher lock level.
->>>>>>> c41ddab1e768fdaea5e90c17b397f9b5ce512025
+- Hardercore - Make DC Humble settings consistent with Benny Humble settings.
   
 **Fixes:**
 - Fixed missing Dynamic Interaction Prompt ini settings.
