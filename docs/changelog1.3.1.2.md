@@ -20,10 +20,6 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Removed Recharger Pistols and Rifles from the Enclave equipment pool since they can’t use them.
 - Removed .32 and Police Pistol from the Enclave Recruit and Officer equipment pools.
 - Gave melee Enclave a slight health boost.
-- Hardercore - Lessen Special Points on Chargen from 5 to 2.
-- Hardercore - Lessen number of traits during chargen from 99 to 5.
-- Hardercore - Locks and Terminals now have a random chance to be a higher lock level.
-- Hardercore - Make DC Humble settings consistent with Benny Humble settings.
   
 **Fixes:**
 - Fixed missing Dynamic Interaction Prompt ini settings.
@@ -37,9 +33,10 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Changed the color of the body of the Hazard Power Armor to match the helmet.
   
 **Additions:**
-- Added Bullet feed framework .
+- Added Bullet feed framework.
 - Added AWO - Light Machine Gun.
 - Added DC Geology.
+- Added ySI mask icon replacer by Izzy.
 
 **Mod updates:**
 - Updated Modern Night Vision to version 4.1.
@@ -59,12 +56,17 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Updated Bad Touch - Extended to version 1.6.
 
 
-**Uranium Haze and Soft AF Updates:**
+**Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
   - Fixed a longstanding interior lighting abnormality.
   - Slightly reduced the intensity of the DC exterior flashlight.
   - Disabled snow shader due to associated jank.
   - Reverted unintentional shadow changes.
+- Hardercore:
+  - Lessened allocatable Special Points on from 5 to 2 during new character creation.
+  - Lessened selectable traits from 99 to 5 during new character creation.
+  - Locks and Terminals now have a random chance to be a higher lock level.
+  - Adjusted DC Humbles You settings to be consistent with Benny Humble You settings.
 
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
