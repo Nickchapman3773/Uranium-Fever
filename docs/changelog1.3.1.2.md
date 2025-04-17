@@ -23,6 +23,7 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Hardercore - Lessen Special Points on Chargen from 5 to 2
 - Hardercore - Lessen number of traits during chargen from 99 to 5
 - Hardercore - Locks and Terminals now have a random chance to be a higher lock level
+- Hardercore - Make DC Humble settings consistent with Benny Humble settings
   
 **Fixes:**
 - Fixed missing Dynamic Interaction Prompt ini settings.

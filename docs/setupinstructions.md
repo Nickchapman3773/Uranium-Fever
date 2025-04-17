@@ -413,7 +413,7 @@ Expand - Optional Mod Descriptions
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 	- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
 		- One perk is gained every 3 levels
-		- No perks are gained after being humbled (traveling to the Mojave Wasteland) until the player reaches their pre-humbled level.
+		- No perks are gained after being humbled (first time travel between wastelands) until the player reaches their pre-humbled level.
 		- Less skill points are gained per level.
     - Less SPECIAL points to allocate when creating a character
     - Less Traits can be selected when creating a character
