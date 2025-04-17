@@ -28,6 +28,9 @@ sidebar_label: 1.3.1.2 - April 16, 2025
 - Fixed the broken keybind page.
 - Fixed the performance issues in DC from high poly landscape meshes.
 - Fixed invisible deathclaws in New Vegas.
+- Fixed missing collectable Deathclaw eggs in Quarry Junction.
+- Forwarded the TTW script for Atom Bomb Baby so the challenge “I didn't Want to do this” can be completed.
+- Changed the color of the body of the Hazard Power Armor to match the helmet.
   
 **Additions:**
 - Added Bullet feed framework .
