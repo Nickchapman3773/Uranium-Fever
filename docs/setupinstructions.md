@@ -415,6 +415,8 @@ Expand - Optional Mod Descriptions
 		- One perk is gained every 3 levels
 		- No perks are gained after being humbled (traveling to the Mojave Wasteland) until the player reaches their pre-humbled level.
 		- Less skill points are gained per level.
+    - Less SPECIAL points to allocate when creating a character
+    - Less Traits can be selected when creating a character
 		- Harsher loot scarcity settings.
 		- Hardcore need accumulation rate is doubled.
 		- Overencumbrance has a much more dramatic impact on movement speed.
@@ -429,6 +431,7 @@ Expand - Optional Mod Descriptions
 		- Forced entry settings are more likely to break items in containers and door locks have more health.
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- The ammo press can now only be used once.
+    - Locks and Terminals have a random chance to be a higher lock level
 
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
