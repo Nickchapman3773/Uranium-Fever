@@ -478,6 +478,6 @@ This step is only necessary for mod authors.
 	- Move `GECK.exe` from `C:\Modding\Uranium Fever` into `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
 ### <p align="center"> ![Controller Users](https://github.com/user-attachments/assets/bbeed182-b2f9-4bbf-9335-76cd665fb85b) </p>
-:::tip For Contoller Users Only:::
+:::tip For Contoller Users Only
 
 Please follow **ALL** instructions on the **[Controller Instructions](https://uraniumfever.net/docs/controllerinstructions/) page**.
