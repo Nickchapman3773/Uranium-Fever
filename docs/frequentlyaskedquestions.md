@@ -23,7 +23,7 @@ Expand - Troubleshooting Steps
 - Verify the antivirus exclusions are appropriately configured, per [Creating Antivirus Exclusions](https://uraniumfever.net/docs/setupinstructions#-creating-antivirus-exclusions-).
 - Disable or uninstall any 3rd party antivirus.
 - Disable any VPN.
-- Disable any overlay except for Xbox Game Bar. Steam, Overwolf, Afterburner, Discord, Nvidia, etc. 
+- Disable any overlay like Steam, Overwolf, Afterburner, Discord, Nvidia, etc. | Xbox Game Bar does not need disabling.
 - Disable Windows Defender.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
 - Update to the most recent graphics card drivers.
