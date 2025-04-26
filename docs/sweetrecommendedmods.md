@@ -46,8 +46,6 @@ This list, curated by Sweet6Shooter, includes **plugin-based** mods that Sweet c
   - Adds significance to weapon requirements for gameplay depth.
 - [Reload Reloaded](https://www.nexusmods.com/newvegas/mods/62266)  
   - Adjusts stat-based modifiers for reload and draw speed.
-- [Power Attack Tweaks](https://www.nexusmods.com/newvegas/mods/69238)  
-  - Introduces optional AP costs for melee attacks, allowing both regular and special power attacks.
 - [Critical Effect Fixes](https://www.nexusmods.com/newvegas/mods/69200)  
   - Corrects various critical effect applications.
 - [Ammo Script Fixes](https://www.nexusmods.com/newvegas/mods/63997)  
