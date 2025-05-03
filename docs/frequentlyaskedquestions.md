@@ -182,9 +182,10 @@ Expand - Troubleshooting Steps
   - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
 - **FPS - How can I increase FPS in Uranium Fever?**  
+  - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
+  - Reduce the `Detail` quality in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions/#-configuring-game-settings-).
   - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide).  
     Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
-  - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
