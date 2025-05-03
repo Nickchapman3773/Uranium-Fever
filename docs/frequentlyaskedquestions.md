@@ -217,6 +217,7 @@ Expand - Troubleshooting Steps
   - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
   - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
   - **Skill Items** - Add specified skill bonuses while held in the players inventory.
+  - **Welding Torch** - Used to augment armor and weapon repair, alongside flamer fuel, and silver or gold coins.
  
 - **Items - Where is ___ item located? It used to be in this very specific location!**  
   - Please enjoy the thrill of discovery, rather than focusing on what used to be. Any missing items you encounter have been relocated as part of an intentional overhaul. No, we will not tell you the new location.
