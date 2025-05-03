@@ -212,9 +212,11 @@ Expand - Troubleshooting Steps
   - The players level, skills, and karma are reset. Perks are retained. Skills gained from skill books are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
 
 - **Items - What does ___ item do?**
-  - **Bypass Module** Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
+  - **Air Scrubber** - Used to repair gas masks and other items that provide radiation resistance.
+  - **Bypass Module** - Uses a combination of modules and microfusion cells to bypass terminal hacking. The amount of material required depends on the hacking difficulty.
   - **Grinder** - Uses a combination of discs and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
   - **Power Drill** - Uses a combination of drill bits and small energy cells to bypass locks. The amount of material required depends on the lock difficulty.
+  - **Skill Items** - Add specified skill bonuses while held in the players inventory.
  
 - **Items - Where is ___ item located? It used to be in this very specific location!**  
   - Please enjoy the thrill of discovery, rather than focusing on what used to be. Any missing items you encounter have been relocated as part of an intentional overhaul. No, we will not tell you the new location.
