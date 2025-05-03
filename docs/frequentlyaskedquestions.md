@@ -102,19 +102,13 @@ Expand - Troubleshooting Steps
 
 - **Dialogue Skill Indicator - Why was it removed?**
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
-
-- **Death, Reload, and Save Consequences - Can I disable these?**
-  - Yes, disable `Death, Reload, and Save Consequences` and `Quick Start - Wasteland Starting Gear - Uranium Fever Merge Patch` mod in the Mod Organizer 2 `Optional - Gameplay` separator.
-  - However, these mechanics are considered integral to gameplay balance. Reloading after a poor engagement, failed skill check, failed minigame, or companion death invalidates many authentic situations the player might face. The goal of the mod is to impose a cost to do so.
-
+    
 - **DLCs - How do I initiate the various DLCs?**
-  
   - **Capital Wasteland:**
     - **Point Lookout** - Walk past the Citadel towards the rivertboat, at which point a horn will sound.
     - **The Pitt** - Listen to a radio broadcast near the Oasis.
     - **Mothership Zeta** - Listen to the radio broadcast near MDPL-13 Power Station.
     - **Operation Anchorage** - Listen to the radio broadcast near Bailey's Crossroads.
-
   - **Mojave Wasteland:**
     - **Autumn Leaves** - Visit Hypatia.
     - **Into the Deep** - Visit Shamble.
@@ -128,13 +122,11 @@ Expand - Troubleshooting Steps
     - **Lonesome Road** - Visit the Canyon Wreckage.
 
 - **DLCs & Quest Mods - What levels are recommended for the DLCs and quest mods?**
-
   - **Capital Wasteland:**
     - **Point Lookout (with Early Decisions and Gameplay Enhancement)** - 10
     - **The Pitt** - 15
     - **Mothership Zeta (with Hardcore Zeta)** - 25
     - **Operation Anchorage (with Anchorage Gameplay Expansion)** - 25
-
   - **Mojave Wasteland:**
     - **Autumn Leaves** - 1
     - **Into the Deep** - 10
