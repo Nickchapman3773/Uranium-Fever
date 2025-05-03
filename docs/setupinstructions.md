@@ -157,10 +157,10 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 	![Configuring Game Settings](https://github.com/user-attachments/assets/f36d012c-9100-46d4-aea2-e90ea876b4bb)
 
 - Navigate to `Options` and select the `Ultra Preset`.
-	- For weaker machines or performance concerns, select the `Very High` preset, though this reduces visual quality.
-
+  
 :::tip Presets
-Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Uranium Fever.
+- Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Uranium Fever.
+
  	![image](https://github.com/user-attachments/assets/d20f56d9-7e78-48f6-b6a8-ba6b0a02004a)
 :::
  
