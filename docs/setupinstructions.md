@@ -314,7 +314,7 @@ Disabling DXVK Cache Storage prevents memory-related crashes by halting the crea
 
 - Delete any existing DXVK Cache:
   - **Steam Users**:
-    - Navigate to `Steam > steamapps > shadercache > 22380` and delete `DXVK_STATE_CACHE` if it exists.
+    - Navigate to `Steam > steamapps > shadercache > 2490` and delete `DXVK_STATE_CACHE` if it exists.
   - **GOG Users**:
     - Navigate to `Uranium Fever > [NoDelete] Stock New Vegas > FalloutNV.dxvk-cache` and delete `DXVK_STATE_CACHE` if it exists.
 
