@@ -454,26 +454,20 @@ Expand - Optional Mod Descriptions
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
 - If prompted that INIs are read-only, select `Clear the Read Only Flag`.
-- If an unmodded version of the game is launched, re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
+- If launching results in the game launcher opening instead of Uranium Fever opening, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
 
 	![Launch](https://github.com/user-attachments/assets/19f3bba6-965f-4df7-9adc-571ff33b3893)
 
-:::danger Crashing or Freezing During Game Launch
-- Overwolf is incompatible and will cause a launch crash.
-
-For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
-:::
-
-:::danger Unmodded New Vegas
-- If an unmodded version of the game is launched instead of Uranium Fever:
+:::danger Launch Abnormalities
+- Launch Crashes:
+	- Overwolf is incompatible and will cause a launch crash.
+	- For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
+- Unmodded Fallout: New Vegas launches:
 	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
- 	- NEVER click `Play` in the Fallout: New Vegas launcher. If this pops up, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
-:::
-
-- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
-
-:::warning Desktop Shortcuts
-Do **NOT** create desktop shortcuts. This will cause load order abnormalities when updating Uranium Fever.
+ 	- NEVER select `Play` from the game launcher. If this pops up, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+- Desktop shortcuts:
+	- Do **NOT** create a Uranium Fever shortcut, as this can cause load order abnormalities when updating Uranium Fever
 :::
 
 ### <p align="center"> ![Modders - Installing Geck](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc) </p>
