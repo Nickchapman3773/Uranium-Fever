@@ -158,6 +158,12 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 
 - Navigate to `Options` and select the `Ultra Preset`.
 	- For weaker machines or performance concerns, select the `Very High` preset, though this reduces visual quality.
+
+:::tip Presets
+Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Uranium Fever.
+ 	![image](https://github.com/user-attachments/assets/d20f56d9-7e78-48f6-b6a8-ba6b0a02004a)
+:::
+ 
 - Uncheck the `Windowed` option if checked and select your monitor's resolution.
 	- If your monitor's resolution is unavailable, manually set it by opening MO2's INI editor, navigating to the `Falloutprefs.ini` tab, and adjusting `iSize W` and `iSize H` under the `Display` section to match your screen's width and height.
 - Click `OK` and close the launcher.
