@@ -461,7 +461,13 @@ Expand - Optional Mod Descriptions
 :::danger Crashing or Freezing During Game Launch
 - Overwolf is incompatible and will cause a launch crash.
 
-For other sources of crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
+For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
+:::
+
+:::danger Unmodded New Vegas
+- If an unmodded version of the game is launched instead of Uranium Fever:
+	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
+ 	- NEVER click `Play` in the Fallout: New Vegas launcher. If this pops up, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
 :::
 
 - After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
