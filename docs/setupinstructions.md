@@ -466,6 +466,9 @@ Expand - Optional Mod Descriptions
 - Unmodded Fallout: New Vegas launches:
 	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
  	- NEVER select `Play` from the game launcher. If this pops up, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+    
+    ![NoPlay](https://github.com/user-attachments/assets/dd3d35e5-6461-444e-a8aa-dfbe8b87413d)
+
 - Desktop shortcuts:
 	- Do **NOT** create a Uranium Fever shortcut, as this can cause load order abnormalities when updating Uranium Fever
 :::
