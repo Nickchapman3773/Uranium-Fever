@@ -22,5 +22,5 @@ sidebar_label: Support, Feedback, & Updates
 - Prior to posting suggestions, perform a search in the [uf-suggestions](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the suggestion has not been made previously.
 
 :::danger Altering Uranium Fever
-Modified lists ***will not*** be officially supported. However, there are Discord channels dedicated to the modification of Uranium Fever, specifically [uf-modified-chat](https://discord.gg/WswmBGXQZt) and [uf-modified-support](https://discord.gg/WswmBGXQZt), in which community members may discuss and support one another with list modifications.
+Modified lists ***will not*** be officially supported. However, there are Discord channels dedicated to the modification of Uranium Fever, specifically [uf-general-modded](https://discord.gg/WswmBGXQZt) and [uf-support-modded](https://discord.gg/WswmBGXQZt), in which community members may discuss and support one another with list modifications.
 :::
