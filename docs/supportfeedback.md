@@ -15,8 +15,7 @@ sidebar_label: Support, Feedback, & Updates
 
 - For topics not otherwise covered in this documentation and unable to be found by performing a search in Discord, please visit the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA). Some of the channels in the server are not related to Uranium Fever, so please be mindful of this before posting.
 
-  ![Discord Channels](https://github.com/user-attachments/assets/9934a2f0-32e6-4af0-b9a9-a35ff493dd31)
-
+  ![image](https://github.com/user-attachments/assets/a98f62cb-f91b-4629-a6ab-31ef6fe9db8c)
 
 - Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions).
 - Prior to posting bug reports, perform a search in the [uf-bug-reports](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the bug has not already been reported previously.
