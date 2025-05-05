@@ -105,7 +105,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 
 - Begin the installation and accept the `Nexus Mods API request` when prompted.
 - If you are not a Nexus Mods premium user, manually click download on each mod.
-- When complete, Wabbajack will display a green, confirmatory `Installation Complete` notification.
+- When complete, Wabbajack will display `Finished Installing Uranium Fever` at the top.
 - Close Wabbajack. **DO NOT** select the `Create Desktop Shortcut` option.
 
 :::danger Red `INSTALLATION FAILED` Notification
