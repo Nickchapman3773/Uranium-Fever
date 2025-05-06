@@ -201,7 +201,7 @@ Expand - Troubleshooting Steps
 - **HDR - The launcher is configured with HDR on, but my monitor doesn't support HDR. Should I turn it off?**  
   - No, Fallout: New Vegas uses the term HDR to reference the quality of rendering, which is independent of your monitor.
 
-- **Humbled/Traveling to the Mojave - What do I get to keep when I transition from the Capital Wasteland to the Mojave Wasteland (get humbled/Benny'd)?**
+- **Humbled/Traveling to the Mojave/Capital Wasteland - What do I get to keep when I transition from from one Wasteland to the other (get humbled/Benny'd)?**
   - The players level, skills, and karma are reset. Perks are retained. Skills gained from skill books are retained. Caps are stolen and permanently removed. Gear is stolen, though can later be recovered.
 
 - **Items - What does ___ item do?**
@@ -220,6 +220,7 @@ Expand - Troubleshooting Steps
 
 - **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches un-modded Fallout: New Vegas. How do I fix it?**
   - Re-run the Uranium Fever Wabbajack installer, it will fix repair any incorrect filepaths.
+  - Ensure the game is not being launched from the launcher.
 
 - **Leaning - Is there a way to toggle leaning?**
   - Yes. Activate the `Keybinds - F Activates, Q & E Lean` mod in the `Optional - Settings` separator.
@@ -389,7 +390,7 @@ Expand - Troubleshooting Steps
   - Select `memory` when prompted after leaving the Vault 101 cave.
 
 - **Start - Which Wasteland should I choose to start in?**
-  - The original intent of Tale of Two Wastelands was to start in the Capital Wasteland. However, starting in the Mojave will provide a more challenging experience from start to finish as compared to a Capital Wasteland start.
+  - Either! Mechanics are in place to promote balance regardless of starting location.
 
 - **Storage - What can be safely deleted/uninstalled after Uranium Fever installation?**
   - Fallout 3 can be uninstalled from Steam/GOG and the `Uranium Fever > Downloads` folder can be deleted (though much of this will be redownloaded during updates).
