@@ -22,6 +22,11 @@ Controller support is ONLY provided for Steam users due to technical limitations
 - Legal and activated copy of Windows 10 or higher (64-bit).
   - Uranium Fever is compatible with Linux and [specialized instructions](https://uraniumfever.net/docs/setupinstructions#-installing-on-linux-) are included later on. However, a Windows environment remains a **REQUIREMENT** during the Linux installation process.
 - The latest drivers for your GPU.
+
+:::warning NVIDIA Graphics Drivers
+NVIDIA graphics card users should downgrade to [Driver Version 572.83](https://us.download.nvidia.com/Windows/572.83/572.83-notebook-win10-win11-64bit-international-nsd-dch-whql.exe), as the current version is incompatible with DXVK.
+:::
+
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
   - Extract the archive, open the extracted folder, right-click `install_all.bat`, and select `Run as administrator`.
