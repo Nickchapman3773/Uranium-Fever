@@ -61,8 +61,6 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 - Main File - [REAL main File](https://www.nexusmods.com/newvegas/mods/63745?tab=files&file_id=1000043981&nmm=1)
   - **HIDE** the `BlackjackPackULTIMATEv2.esp` plugin.
 - Main File - [Power Armor Visual Enhancement 2K](https://www.nexusmods.com/newvegas/mods/74786?tab=files&file_id=1000096097&nmm=1)
-  - **HIDE** the `PAVE_NV.esp` plugin.
-  - **HIDE** the `PAVE_NV_TTW.esp` plugin.
 - Main File - [Dogtooths EnclaveOfficer](https://www.nexusmods.com/newvegas/mods/70483?tab=files&file_id=1000068030&nmm=1)
   - **HIDE** the `DogToothsEnclaveOfficer.esp` plugin.
 - Main File - [Nightstalker Armour Set](https://www.nexusmods.com/newvegas/mods/66399?tab=files&file_id=1000051772&nmm=1)
