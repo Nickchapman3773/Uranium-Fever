@@ -49,17 +49,17 @@ Expand - Troubleshooting Steps
 
 - **Abbreviations - What do the abbreviations in Mod Organizer 2 mod names mean?**
   - These abbreviations help organize and maintain Uranium Fever:
-    - **ALT**: Altered mod.
-    - **OP**: Optimized mod.
-    - **MG**: Plugin merged into a master patch.
-    - **HID**: Plugin hidden following merge.
-    - **FL**: Plugin flagged as ESM.
-    - **INF**: Mod integrated into the Uranium Fever Wabbajack Installer.
-    - **AEN**: Mod included but defaults to disabled.
-    - **CDN**: Mod hosted on the Wabbajack server.
-    - **BOS**: Mod utilized base object swapper.
-    - **SOFT AF**: These mods were created by OrgasmicSneeze, specifically for Uranium Fever.
-    - **SQ, LQ, VLQ, DB**: Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
+    - **ALT** - Altered mod.
+    - **OP** - Optimized mod.
+    - **MG** - Plugin merged into a master patch.
+    - **HID** - Plugin hidden following merge.
+    - **FL** - Plugin flagged as ESM.
+    - **INF** - Mod integrated into the Uranium Fever Wabbajack Installer.
+    - **AEN** - Mod included but defaults to disabled.
+    - **CDN** - Mod hosted on the Wabbajack server.
+    - **BOS** - Mod utilized base object swapper.
+    - **SOFT AF** - These mods were created by OrgasmicSneeze, specifically for Uranium Fever.
+    - **SQ, LQ, VLQ, DB** - Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
 
 - **Addiction - How does addiction work in Uranium Fever?**
   - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
@@ -67,6 +67,13 @@ Expand - Troubleshooting Steps
 
 - **Adding Mods - How do I add ___ mod?**
   - The Uranium Fever support team will not provide any advice or instructions on how to add mods to Uranium Fever. You may do so at your own risk, though you void any support by doing so.
+
+- **Ammo Types - There are several different types of ammo included in each caliber. What do they each do?**
+  - **AP** - Expensive and uncommon. Reduces weapon damage, but significantly reduces enemy DT (Damage Threshold). Very effective against large, powerful, armored enemies.
+  - **HP** - Expensive and uncommon. Increases weapon damage, but multiplies enemy DT (Damage Treshold). Very effective soft, weak, unarmored enemies.
+  - **Regular** - Cheap and common. Ineffective against armored enemies.
+  - **Junk** - Cheap and common. Causes weapons to degrade in condition quicker and deals less damage.
+  - **Other** - Other unnoted types of ammo (SWC, JSP, etc) are special ammo types that typically trump standard ammo types in a variety of ways.
 
 - **Application Load Error P:0000065432 - How do I fix this error?**
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
