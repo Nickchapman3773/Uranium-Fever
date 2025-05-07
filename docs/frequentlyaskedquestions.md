@@ -72,8 +72,8 @@ Expand - Troubleshooting Steps
   - **AP** - Expensive and uncommon. Reduces weapon damage, but significantly reduces enemy DT (Damage Threshold). Very effective against large, powerful, armored enemies.
   - **HP** - Expensive and uncommon. Increases weapon damage, but multiplies enemy DT (Damage Treshold). Very effective soft, weak, unarmored enemies.
   - **Regular** - Cheap and common. Ineffective against armored enemies.
-  - **Junk** - Cheap and common. Causes weapons to degrade in condition quicker and deals less damage.
-  - **Other** - Other unnoted types of ammo (SWC, JSP, etc) are special ammo types that typically trump standard ammo types in a variety of ways.
+  - **Junk/Surplus** - Cheap and common. Causes weapons to degrade in condition quicker and deals less damage.
+  - **Other** - Other unnoted types of ammo (SWC, JSP, Match, etc) are special ammo types that typically trump standard ammo types in some fashion.
 
 - **Application Load Error P:0000065432 - How do I fix this error?**
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
