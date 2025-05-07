@@ -32,7 +32,7 @@ Expand - Troubleshooting Steps
 - Restart your computer.
 - Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizedr2.v
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
-- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-).
+- Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/setupinstructions/#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Uranium Fever > Mods` folder.
 - Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/setupinstructions#-running-4gb-patcher-) step.
 - Repeat the [New Vegas Reloaded (NVR) installation process](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-).
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
