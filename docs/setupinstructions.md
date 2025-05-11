@@ -192,8 +192,10 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
-:::warning CRITICAL - Confirm the File Path
+:::danger CRITICAL - Confirm the File Path
 Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
+
+![TTW Install](https://github.com/user-attachments/assets/73a5732c-d2a1-449b-8b3f-f2eb61cc22ad)
 :::
 
 - Click `Install`.
