@@ -79,6 +79,9 @@ Expand - Troubleshooting Steps
   - Follow the Steam PCR Users instructions in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-).
 - **Application Load Error P:0000065434 - How do I fix this error?**
   - Ensure Steam is running and repeat the [Generating Fresh INI Files](https://uraniumfever.net/docs/setupinstructions#-generating-fresh-ini-files-) and [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+
+- **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
+  - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-) appropriately.
  
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
