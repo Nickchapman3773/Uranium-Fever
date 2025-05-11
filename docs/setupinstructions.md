@@ -465,7 +465,7 @@ Expand - Optional Mod Descriptions
 	- For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
 - Unmodded Fallout: New Vegas launches:
 	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
- 	- NEVER select `Play` from the game launcher. If this pops up, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+ 	- DO NOT select `Play` from the game launcher. If this menu opens, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
     
     ![NoPlay](https://github.com/user-attachments/assets/dd3d35e5-6461-444e-a8aa-dfbe8b87413d)
 
