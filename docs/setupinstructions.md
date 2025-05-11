@@ -193,15 +193,12 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
 :::danger CRITICAL - Confirm the File Path
-Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
+- Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
 
-![TTW Install](https://github.com/user-attachments/assets/73a5732c-d2a1-449b-8b3f-f2eb61cc22ad)
+	![TTW Install](https://github.com/user-attachments/assets/73a5732c-d2a1-449b-8b3f-f2eb61cc22ad)
 :::
 
 - Click `Install`.
-
-	![TTW Install](https://github.com/user-attachments/assets/543efca6-bf31-46b1-a80f-79329900d7bf)
-
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
