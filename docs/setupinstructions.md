@@ -190,10 +190,10 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
 - Verify that the `Fallout 3` file path matches your Steam/GOG Fallout 3 installation path (this should already be auto-populated).
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
-- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\mods\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
-:::warning Confirm the File Path
-Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `mods` folder will prevent the game from launching.
+:::warning CRITICAL - Confirm the File Path
+Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
 :::
 
 - Click `Install`.
