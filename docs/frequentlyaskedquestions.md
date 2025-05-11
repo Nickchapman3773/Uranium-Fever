@@ -187,7 +187,7 @@ Expand - Troubleshooting Steps
 - **FPS - How can I increase FPS in Uranium Fever?**  
   - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
   - Reduce the `Detail` quality in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions/#-configuring-game-settings-).
-  - If using a 4k monitor, try reducing resolution to 2k in the launcher and in `[#] [INF] [DB] - OneTweak - Custom INI`.
+  - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions/#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
   - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/losslessscalingguide).  
     Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
 
