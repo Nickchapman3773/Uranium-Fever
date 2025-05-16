@@ -37,7 +37,7 @@ Expand - Troubleshooting Steps
 - Repeat the [New Vegas Reloaded (NVR) installation process](https://uraniumfever.net/docs/setupinstructions#-installing-new-vegas-reloaded-nvr-).
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
-- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-unmodded](https://discord.gg/WswmBGXQZt) Discord channel.
+- For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-unmodified-list](https://discord.gg/WswmBGXQZt) Discord channel.
 </details>
 :::
 
@@ -232,7 +232,7 @@ Expand - Troubleshooting Steps
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches un-modded Fallout: New Vegas. How do I fix it?**
+- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches unmodded Fallout: New Vegas. How do I fix it?**
   - Re-run the Uranium Fever Wabbajack installer, it will fix repair any incorrect filepaths.
   - Ensure the game is not being launched from the launcher.
 
@@ -270,7 +270,7 @@ Expand - Troubleshooting Steps
   - Doing so is considered modifying the list and will invalidate support.
 
 - **Modifying Uranium Fever - Can I modify the mods?**
-  - Modifying the list voids official support. Use the [uf-support-modded](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
+  - Modifying the list voids official support. Use the [uf-support-modified-list](https://discord.gg/WswmBGXQZt) Discord channel for community assistance.
 
 - **Mods - Why are there so many empty mods or mods that are completely overwritten in Uranium Fever?**
   - They have been merged or optimized in some fashion, though they are still included in an empty state to ensure the author receives appropriate downloads, donation points, and recognition for their creation.
