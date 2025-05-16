@@ -15,12 +15,12 @@ sidebar_label: Support, Feedback, & Updates
 
 - For topics not otherwise covered in this documentation and unable to be found by performing a search in Discord, please visit the **APPROPRIATE** **Uranium Fever channels** in [Sweets Retreat](https://discord.gg/Uu6gZZSaeA). Some of the channels in the server are not related to Uranium Fever, so please be mindful of this before posting.
 
-  ![image](https://github.com/user-attachments/assets/a98f62cb-f91b-4629-a6ab-31ef6fe9db8c)
+  ![image](https://github.com/user-attachments/assets/bcb70754-f74e-4dc2-8d84-f785f0b77f96)
 
 - Prior to asking questions, perform a search in the in the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions).
 - Prior to posting bug reports, perform a search in the [uf-bug-reports](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the bug has not already been reported previously.
 - Prior to posting suggestions, perform a search in the [uf-suggestions](https://discord.gg/Uu6gZZSaeA) Discord channel to ensure the suggestion has not been made previously.
 
 :::danger Altering Uranium Fever
-Modified lists ***will not*** be officially supported. However, there are Discord channels dedicated to the modification of Uranium Fever, specifically [uf-general-modded](https://discord.gg/WswmBGXQZt) and [uf-support-modded](https://discord.gg/WswmBGXQZt), in which community members may discuss and support one another with list modifications.
+Modified lists ***will not*** be officially supported. However, there are Discord channels dedicated to the modification of Uranium Fever, specifically [uf-general-modified-list](https://discord.gg/WswmBGXQZt) and [uf-support-modified-list](https://discord.gg/WswmBGXQZt), in which community members may discuss and support one another with list modifications.
 :::
