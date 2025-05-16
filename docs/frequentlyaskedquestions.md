@@ -153,6 +153,9 @@ Expand - Troubleshooting Steps
 - **Disabling Mods - Can I disable ___ mod?**
   - The only mods you can safely enable or disable are those in the `Optional` separators.
 
+- **Disguise - What happened to the disguise system?**
+  - It is been removed due to unresolvable bugs in the base implementation.
+
 - **DMP Files - Mod Organizer 2 crashes on launch and opens 3 DMP files. Why?**  
   - This is a result of outdated Runtimes. Instructions for updating are included in [Requirements](https://uraniumfever.net/docs/requirements).
 
