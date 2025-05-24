@@ -248,40 +248,13 @@ When instructed to update the mod, simply repeat these steps.
 Expand - Linux Installation Instructions
 </summary>
 
-Linux inherently requires above average operating system knowledge and troubleshooting capability. As such, these instructions are less specific. Support **WILL NOT** be provided for the Linux installation process.
+Linux inherently requires above average operating system knowledge and troubleshooting capability. As such, support **WILL NOT** be provided for the Linux installation process.
 
 - **Requirements**:
-  - Windows - Access to Windows via a separate installation or a virtual machine.
-  - Lutris, Libstrangle, Steam, and SteamTinkerLaunch.
+  - Pending revision, sorry!
 
 - **Instructions**:
-  - Follow all of the above installation instructions **ON WINDOWS**.
-  - Copy the `C:\Modding\Uranium Fever` folder to a temporary location on Linux.
-  - Open Lutris, click the `plus arrow`, then search for and install Fallout: New Vegas.
-    - Take note of the installation location.
-    - Test Fallout: New Vegas to ensure it functions prior to proceeding.
-  - Install MO2 via `SteamTinkerLaunch`.
-  - Locate the SteamTinkerLaunch installation of MO2 and copy its `wine prefix folder` over to Lutris **WITHOUT** overwriting any files.
-  - In Lutris, right click `Fallout New Vegas`, `duplicate its folder`, and name it `Uranium Fever`.
-  - Open the `Uranium Fever installation winetricks`, click on `install a dll/component`, and `add lavfilters` and `vcrun2022`. Then, `enable fontsmooth-rgb` in winetricks' settings.
-  - Move your Uranium Fever folder into the `Fallout New Vegas wine prefix folder`, preferably next to the `Fallout New Vegas` folder.
-  - Right click the `Uranium Fever` profile and:
-    - In the `Runner Options` tab, change the runner to `wine-ge`.
-    - In the `Game Options` tab, `change the executable path` to the `modorganizer.exe` in the `Uranium Fever` folder.
-    - In the `System Options` tab, navigate to `environment tables` and `delete all entries`, instead adding `DXVK_STATE_CACHE disable`. **IF** using an AMD GPU with RADV drivers, also add `RADV_DEBUG noatocdithering`.
-  - In command prefix, type `strangle 60`.
-  - Launch Uranium Fever through Lutris to open MO2.
-  - In MO2:
-    - In the MO2 settings, navigate to `Paths`, then `Managed Games`. Ensure this path reflects the `Stock New Vegas` folder.
-    - Change the `Executable Path` for `Uranium Fever Launcher` and `Uranium Fever` to reflect the corresponding executables in the Stock New Vegas folder.
-    - Open `falloutcustom.ini` and `add iPresentInterval=0 under [Display]`.
-  - Repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) section of the Windows installation instructions.
-  - The game should now launch appropriately. Prior to starting a new game, open settings, then `Tweaks`, and `disable No Pip-Boy on Alt Tab`.
-
-**Caveats**:
-- MO2's `Nexus Handler` does not work. As Uranium Fever is updated, corresponding updates will need to be installed manually.
-- Double clicking on a mod in MO2 causes MO2 to freeze. Because of this, mods must be edited manually from explorer.
-- If problems are encountered, launch Lutris with debug output via the terminal by typing in `lutris -d`.
+  - Pending revision, sorry!
 </details>
 
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
