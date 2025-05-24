@@ -349,7 +349,7 @@ Enabling Flip Model (DXVK with DXGI) reduces latency and supports HDR and VRR.
 
 - In `Uranium Fever > xNVIDIA Utilities`, select `[#] [INF] - FNV-NvidiaProfile.nip`, then click `Open`.
 
-  ![Selecting Premade Nvidia Profile](https://github.com/user-attachments/assets/ad14fe39-3b9a-452e-8b99-e5ad65ccc3a8)
+  ![NVIDIA Profile Select](https://github.com/user-attachments/assets/9b638df0-8506-4ee1-9ae2-db72be80f99d)
 
 - Click `OK` on the `Profile Successfully Imported!` prompt.
 
