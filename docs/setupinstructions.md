@@ -342,13 +342,12 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 Enabling Flip Model (DXVK with DXGI) reduces latency and supports HDR and VRR.
 :::
 
-- Download the premade [Fallout: New Vegas Nvidia Driver Profile](https://performance.moddinglinked.com/files/FO-NvidiaProfile.nip).
-- Download [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.8/nvidiaProfileInspector.zip) and extract the contents.
-- Run `Nvidia Profile Inspector`, click `Import user defined profiles`, then select `Import Profiles`.
+- Navigate to `Uranium Fever > xNVIDIA Utilities`.
+- Run `nvidiaProfileInspector.exe`, click `Import user defined profiles`, then select `Import Profiles`.
 
   ![Import Nvidia Profile](https://github.com/user-attachments/assets/976cfd96-b6ff-4c95-ac87-2b888c2dbaa2)
 
-- Select `FNV-NvidiaProfile.nip` and click `Open`.
+- In `Uranium Fever > xNVIDIA Utilities`, select `[#] [INF] - FNV-NvidiaProfile.nip`, then click `Open`.
 
   ![Selecting Premade Nvidia Profile](https://github.com/user-attachments/assets/ad14fe39-3b9a-452e-8b99-e5ad65ccc3a8)
 
