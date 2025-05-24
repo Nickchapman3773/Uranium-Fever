@@ -325,9 +325,9 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 :::
 
 - Navigate to `Uranium Fever > xRivaTuner Statistics Server > RivaTuner Statistics Server` and run `RTSS.exe`.
-- The RTSS logo will now be visible in the systems tray and will auto-launch when starting Windows. If this is not visible in the systems tray, repeat the above step.
+- The RTSS logo will now be visible in the system tray and will auto-launch when starting Windows. If this is not visible in the systems tray, repeat the above step.
 
-  ![image](https://github.com/user-attachments/assets/ac1b374d-1d47-476c-a331-29d40e0e55a3)
+  ![RTSS Tray](https://github.com/user-attachments/assets/219b7842-12c1-4eb6-9fae-7badeaea22d3)
 
 :::danger Exceeding a Framerate Limit of 59.95
 - Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
@@ -336,8 +336,6 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 
 	![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
 :::
-
-  ![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
 ### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
 :::tip Why?
