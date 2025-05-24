@@ -324,28 +324,18 @@ Disabling DXVK Cache Storage prevents memory-related crashes by halting the crea
 FPS limiters make the game smoother by reducing rapid FPS fluctuations and preventing timescale desync bugs.
 :::
 
-- Download and install [RTSS](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download).
-- Open the `System Tray` and click the `RTSS icon`.
+- Navigate to `Uranium Fever > xRivaTuner Statistics Server > RivaTuner Statistics Server` and run `RTSS.exe`.
+- The RTSS logo will now be visible in the systems tray and will auto-launch when starting Windows. If this is not visible in the systems tray, repeat the above step.
 
-  ![RTSS Icon](https://github.com/user-attachments/assets/f6542135-e257-4053-b6c7-b7c171024a7c)
-
-- Press the green `Add` button and select `FalloutNV.exe` from `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`. Click `OK`.
-
-  ![RTSS FNV](https://github.com/user-attachments/assets/306eecdd-482b-4011-a81b-51f0a95a8b3c)
-
-- Select `FalloutNV.exe`.
-- Set `Application Detection Level` to `Low`.
-- Set `Framerate Limit` to `59.95`.
-
-  ![RTSS Frame](https://github.com/user-attachments/assets/ab24c6ef-f166-4518-b2da-802d89d91c0a)
+  ![image](https://github.com/user-attachments/assets/ac1b374d-1d47-476c-a331-29d40e0e55a3)
 
 :::danger Exceeding a Framerate Limit of 59.95
-Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
-:::
+- Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
+- RTSS is autoconfigured in Uranium Fever, though those who wish to increase this can do so by selecting `FalloutNV.exe` and adjusting the `Framerate limit`.
+	- The absolute maximum value is 119.95, and it is highly likely that increasing to this value will increase in-game stutter.
 
-- Open the settings using the `Setup` button.
-- Enable `Passive Waiting` and set `Framerate Limiter` to `Front Edge Sync`.
-- Click `OK`, then **MINIMIZE** (not close) RTSS back to the System Tray.
+	![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
+:::
 
   ![RTSS Setup](https://github.com/user-attachments/assets/5b269e84-f837-4014-abd4-31c3a6389fa1)
 
