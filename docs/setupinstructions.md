@@ -334,7 +334,7 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 - RTSS is autoconfigured in Uranium Fever, though those who wish to increase this can do so by selecting `FalloutNV.exe` and adjusting the `Framerate limit`.
 	- The absolute maximum value is 119.95, and it is highly likely that increasing to this value will increase in-game stutter.
 
-	![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
+![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
 :::
 
 ### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
