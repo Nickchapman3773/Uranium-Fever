@@ -151,6 +151,57 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `Classic Leather Armor Replacer.esp` plugin.
 - Main File - [Classic Lightweight Leather Armor Replacer](https://www.nexusmods.com/newvegas/mods/69594?tab=files&file_id=1000097176&nmm=1)
   - **HIDE** the `Classic Lightweight Leather Armor Replacer.esp` plugin.
+- Main File - [Strangers and Freaks Outfit Pack](https://www.nexusmods.com/newvegas/mods/71522?tab=files&file_id=1000073091&nmm=1)
+  - **HIDE** the `StrangersAndFreakersPack.esp` plugin.
+- Main File - [Tailor Maid - NV](https://www.nexusmods.com/newvegas/mods/36660?tab=files&file_id=76090&nmm=1)
+  - **HIDE** the `Tailor Maid - NV.esp` plugin.
+- Main File - [Suave Adventurer's Outfit - Indiana Jones Style](https://www.nexusmods.com/newvegas/mods/83103?tab=files&file_id=1000119928&nmm=1)
+  - **HIDE** the `AC_SuaveAdventurersOutfit.esp` plugin.
+- Main File - [Gala Tuxedo Outfit](https://www.nexusmods.com/newvegas/mods/82081?tab=files&file_id=1000112877&nmm=1)
+  - **HIDE** the `Gala Tuxedo Outfit.esp` plugin.
+- Main File - [Puddlepond's Prison Posse - A Powder Ganger Overhaul](https://www.nexusmods.com/newvegas/mods/85210?tab=files&file_id=1000125188&nmm=1)
+  - **HIDE** the `PowderGangerPrisonPosse.esp` plugin.
+- Main File - [Mojave Manhunter Courier Duster](https://www.nexusmods.com/newvegas/mods/85377?tab=files&file_id=1000125266&nmm=1)
+  - **HIDE** the `Manhunter Duster.esp` plugin.
+- Main File - [Courier Head Bandage](https://www.nexusmods.com/newvegas/mods/80476?tab=files&file_id=1000106610&nmm=1)
+  - **HIDE** the `QwibHeadBandage.esp` plugin.
+- Main File - [CROSS - Chosen of Atom (Mojave Edition)](https://www.nexusmods.com/newvegas/mods/85634?tab=files&file_id=1000127022&nmm=1)
+  - **HIDE** the `CROSS_COA.esp` plugin.
+- Main File - [Classic Brotherhood Combat Armor](https://www.nexusmods.com/newvegas/mods/84261?tab=files&file_id=1000121609&nmm=1)
+  - **HIDE** the `zMCArmorCombatBOS_JS.esp` plugin.
+- Main File - [TTW - Environment Suit Replacer](https://www.nexusmods.com/newvegas/mods/85241?tab=files&file_id=1000124680&nmm=1)
+  - **HIDE** the `EnvironmentSuitReplacer.esp` plugin.
+- Main File - [Motorized Power Armor MK-I](https://www.nexusmods.com/newvegas/mods/88402?tab=files&file_id=1000136850&nmm=1)
+  - **HIDE** the `Motorized Power Armor MK-I Standalone version.esp` plugin.
+- Main File - [4th of July Power Armors](https://www.nexusmods.com/newvegas/mods/88083?tab=files&file_id=1000135605&nmm=1)
+  - **HIDE** the `4th of July Power Armors.esp` plugin.
+- Main File - [Fiend Helmet](https://www.nexusmods.com/newvegas/mods/89644?tab=files&file_id=1000142072&nmm=1)
+  - **HIDE** the `fiendmasks.esp` plugin.
+- Main File - [AOTD - Army of the Dead Mini Pack](https://www.nexusmods.com/newvegas/mods/89657?tab=files&file_id=1000142103&nmm=1)
+  - **HIDE** the `AOTD.esp` plugin.
+- Main File - [Sea Captain Hat - FO4 Recreation TTW](https://www.nexusmods.com/newvegas/mods/91531?tab=files&file_id=1000148848&nmm=1)
+  - **HIDE** the `SeaCaptainHat.esp` plugin.
+    - Extract the Bethesda Archive Extractor.
+    - Navigate to the Sea Captain Hat mod in MO2, right-click it, and click open in explorer.
+    - Right-click the `SeaCaptainHat.bsa` file, click open with, choose another app, select an app on your PC, navigate to the location where you extracted the Bethesda Archive Extractor folder, select `bae.exe`, then open with `bae.exe`.
+    - Click the extract button, then ignore the select folder path prompt briefly. **DO NOT** select a random folder. This step will be completed shortly.
+    - Navigate back to your Sea Captain Hat mod folder, click the folder path at the top, and copy the path.
+      - Example: `C:\Games\Mod.Organizer-2.4.5alpha3\mods\Sea Captain Hat`.
+    - Navigate back to the select folder path prompt in Bethesda Archive Extractor and paste the Spice of Life path into the prompt, then click select prompt.
+    - If done correctly, you will see a brief 1-2 second extraction process run.
+    - You can confirm the extraction process was completed by checking your Sea Captain Hat mod folder, where there should now be `Meshes` and `Textures` folders.
+- Main File - [Veronica Outfit Replacer](https://www.nexusmods.com/newvegas/mods/91605?tab=files&file_id=1000149180&nmm=1)
+  - **HIDE** the `Veronica Outfit Replacer.esp` plugin.
+- Main File - [Courier's 3](https://www.nexusmods.com/newvegas/mods/90759?tab=files&file_id=1000146100&nmm=1)
+  - **HIDE** the `Courier's 3.esp` plugin.
+- Main File - [Caesar's Legion - Helmet of the 87th Tribe](https://www.nexusmods.com/newvegas/mods/90172?tab=files&file_id=1000145320&nmm=1)
+  - **HIDE** the `Caesar's Legion - Helmet of the 87th Tribe.esp` plugin.
+- Main File - [Fear and Loathing - Raoul Shades](https://www.nexusmods.com/newvegas/mods/88861?tab=files&file_id=1000139438&nmm=1)
+  - **HIDE** the `Raoul_Shades.esp` plugin.
+- Main File - [Fear and Loathing Hawaiian Shirt and Panama Hat](https://www.nexusmods.com/newvegas/mods/87723?tab=files&file_id=1000134220&nmm=1)
+  - **HIDE** the `FnL.esp` plugin.
+- Main File - [Zion National Park Ranger Outfit](https://www.nexusmods.com/newvegas/mods/88624?tab=files&file_id=1000140110&nmm=1)
+  - **HIDE** the `ZionParkRanger.esp` plugin.
 - Main File - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
 - Assets - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files).
 - Main File - [STARS TTW and ySI Patch](https://www.nexusmods.com/newvegas/mods/76509)
@@ -163,7 +214,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
     - [ ] Brotherhood of Steel and Enclave Classic Combat Armors
     - [x] Classic Combat Armor Replacer Redux
     - [x] Classic Replacers for TTW
-    - [ ] Classic Brotherhood Combat Armor
+    - [x] Classic Brotherhood Combat Armor
 - Main File - [PipBoyOn Node Fixes TTW](https://www.nexusmods.com/newvegas/mods/81775)
 - Optional File - [PipBoyOn Node Fixes PAVE](https://www.nexusmods.com/newvegas/mods/81775)
 - Optional File - [BHYSYS Starting Gear Patch](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
