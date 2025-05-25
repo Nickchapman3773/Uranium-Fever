@@ -202,6 +202,10 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `FnL.esp` plugin.
 - Main File - [Zion National Park Ranger Outfit](https://www.nexusmods.com/newvegas/mods/88624?tab=files&file_id=1000140110&nmm=1)
   - **HIDE** the `ZionParkRanger.esp` plugin.
+- Main File - [KORs Knight Hunter](https://www.nexusmods.com/newvegas/mods/44422?tab=files&file_id=99597&nmm=1)
+  - **HIDE** the `KORs Knight Hunter.esp` plugin.
+- Main File - [BEWARE OF GIRL Man Trap Armor EX New Vegas RELAUNCH](https://www.nexusmods.com/newvegas/mods/44557?tab=files&file_id=100375&nmm=1)
+  - **HIDE** the `ManTrap.esp` plugin.
 - Main File - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
 - Assets - [STARS TTW](https://www.nexusmods.com/newvegas/mods/76016?tab=files).
 - Main File - [STARS TTW and ySI Patch](https://www.nexusmods.com/newvegas/mods/76509)
