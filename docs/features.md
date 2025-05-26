@@ -8,7 +8,7 @@ sidebar_label: Features
 # ![Banner Features](https://github.com/user-attachments/assets/7372d422-b00e-4d2f-8fe0-0f7b40179203)
 
 - A robust array of utilities, frameworks, fixes, and quality-of-life improvements.
-- Meticulously crafted settings tailored for each mod.
+- Meticulously crafted settings for each mod.
 - Comprehensive modernizations of the UI, HUD, and Pip-Boy.
 - Many new functionalities seamlessly integrated into gameplay, with clear notations of these features and their hotkeys.
 - Immersive, large-scale overhauls and expansions of most locations.
