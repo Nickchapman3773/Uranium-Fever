@@ -171,6 +171,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `EnvironmentSuitReplacer.esp` plugin.
 - Main File - [Motorized Power Armor MK-I](https://www.nexusmods.com/newvegas/mods/88402?tab=files&file_id=1000136850&nmm=1)
   - **HIDE** the `Motorized Power Armor MK-I Standalone version.esp` plugin.
+  - **HIDE** the `Motorized Power Armor MK-I.esp` plugin.
 - Main File - [4th of July Power Armors](https://www.nexusmods.com/newvegas/mods/88083?tab=files&file_id=1000135605&nmm=1)
   - **HIDE** the `4th of July Power Armors.esp` plugin.
 - Main File - [Fiend Helmet](https://www.nexusmods.com/newvegas/mods/89644?tab=files&file_id=1000142072&nmm=1)
