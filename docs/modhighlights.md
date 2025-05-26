@@ -37,7 +37,7 @@ sidebar_label: Mod Highlights
 - [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
 - [Forced Entry](https://www.nexusmods.com/newvegas/mods/83712) - Allows lock-breaking by attacking locks.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583) - Enables water bottle refills from any source.
-- [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
+- [Modern Night Vision](https://www.nexusmods.com/newvegas/mods/84991) - Adds night and thermal vision to select gear.
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
