@@ -8,7 +8,7 @@ sidebar_label: Intro
 # ![Banner UF Title](https://github.com/user-attachments/assets/ee1f561e-1daf-45c8-b9a9-de889daf50f2)
 
 
-**Uranium Fever** (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1300 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands. Designed for a hardcore gameplay experience, UF draws significant inspiration from acclaimed survival-horror titles like STALKER and Resident Evil. While remaining current with emerging content, every addition is carefully evaluated, customized, and seamlessly integrated with an emphasis on stability, performance, and balance. We consider UF to be the most visually impressive, innovative, comprehensive, well-balanced, and cohesive Tale of Two Wastelands experience available. Enjoy!
+**Uranium Fever** (UF) is a complete overhaul of Fallout: New Vegas and Fallout 3, with over 1400 mods focused on modernizing, expanding, rebalancing, and enhancing all aspects of both Wastelands. Designed for a hardcore gameplay experience, UF draws significant inspiration from acclaimed survival-horror titles like STALKER and Resident Evil. While remaining current with emerging content, every addition is carefully evaluated, customized, and seamlessly integrated with an emphasis on stability, performance, and balance. We consider UF to be the most visually impressive, innovative, comprehensive, well-balanced, and cohesive Tale of Two Wastelands experience available. Enjoy!
 
 :::important What sets Uranium Fever apart?
 - UF is created and maintained by capable and well-known mod authors, which is reflected in trouble shooting, bug fixes, and UF-exclusive additions.
