@@ -160,9 +160,7 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
 - Main File - [Gala Tuxedo Outfit](https://www.nexusmods.com/newvegas/mods/82081?tab=files&file_id=1000112877&nmm=1)
   - **HIDE** the `Gala Tuxedo Outfit.esp` plugin.
 - Main File - [Puddlepond's Prison Posse - A Powder Ganger Overhaul](https://www.nexusmods.com/newvegas/mods/85210?tab=files&file_id=1000125188&nmm=1)
-  - **HIDE** the `PowderGangerPrisonPosse.esp` plugin.
 - Main File - [Mojave Manhunter Courier Duster](https://www.nexusmods.com/newvegas/mods/85377?tab=files&file_id=1000125266&nmm=1)
-  - **HIDE** the `Manhunter Duster.esp` plugin.
 - Main File - [Courier Head Bandage](https://www.nexusmods.com/newvegas/mods/80476?tab=files&file_id=1000106610&nmm=1)
   - **HIDE** the `QwibHeadBandage.esp` plugin.
 - Main File - [CROSS - Chosen of Atom (Mojave Edition)](https://www.nexusmods.com/newvegas/mods/85634?tab=files&file_id=1000127022&nmm=1)
