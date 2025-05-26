@@ -12,7 +12,7 @@ sidebar_label: Intro
 
 :::important What sets Uranium Fever apart?
 - UF is created and maintained by capable and well-known mod authors, which is reflected in trouble shooting, bug fixes, and UF-exclusive additions.
-- UF is a community-driven project, enriched by contributions from some of the community’s most talented and knowledgeable mod authors, whose expertise and insights have been invaluable.
+- UF is a community-driven project, enriched by contributions from some of the community’s most talented and knowledgeable figures, whose expertise and insights have been invaluable.
 - UF has access to cutting-edge mods, often available even prior to their official release. In fact, many unique mods are even created exclusively for UF.
 - UF includes ample custom edits to existing content to enhance the player experience, such as adjustments to objects, NPCs, meshes, textures, navmeshes, collision markers, and roombounds.
 - UF has been rigorously optimized, with custom enhancements not otherwise found in the modding community. Every mod asset has been evaluated and, when appropriate, reprocessed, downsized, compressed, mipmapped, and BSA-packed. Large new additions are thoroughly memory tested to prevent degradation in performance as the list continues to evolve.
