@@ -29,6 +29,7 @@ sidebar_label: Mod Highlights
 - [Titans of the New West](https://www.nexusmods.com/newvegas/mods/78688) - Reimagines power armor with heavy aesthetics, animations, and sounds.
 - [Sweet Perk Overhaul](https://www.nexusmods.com/newvegas/mods/73946) & [Sweet 6 Shooter Perks](https://www.nexusmods.com/newvegas/mods/73438) - Rebalances and expands perks, adding 99 perks and 22 traits.
 - [Vegas Elysium Perk Pack](https://www.nexusmods.com/newvegas/mods/74052) - Adds perks and a [thought cabinet](https://discoelysium.fandom.com/wiki/Thought_Cabinet) inspired by Disco Elysium.
+- [Life After Death](https://www.nexusmods.com/newvegas/mods/92244) - Adds punishments to death and reloads to prevent abuse of the save reload cycle.
 
 # <p align="center"> ![Functions](https://github.com/user-attachments/assets/60a6c167-eec9-48a3-a977-052516ce7b4e) </p>
 
@@ -50,12 +51,13 @@ sidebar_label: Mod Highlights
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Diversifies Raider factions with unique themes.
 - [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear and encounters.
 - [DMT (Dead Money Tweaks)](https://www.nexusmods.com/newvegas/mods/72139) - Converts Dead Money DLC into a survival horror experience.
+- [Low Level Point Lookout](https://www.nexusmods.com/newvegas/mods/82650) - A comprehensive balance overhaul of Point Lookout.
 - [Point Lookout Reborn](https://www.nexusmods.com/newvegas/mods/85032) - Expands exploration and quests throughout Point Lookout.
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls Tale of Two Wastelands with an emphasis on hardcore play.
-- [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165) - Overhauls most Mojave interiors.
-- [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412) - Overhauls most DC interiors.
+- [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412) - Overhauls interiors throughout the Capital Wasteland.
+- [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165) - Overhauls interiors throughout the Mojave Wasteland.
+- [Capital Wasteland Landscape](https://www.nexusmods.com/newvegas/mods/91506) - Overhauls landscape across the Capital Wasteland.
 - [Desert Landscapes - Dark Side](https://www.nexusmods.com/newvegas/mods/89810) - Overhauls landscape across the Mojave Wasteland.
-- [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867) - Overhauls landscape across the Mojave Wasteland.
 - [Northern Greenery](https://www.nexusmods.com/newvegas/mods/84773) - Overhauls landscape in the Northern region of the Capital Wasteland.
 
 # <p align="center">![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682)</p>
@@ -105,5 +107,8 @@ sidebar_label: Mod Highlights
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
 - [Sandstone Desert](https://www.nexusmods.com/newvegas/mods/88796) - Overhauls the appearance of terrain and rocks throughout the game.
+- [Desolation Flora](https://www.nexusmods.com/fallout3/mods/25364) - Overhauls flora throughout the Capital Wasteland.
+- [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698) - Overhauls flora throughout the Mojave Wasteland.
+- [Rustic Grass](https://www.nexusmods.com/fallout3/mods/23991) - Overhauls grass throughout all Wastelands.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
 - [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) - Uses New Vegas Reloaded for a full-game aesthetic overhaul with day-night cycle lighting and customized presets for each worldspace.
