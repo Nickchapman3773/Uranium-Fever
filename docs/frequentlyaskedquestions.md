@@ -134,7 +134,7 @@ Expand - Troubleshooting Steps
 
 - **DLCs & Quest Mods - What levels are recommended for the DLCs and quest mods?**
   - **Capital Wasteland:**
-    - **Point Lookout (with Early Decisions and Gameplay Enhancement)** - 10
+    - **Point Lookout (with Low Level Point Lookout)** - 10
     - **The Pitt** - 15
     - **Mothership Zeta (with Hardcore Zeta)** - 25
     - **Operation Anchorage (with Anchorage Gameplay Expansion)** - 25
