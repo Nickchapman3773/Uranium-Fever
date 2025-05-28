@@ -60,9 +60,7 @@ This list, curated by Sweet6Shooter, includes **plugin-based** mods that Sweet c
   - Simplifies looting and managing crafting materials.
 - [Universal Water Bottling](https://www.nexusmods.com/newvegas/mods/71583)  
   - Preferred water bottling system, though, it is recommended to turn off bottle returns in [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) as bottles are plentiful in-game.
-  - A modified plugin is available on the mod-share Discord channel in Sweet’s server to require a cap for each bottle.
-- [Simpler Realism](https://www.nexusmods.com/newvegas/mods/69407) - [Sweet Just Enough Realism](https://www.nexusmods.com/newvegas/mods/83034) Patch  
-  - Adjusts damage values and game settings for a more realistic experience.
+  - A modified plugin is available on the mod-share Discord channel in Sweet’s server to require a cap for each bottle, as well as clean bottles for purified water, which require Abraxo to clean at a purified water source.
 - [Immersive Minigames](https://www.nexusmods.com/newvegas/mods/58246) - [Sweet's Immersive Minigame Tweaks](https://www.nexusmods.com/newvegas/mods/87019)  
   - Preferred setup for bypassing minigames.
 - [Mr House Assassins](https://www.nexusmods.com/newvegas/mods/69608)  
