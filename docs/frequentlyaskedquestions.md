@@ -326,9 +326,6 @@ Expand - Troubleshooting Steps
 - **Saving - How does saving work in Uranium Fever?**
   - In addition to manual saves, there is an auto-save function that rotates through 10 auto-saves on one minute save intervals.
 
-- **Selecting Perks - Why can’t I select a perk every level?**  
-  - You can only select perks on even levels. Vegas Elysium requires the perk menu to be displayed every level for appropriate functionality, even when perks aren’t available.
-
 - **Shimmering/Sparkling/Firefly Objects - Why do some objects shimmer?**  
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
