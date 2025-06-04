@@ -277,7 +277,7 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 - Updated Sandy Roads to version 1.10.
 - Updated More Mojave Dark Side Edition to version 1.07.
 - Updated Desert Landscapes Revised NV-TTW to version 1.19.
-
+- Updated Bypass Tools to version 2.0.
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
