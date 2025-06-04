@@ -1,10 +1,10 @@
 ---
-title: 1.4.0.0 - June 3, 2025
+title: 1.4.0.0 - June 4, 2025
 hide_title: true
-sidebar_label: 1.4.0.0 - June 3, 2025
+sidebar_label: 1.4.0.0 - June 4, 2025
 ---
 
-# <p align="center"> 1.4.0.0 - June 3, 2025 </p>
+# <p align="center"> 1.4.0.0 - June 4, 2025 </p>
 
 **Removals:**
 - Removed Ultimate Invisible Wall Remover, which was causing too many bug reports associated with users accessing inaccessible areas.
