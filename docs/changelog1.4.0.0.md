@@ -1,0 +1,308 @@
+---
+title: 1.4.0.0 - June 3, 2025
+hide_title: true
+sidebar_label: 1.4.0.0 - June 3, 2025
+---
+
+# <p align="center"> 1.4.0.0 - June 3, 2025 </p>
+
+**Removals:**
+- Removed Ultimate Invisible Wall Remover, which was causing too many bug reports associated with users accessing inaccessible areas.
+- Removed Two Bears High-Fiving, as the Psych Eval is skipped in UF.
+- Removed Hardcore Fire Effects (BURN), which is now included in Goodies.
+- Removed Goodspring Settles Remove Armor, which is now included in Goodies.
+- Removed TTW - Into the Deep Patch, replaced with Sarah’s Expansive Collection.
+- Removed Power Attack Tweaks in favor of using the bChargedAttacksCostAP Stewie Tweak.
+- Removed Caravan Card Control, which was causing [Dupe] renaming on various items.
+- Removed Mojave Scenery Overhaul and all associated patches, as this is no longer compatible with a large amount of other mods contained within UF.
+- Removed Mojave Flora Project - Grass atlas in favor of Rustic Grass.
+- Removed Powder Ganger Armor - Pristine Powder Gangers in favor of Clothes HD.
+- Removed Khan Armor - Killer Khans in favor of Clothes HD.
+- Removed Pipboy Weapon Mod Vendor and Pipboy Vendor, as these were difficult to achieve the desired balance and felt like a “cheat code”.
+- Removed Mobile Truck Base and all associated patches.
+- Removed Just Enough Realism.
+- Removed Flare Gun - Retexture.
+- Removed WAP - Laser RCW.
+- Removed School Art - TTW.
+- Removed Combat Knife - Combat and Chance's Knife Retexture.
+- Removed Classic Combat Armors - Tweaks for TTW Patch, replaced by STARS update.
+- Removed Enclave - CCombat Armor, replaced by STARS update.
+- Removed PipBoyOn Node Fixes - TTW Version, which is not needed with SMIM.
+- Removed PipBoyOn Node Fixes - Power Armor Visual Enhancement (PAVE) Patch, which is not needed with Titans of the New West.
+- Removed Enhanced Movement - Minor Optimizations, now included in Enhanced Movement.
+- Removed Death, Save, & Reload Consequences, replaced with Life After Death.
+
+**Changes:**
+- Enabled FO3 style repair, which will prevent the player from repairing past a certain condition level determined by their repair skill.
+- Enabled Stewie’s bChargedAttacksCostAP tweak.
+- Enabled auto read notes.
+- Adjusted the brightness of various imagespace adaptors, including Cateye, Nuka Cola Quartz, Ant Vision, Ghost Vision, and Friend of the Night.
+- Made luck more impactful regarding weapon jamming; 5 is unaffected, over 5 will have less jams on average, under 5 will have more jams on average.
+- Rebalanced the Walker of the Wastes, Master of the Wastes, Tourist, and Tour Guide challenges.
+- Patched the companion from Robot Dog Overhaul for Followers Formula Redone.
+- Change Wordle frequency to 80% (down from 100%).
+- Science now affects Wordle. For every 25 points above/below the lock level, you will receive/lose 1 guess.
+- The player can now make multiple attempts at hacking without being locked out of the terminal.
+- Increased the cost of replacement slave collars.
+- Changed the Sugar Bomb repeatable quest turn in rate to 5/10.
+- Rebalanced Reputation Gains across all Factions that have a Radiant Infinium Job Board.
+- Removed water beggars from the game until a more balanced solution is made.
+- Relocated Springvale Garage, which is now called Scrapyard Garage. Relocated the key and provided a note and quest associated with finding it. Also removed the radio vendor and repair.
+- Disabled perk and trait respecing in OWB.
+- Lowered the amount of Grenade Launcher ammo available in Anchorage.
+- Relocated the Arctic Riot Gear set.
+- Removed repair capabilities from Somah.
+- Famine now affects a wider variety of loot.
+- Switched from NVAO Hotfix to NVAO Various Hotfixes.
+- Replaced Sierra’s Nuka Cola machine with a static.
+- Changed some ySI icons on items.
+- Changed the Moonshine placed by Point Lookout Reborn to the New Vegas Moonshine to have parity with those found elsewhere.
+- Changed The Town of Vice - A Gomorrah Overhaul to a version made for TTW.
+- Prevented the player from being able to freely loot Fort Independence after earning reputation with the Outcasts.
+- Reverted death music to FO3 death music.
+- Removed the duplicate Lucky 8 Ball from Vault 22.
+- Changed Quick Select and Just Weapon wHeel to allow using consumables as long as any beneficial effect would occur, and to block them if beneficial effect would do nothing.
+- Adjusted FOV of non-scoped rifles to account for the fact that SWEEP was balanced with FO3 style aiming in mind.
+- The perk selection menu will no longer appear when the player cannot select a perk.
+- Companion action menu time dilation is now standardized with other menu related time dilation events.
+
+**Fixes:**
+- Fixed script controlling Father Clfford’s packages.
+- Fixed doctor related dialogue issues stemming from CWSR.
+- Fixed the player gear being impacted by Famine in Havasu Blues. 
+- Fixed invisible cloud beasts in DMT.
+- Fixed incorrect merge of Bullet Time Improved.
+- Fixed the player being able to die during the Vault 87 cutscene.
+- Fixed Blood Packs and Preserved Blood Bags adding to the Stim-Ply Amazing challenge and not Vampire Lord.
+- Fixed incorrectly encoded apostrophes in custom sleep events.
+- Fixed You Gotta Shoot em in the Head reward activator saying T-51 Power Armor when it’s Medic Power Armor.
+- Fixed an Inaccessible door in WastelandNV -13 -24.
+- Fixed the broken Fire Axe model.
+- Fixed invisible objects caused by a roombound in DLC03zAFB01.
+- Fixed a floating helmet in Eulogy's Pad.
+- Fixed a floating gun battery shell in AGE.
+- Fixed embedded mine near Ranger Morales corpse.
+- Fixed various rubble piles clipping in Springvale sewers.
+- Fixed several clipping objects in ArefuKingResidence.
+- Fixed an Inaccessible door in WastelandNV -13 -24.
+- Fixed a Landscape seam in WastelandNV 4 -13.
+- Fixed a Landscape seam in WastelandNV 5 6.
+- Fixed a landscape seam in Fort Detrick.
+- Fixed quiet Cowboy Repeater sounds.
+- Fixed reputation gains from turning in too many fingers at once.
+- Fixed roombounds in DLC03zAFB01.
+- Fixed mines being embedded in roads at Minefield for realsies this time.
+- Fixed punga plant activators in Point Lookout not being affected by Famine.
+- Fixed Joshua Graham head bandages.
+- Properly patched DC Humbles You and Train Quick Start.
+- Fixed missing PipboyOn nodes for NCR MP fatigues and armor. 
+- Fixed the follower count not being reduced when Hope dies.
+- Fixed repeatable medicine checks with Doc Church.
+- Fixed lootable pots in the Anchorage Simulation.
+
+
+**Additions:**
+- Added Stewie's Ammo Label Uses Long Name fix.
+- Added Gas Trap Performance Fix.
+- Added Book Menu Restored.
+- Added Simple Death.
+- Added Generic NPC Namer.
+- Added Simple Water Extinguisher.
+- Added Height Randomizer.
+- Added Novac Accused Run.
+- Added Take Benny's Gun.
+- Added House Party - More House Security.
+- Added Sarah’s Expansive Collection.
+- Added LIDAR - Lincoln Items Displayed And Restored.
+- Added EDGE TTW - TGDCIO Patch.
+- Added Radiant Infinium - Endless Questing Framework
+- Added LLPL - Low Level Point Lookout.
+- Added Slightly Improved Springvale Garage.
+- Added Springvale Garage - Big Guns Bobblehead patch.
+- Added Chemistry Set Rebalance; Medicine or drug creation can now be attempted at any skill level and can be failed. The associated formula is (Science + Medicine) * (Int/10 + luck/20), which must exceed 50 to be successful. If successful, between 1 and 6 items are created. If creating meds, stimpaks, medx, radx, or radaway can be received. If making chems, psycho, buffout, mentats, rebound, or steady can be received.
+- Added TTW Ammo Press Rebalanced.
+- Added Gambling Luck Rebalance.
+- Added SWEEP - Sweet Weapon Enhancement and Expansion Package - Dead Money Tweaks Patch.
+- Added Weapon Jamming Tweaks - No recharger weapons jams.
+- Added Ammo Variants in Containers.
+- Added ammo variants base object swapper.
+- Added NAWEMO - NPCs use Ammo Variants and Weapon Mods.
+- Added Life After Death.
+- Added Rustic Grass.
+- Added Point Lookout DLC Rustic Grass.
+- Added Prospector Saloon ReHammered.
+- Added Saltex - Shelter.
+- Added Animated Immersive Lanterns.
+- Added Ascended Lantern.
+- Added Smokes of the Mojave.
+- Added Less Hideous Table Scratches.
+- Added High Resolution Bulletin Board and Primm Flyers.
+- Added P6MREs.
+- Added HV - Classic Turpentine.
+- Added A Sterling Silver Reward.
+- Added Ultra-Luxe Details.
+- Added Arsenal Weapon Overhaul - Caravan Shotgun.
+- Added Arsenal Weapon Overhaul - BAR - Automatic Rifle.
+- Added Arsenal Weapon Overhaul - Laser RCW.
+- Added Arsenal Weapon Overhaul - Hunting Shotgun replacer 
+- Added Arsenal Weapon Overhaul - Varmint Rifle.
+- Added P6 - Knives (TTW).
+- Added ySI Colorful Ycons - Yellow 20ga Shotgun Shells.
+- Added Postman 6 Flare Guns.
+- Added Postman 6 32Pistols - TTW.
+- Added Tire Iron - The Definitive Edition
+- Added Clothes HD - Powder Gangers.
+- Added Clothes HD - Great Khans.
+- Added Atompunk Underwear.
+- Added FNV Clean Animations - Red Glare.
+- Added PSRO - Gesundheit Edition - Hunting Rifle and Friends Boone's Rifle Patch.
+- Added Fallout 4 Capital Wasteland Swampfolk.
+- Added Pip-Boy Counters For Rads And Hardcore Needs.
+- Added Apocalyptic Storms.
+- Added Fast Travel Expenses to the optional section.
+
+**Mod updates:**
+- Updated Nuclear LOD to version 4.4.
+- Updated High Priority LOD Core to version 2.8.
+- Updated  JohnnyGuitar NVSE to version 5.16.
+- Updated TTW (D.I.E.O.) Dialogue and Interactions Expansion Overhaul to version 2.3.
+- Updated Decent Rubble Piles Add-on to version 1.1.
+- Updated Decent Rubble Piles Add-on Arroyo Canyon Patch to version 1.1.
+- Updated Rugs Plus to version 1.1.
+- Updated Pillow Talk to version 1.1.
+- Updated I Finally Caved to version 1.1.
+- Updated Faction Wasteland Presence - Improved Edition to version 5.5.
+- Updated NVTF to version 10.5a.
+- Updated The Living Desert to version 2.72.
+- Updated Mojave Flora Project to version 1.3.1 .
+- Updated LOD Flicker Fix - NVSE to version 1.2.0.
+- Updated Stewie Tweaks to version 9.70.
+- Updated Landscape Texture Improvements to version 1.5.
+- Updated Item Cards to version 3.0.1.
+- Updated Pip-Boy UI Tweaks to version 4.0.3.
+- Updated Vendor Radio to version 2.1.
+- Updated Pip-Boy Weapon Mod Vendor to version 2.3.
+- Updated Dead Money Tweaks to version 12.10.
+- Updated (Benny Humbles You) and Steals Your Stuff to version 12.71.
+- Updated Vegas Elysium Perks to version 11.43.
+- Updated Big Town Extensions to version 5.07.
+- Updated New Blood to version 2.63.
+- Updated Dynamic Interaction Prompts to version 1.5.
+- Updated Condition Meter Icons to version 1.3.1.
+- Updated SWEEP - Sweet Weapon Enhancement and Expansion Package to version 2.24.
+- Updated Water Depth Radiation to version 1.0.1.
+- Updated Aim Collision Indicator to version 1.5.
+- Updated STARS TTW - Sweet's Total Armor Rework System to version 2.6.
+- Updated Sweet 6 Shooter Perks - TTW to version 17.01.
+- Updated LOD Fixes and Improvements - NVSE to version 1.33.
+- Updated EDGE Abandoned Safehouse Bridge Patch to version 8.15.
+- Updated The Great DC Interior Overhaul to version 1.2.3.
+- Updated Sweet Perk Overhaul to version 13.61.
+- Updated Sweet Just Enough Realism Patch to version 1.08.
+- Updated AGE - Anchorage Gameplay Expansion to version 11.07.
+- Updated DMT - Dead Money Tweaks - TTW Patch to version 12..12.
+- Updated Friends With Benefits Perk Pack to version 2.05.
+- Updated Bobblehead Business to version 1.09.
+- Updated WAP - Yellow 20 Gauge Shells to version 1.1.
+- Updated TTW Skill Book Rebalance Extended to version 3.1.
+- Updated DKS and Friends to version 2.0.
+- Updated Light Machine Gun - AWO to version 2.0.
+- Updated New Vegas Mesh Improvement Mod - NVMIM to version 1.12.8hf2.
+- Updated Drowning Visuals to version 2.0.
+- Updated Local Map Overhaul to version 2.7.
+- Updated School Art HD (TTW) to version 1.5.
+- Updated Scaled Recurring Challenges to version 1.1.0.
+- Updated New Game Initialization Script to version 1.3.1.
+- Updated Sandstone Desert to version 2.61.
+- Updated Friendly Strip Factions to version 7.0.
+- Updated Death Throes - Reactive Ragdolls to version 2.0.
+- Updated EDGE TTW - Early Decisions and Gameplay Enhancement to version 9.
+- Updated Skip Tranquility Lane to version 1.2.1.
+- Updated Friendly Strip Factions to version 7.0.
+- Updated Friendly Strip Factions TTW Patch to version 7.0.
+- Updated Abandoned Safehouse to version 5.3.
+- Updated Abandoned Safehouse - EDGE Patch to version 1.02.
+- Updated Lived In Series to version 1.9.
+- Updated Repeatable Quest Rewards Rebalanced to version 1.2a.
+- Updated SWEEP - AGE Patch to version 2.22xx.
+- Updated Desert Landscape - Dark Side Version to version 1.18.
+- Updated PAVE to version 3.0.
+- Updated Sandstone Desert to version 2.61.
+- Updated Goodies to version 2.1.2..
+- Updated Decent Muck Pools to version 1.07.
+- Updated Door Pinch Fix to version 2.1.1.
+- Updated Decent Muck Pools - Bad Touch Extended Patch to version 1.07.
+- Updated Sleep Wait Hardcore Needs to version 2.5.
+- Updated Auto-Equip Weapon If Unarmed  to version 1.2.1.
+- Updated Autumn Leaves - Uncreative Edition to version 1.035.
+- Updated Autumn Leaves - TTW Patch to version 3.4.
+- Updated Aid Addon to version 24.64.
+- Updated Aid Addon - Famine Steroid Patch to version 1.01.
+- Updated Trophies for Megaton Player Home to version 2.0.1.
+- Updated JBT Improved to version 2.11.
+- Updated Melee Hitstop Effects to version 3.05.
+- Updated Mojave Faction Currency Adjustments to version 2.0.0.
+- Updated Bad Touch NVSE - Extended to version 1.7
+- Updated Don't Block Me - Stop Companions Blocking Doorways to version 1.4.0.
+- Updated Casino Rewards Fix to version 1.0.1.
+- Updated Consistent Weapon Mod Descriptions to version 1.8.
+- Updated Home and Safehouse Tweaks to version 21.
+- Updated Placement Fixes TTW to version 1.8.
+- Updated Enhanced Movement to version 1.25c.
+- Updated Into the Deep to version 2.0.2.
+- Updated Repeatable Quests Rewards Rebalanced to version 1.3.
+- Updated TTW New Vegas Speech Checks to version 1.6.
+- Updated Functional Post Game Ending to version 8.0.1.
+- Updated ySI - Assorted Fixes to version 1.2.1.
+- Updated ySI - Contextual Prompts to version 2.7.
+- Updated Point That Somewhere Else to version 2.15.1.
+- Updated Sweet Healing Systems to version 1.17.
+- Updated Modern Night Vision to version 4.1.1
+- Updated ySI - Colorful Icons Support to version 1.7.1.
+- Updated Auto Equip Weapon If Unarmed to version 1.1.1.
+- Updated Call Offset Generator to version 1.04.
+- Updated Caravan In DC to version 5.1.
+- Updated 10mm and Friends to version 2.0a.
+- Updated STARS to version 3.0.2.
+- Updated Character Build Presets to version 1.4.
+- Updated Sweet Pain NV to version 1.12.
+- Updated Sweet Pain DC to version 1.18.
+- Updated ATMOS Ambience Overhaul to version 1.7.
+- Updated Wordle to version 1.2.
+- Updated True Minigun to version 2.0.
+- Updated DC NPCs TTW to version 1.8.
+- Updated The Great Mojave Interior Overhaul to version 1.9.1
+- Updated companion map icons to version 1.6.
+- Updated Sandy Roads to version 1.10.
+
+
+**Uranium Haze, Soft AF, and Hardercore Updates:**
+- Uranium Haze:
+- Completely reimagined the way the flashlight is utilized. With assistance from Sneeze for Meshes, Cat for scripting, and inspiration from Ronis Pointlight Flashlight mod. Flashlight is now a COMBINATION of piplight for true ambient lighting, but augmented by the flashlight shader from NVR for forward facing vision. The end result is a more limited ability to see far, but more well illuminated and believable near illumination, without the many downsides of the flashlight shader in isolation (such as grass abnormalities, brightness blow out, etc). This is a DRAMATIC departure from prior iterations of the piplight or flashlight.
+- Overhauled shadows to reflect the changes to the shadow shader in the new version of NVR.
+- Overhauled the "above" and "below" aesthetics of all water sources.
+- Reworked the darkness of various exterior and interior cells, overall shifting to an even darker/moodier atmosphere while avoiding contrasted washout of blacks.
+- Reworked Dead Money exteriors significantly.
+- Fixed some interior shadow abnormalities.
+
+- Hardercore:
+- Dogmeat’s Territorial Mark will now allow fast travel to the mark for free.
+- A tutorial outlining the core differences seen in Hardercore will now be displayed when starting a new game.
+- Fixed the weapon wheel bypassing No Pipboy in Combat.
+- Fixed Water Bottling not giving unclean water.
+- Aligned Weapon Wheel time dilation with Quick Select.
+- Companion action menu time dilation is now standardized with other menu related time dilation events.
+- Removed lockout on Ammo Press Terminal in favor of TTW Ammo Press Rebalanced
+  
+**Updating:**
+- Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **NEW - 1.4.0.0**: For updates from pre-1.4.0.0 versions, a **NEW INSTALLATION** and **NEW SAVE** are **BOTH REQUIRED**.
+
+ **Community:**
+- Submit Uranium Fever screenshots to the `UF-fever-screens` Discord channel for a chance to be featured on the website or loading screens!
+- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the `uf-submissions` Discord channel!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the `uf-discussion channel` Discord channel to receive update notifications on Discord.
