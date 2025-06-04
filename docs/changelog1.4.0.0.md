@@ -69,6 +69,7 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Companion action menu time dilation is now standardized with other menu related time dilation events.
 
 **Fixes:**
+- Reduced overall memory footprint in the Capital Wasteland in an attempt to combat a memory leak we are triaging.
 - Fixed script controlling Father Clfford’s packages.
 - Fixed doctor related dialogue issues stemming from CWSR.
 - Fixed the player gear being impacted by Famine in Havasu Blues. 
@@ -164,6 +165,7 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Added Fast Travel Expenses to the optional section.
 
 **Mod updates:**
+- Updated Uranium Fever for compatibility with 3.4.0.
 - Updated Nuclear LOD to version 4.4.
 - Updated High Priority LOD Core to version 2.8.
 - Updated  JohnnyGuitar NVSE to version 5.16.
