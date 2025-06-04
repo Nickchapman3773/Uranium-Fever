@@ -194,7 +194,6 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 - Updated SWEEP - Sweet Weapon Enhancement and Expansion Package to version 2.24.
 - Updated Water Depth Radiation to version 1.0.1.
 - Updated Aim Collision Indicator to version 1.5.
-- Updated STARS TTW - Sweet's Total Armor Rework System to version 2.6.
 - Updated Sweet 6 Shooter Perks - TTW to version 17.01.
 - Updated LOD Fixes and Improvements - NVSE to version 1.33.
 - Updated EDGE Abandoned Safehouse Bridge Patch to version 8.15.
@@ -276,6 +275,8 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 - Updated The Great Mojave Interior Overhaul to version 1.9.1
 - Updated companion map icons to version 1.6.
 - Updated Sandy Roads to version 1.10.
+- Updated More Mojave Dark Side Edition to version 1.07.
+- Updated Desert Landscapes Revised NV-TTW to version 1.19.
 
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
