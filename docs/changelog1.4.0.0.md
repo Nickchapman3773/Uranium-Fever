@@ -30,6 +30,8 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 - Removed PipBoyOn Node Fixes - TTW Version, which is not needed with SMIM.
 - Removed PipBoyOn Node Fixes - Power Armor Visual Enhancement (PAVE) Patch, which is not needed with Titans of the New West.
 - Removed Enhanced Movement - Minor Optimizations, now included in Enhanced Movement.
+- Removed Fuchs run for memory considerations.
+- Removed Dnyamically Swapped LOD for memory considerations.
 - Removed Death, Save, & Reload Consequences, replaced with Life After Death.
 
 **Changes:**
