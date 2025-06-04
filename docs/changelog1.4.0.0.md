@@ -150,7 +150,7 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 - Added ySI Colorful Ycons - Yellow 20ga Shotgun Shells.
 - Added Postman 6 Flare Guns.
 - Added Postman 6 32Pistols - TTW.
-- Added Tire Iron - The Definitive Edition
+- Added Tire Iron - The Definitive Edition.
 - Added Clothes HD - Powder Gangers.
 - Added Clothes HD - Great Khans.
 - Added Atompunk Underwear.
