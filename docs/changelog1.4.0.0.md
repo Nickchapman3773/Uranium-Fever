@@ -14,13 +14,15 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Removed TTW - Into the Deep Patch, replaced with Sarah’s Expansive Collection.
 - Removed Power Attack Tweaks in favor of using the bChargedAttacksCostAP Stewie Tweak.
 - Removed Caravan Card Control, which was causing [Dupe] renaming on various items.
+- Removed Mobile Truck Base and all associated patches.
+- Removed Just Enough Realism.
+- Removed Point That Thing Somewhere Else - TTW Patch, which is now TTW compatible natively.
 - Removed Mojave Scenery Overhaul and all associated patches, as this is no longer compatible with a large amount of other mods contained within UF.
 - Removed Mojave Flora Project - Grass atlas in favor of Rustic Grass.
 - Removed Powder Ganger Armor - Pristine Powder Gangers in favor of Clothes HD.
 - Removed Khan Armor - Killer Khans in favor of Clothes HD.
+- Removed Filthy Jackals and Tribal Vipers, as well as associated patches, in favor of a merged version.
 - Removed Pipboy Weapon Mod Vendor and Pipboy Vendor, as these were difficult to achieve the desired balance and felt like a “cheat code”.
-- Removed Mobile Truck Base and all associated patches.
-- Removed Just Enough Realism.
 - Removed Flare Gun - Retexture.
 - Removed WAP - Laser RCW.
 - Removed School Art - TTW.
@@ -157,6 +159,7 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Added Clothes HD - Powder Gangers.
 - Added Clothes HD - Great Khans.
 - Added Atompunk Underwear.
+- Added Crazy Raiders.
 - Added FNV Clean Animations - Red Glare.
 - Added PSRO - Gesundheit Edition - Hunting Rifle and Friends Boone's Rifle Patch.
 - Added Fallout 4 Capital Wasteland Swampfolk.
@@ -258,7 +261,7 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Updated Functional Post Game Ending to version 8.0.1.
 - Updated ySI - Assorted Fixes to version 1.2.1.
 - Updated ySI - Contextual Prompts to version 2.7.
-- Updated Point That Somewhere Else to version 2.15.1.
+- Updated Point That Somewhere Else to version 2.16.0.
 - Updated Sweet Healing Systems to version 1.17.
 - Updated Modern Night Vision to version 4.1.1
 - Updated ySI - Colorful Icons Support to version 1.7.1.
@@ -280,6 +283,7 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Updated More Mojave Dark Side Edition to version 1.07.
 - Updated Desert Landscapes Revised NV-TTW to version 1.19.
 - Updated Bypass Tools to version 2.0.
+- Updated Iron Sights Aligned to version 5.2.
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
