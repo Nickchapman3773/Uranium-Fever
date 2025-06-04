@@ -278,21 +278,21 @@ sidebar_label: 1.4.0.0 - June 3, 2025
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
-- Completely reimagined the way the flashlight is utilized. With assistance from Sneeze for Meshes, Cat for scripting, and inspiration from Ronis Pointlight Flashlight mod. Flashlight is now a COMBINATION of piplight for true ambient lighting, but augmented by the flashlight shader from NVR for forward facing vision. The end result is a more limited ability to see far, but more well illuminated and believable near illumination, without the many downsides of the flashlight shader in isolation (such as grass abnormalities, brightness blow out, etc). This is a DRAMATIC departure from prior iterations of the piplight or flashlight.
-- Overhauled shadows to reflect the changes to the shadow shader in the new version of NVR.
-- Overhauled the "above" and "below" aesthetics of all water sources.
-- Reworked the darkness of various exterior and interior cells, overall shifting to an even darker/moodier atmosphere while avoiding contrasted washout of blacks.
-- Reworked Dead Money exteriors significantly.
-- Fixed some interior shadow abnormalities.
+  - Completely reimagined the way the flashlight is utilized. With assistance from Sneeze for Meshes, Cat for scripting, and inspiration from Ronis Pointlight Flashlight mod. Flashlight is now a COMBINATION of piplight for true ambient lighting, but augmented by the flashlight shader from NVR for forward facing vision. The end result is a more limited ability to see far, but more well illuminated and believable near illumination, without the many downsides of the flashlight shader in isolation (such as grass abnormalities, brightness blow out, etc). This is a DRAMATIC departure from prior iterations of the piplight or flashlight.
+  - Overhauled shadows to reflect the changes to the shadow shader in the new version of NVR.
+  - Overhauled the "above" and "below" aesthetics of all water sources.
+  - Reworked the darkness of various exterior and interior cells, overall shifting to an even darker/moodier atmosphere while avoiding contrasted washout of blacks.
+  - Reworked Dead Money exteriors significantly.
+  - Fixed some interior shadow abnormalities.
 
 - Hardercore:
-- Dogmeat’s Territorial Mark will now allow fast travel to the mark for free.
-- A tutorial outlining the core differences seen in Hardercore will now be displayed when starting a new game.
-- Fixed the weapon wheel bypassing No Pipboy in Combat.
-- Fixed Water Bottling not giving unclean water.
-- Aligned Weapon Wheel time dilation with Quick Select.
-- Companion action menu time dilation is now standardized with other menu related time dilation events.
-- Removed lockout on Ammo Press Terminal in favor of TTW Ammo Press Rebalanced
+  - Dogmeat’s Territorial Mark will now allow fast travel to the mark for free.
+  - A tutorial outlining the core differences seen in Hardercore will now be displayed when starting a new game.
+  - Fixed the weapon wheel bypassing No Pipboy in Combat.
+  - Fixed Water Bottling not giving unclean water.
+  - Aligned Weapon Wheel time dilation with Quick Select.
+  - Companion action menu time dilation is now standardized with other menu related time dilation events.
+  - Removed lockout on Ammo Press Terminal in favor of TTW Ammo Press Rebalanced
   
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
