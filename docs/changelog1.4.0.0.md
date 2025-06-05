@@ -53,7 +53,6 @@ sidebar_label: 1.4.0.0 - June 4, 2025
 - Removed water beggars from the game until a more balanced solution is made.
 - Relocated Springvale Garage, which is now called Scrapyard Garage. Relocated the key and provided a note and quest associated with finding it. Also removed the radio vendor and repair.
 - Disabled perk and trait respecing in OWB.
-- Lowered the amount of Grenade Launcher ammo available in Anchorage.
 - Relocated the Arctic Riot Gear set.
 - Removed repair capabilities from Somah.
 - Famine now affects a wider variety of loot.
