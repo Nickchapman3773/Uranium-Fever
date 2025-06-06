@@ -164,6 +164,7 @@ sidebar_label: 1.4.0.0 - June 5, 2025
 - Added Fallout 4 Capital Wasteland Swampfolk.
 - Added Pip-Boy Counters For Rads And Hardcore Needs.
 - Added Apocalyptic Storms.
+- Added pre-generated cell offsets and NVR shaders, which should dramatically improve launch time and stutter when first launching the game after new installations or updates.
 - Added Fast Travel Expenses to the optional section.
 
 **Mod updates:**
