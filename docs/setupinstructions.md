@@ -392,7 +392,6 @@ Expand - Optional Mod Descriptions
 		- Weapon sway is increased when not meeting weapon requirements.
 		- Forced entry settings are more likely to break items in containers and door locks have more health.
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
-		- The ammo press can now only be used once.
 		- Locks and Terminals have a random chance to be a higher lock level.
 
 - **Optional - Settings:**
