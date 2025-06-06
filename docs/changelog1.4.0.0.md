@@ -253,7 +253,7 @@ sidebar_label: 1.4.0.0 - June 5, 2025
 - Updated Consistent Weapon Mod Descriptions to version 1.8.
 - Updated Home and Safehouse Tweaks to version 21.
 - Updated Placement Fixes TTW to version 1.8.
-- Updated Enhanced Movement to version 1.25c.
+- Updated Enhanced Movement to version 1.26.
 - Updated Into the Deep to version 2.0.2.
 - Updated Repeatable Quests Rewards Rebalanced to version 1.3.
 - Updated TTW New Vegas Speech Checks to version 1.6.
