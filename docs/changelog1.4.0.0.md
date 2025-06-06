@@ -308,7 +308,7 @@ sidebar_label: 1.4.0.0 - June 5, 2025
 - Altered or outdated lists will not be supported.
 - Notifications of missing mods post-update are normal and reflect plugin merging.
 
-- **NEW - 1.4.0.0**: For updates from pre-1.4.0.0 versions, a **NEW INSTALLATION** and **NEW SAVE** are **BOTH REQUIRED**. **This is MANDATORY and NON-NEGOTIABLE, as many installation instructions have changed**.
+- **NEW - 1.4.0.0**: For updates from pre-1.4.0.0 versions, a **NEW INSTALLATION** and **NEW SAVE** are **BOTH REQUIRED**. **A COMPLETE reinstallation is MANDATORY and NON-NEGOTIABLE, as many installation instructions have changed**.
 
  **Community:**
 - Submit Uranium Fever screenshots to the `UF-fever-screens` Discord channel for a chance to be featured on the website or loading screens!
