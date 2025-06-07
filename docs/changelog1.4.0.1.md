@@ -26,3 +26,16 @@ sidebar_label: 1.4.0.1 - June 6, 2025
 - Updated Goodies to version 2.2.1.
 - Updated FPGE - Functional Post Game Ending to version 8.1.
 - Updated Life After Death to version 1.0.1.
+
+**Updating:**
+- Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **OLD - 1.4.0.0**: For updates from pre-1.4.0.0 versions, a **NEW INSTALLATION** and **NEW SAVE** are **BOTH REQUIRED**.
+
+ **Community:**
+- Submit Uranium Fever screenshots to the `UF-fever-screens` Discord channel for a chance to be featured on the website or loading screens!
+- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the `uf-submissions` Discord channel!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the `uf-discussion channel` Discord channel to receive update notifications on Discord.
