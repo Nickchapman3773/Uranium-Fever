@@ -202,7 +202,7 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 - Click `Install`.
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
-	![TTW Confirmation](https://github.com/user-attachments/assets/c30f933a-fce4-4715-a13e-1ca4f4d6037f)
+	![TTW Confirmation](https://github.com/user-attachments/assets/6e584750-178e-4d21-b030-1fd99ab76585)
 
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` folder, select `Properties`, and verify that the folder size is exactly 17GB.
