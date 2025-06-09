@@ -381,6 +381,7 @@ When swapping profiles, the same save can be used safely. Experiment and find ou
 
 - Various optional mods with associated descriptions are bundled that the user can enable or disable without voiding support.
 	- When enabling or disabling an optional mod, ensure that **all other mods sharing the root name** are also enabled or disabled.
+ 	- These will need to be re-configured with each update.
  
   ![OptionalSeparators](https://github.com/user-attachments/assets/976d0ff7-c70e-435f-83b7-fe3939ac1cfc)
 
