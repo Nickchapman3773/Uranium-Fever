@@ -234,7 +234,7 @@ Expand - Troubleshooting Steps
 - **Keybinds - How can I view Uranium Fever’s keybinds?**  
   - Press `K` in the pause menu.
 
-- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches unmodded Fallout: New Vegas. How do I fix it?**
+- **Launch/Start - When I launch Uranium Fever after finishing the installation process, it launches unmodded/vanilla Fallout: New Vegas. How do I fix it?**
   - Re-run the Uranium Fever Wabbajack installer, it will fix repair any incorrect filepaths.
   - Ensure the game is not being launched from the launcher.
 
