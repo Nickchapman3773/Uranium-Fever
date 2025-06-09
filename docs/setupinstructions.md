@@ -391,6 +391,8 @@ Expand - Optional Mod Descriptions
 	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
  	- **Enhanced FOV** - Allows manual adjustment of the FOV.
   	- **Fast Travel Expenses** - Adds a distance-based cost when fast traveling. Highly recommended to keep enabled for appropriate balance.
+  	- **Immersive Minigames** - A player skill-based alternative to the standard minigames.
+  	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
 	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 	- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
