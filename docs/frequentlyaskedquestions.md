@@ -187,7 +187,9 @@ Expand - Troubleshooting Steps
   - Carry multiple weapons that require different ammo types. Ammo scarcity will require you to switch weapons frequently.
   - Forget any preconceptions of the utility of certain weapons or items in standard Fallout: New Vegas or Fallout 3. Everything in Uranium Fever has been completely rebalanced, and weapons that were weak previously may now be much more useful.
 
-- **FPS - How can I increase FPS in Uranium Fever?**  
+- **FPS/Stutter - How can I increase FPS/Reduce Stutter in Uranium Fever?**  
+  - If using NVIDIA, ensure that the [Applying NVIDIA Profile](https://uraniumfever.net/docs/setupinstructions/#-nvidia-users---applying-nvidia-profile-) instructions have been followed.
+  - If using AMD, ensure that the [Disabling Ultra-Low Power State (ULPS)](https://uraniumfever.net/docs/setupinstructions/#-amd-users---disabling-ultra-low-power-state-ulps-) instructions have been followed.
   - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/setupinstructions/#-selecting-a-uranium-fever-profile-) quality.
   - Reduce the `Detail` quality in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions/#-configuring-game-settings-).
   - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions/#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
