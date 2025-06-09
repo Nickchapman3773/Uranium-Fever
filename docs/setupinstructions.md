@@ -344,7 +344,7 @@ Repeat this process after every Nvidia driver update.
 
 ### <p align="center"> ![AMD Users - Disabling Ultra-Low Power State (ULPS)](https://github.com/user-attachments/assets/01ecc185-8433-4510-9db4-3a3e5d516480) </p>
 :::tip Why?
-Ultra-Low Power State (ULPS) is enabled by default and has been associated with significant performance impact.
+The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and has been associated with significant performance impact.
 :::
 
 - Download [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1749546321~acl=/*~hmac=23e15a4588ad2bbcf279cd596b33c6b1dc5a2d193ff9a50a4b2ad66d00a7ad15) and run `MSIAfterburnerInstaller465.exe`.
