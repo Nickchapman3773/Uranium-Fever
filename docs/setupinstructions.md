@@ -131,7 +131,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 **SKIP** step 2 if **not** backing up another modded instance of Fallout: New Vegas.
 :::
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
-  - If restoring files, create a backup of these clean folders for future use, as a clean installation will be required when updating Uranium Fever.
+  - If restoring files, create an additional backup of these clean folders for future use, as a clean installation will be required when updating Uranium Fever.
   - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
