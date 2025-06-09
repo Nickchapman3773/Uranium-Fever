@@ -341,6 +341,25 @@ Repeat this process after every Nvidia driver update.
 
   ![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
 
+### <p align="center"> ![AMD Users - Disabling Ultra-Low Power State (ULPS)](https://github.com/user-attachments/assets/01ecc185-8433-4510-9db4-3a3e5d516480) </p>
+:::tip Why?
+This has been associated with significant performance impact.
+:::
+
+- Download [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1749546321~acl=/*~hmac=23e15a4588ad2bbcf279cd596b33c6b1dc5a2d193ff9a50a4b2ad66d00a7ad15) and run `MSIAfterburnerInstaller465.exe`.
+- Disable `Norton 360 for Gamer`, press `Install`, then unselect `RivaTuner Statistics Server` when prompted.
+
+	![MSIAfterBurner Install](https://github.com/user-attachments/assets/76b2246c-3cef-4a72-abf3-df000e270814)
+
+	![RTSS No](https://github.com/user-attachments/assets/06e72450-36db-4bfc-aefd-e69f071ed8fa)
+
+- Open the `Settings` cogwheel, enabled `Disable ULPS`, click `Apply`, then `ok`.
+
+	![MSI Afterburner 1](https://github.com/user-attachments/assets/8b7fa6e8-be93-4807-8df1-c3eb400076a7)
+	![MSI Afterburner 2](https://github.com/user-attachments/assets/cb6278f0-94b4-4d9a-8ae6-6d43bb28b23d)
+
+- Restart your compute for the changes to take effect.
+
 ### <p align="center"> ![Selecting a Uranium Fever Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
 - In MO2, select `Uranium Fever` from the dropdown menu, then choose a profile.
@@ -367,7 +386,6 @@ When swapping profiles, the same save can be used safely. Experiment and find ou
 <details><summary>
 Expand - Optional Mod Descriptions
 </summary>
-
 
 - **Optional Mods - Gameplay:**
 	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
