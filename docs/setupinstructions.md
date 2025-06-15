@@ -394,6 +394,7 @@ Expand - Optional Mod Descriptions
  	- **Enhanced FOV** - Allows manual adjustment of the FOV.
   	- **Fast Travel Expenses** - Adds a distance-based cost when fast traveling. Highly recommended to keep enabled for appropriate balance.
   	- **Immersive Minigames** - A player skill-based alternative to the standard minigames.
+  	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Highly recommended to keep enabled for appropriate balance.
   	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
 	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
