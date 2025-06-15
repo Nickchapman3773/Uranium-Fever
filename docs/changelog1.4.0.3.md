@@ -54,10 +54,10 @@ sidebar_label: 1.4.0.3 - June 15, 2025
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
-- Slightly reduced nighttime contrast in the Mojave Wasteland.
-- Slightly reduced darkness of puddles to make them less visually jarring.
-- Fixed the Piplight crash associated with gender change while piplight was active (thanks Cat!)
-- Fixed ring of light around the player preventing shadow display.
+  - Slightly reduced nighttime contrast in the Mojave Wasteland.
+  - Slightly reduced darkness of puddles to make them less visually jarring.
+  - Fixed the Piplight crash associated with gender change while piplight was active (thanks Cat!)
+  - Fixed ring of light around the player preventing shadow display.
 
 **Updating:**
 - Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
