@@ -21,11 +21,11 @@ sidebar_label: 1.4.0.3 - June 15, 2025
 - Patched A Smoke Before the Storm cigarettes and Boiadero from Vegas Elysium.
 
 **Additions:**
-- Added P6 - Barrels
-- Added P6 - Mentats
-- Added 3D Trash
-- Added TTW Northern Greenery - New Grass
-- Added NVR - Lucky 38 Shadows Fix
+- Added P6 - Barrels.
+- Added P6 - Mentats.
+- Added 3D Trash.
+- Added TTW Northern Greenery - New Grass.
+- Added NVR - Lucky 38 Shadows Fix.
 
 **Mod Updates:**
 - Updated Life After Death to version 1.2.1.
