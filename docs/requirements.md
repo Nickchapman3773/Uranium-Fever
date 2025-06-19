@@ -23,7 +23,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 - The latest drivers for your GPU.
 
 :::warning NVIDIA Graphics Drivers
-NVIDIA graphics card users should downgrade to [Driver Version 572.83](https://us.download.nvidia.com/Windows/572.83/572.83-notebook-win10-win11-64bit-international-nsd-dch-whql.exe), as the current version is incompatible with DXVK.
+NVIDIA graphics card users should install the [Community Vulkan Compatibility Driver](https://github.com/marekzajac97/nvgpucomp32_patch), as the current driver version is incompatible with DXVK. This driver patch has been validated and serves as an appropriate interval solution until the official NVIDIA fix is released.
 :::
 
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
