@@ -19,6 +19,7 @@ sidebar_label: 1.4.0.4 - June 18, 2025
 - Fixed unclear water erroneously being disabled in Hardercore.
 - Fixed A Smoke Before the Storm and Vegas Elysium not being properly patched.
 - Fixed Pipboy counters not working with female characters.
+- Fixed inappropriately pathed Generic NPC Namer INI
 
 **Additions:**
 - Added P6 - Barrels (Barrel Cooker).
