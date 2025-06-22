@@ -140,9 +140,9 @@ Expand - Troubleshooting Steps
     - **Operation Anchorage (with Anchorage Gameplay Expansion)** - 25
   - **Mojave Wasteland:**
     - **Autumn Leaves** - 1
+    - **Dry Wells** - 5
     - **Into the Deep** - 10
     - **Lake Havasu** - 10
-    - **Dry Wells** - 10
     - **Race To The Bottom** - 10
     - **Honest Hearts** - 10
     - **Zion Trails** - 10
