@@ -9,6 +9,7 @@ sidebar_label: Lossless Scaling Guide
 :::danger Optional Paid Application
 - Lossless Scaling is **NOT** required for Uranium Fever or modded Fallout: New Vegas. However, it is a powerful tool that can significantly boost FPS, potentially doubling or tripling performance.
 - Lossless Scaling costs $7 USD.
+- Lossless Scaling should not be used alongside other forms of frame generation, such as `AMD Fluid Motion Frames`.
 - The Uranium Fever team has no affiliation with or financial interest in Lossless Scaling.
 :::
 
