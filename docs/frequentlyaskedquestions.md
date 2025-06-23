@@ -328,6 +328,9 @@ Expand - Troubleshooting Steps
 - **Saving - How does saving work in Uranium Fever?**
   - In addition to manual saves, there is an auto-save function that rotates through 10 auto-saves on one minute save intervals.
 
+- **Shadows - Why do my shadows suddenly jump, rather than move continuously?**
+  - This is an intentional design choice in NVR to reduce associated performance cost and flicker that is introduced by continuously moving shadows.
+
 - **Shimmering/Sparkling/Firefly Objects - Why do some objects shimmer?**  
   - This is an unfortunate consequence of the NVR PBR shader interacting with poorly made textures. Ideally, these textures will be gradually replaced.
 
