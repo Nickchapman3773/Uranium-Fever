@@ -286,6 +286,9 @@ Expand - Troubleshooting Steps
 - **NoDelete - What does [NoDelete] mean?**  
   - This tag prevents Wabbajack from modifying the contents of tagged folders during updates.
 
+- **NVIDIA Profile Inspector Unhandled Exception - I received an error that there is an unhandled exception when trying to run the NVIDIA Profile Inspector. How do I fix it?**
+  - Update or reinstall your graphics card drivers.
+
 - **Optimization - How is Uranium Fever optimized?**  
   - We used Cathedral Asset Optimizer and Nvidia Texture Tools to compress textures, downsize to 2k, and generate mipmaps. These are subsequently further adjusted by SNIFF when appropriate. Animations are compressed then BSA-packed with BSArchPro, LOD distances are optimized, and priority flags are set to load only necessary items.
 
