@@ -142,10 +142,10 @@ Expand - Troubleshooting Steps
     - **Autumn Leaves** - 1
     - **Dry Wells** - 5
     - **Into the Deep** - 10
-    - **Lake Havasu** - 10
     - **Race To The Bottom** - 10
     - **Honest Hearts** - 10
     - **Zion Trails** - 10
+    - **Lake Havasu** - 15
     - **Old World Blues** - 15
     - **Dead Money (with Dead Money Tweaks)** - 25
     - **Lonesome Road** - 25
