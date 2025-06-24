@@ -75,6 +75,7 @@ const sidebars = {
    'troubleshooting',
   ],
   changelogSidebar: [
+    'changelog1.4.0.5',
     'changelog1.4.0.4',
     'changelog1.4.0.3', 
     'changelog1.4.0.2', 
