@@ -1,0 +1,57 @@
+---
+title: 1.4.0.5 - June 23, 2025
+hide_title: true
+sidebar_label: 1.4.0.5 - June 23, 2025
+---
+
+# <p align="center"> 1.4.0.5 - June 23, 2025 </p>
+
+**Changes:**
+- Rebalanced alcohol from Havasu Blues to be more inline with the rest of the alcohol in UF.
+- Added a bullet time AP initiation cost.
+- Replaced the Replica Chinese Assault Rifle in Havasu Blues with the standard Chinese Assault Rifle.
+
+**Fixes:**
+- Fixed incorrect NVTF settings being utilized by default from the stability presets.
+- Fixed some leftover stuff from a moved hideout. 
+- Fixed crashing in The Thorn.
+- Fixed missing pickup interact animations for unique weapons.
+- Fixed the Moonshine placed at the start of Havasu Blues being the static version.
+
+**Additions:**
+- Added Crafting XP.
+
+**Mod updates:**
+- Updated Snowglobe Flavour Text to version 1.1.1.
+- Updated P6 - Barrels to version 2.5.
+- Updated HV - Classic Turpentine to version 1.2.1.
+- Updated Lumen - Ambient Lighting to version 2.1.
+- Updated STARS TTW - Sweet's Total Armor Rework System to version 3.03.
+- Updated EDGE to version 9.03.
+- Updated EDGE - TGDCIO Patch to version 1.02.
+- Updated Bullet Time Improved - a JAM Addon to version 2.20.
+- Updated Vanilla Object Parallax Shader to version 1.4.
+
+**Uranium Haze, Soft AF, and Hardercore Updates:**
+- Uranium Haze:
+  - Slightly brightened Dry Wells terrain and objects at night.
+  - Made significant contrast related adjustments to Havasu.
+  - Significantly overhauled Havasu nighttime aesthetics.
+  - Recategorized various Havasu interiors.
+  - Added Dry Wells Cave Pack support.
+  - Added Mojave Merchants and Desert Dealers support.
+
+**Updating:**
+- Please refer to [Updating Uranium Fever](https://uraniumfever.net/docs/updating/) for further instructions.
+- Altered or outdated lists will not be supported.
+- Notifications of missing mods post-update are normal and reflect plugin merging.
+
+- **OLD - 1.4.0.0**: For updates from pre-1.4.0.0 versions, a **NEW INSTALLATION** and **NEW SAVE** are **BOTH REQUIRED**.
+- **OLD - 1.4.0.2**: For updates from pre-1.4.0.2 version, AMD users should follow the [Disabling Ultra Low Power State (ULPS)](https://uraniumfever.net/docs/setupinstructions/#-nvidia-users---applying-nvidia-profile-) instructions.
+- **OLD - 1.4.0.3**: For updates from pre-1.4.0.3 versions, repeat the [Installing New Vegas Reloaded (NVR)](https://uraniumfever.net/docs/setupinstructions/#-installing-new-vegas-reloaded-nvr-) instructions to update the mod to the newest version.
+
+ **Community:**
+- Submit Uranium Fever screenshots to the `UF-fever-screens` Discord channel for a chance to be featured on the website or loading screens!
+- Submit custom Character Builds and scenarios for Immersive Fast Travel or Immersive Sleep in the `uf-submissions` Discord channel!
+- If you’re enjoying the UF experience, leave a review in the comments on the [Uranium Fever Nexus](https://www.nexusmods.com/newvegas/mods/89815?tab=posts&BH=3) page!
+- Use the command `?rank Uranium Fever User` in the `uf-discussion channel` Discord channel to receive update notifications on Discord.
