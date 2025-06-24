@@ -17,7 +17,7 @@ For any installation errors, launch crashes, or launch freezes, perform these st
 Expand - Troubleshooting Steps
 </summary>
 
-- NVIDIA graphics card users should install the [Community Vulkan Compatibility Driver](https://github.com/marekzajac97/nvgpucomp32_patch), as the current version is incompatible with DXVK.
+- NVIDIA graphics card users with 50xx series cards should install the [Community Vulkan Compatibility Driver](https://github.com/marekzajac97/nvgpucomp32_patch), as the current version is incompatible with DXVK.
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/setupinstructions#-installing-uranium-fever-).
 - Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/requirements).
