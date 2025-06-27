@@ -151,7 +151,8 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - If prompted to `register to handle nxm links`, select `Yes`.
 
 :::note Epic Game Users
-- Epic Games users should open ![image](https://github.com/user-attachments/assets/3ce5310d-bdad-4a31-ac3b-424b45dd26a8) `Modify Executables` add the argument `-EpicPortal` to the `Uranium Fever` executable, then select `Apply`.
+- Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
+- Select `Uranium Fever`, select the `Arguments` box, add `-EpicPortal`, then select `Apply`.
 
  	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
 
