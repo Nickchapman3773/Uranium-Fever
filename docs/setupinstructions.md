@@ -152,7 +152,8 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 
 :::note Epic Game Users
 - Epic Games users should open ![image](https://github.com/user-attachments/assets/3ce5310d-bdad-4a31-ac3b-424b45dd26a8) `Modify Executables` add the argument `-EpicPortal` to the `Uranium Fever` executable, then select `Apply`.
-	![image](https://github.com/user-attachments/assets/e6a9f8af-81ff-4807-8658-615737b1d811)
+
+ 	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
