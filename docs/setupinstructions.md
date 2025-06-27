@@ -155,6 +155,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - Select `Uranium Fever`, select the `Arguments` box, add `-EpicPortal`, then select `Apply`.
 
  	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
+:::
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
