@@ -12,9 +12,9 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 :::
 
 - Legally purchased copies of *Fallout: New Vegas*, *Fallout 3*, and all DLCs for both games.
-  - English versions of Steam, Steam PCR, Steam German, and GOG Fallout: New Vegas **ARE** compatible.
+  - English versions of Steam, Steam PCR, Steam German, GOG, and Epic Games Fallout: New Vegas **ARE** compatible.
     - Those with the Steam German version must use [DepotDownloader](https://github.com/SteamRE/DepotDownloader) to download the international (normal) executable.
-  - Windows Store, Gamepass, and Epic Games versions of Fallout: New Vegas **ARE NOT** compatible.
+  - Windows Store and Gamepass versions of Fallout: New Vegas **ARE NOT** compatible.
   - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 :::warning Controller Support
 [Controller support](https://uraniumfever.net/docs/controllerinstructions/) is ONLY provided for Steam users due to technical limitations associated with GOG installations.
