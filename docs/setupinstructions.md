@@ -150,6 +150,10 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register to handle nxm links`, select `Yes`.
 
+:::note Epic Game Users
+- Epic Games users should open ![image](https://github.com/user-attachments/assets/3ce5310d-bdad-4a31-ac3b-424b45dd26a8) `Modify Executables` add the argument `-EpicPortal` to the `Uranium Fever` executable.
+	![image](https://github.com/user-attachments/assets/e6a9f8af-81ff-4807-8658-615737b1d811)
+
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
 - In the top-right corner of MO2, open the drop-down menu labeled `Uranium Fever` and select `Configuring Game Settings`.
@@ -216,8 +220,8 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 :::
 
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
-- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `FNVpatch.exe`.
-- A CMD prompt popup will appear, confirming `FalloutNV.exe patched!`. `FalloutNV_backup.exe` will also appear in the folder.
+- Navigate to `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` and run `Patcher - GOG & Steam.exe` or `Patcher - Epic.exe` depending on your game version.
+- A CMD prompt popup will appear, confirming `FalloutNV.exe patched!` or `Press any key to continue...` depending on your game version. `FalloutNV_backup.exe` will also appear in the `[NoDelete] Stock New Vegas` folder.
 
 :::danger
 Failure to run the 4GB Patch will result in a pink screen or crash when launching the game.
