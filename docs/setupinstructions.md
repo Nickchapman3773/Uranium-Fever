@@ -416,7 +416,6 @@ Expand - Optional Mod Descriptions
 		- Overencumbrance has a much more dramatic impact on movement speed.
 		- Sleeping will restore a much smaller amount of health. 
 		- Radiation resist effects are reduced by 50% unanimously.
-		- Bottled water must be boiled to become clean water.
 		- One follower can now be recruited at five permanent charisma, and two followers can be recruited at ten charisma.
 		- Pip-boy can no longer be used in combat.
 		- Time dilation is halved when using quick select menus.
