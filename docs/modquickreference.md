@@ -7,13 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-  ![image](https://github.com/user-attachments/assets/0fbd345d-c0db-4b45-9fe4-b39b175a8cc7)
-
-- **3rd Person Camera Overhaul (Optional):**
-  - Optional Mod
-  - Swap POV Between 1st and 3rd Person: Hold `Z`.
-  - Swap Shoulder in 3rd Person: Press `Z`.
-  - Open Camera Editor: Press `Delete`.
+  ![image](https://github.com/user-attachments/assets/66ef21fb-33c7-4d51-aeae-6b3cb2fa4dd4)
 
 - **Activate:**
   - Press `E`.
@@ -39,11 +33,21 @@ sidebar_label: Mod Feature Reference List
   - Perform a preemptive animation to reduce jam likelihood.
   - Hold Grab (`G`) and press Reload (`R`).
 
+**Companion Inventory:**
+  - Equip weapon or armor: Mouse over equipment, `Right Click`.
+  - Use aid: Mouse over aid, press Grab (`G`).
+
 - **Crouch:**
   - Press `Left Ctrl`.
 
 - **Drop Item from Inventory:**
-  - Open Inventory, mouse over an item, `Right Click`.
+  - Open inventory, mouse over an item, `Right Click`.
+
+- **Enhanced Camera (Optional):**
+  - Optional Mod.
+  - Swap POV Between 1st and 3rd Person: `Z`.
+  - Swap Shoulder in 3rd Person: Press `x`.
+  - Vanity camera: Hold `Z`.
 
 - **Equip Follower Weapon or Gear:**
   - Mouse over desired gear or weapon and `Right Click`.
@@ -127,12 +131,6 @@ sidebar_label: Mod Feature Reference List
 - **Pip-Boy Flashlight:**
   - Hold `Tab`.
 
-- **Pip-Boy Vendor Radio (Optional):**
-  - Optional mod.
-  - Purchase items remotely at a premium cost.
-  - Add Vendors: Stand near them, open Pip-Boy Radio tab, press `Q`, and configure.
-  - Buy: Open Radio tab, press `Q`, and select vendor.
-
 - **Portable Craftomatic:**
   - Portable crafting kit.
   - Mouse over tool, press Activate (`E`).
@@ -185,6 +183,9 @@ sidebar_label: Mod Feature Reference List
 - **Vision Mode:**
   - Activate modes for compatible headgear using Pip-Boy charge (Small Energy Cells).
   - Press `N`.
+
+- **Wipe Helmet Visor:**
+  - Press `H`.
 
 - **Weapon Hweel:**
   - Open: Hold `7`.
