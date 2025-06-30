@@ -426,8 +426,6 @@ Expand - Optional Mod Descriptions
 
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
-	- **Stability - More Stable but Worse Performance** - Sacrifices a moderate amount of performance for stability. May be enabled by users with frequent crashes.
-	- **Stability - Most Stable but Worst Performance** - Sacrifices a large amount of performance for stability. May be enabled by users with frequent crashes despite enabling `Stability - More Stable but Worse Performance`.
 	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
 	- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial. May be disabled by those who have played the game before.
 	- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
