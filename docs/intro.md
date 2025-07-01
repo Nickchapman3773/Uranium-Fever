@@ -26,4 +26,3 @@ Some content in Uranium Fever contains difficult and potentially distressing the
 :::warning **Photosensitivity Warning**
 This list and the base game itself contains flashing lights which may not be suitable for those with light sensitivity or photosensitive epilepsy.
 :::
-:::
