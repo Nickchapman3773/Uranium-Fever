@@ -22,7 +22,5 @@ sidebar_label: Intro
 # <p align="center"> [Showcase](https://uraniumfever.net/docs/userinterface/) </p>
 
 :::danger **Trigger Warning**
-Some content in Uranium Fever contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, and intense audio cues. Please proceed with caution.
-:::warning **Photosensitivity Warning**
-This list and the base game itself contains flashing lights which may not be suitable for those with light sensitivity or photosensitive epilepsy.
+Some content in Uranium Fever contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, bright flashing lights, and intense audio cues. Please proceed with caution.
 :::
