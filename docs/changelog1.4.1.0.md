@@ -7,7 +7,8 @@ sidebar_label: 1.4.1.0 - July 2, 2025
 # <p align="center"> 1.4.1.0 - July 2, 2025 </p>
 
 **Removals:**
-- Removed Friends With Benefits Perk Pack (currently with an intermediate step to disable associated scripts, though will be fully removed at a later date).
+- Removed Friends With Benefits Perk Pack, which has significant negative balance implications (currently with an intermediate step to disable associated scripts, though will be fully removed at a later date).
+- Removed NAWEMO - NPCs use Ammo Variants and Weapon Mods, which was associated with crashing in specific circumstances.
 - Removed HiRes Skill Books Retexture.
 - Removed New Reno Radio.
 - Removed Optional stability presets, which are no longer needed due to a complete rewrite of NVTF.
