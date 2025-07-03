@@ -1,10 +1,10 @@
 ---
-title: 1.4.1.0 - July 2, 2025
+title: 1.4.1.0 - July 3, 2025
 hide_title: true
-sidebar_label: 1.4.1.0 - July 2, 2025
+sidebar_label: 1.4.1.0 - July 3, 2025
 ---
 
-# <p align="center"> 1.4.1.0 - July 2, 2025 </p>
+# <p align="center"> 1.4.1.0 - July 3, 2025 </p>
 
 **Removals:**
 - Removed Friends With Benefits Perk Pack, which has significant negative balance implications (currently with an intermediate step to disable associated scripts, though will be fully removed at a later date).
