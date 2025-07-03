@@ -11,7 +11,7 @@ sidebar_label: 1.4.1.0 - July 3, 2025
 - Removed NAWEMO - NPCs use Ammo Variants and Weapon Mods, which was associated with crashing in specific circumstances.
 - Removed HiRes Skill Books Retexture.
 - Removed New Reno Radio.
-- Removed Optional stability presets, which are no longer needed due to a complete rewrite of NVTF.
+- Removed Optional stability presets, which are no longer needed due to changes in NVTF.
 
 **Changes:**
 - Enabled Objective name and distance when in focus, though did so at a custom reduced size.
