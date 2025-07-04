@@ -1,15 +1,16 @@
 ---
-title: 1.4.1.0 - July 3, 2025
+title: 1.4.1.0 - July 4, 2025
 hide_title: true
-sidebar_label: 1.4.1.0 - July 3, 2025
+sidebar_label: 1.4.1.0 - July 4, 2025
 ---
 
-# <p align="center"> 1.4.1.0 - July 3, 2025 </p>
+# <p align="center"> 1.4.1.0 - July 4, 2025 </p>
 
 **Removals:**
 - Removed Friends With Benefits Perk Pack, which has significant negative balance implications (currently with an intermediate step to disable associated scripts, though will be fully removed at a later date).
-- Removed NAWEMO - NPCs use Ammo Variants and Weapon Mods, which was associated with crashing in specific circumstances.
-- Removed HiRes Skill Books Retexture.
+- Removed HiRes Skill Books Retexture, replaced by an alternative.
+- Removed Lit Valences, replaced by an alternative.
+- Removed Ranger Helmet Lumen Lights, replaced by an alternative.
 - Removed New Reno Radio.
 - Removed Optional stability presets, which are no longer needed due to changes in NVTF.
 
@@ -21,7 +22,7 @@ sidebar_label: 1.4.1.0 - July 3, 2025
 - Replaced instances of Havasu Blues’s Pickaxe with the DMT one.
 - Unobscured Havasu Blues Frozen Vault entrance.
 - Rebalanced the Alien Shotgun in Havasu Blues and gave it a model with iron sights.
-- Reduced Height Randomizer variation of female heights relative to male.
+- Reduced the intensity of Height Randomizer settings.
 - Changed Fast Travel Expense settings to be weight and distance based.
 
 **Fixes:**
@@ -75,12 +76,13 @@ sidebar_label: 1.4.1.0 - July 3, 2025
 - Added FNV Clean Animations - Alien Disintegrator.
 - Added Lumen - Physically Based Chems Patch.
 - Added Lumen - Physically Based Terminals Patch.
+- Added Lumen - Physically Based Collection 2 Patch.
 - Added Helmet Overlay to optionals, default on.
 - Added Helmet Overlay - Animation Addon to optionals, default on.
 
 **Mod updates:**
 - Updated Gambling Luck Rebalance (espless) to version 1.1.1.
-- Updated HV - Classic Props to version 1.3.
+- Updated HV - Classic Props to version 1.4.
 - Updated Big Town Extensions to version 5.07.
 - Updated The Divine Bomb of Atom to version 1.2.0.
 - Updated Crafting XP - ESPless to version 1.8.1.
@@ -106,6 +108,12 @@ sidebar_label: 1.4.1.0 - July 3, 2025
 - Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN) to version 12.0.
 - Updated Meshes and Collision - Totally Enhanced Nifs (MAC-TEN FO3 TTW)  to version 3.0.
 - Updated Simple Open Strip to version 2.1.
+- Updated DMT - Dead Money Tweaks to version 12.13.
+- Updated NPCs Sprint kNVSEto version 1.3.
+- Updated Door Pinch Fix to version 2.1.2.
+- Updated FPGE - Functional Post Game Ending to version 8.2.
+- Updated Lived-In All-in-One to version 1.9.2.
+- Updated YUPTTW to version 13.4.
 
 **Uranium Haze, Soft AF, and Hardercore Updates:**
 - Uranium Haze:
