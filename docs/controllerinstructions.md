@@ -5,7 +5,7 @@ sidebar_label: Controller Instructions
 ---
 
 :::tip Steam Users Only
-We only support Steam users with Steam Input. Unfortunately there are no viable third party programs with similar capabilities for GOG users.
+We only support Steam users with Steam Input. Unfortunately there are no viable third party programs with similar capabilities for GOG and Epic Games users.
 :::
 
 :::tip Controller Configs Zip File
