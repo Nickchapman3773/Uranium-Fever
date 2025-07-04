@@ -75,6 +75,7 @@ sidebar_label: 1.4.1.0 - July 4, 2025
 - Added Explosion Reactions.
 - Added FNV Clean Animations - Alien Disintegrator.
 - Added Lumen - Skinned Meshes.
+- Added Lumen - Skinned Meshes Patch.
 - Added Lumen - Physically Based Chems Patch.
 - Added Lumen - Physically Based Terminals Patch.
 - Added Lumen - Physically Based Collection 2 Patch.
