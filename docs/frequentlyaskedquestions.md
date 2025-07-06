@@ -70,7 +70,7 @@ Expand - Troubleshooting Steps
 
 - **Ammo Types - There are several different types of ammo included in each caliber. What do they each do?**
   - **AP** - Expensive and uncommon. Reduces weapon damage, but significantly reduces enemy DT (Damage Threshold). Very effective against large, powerful, armored enemies.
-  - **HP** - Expensive and uncommon. Increases weapon damage, but multiplies enemy DT (Damage Treshold). Very effective soft, weak, unarmored enemies.
+  - **HP** - Expensive and uncommon. Increases weapon damage, but multiplies enemy DT (Damage Treshold). Very effective against soft, weak, unarmored enemies.
   - **Regular** - Cheap and common. Ineffective against armored enemies.
   - **Junk/Surplus** - Cheap and common. Causes weapons to degrade in condition quicker and deals less damage.
   - **Other** - Other unnoted types of ammo (SWC, JSP, Match, etc) are special ammo types that typically trump standard ammo types in some fashion.
