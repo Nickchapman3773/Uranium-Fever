@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Gallary
+title: Gallery
 hide_title: true
-sidebar_label: Gallary
+sidebar_label: Gallery
 ---
 
 import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent';
