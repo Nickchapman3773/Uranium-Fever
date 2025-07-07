@@ -37,6 +37,8 @@ const images = [
     { original: "https://github.com/user-attachments/assets/be5f4507-0909-408d-b5a4-6d72e900dc97", thumbnail: "https://github.com/user-attachments/assets/be5f4507-0909-408d-b5a4-6d72e900dc97" },
     { original: "https://github.com/user-attachments/assets/c5db0c81-192c-4261-9d92-e28558b74f54", thumbnail: "https://github.com/user-attachments/assets/c5db0c81-192c-4261-9d92-e28558b74f54" },
     { original: "https://github.com/user-attachments/assets/cdd6da61-eed9-407a-a5dc-7d8405a7e858", thumbnail: "https://github.com/user-attachments/assets/cdd6da61-eed9-407a-a5dc-7d8405a7e858" },
+    { original: "https://github.com/user-attachments/assets/5013491e-5108-4e2e-8ed1-3c2a57b67965", thumbnail: "https://github.com/user-attachments/assets/5013491e-5108-4e2e-8ed1-3c2a57b67965" },
+    { original: "https://github.com/user-attachments/assets/6ed4b4e2-accc-4052-9649-88d870d61c7e", thumbnail: "https://github.com/user-attachments/assets/6ed4b4e2-accc-4052-9649-88d870d61c7e" },
 ];
 
 export default function UndergroundinteriorsGallery() {
