@@ -82,7 +82,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mainSidebar',
             position: 'right',
             label: 'Setup',
           },
@@ -94,7 +94,7 @@ const config = {
           },
           {
             type: "doc",
-            docId: "mainfaq",
+            docId: "main/faq",
             position: "right",
             label: "FAQ",
           },
@@ -112,13 +112,13 @@ const config = {
           },
           {
             type: "doc",
-            docId: "maindonations",
+            docId: "main/donations",
             position: "right",
             label: "Donate",
           },
           {
             type: "doc",
-            docId: "mainsupport",
+            docId: "main/support",
             position: "right",
             label: "Help",
           },

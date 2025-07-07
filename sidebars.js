@@ -18,7 +18,7 @@ const sidebars = {
 
   // But you can create a sidebar manually
   
-  tutorialSidebar: [
+  mainSidebar: [
     'main/intro',
     'main/features',
     'main/highlights',
