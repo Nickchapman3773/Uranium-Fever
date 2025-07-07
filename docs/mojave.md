@@ -4,6 +4,6 @@ title: Mojave Wasteland
 hide_title: true
 sidebar_label: Mojave Wasteland
 ---
-import MojaveWastelandGallery from '@site/src/components/MojaveWastelandGallery'
+import MojaveWastelandGallery from '@site/src/components/MojaveGallery'
 
 <MojaveWastelandGallery />
