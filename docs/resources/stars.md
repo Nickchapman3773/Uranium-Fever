@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: STARS Installation Guide
 ---
 
-# ![STARS](assets/stars.png)
+# ![STARS](../assets/stars.png)
 
 :::danger READ CAREFULLY
 STARS is a comprehensive and dramatic overhaul of the entire TTW armor suite. It completely rebalances the **stats, appearance, and effects of every single armor in the game**, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the Nexus. **READ THE DESCRIPTION** on the mod page carefully before proceeding.
