@@ -33,7 +33,7 @@ const sidebars = {
     'maincredits',
   ],
   gallerySidebar: [
-    'galleryuserinterface',
+    'gallery/userinterface',
     'gallerymechanics',
     'gallerycharacters',
     'gallerycreatures',
