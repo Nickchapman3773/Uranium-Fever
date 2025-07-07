@@ -6,4 +6,4 @@ sidebar_label: Mojave Wasteland
 ---
 import MojaveWastelandGallery from '@site/src/components/MojaveGallery'
 
-<MojaveWastelandGallery />
+<MojaveGallery />
