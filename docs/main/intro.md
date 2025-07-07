@@ -19,7 +19,7 @@ sidebar_label: Intro
 :::
 
 # <p align="center"> [Modlist](https://loadorderlibrary.com/lists/uranium-fever) </p>
-# <p align="center"> [Showcase](https://uraniumfever.net/docs/userinterface/) </p>
+# <p align="center"> [Showcase](https://uraniumfever.net/docs/gallery/userinterface/) </p>
 
 :::danger **Trigger Warning**
 Some content in Uranium Fever contains difficult and potentially distressing themes, including self-harm, self-destructive thoughts, suicidal ideation, sexual assault, bright flashing lights, and intense audio cues. Please proceed with caution.

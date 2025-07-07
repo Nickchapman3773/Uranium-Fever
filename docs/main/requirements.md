@@ -17,7 +17,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
   - Windows Store and Gamepass versions of Fallout: New Vegas **ARE NOT** compatible.
   - **ALL** versions of Fallout 3 **ARE** compatible. The version of Fallout 3 does **NOT** need to match the version of Fallout: New Vegas.
 :::warning Controller Support
-[Controller support](https://uraniumfever.net/docs/controllerinstructions/) is ONLY provided for Steam users due to technical limitations associated with GOG installations.
+[Controller support](https://uraniumfever.net/docs/main/controller) is ONLY provided for Steam users due to technical limitations associated with GOG installations.
 :::
 - Legal and activated copy of Windows 10 or higher (64-bit).
 - The latest drivers for your GPU.

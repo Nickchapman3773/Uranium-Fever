@@ -10,7 +10,7 @@ sidebar_label: Setup Instructions
 :::danger Important
 Follow these instructions carefully and in the exact order specified. Skipping steps may lead to installation issues.
 
-Before requesting support, check the [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting common errors.
+Before requesting support, check the [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) for troubleshooting common errors.
 :::
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
@@ -80,7 +80,7 @@ If clean installs are not appropriately created, the Uranium Fever installation 
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
 :::note
-These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/setupinstructions#-creating-a-clean-stock-new-vegas-folder-) section.
+These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/main/setup#-creating-a-clean-stock-new-vegas-folder-) section.
 :::
 
 ### <p align="center"> ![Installing Uranium Fever](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
@@ -109,7 +109,7 @@ These clean installations and backups will be utilized in the [Creating a Clean 
 - Close Wabbajack. **DO NOT** select the `Create Desktop Shortcut` option.
 
 :::danger Red `INSTALLATION FAILED` Notification
-- Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
+- Please refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) for a list of initial troubleshooting steps for common installation errors **PRIOR** to requesting support.
 :::
 
 :::warning Reminder
@@ -186,7 +186,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 :::
 
 :::danger Configuring Game Settings Crashes
-Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for common troubleshooting steps before requesting support.
+Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) for common troubleshooting steps before requesting support.
 :::
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
@@ -215,7 +215,7 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyas
 :::tip Double Check
 Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` folder, select `Properties`, and verify that the folder size is exactly 17GB.
 
-If not, delete the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/setupinstructions#-creating-clean-installs-and-backups-).
+If not, delete the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/main/setup#-creating-clean-installs-and-backups-).
 :::
 
 :::warning
@@ -403,7 +403,7 @@ Expand - Optional Mod Descriptions
   	- **Immersive Minigames** - A player skill-based alternative to the standard minigames.
   	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Highly recommended to keep enabled for appropriate balance.
   	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
-	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
+	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/main/reference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 	- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
 		- One perk is gained every 3 levels
@@ -437,18 +437,18 @@ Expand - Optional Mod Descriptions
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Uranium Fever Launcher will **NOT** launch the game with Uranium Fever enabled.
 - If prompted that INIs are read-only, select `Clear the Read Only Flag`.
-- If launching results in the game launcher opening instead of Uranium Fever opening, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
-- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/modquickreference).
+- If launching results in the game launcher opening instead of Uranium Fever opening, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-) steps.
+- After starting a new game, press `K` in the pause menu to view `Keybinds and Legend`. For more details, see the [Mod Feature Reference List](https://uraniumfever.net/docs/main/reference).
 
 	![Launch](https://github.com/user-attachments/assets/19f3bba6-965f-4df7-9adc-571ff33b3893)
 
 :::danger Launch Abnormalities
 - Launch Crashes:
 	- Overwolf is incompatible and will cause a launch crash.
-	- For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/frequentlyaskedquestions) for troubleshooting steps before requesting support.
+	- For other sources of launch crashes, refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) for troubleshooting steps before requesting support.
 - Unmodded Fallout: New Vegas launches:
-	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/setupinstructions/#-installing-uranium-fever-). This will repair any incorrect filepaths.
- 	- DO NOT select `Play` from the game launcher. If this menu opens, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/setupinstructions#-configuring-game-settings-) steps.
+	- Re-run the [Uranium Fever Wabbajack Installer](https://uraniumfever.net/docs/main/setup#-installing-uranium-fever-). This will repair any incorrect filepaths.
+ 	- DO NOT select `Play` from the game launcher. If this menu opens, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-) steps.
     
     ![NoPlay](https://github.com/user-attachments/assets/dd3d35e5-6461-444e-a8aa-dfbe8b87413d)
 
@@ -472,4 +472,4 @@ This step is only necessary for mod authors.
 ### <p align="center"> ![Controller Users](https://github.com/user-attachments/assets/bbeed182-b2f9-4bbf-9335-76cd665fb85b) </p>
 :::tip For Contoller Users Only
 
-Please follow **ALL** instructions on the **[Controller Instructions](https://uraniumfever.net/docs/controllerinstructions/) page**.
+Please follow **ALL** instructions on the **[Controller Instructions](https://uraniumfever.net/docs/main/controller) page**.
