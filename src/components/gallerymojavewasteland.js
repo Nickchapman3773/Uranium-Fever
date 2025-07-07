@@ -91,7 +91,7 @@ const images = [
   }
 ];
 
-export default function gallerymojave() {
+export default function gallerymojavewasteland() {
   return <ImageGallery items={images}
     autoPlay={true}
     showIndex={true}
