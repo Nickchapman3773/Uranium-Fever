@@ -91,7 +91,7 @@ const images = [
   }
 ];
 
-export default function MojaveGallery() {
+export default function gallerymojave() {
   return <ImageGallery items={images}
     autoPlay={true}
     showIndex={true}
