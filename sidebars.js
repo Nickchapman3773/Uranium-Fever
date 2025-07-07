@@ -45,6 +45,7 @@ const sidebars = {
     'gallery/megaton',
     'gallery/drywells',
     'gallery/lakehavasu',
+    'gallery/ziontrail',
     'gallery/arroyocanyon',
     'gallery/deadmoney',
     'gallery/honesthearts',
