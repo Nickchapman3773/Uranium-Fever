@@ -1,4 +1,3 @@
-![FeverScreen1159](https://github.com/user-attachments/assets/b738e006-93b1-46af-aa1b-152f3141d6ad)import React from 'react';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 
