@@ -66,7 +66,7 @@ const sidebars = {
     'gallerypittinteriors',
   ],
   resourcesSidebar: [
-   'resourcessoverview',
+   'resourcesoverview',
    'resourceslinks',
    'resourceslossless',
    'resourcesstars',
