@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 title: Mojave Wasteland
 hide_title: true
 sidebar_label: Mojave Wasteland
