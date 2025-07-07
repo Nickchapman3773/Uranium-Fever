@@ -4,7 +4,6 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 const images = [
     { original: "https://github.com/user-attachments/assets/83109da1-b40f-4ce1-900c-c073378e26f2", thumbnail: "https://github.com/user-attachments/assets/83109da1-b40f-4ce1-900c-c073378e26f2" },
     { original: "https://github.com/user-attachments/assets/ef18e6c2-4ece-42b6-a1c2-48f7c68b5246", thumbnail: "https://github.com/user-attachments/assets/ef18e6c2-4ece-42b6-a1c2-48f7c68b5246" },
-    { original: "https://github.com/user-attachments/assets/855a2279-e95d-4363-9933-7c1bb9fc1462", thumbnail: "https://github.com/user-attachments/assets/855a2279-e95d-4363-9933-7c1bb9fc1462" },
     { original: "https://github.com/user-attachments/assets/bb450084-8aa8-4198-a8b8-346a7deac9d6", thumbnail: "https://github.com/user-attachments/assets/bb450084-8aa8-4198-a8b8-346a7deac9d6" },
     { original: "https://github.com/user-attachments/assets/f2ea8977-3696-416a-ba1a-9ac9d769a4ab", thumbnail: "https://github.com/user-attachments/assets/f2ea8977-3696-416a-ba1a-9ac9d769a4ab" },
     { original: "https://github.com/user-attachments/assets/a9a46fbd-587e-4ec4-90f4-5c01f0b1d9d2", thumbnail: "https://github.com/user-attachments/assets/a9a46fbd-587e-4ec4-90f4-5c01f0b1d9d2" },
