@@ -91,7 +91,7 @@ const images = [
   }
 ];
 
-export default function ImageGalleryComponent() {
+export default function MojaveWastelandGallery() {
   return <ImageGallery items={images}
     autoPlay={true}
     showIndex={true}
