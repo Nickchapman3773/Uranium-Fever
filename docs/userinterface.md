@@ -4,6 +4,6 @@ title: User Interface
 hide_title: true
 sidebar_label: User Interface
 ---
-import InterfaceGallery from '@site/src/components/MojaveGallery'
+import InterfaceGallery from '@site/src/components/InterfaceGallery'
 
 <InterfaceGallery />
