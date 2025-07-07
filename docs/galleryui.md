@@ -6,4 +6,4 @@ sidebar_label: User Interface
 ---
 import InterfaceGallery from '@site/src/components/InterfaceGallery'
 
-<InterfaceGallery />
+<galleryui />
