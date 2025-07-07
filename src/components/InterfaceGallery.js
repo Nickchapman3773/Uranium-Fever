@@ -51,7 +51,7 @@ const images = [
   }
 ];
 
-export default function InterfaceGallery() {
+export default function galleryui() {
   return <ImageGallery items={images}
     autoPlay={true}
     showIndex={true}
