@@ -4,6 +4,6 @@ title: User Interface
 hide_title: true
 sidebar_label: User Interface
 ---
-import galleryuserinterface from '@site/src/components/galleryuserinterface'
+import UserInterfaceGallery from '@site/src/components/UserInterfaceGallery'
 
-<galleryuserinterface />
+<UserInterfaceGallery />
