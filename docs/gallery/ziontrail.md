@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
-title: Honest Hearts
+title: Zion Trail
 hide_title: true
-sidebar_label: Honest Hearts
+sidebar_label: Zion Trail
 ---
 
 import ZiontrailGallery from '@site/src/components/ZiontrailGallery'
