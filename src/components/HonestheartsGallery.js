@@ -16,7 +16,6 @@ const images = [
     { original: "https://github.com/user-attachments/assets/0654ebde-616a-4cd9-bcad-b1d2e8c20160", thumbnail: "https://github.com/user-attachments/assets/0654ebde-616a-4cd9-bcad-b1d2e8c20160" },
     { original: "https://github.com/user-attachments/assets/12190be1-876f-4942-aacc-e2e26028ff0e", thumbnail: "https://github.com/user-attachments/assets/12190be1-876f-4942-aacc-e2e26028ff0e" },
     { original: "https://github.com/user-attachments/assets/7b405536-040f-46a6-b6e8-a9d2d34a7a79", thumbnail: "https://github.com/user-attachments/assets/7b405536-040f-46a6-b6e8-a9d2d34a7a79" },
-    { original: "https://github.com/user-attachments/assets/4c7b4f5f-75ad-4d8f-ab01-293f88126e36", thumbnail: "https://github.com/user-attachments/assets/4c7b4f5f-75ad-4d8f-ab01-293f88126e36" },
     { original: "https://github.com/user-attachments/assets/39bc19a9-167c-453f-812b-194b203613ae", thumbnail: "https://github.com/user-attachments/assets/39bc19a9-167c-453f-812b-194b203613ae" },
     { original: "https://github.com/user-attachments/assets/6afc4b09-0559-476e-95e1-d5727cb1847c", thumbnail: "https://github.com/user-attachments/assets/6afc4b09-0559-476e-95e1-d5727cb1847c" },
     { original: "https://github.com/user-attachments/assets/b9c006d6-01ce-4f20-8693-02d3d05fdb9c", thumbnail: "https://github.com/user-attachments/assets/b9c006d6-01ce-4f20-8693-02d3d05fdb9c" },
