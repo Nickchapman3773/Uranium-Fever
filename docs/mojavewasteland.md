@@ -6,6 +6,9 @@ sidebar_label: Mojave Wasteland
 ---
 import ImageGalleryComponent from '@site/src/components/ImageGalleryComponent'
 
+<ImageGalleryComponent />
+
+
 <!-- ![MW01](https://github.com/user-attachments/assets/7bfee7b6-0d16-4df6-8859-ce817a59faf0)
 ![MW02](https://github.com/user-attachments/assets/0b8ac930-ec64-4b6f-a136-e623b279b003)
 ![MW04](https://github.com/user-attachments/assets/703dc7d8-9cda-428e-b337-50164162c036)
