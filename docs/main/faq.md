@@ -30,7 +30,7 @@ Expand - Troubleshooting Steps
 - Update to the most recent graphics card drivers.
 - Right click the Uranium Fever folder and uncheck Read-only.
 - Restart your computer.
-- Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizedr2.v
+- Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizer 2.
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Uranium Fever > Mods` folder.
 - Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/main/setup#-running-4gb-patcher-) step.
