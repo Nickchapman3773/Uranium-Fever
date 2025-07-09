@@ -27,7 +27,6 @@ Expand - Troubleshooting Steps
 - Disable any overlay like Steam, Overwolf, Afterburner, Discord, Nvidia, etc. | Xbox Game Bar does not need disabling.
 - Disable Windows Defender.
 - If using a pre-built computer or laptop, close or uninstall any proprietary programs (for example, Omen Gaming Hub).
-- Update to the most recent graphics card drivers.
 - Right click the Uranium Fever folder and uncheck Read-only.
 - Restart your computer.
 - Launch Fallout: New Vegas once more from Steam/GOG, then try launching again through Mod Organizer 2.
