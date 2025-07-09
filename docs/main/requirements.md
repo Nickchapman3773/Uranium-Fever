@@ -23,7 +23,7 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 - The latest drivers for your GPU.
 
 :::warning NVIDIA Graphics Drivers
-NVIDIA graphics card users with 50xx series graphics cards should downgrade to [Driver Version 572.83](https://www.nvidia.com/en-us/drivers/details/242277/), as subsequent versions are incompatible with DXVK.
+NVIDIA graphics card users should downgrade to [Driver Version 572.83](https://www.nvidia.com/en-us/drivers/details/242277/), as subsequent versions are incompatible with DXVK.
 :::
 
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
