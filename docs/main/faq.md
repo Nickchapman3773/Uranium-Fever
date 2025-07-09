@@ -17,7 +17,7 @@ For any installation errors, launch crashes, or launch freezes, perform these st
 Expand - Troubleshooting Steps
 </summary>
 
-- NVIDIA graphics card users with 50xx series cards should downgrade to [Driver Version 572.83](https://www.nvidia.com/en-us/drivers/details/242277/), as subsequent versions are incompatible with DXVK.
+- NVIDIA graphics card users should downgrade to [Driver Version 572.83](https://www.nvidia.com/en-us/drivers/details/242277/), as subsequent versions are incompatible with DXVK.
 - Verify ownership of supported versions of `Fallout: New Vegas`, `Fallout 3`, and all DLCs, as specified in [Requirements](https://uraniumfever.net/docs/main/requirements).
 - Log out and back into Nexus within the Wabbajack client, as outlined in [Installing Uranium Fever](https://uraniumfever.net/docs/main/setup#-installing-uranium-fever-).
 - Reinstall the required .NET Framework and Visual C++ Runtime Libraries, per [Requirements](https://uraniumfever.net/docs/main/requirements).
