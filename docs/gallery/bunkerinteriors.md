@@ -8,5 +8,3 @@ sidebar_label: Bunker Interiors
 import BunkerinteriorsGallery from '@site/src/components/BunkerinteriorsGallery'
 
 <BunkerinteriorsGallery />
-
-![Uploading FeverScreen1271.png…]()
