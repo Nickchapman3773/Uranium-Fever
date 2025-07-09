@@ -25,6 +25,9 @@ const images = [
     { original: "https://github.com/user-attachments/assets/212f6030-774c-4737-be60-3c43cc091ed5", thumbnail: "https://github.com/user-attachments/assets/212f6030-774c-4737-be60-3c43cc091ed5" },
     { original: "https://github.com/user-attachments/assets/19cf0461-e448-4020-8f24-eef28e7408d7", thumbnail: "https://github.com/user-attachments/assets/19cf0461-e448-4020-8f24-eef28e7408d7" },
     { original: "https://github.com/user-attachments/assets/066115d1-793b-45c0-851b-804fed7b8215", thumbnail: "https://github.com/user-attachments/assets/066115d1-793b-45c0-851b-804fed7b8215" },
+    { original: "https://github.com/user-attachments/assets/bb83225f-8950-4cc9-9742-9527e633af06", thumbnail: "https://github.com/user-attachments/assets/bb83225f-8950-4cc9-9742-9527e633af06" },
+    { original: "https://github.com/user-attachments/assets/f727aa7e-d585-40e8-95af-2ef0ae9cc38a", thumbnail: "https://github.com/user-attachments/assets/f727aa7e-d585-40e8-95af-2ef0ae9cc38a" },
+    { original: "https://github.com/user-attachments/assets/3c068df8-8063-4213-a3a7-3223a1d1f471", thumbnail: "https://github.com/user-attachments/assets/3c068df8-8063-4213-a3a7-3223a1d1f471" },
 ];
 
 export default function IndustrialinteriorsGallery() {
