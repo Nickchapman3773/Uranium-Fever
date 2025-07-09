@@ -31,6 +31,9 @@ const images = [
     { original: "https://github.com/user-attachments/assets/5703890b-e122-40c9-8a49-6f685e806e8a", thumbnail: "https://github.com/user-attachments/assets/5703890b-e122-40c9-8a49-6f685e806e8a" },
     { original: "https://github.com/user-attachments/assets/e409c161-12e3-4a79-ab3d-193f4a3207a9", thumbnail: "https://github.com/user-attachments/assets/e409c161-12e3-4a79-ab3d-193f4a3207a9" },
     { original: "https://github.com/user-attachments/assets/39c74bac-7cab-413b-bfe5-3f378b250257", thumbnail: "https://github.com/user-attachments/assets/39c74bac-7cab-413b-bfe5-3f378b250257" },
+    { original: "https://github.com/user-attachments/assets/513cf43e-5cb3-47c5-936a-4b6ccf0fbf48", thumbnail: "https://github.com/user-attachments/assets/513cf43e-5cb3-47c5-936a-4b6ccf0fbf48" },
+    { original: "https://github.com/user-attachments/assets/fd5a4cac-5861-43cf-94bc-e5690ea18ca5", thumbnail: "https://github.com/user-attachments/assets/fd5a4cac-5861-43cf-94bc-e5690ea18ca5" },
+    { original: "https://github.com/user-attachments/assets/28218496-82d1-4feb-b1b5-6b025926f7b7", thumbnail: "https://github.com/user-attachments/assets/28218496-82d1-4feb-b1b5-6b025926f7b7" },
 ];
 
 export default function BunkerinteriorsGallery() {
