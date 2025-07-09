@@ -451,9 +451,6 @@ Expand - Optional Mod Descriptions
  	- DO NOT select `Play` from the game launcher. If this menu opens, repeat the [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-) steps.
     
     ![NoPlay](https://github.com/user-attachments/assets/dd3d35e5-6461-444e-a8aa-dfbe8b87413d)
-
-- Desktop shortcuts:
-	- Do **NOT** create a Uranium Fever shortcut, as this can cause load order abnormalities when updating Uranium Fever
 :::
 
 ### <p align="center"> ![Modders - Installing Geck](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc) </p>
