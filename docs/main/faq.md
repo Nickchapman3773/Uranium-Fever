@@ -143,7 +143,7 @@ Expand - Troubleshooting Steps
     - **Into the Deep** - 5-10
     - **Race To The Bottom** - 10-15
     - **Honest Hearts** - 10-15
-    - **Zion Trails** - 10-15
+    - **Zion Trails** - 15-20
     - **Lake Havasu** - 15-20
     - **Old World Blues** - 25-30
     - **Dead Money (with Dead Money Tweaks)** - 25-30
