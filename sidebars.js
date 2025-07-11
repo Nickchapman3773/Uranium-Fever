@@ -34,11 +34,9 @@ const sidebars = {
   ],
   gallerySidebar: [
     'gallery/userinterface',
-    'gallery/mechanics',
     'gallery/characters',
     'gallery/creatures',
     'gallery/armor',
-    'gallery/weapons',
     'gallery/mojavewasteland',
     'gallery/strip',  
     'gallery/capitalwasteland',
