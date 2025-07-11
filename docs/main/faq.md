@@ -133,21 +133,21 @@ Expand - Troubleshooting Steps
 
 - **DLCs & Quest Mods - What levels are recommended for the DLCs and quest mods?**
   - **Capital Wasteland:**
-    - **Point Lookout (with Low Level Point Lookout)** - 10
-    - **The Pitt** - 15
-    - **Mothership Zeta (with Hardcore Zeta)** - 25
-    - **Operation Anchorage (with Anchorage Gameplay Expansion)** - 25
+    - **Point Lookout (with Low Level Point Lookout)** - 5-10
+    - **The Pitt** - 15-20
+    - **Mothership Zeta (with Hardcore Zeta)** - 20-25
+    - **Operation Anchorage (with Anchorage Gameplay Expansion)** - 25-30
   - **Mojave Wasteland:**
     - **Autumn Leaves** - 1
-    - **Dry Wells** - 5
-    - **Into the Deep** - 10
-    - **Race To The Bottom** - 10
-    - **Honest Hearts** - 10
-    - **Zion Trails** - 10
-    - **Lake Havasu** - 15
-    - **Old World Blues** - 15
-    - **Dead Money (with Dead Money Tweaks)** - 25
-    - **Lonesome Road** - 25
+    - **Dry Wells** - 5-10
+    - **Into the Deep** - 5-10
+    - **Race To The Bottom** - 10-15
+    - **Honest Hearts** - 10-15
+    - **Zion Trails** - 10-15
+    - **Lake Havasu** - 15-20
+    - **Old World Blues** - 25-30
+    - **Dead Money (with Dead Money Tweaks)** - 25-30
+    - **Lonesome Road** - 40-45
 
 - **Disabling Mods - Can I disable ___ mod?**
   - The only mods you can safely enable or disable are those in the `Optional` separators.
