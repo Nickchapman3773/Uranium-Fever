@@ -405,7 +405,7 @@ Expand - Optional Mod Descriptions
   	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
 	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/main/reference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
-	- **Uranium Fever Hardercore** - Various settings that dramatically increases the difficulty of Uranium Fever. The mod includes the following changes:
+	- **Uranium Fever Hardercore** - Various settings that dramatically increase the difficulty of Uranium Fever. The mod includes the following changes:
 		- One perk is gained every 3 levels
 		- No perks are gained after being humbled (first time travel between wastelands) until the player reaches their pre-humbled level.
 		- 2 Less skill points are gained per level.
@@ -423,6 +423,13 @@ Expand - Optional Mod Descriptions
 		- Forced entry settings are more likely to break items in containers and door locks have more health.
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- Locks and Terminals have a random chance to be a higher lock level.
+ 	- **Uranium Fever Softercore** - Various settings that dramatically reduce the difficulty of Uranium Fever. The mod includes the following changes:
+		- Milder loot scarcity settings.
+   		- Hardcore needs accumulation rate is halved.
+		- Weapon requirement penalties penalities is reduced.
+		- Terminal shock punishment when failing to hack a terminal is reduced.
+		- The radius of irradiated locations is reduced.
+		- Difficulty starts at normal but can be changed to Easy or Very Easy.
 
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
