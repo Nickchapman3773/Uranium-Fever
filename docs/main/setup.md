@@ -426,7 +426,7 @@ Expand - Optional Mod Descriptions
  	- **Uranium Fever Softercore** - Various settings that dramatically reduce the difficulty of Uranium Fever. The mod includes the following changes:
 		- Milder loot scarcity settings.
    		- Hardcore needs accumulation rate is halved.
-		- Weapon requirement penalties penalities is reduced.
+		- Weapon requirement penalties are reduced.
 		- Terminal shock punishment when failing to hack a terminal is reduced.
 		- The radius of irradiated locations is reduced.
 		- Difficulty starts at normal but can be changed to Easy or Very Easy.
