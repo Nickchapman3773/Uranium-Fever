@@ -74,6 +74,7 @@ const sidebars = {
    'resources/troubleshooting',
   ],
   changelogSidebar: [
+    'changelog/1.4.2.0',
     'changelog/1.4.1.1',
     'changelog/1.4.1.0',
     'changelog/1.4.0.5',
