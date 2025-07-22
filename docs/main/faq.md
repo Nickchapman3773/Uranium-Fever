@@ -309,7 +309,7 @@ Expand - Troubleshooting Steps
 - **Pink Screen - Why do I see pink transition screens?**  
   - You likely skipped the 4GB patching process (`FNVPatch.exe` in `[NoDelete] Stock New Vegas`).
 
-- **Plugin No Longer Present - I'm notified that certain plugins are missing. Is this an issue?**  
+- **Plugin No Longer Present/Mod Missing - I'm notified that certain plugins are missing. Is this an issue?**  
   - No, unless specifically noted. Some plugins may be merged or removed during optimization, which will not have a major impact on your save unless otherwise specified.
 
 - **Purifier - Why do I return to main menu after activating the purifier? Is this a bug?**
