@@ -353,7 +353,7 @@ Expand - Troubleshooting Steps
     - Improved hip fire spread.
     - Improved recoil control.
   - **Perception:**
-    - Improved NPC sneak awareness recognition.
+    - Improved NPC detection while sneaking.
     - Improved non-damaging forced entry bonus.
     - Improved bullet spread.
     - Improved degree of time dilation associated with Just Bullet Time.
