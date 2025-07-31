@@ -379,7 +379,7 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
   - **High Quality Profile**:
   	- Disables and tweaks several performance-intensive New Vegas Reloaded settings (e.g., disables terrain parallax and wetworld shaders. Reduces the quality of shadow shaders).
   - **Standard Quality Profile**:
-  	- Disables and tweaks several performance-intensive New Vegas Reloaded settings (e.g., disables shadow, terrain, godrays, and wetworld shaders).
+  	- Disables and tweaks several performance-intensive New Vegas Reloaded settings (e.g., disables shadow, terrain, godray, and wetworld shaders).
   - **Low Quality Profile**:
   	- Disables New Vegas Reloaded, Uranium Haze, and related mods.
   - **Very Low Quality Profile**:
