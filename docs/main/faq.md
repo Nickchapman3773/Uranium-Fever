@@ -58,7 +58,7 @@ Expand - Troubleshooting Steps
     - **CDN** - Mod hosted on the Wabbajack server.
     - **BOS** - Mod utilized base object swapper.
     - **SOFT AF** - These mods were created by OrgasmicSneeze, specifically for Uranium Fever.
-    - **SQ, LQ, VLQ, DB** - Mod disabled in Standard, Low, Very Low Quality, or Debug profiles.
+    - **HQ, SQ, LQ, VLQ, DB** - Mod disabled in High, Standard, Low, Very Low Quality, or Debug profiles.
 
 - **Addiction - How does addiction work in Uranium Fever?**
   - Addictions can be recovered from over time, after expereincing three days of withdrawals. Taking the associated chem resets the three day timer.
