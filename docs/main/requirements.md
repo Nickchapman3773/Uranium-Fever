@@ -21,11 +21,6 @@ Uranium Fever’s instructions are designed to be accessible for all users, rega
 :::
 - Legal and activated copy of Windows 10 or higher (64-bit).
 - The latest drivers for your GPU.
-
-:::warning NVIDIA Graphics Drivers
-NVIDIA graphics card users should downgrade to [Driver Version 572.83](https://www.nvidia.com/en-us/drivers/details/242277/), as subsequent versions are incompatible with DXVK.
-:::
-
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
 - [Visual C++ Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/).
   - Extract the archive, open the extracted folder, right-click `install_all.bat`, and select `Run as administrator`.
