@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-  ![image](https://github.com/user-attachments/assets/66ef21fb-33c7-4d51-aeae-6b3cb2fa4dd4)
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/47b078ef-23f3-4312-b627-e07858cb5fcd" />
 
 - **Activate:**
   - Press `E`.
@@ -187,6 +187,6 @@ sidebar_label: Mod Feature Reference List
 - **Wipe Helmet Visor:**
   - Press `H`.
 
-- **Weapon Hweel:**
-  - Open: Hold `7`.
+- **Weapon Wheel:**
+  - Open: Hold `SMB 2`.
   - Bind: Open Weapon Inventory, hold hotkeys (`1-4`), and select weapon.
