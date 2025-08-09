@@ -384,6 +384,8 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
   	- Disables New Vegas Reloaded, Uranium Haze, and related mods.
   - **Very Low Quality Profile**:
   	- Further reduces settings and disables additional effect and lighting mods.
+  - **Unloaded Profile**:
+  	- Reduces texture resolution dramatically to mimic the aesthetic of older 8-bit games. This profile **WILL NOT** provide additional performance benefits. 
   - **Debugging Profile**:
   	- Minimal load order, only essential mods enabled.
 
