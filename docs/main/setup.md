@@ -75,7 +75,7 @@ If clean installs are not appropriately created, the Uranium Fever installation 
 	- Move the `FalloutNV` folder to the desktop.
 	- Delete the `FalloutNV` folder if backups are not desired.
  	- Delete the `Fallout3` folder.
-- Open `Steam or GOG` and:
+- Open `Steam, GOG, or Epic` and:
 	- Uninstall `Fallout: New Vegas` and `Fallout 3` if they are still installed.
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
