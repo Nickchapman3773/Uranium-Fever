@@ -391,6 +391,8 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 
 :::tip Swapping profiles
 When swapping profiles, the same save can be used safely. Experiment and find out what profile works best for you!
+
+If performance remains a concern despite changing profiles, try the recommendations listed in the `FPS/Stutter - How can I increase FPS/Reduce Stutter in Uranium Fever?` section of the [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq).
 :::
  
 ### <p align="center"> ![Optional Mods](https://github.com/user-attachments/assets/ac08818b-a893-4d46-aa3f-77f40e0e3453) </p>
