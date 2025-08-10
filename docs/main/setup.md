@@ -83,7 +83,7 @@ If clean installs are not appropriately created, the Uranium Fever installation 
 The default filepaths for each launcher are as follows:
 - Steam: `C:\Program Files\Steam\steamapps\common\[Fallout: New Vegas OR Fallout 3]`
 - GOG: `C:\Program Files\GOG Galaxy\Games\[Fallout: New Vegas OR Fallout 3]`
-- Epic: `C:\Games\Epic Games\[Fallout: New Vegas OR Fallout 3]`
+- Epic: `C:\Program Files\Epic Games\[Fallout: New Vegas OR Fallout 3]`
 
 If stuggling to find the correct filepath, `right click` the `Fallout: New Vegas` in the respective launcher and find the appropriate option to view local files.
 :::
