@@ -79,7 +79,7 @@ If clean installs are not appropriately created, the Uranium Fever installation 
 	- Uninstall `Fallout: New Vegas` and `Fallout 3` if they are still installed.
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
 
-:::Tip Default Filepath Locations
+:::tip Default Filepath Locations
 The default filepaths for each launcher are as follows:
 - Steam: `C:\Program Files\Steam\steamapps\common\[Fallout: New Vegas OR Fallout 3]`
 - GOG: `C:\Program Files\GOG Galaxy\Games\[Fallout: New Vegas OR Fallout 3]`
