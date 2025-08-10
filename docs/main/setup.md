@@ -67,7 +67,7 @@ This is part one of a process that creates a **SELF-CONTAINED** installation tha
 If clean installs are not appropriately created, the Uranium Fever installation process will fail. Simply uninstalling the game through Steam/GOG is insufficient.
 :::
 
-- Navigate to `C:\[STEAM or GOG FILEPATH]` and:
+- Navigate to `C:\[STEAM, GOG, or EPIC FILEPATH]` and:
 	- Move the `Fallout New Vegas` folder to the desktop.
 	- Delete the `Fallout New Vegas` folder instead if backups are not desired.
 	- Delete the `Fallout 3` folder.
@@ -78,6 +78,15 @@ If clean installs are not appropriately created, the Uranium Fever installation 
 - Open `Steam or GOG` and:
 	- Uninstall `Fallout: New Vegas` and `Fallout 3` if they are still installed.
  	- Reinstall `Fallout: New Vegas` and `Fallout 3`.
+
+:::Tip Default Filepath Locations
+The default filepaths for each launcher are as follows:
+- Steam: `C:\Program Files\Steam\steamapps\common\[Fallout: New Vegas OR Fallout 3]`
+- GOG: `C:\Program Files\GOG Galaxy\Games\[Fallout: New Vegas OR Fallout 3]`
+- Epic: `C:\Games\Epic Games\[Fallout: New Vegas OR Fallout 3]`
+
+If stuggling to find the correct filepath, `right click` the `Fallout: New Vegas` in the respective launcher and find the appropriate option to view local files.
+:::
 
 :::note
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://uraniumfever.net/docs/main/setup#-creating-a-clean-stock-new-vegas-folder-) section.
@@ -124,7 +133,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 
 #### Step 1: Creating the Clean Stock New Vegas Folder
-- Navigate to the newly **reinstalled** `C:\[STEAM or GOG FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
+- Navigate to the newly **reinstalled** `C:\[STEAM, GOG, or EPIC FILEPATH]\Fallout New Vegas` folder, **COPY** ***ALL*** of the contents (click inside the folder, press `Ctrl+A`, then `Ctrl+C`), and **PASTE** (`Ctrl+V`) them into the `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas` folder.
 
 #### Step 2: Restoring Backups of Current Installs/Modded Instances
 :::important
@@ -132,7 +141,7 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 :::
 - After successfully creating the `Clean Stock New Vegas folder`, restore the files that were previously backed up.
   - If restoring files, create an additional backup of these clean folders for future use, as a clean installation will be required when updating Uranium Fever.
-  - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM or GOG FILEPATH]` folder, selecting `Replace` when prompted.
+  - Move your `Fallout New Vegas` folder from your desktop back into its origin in the `C:\[STEAM, GOG, or EPIC FILEPATH]` folder, selecting `Replace` when prompted.
   - Move your `FalloutNV` folder from your desktop back into its origin in the `C:\Users\[USERNAME]\Documents\My Games` folder, selecting `Replace` when prompted.
 
 :::danger
