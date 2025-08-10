@@ -191,8 +191,8 @@ Expand - Troubleshooting Steps
   - Reduce the [Uranium Fever Profile](https://uraniumfever.net/docs/main/setup#-selecting-a-uranium-fever-profile-) quality.
   - Reduce the `Detail` quality in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-).
   - If using a 4k monitor, try reducing resolution to 2k in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-), your computers `Display Settings`, and in `[#] [INF] [DB] - OneTweak - Custom INI`.
-  - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/resources/lossless).  
-    Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
+  - Consider trying [Lossless Scaling](https://uraniumfever.net/docs/resources/lossless).
+    - Please note that the Uranium Fever team has no affiliation with Lossless Scaling and does not provide support for it.
 
 - **FPS Limiters - Do I need a separate FPS limiter?**  
   - Yes. RTSS utilizes CPU-based functions to limit FPS, which offers lower latency and better consistency than GPU-based methods, especially in Fallout: New Vegas.
