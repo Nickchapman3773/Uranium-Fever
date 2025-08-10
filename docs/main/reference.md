@@ -7,7 +7,7 @@ sidebar_label: Mod Feature Reference List
 
 # ![Banner Mod Feature Quick Reference List](https://github.com/user-attachments/assets/71fcf3f0-e1a8-47fa-a2fa-0a7afe13b6f5)
 
-  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/47b078ef-23f3-4312-b627-e07858cb5fcd" />
+  ![KBQD](https://github.com/user-attachments/assets/aa0a432e-4abc-4e29-acd8-484f452ebb85)
 
 - **Activate:**
   - Press `E`.
