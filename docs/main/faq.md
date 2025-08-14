@@ -32,7 +32,6 @@ Expand - Troubleshooting Steps
 - Re-run the Uranium Fever Wabbajack Installer. This process will repair errors and is much quicker than the initial installation.
 - Ensure that the Tale of Two Wastelands’ filepath and mod size match the instructions in [Installing Tale of Two Wastelands (TTW)](https://uraniumfever.net/docs/main/setup#-installing-tale-of-two-wastelands-ttw-) (this MUST be INSIDE of the `Uranium Fever > Mods` folder.
 - Repeat the [Running 4GB Patcher](https://uraniumfever.net/docs/main/setup#-running-4gb-patcher-) step.
-- Repeat the [New Vegas Reloaded (NVR) installation process](https://uraniumfever.net/docs/main/setup#-installing-new-vegas-reloaded-nvr-).
 - If using an older graphics card, confirm use of the correct version of DXVK, per [Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://uraniumfever.net/docs/resources/troubleshooting#-intel-igpu-users-and-gpus-without-vulkan-support---downgrading-dxvk-).
 - If issues persist, delete the `Uranium Fever` folder and restart the installation process from the beginning.
 - For further help, share your crash log (found in `Uranium Fever > [NoDelete] Stock New Vegas > Crash Logs`) in the [uf-support-unmodified-list](https://discord.gg/WswmBGXQZt) Discord channel.
@@ -248,8 +247,8 @@ Expand - Troubleshooting Steps
 - **Long Load Screens - I have very long load screens, why?**  
   - You likely capped your FPS at too low a value.
 
-- **Manual Installs - Why must I manually install TTW and NVR?**  
-  - TTW requires manual installation due to ModPub restrictions and NVR is only available on Discord.
+- **Manual Installs - Why must I manually install TTW?**  
+  - TTW requires manual installation due to ModPub restrictions.
 
 - **Meat - Why don't animals drop meat?**
   - Without the Hunter perk, you struggle to hunt and harvest meat from your kills.
