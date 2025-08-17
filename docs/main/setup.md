@@ -448,8 +448,9 @@ Expand - Optional Mod Descriptions
   		- Reduced lockpicking difficulty when unlocking locks that are higher level than the player.
 		- Terminal shock punishment when failing to hack a terminal is reduced.
 		- The radius of irradiated locations is reduced.
+  		- Increases the material used by the Ammo Press and reduces the cooldown.
 		- Difficulty starts at normal but can be changed to Easy or Very Easy.
-
+    
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
 	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
