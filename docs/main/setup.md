@@ -418,13 +418,18 @@ Expand - Optional Mod Descriptions
 
 - **Optional Mods - Gameplay:**
 	- **Auto-Equip Weapon if Unarmed** - Auto-equips weapons that are picked up while unarmed. May be desirable to disable for unarmed character builds.
- 	- **Enhanced FOV** - Allows manual adjustment of the FOV.
-  	- **Fast Travel Expenses** - Adds a distance-based cost when fast traveling. Highly recommended to keep enabled for appropriate balance.
-  	- **Immersive Minigames** - A player skill-based alternative to the standard minigames.
-  	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Highly recommended to keep enabled for appropriate balance.
-  	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
+ 	- **Helmet Overlay** - Adds helmet-specific overlays and associated animations to the screen.
+  	- **Minigames - Wordle Hack** - Replaces the hacking minigame with Wordle.
+  	- **Minigames - Immersive Minigames** - A player skill-based alternative to the standard minigames.
 	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/main/reference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
+
+- **Optional Mods - Balance:**
+  	- **Fast Travel Expenses** - Adds a distance-based cost when fast traveling. Highly recommended to keep enabled for appropriate balance.
+  	- **Life After Death** - Adds punishments to death and reloads to prevent abuse of the save reload cycle. Highly recommended to keep enabled for appropriate balance.
+  	- **Permadeath** - Enables permadeath mode, in which the player only has a finite number of lives.
+  	  
+- **Optional Mods - Difficulty Presets:**
 	- **Uranium Fever Hardercore** - Various settings that dramatically increase the difficulty of Uranium Fever. The mod includes the following changes:
 		- One perk is gained every 3 levels.
 		- No perks are gained after being humbled (first time travel between wastelands) until the player reaches their pre-humbled level.
@@ -453,8 +458,9 @@ Expand - Optional Mod Descriptions
     
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
-	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
-	- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial. May be disabled by those who have played the game before.
+ 	- **Enhanced FOV** - Allows manual adjustment of the FOV.
+ 	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
+	- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial.
 	- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
 	- **UI - 21-9 Aspect Ratio Monitor (Ultrawide) Support** - Enables support for ultrawide (21:9) monitors.
 	- **UI - 32-9 Aspect Ratio Monitor (Super Ultrawide) Support** - Enables support for super ultrawide (32:9) monitors.
