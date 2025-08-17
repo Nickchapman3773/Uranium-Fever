@@ -448,7 +448,7 @@ Expand - Optional Mod Descriptions
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- Locks and Terminals have a random chance to be a higher lock level.
  	- **Uranium Fever Softercore** - Various settings that dramatically reduce the difficulty of Uranium Fever. The mod includes the following changes:
-   		- Hardcore needs accumulation rate is halved.
+   		- Hardcore needs accumulation rate is 33% of the base list.
 		- Weapon requirement penalties are reduced.
   		- Reduced lockpicking difficulty when unlocking locks that are higher level than the player.
 		- Terminal shock punishment when failing to hack a terminal is reduced.
