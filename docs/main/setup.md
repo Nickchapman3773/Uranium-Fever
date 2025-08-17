@@ -426,12 +426,11 @@ Expand - Optional Mod Descriptions
 	- **Mod Delivery** - Commission weapon mods for your equipped weapon from vendors. For further details on utilization, visit the [Mod Feature Reference List](https://uraniumfever.net/docs/main/reference). Disabled by default because it is egregiously underutilized by users that are unaware of the associated functions.
 	- **Quick Start & Associated Addons - Uranium Fever Merge** - A merge of quick-start related mods. May be disabled by those who want to experience the Fallout 3 introduction sequence.
 	- **Uranium Fever Hardercore** - Various settings that dramatically increase the difficulty of Uranium Fever. The mod includes the following changes:
-		- One perk is gained every 3 levels
+		- One perk is gained every 3 levels.
 		- No perks are gained after being humbled (first time travel between wastelands) until the player reaches their pre-humbled level.
 		- 2 Less skill points are gained per level.
 		- 3 Less SPECIAL points to allocate when creating a character.
 		- Max of 5 traits can be selected when creating a character (Wild Wasteland is free).
-		- Harsher loot scarcity settings.
 		- Hardcore need accumulation rate is doubled.
 		- Overencumbrance has a much more dramatic impact on movement speed.
 		- Sleeping will restore a much smaller amount of health. 
@@ -444,9 +443,9 @@ Expand - Optional Mod Descriptions
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- Locks and Terminals have a random chance to be a higher lock level.
  	- **Uranium Fever Softercore** - Various settings that dramatically reduce the difficulty of Uranium Fever. The mod includes the following changes:
-		- Milder loot scarcity settings.
    		- Hardcore needs accumulation rate is halved.
 		- Weapon requirement penalties are reduced.
+  		- Reduced lockpicking difficulty when unlocking locks that are higher level than the player.
 		- Terminal shock punishment when failing to hack a terminal is reduced.
 		- The radius of irradiated locations is reduced.
 		- Difficulty starts at normal but can be changed to Easy or Very Easy.
