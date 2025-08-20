@@ -108,6 +108,10 @@ Expand - Troubleshooting Steps
   - Use healing items beyond full health.
   - Sleep beyond full health.
 
+- **Damage Treshold (DT) and Damage Resistance (DR) - What are DT and DR? How do they work?
+  - Damage Treshhold (DT) - A flat reduction in damage. This is applied AFTER DR. The maximum reduction in damage is 20% of the original damage value. Example: DT of 10 reduces a damage value of 40 to 30.
+  - Damage Resistance (DR) - A percent reduction in damage. This is applied BEFORE DT. The maximum reduction in damage is 85%. Example: DR of 30 reduces incoming damage by 30%.
+
 - **Dialogue Skill Indicator - Why was it removed?**
   - This feature was intentionally removed to enhance immersion and prevent metagaming.
     
