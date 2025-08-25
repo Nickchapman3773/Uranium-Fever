@@ -17,7 +17,7 @@ Before requesting support, check the [Frequently Asked Questions](https://uraniu
 - Navigate to the `Root Directory` (e.g., `C:\`, `D:\`).
 - Create a folder named `Modding` and open it.
 - Inside, create a folder named `Wabbajack` (**DO NOT** open it).
-- Create another folder named `Uranium Fever` and open it.
+- Create another folder named `Uranium Fever` and open it. 
 - Inside `Uranium Fever`, create a folder named `downloads`.
 
 :::important Double Check
