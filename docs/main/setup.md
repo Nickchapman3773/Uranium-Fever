@@ -177,6 +177,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
   
 :::tip Detail
 - Ultra provides textures at the intended resolution, though for those with performance concerns, lower `Detail` presets will uniformly downsize all of the textures in Uranium Fever, which may be beneficial for users with weaker computers.
+	- DO NOT use `Low`. This setting disables critical rendering functions.
 
  	![image](https://github.com/user-attachments/assets/d20f56d9-7e78-48f6-b6a8-ba6b0a02004a)
 :::
