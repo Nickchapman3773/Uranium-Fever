@@ -345,7 +345,7 @@ Expand - Troubleshooting Steps
   - Uranium Fever uses classic skill tagging, meaning that that all skill points input into the tagged skill are doubled per level up (each one skill point you have per level up would count as 2 for a tagged skill).
  
 - **Sky - Why is my sky black? How do I fix it?**
-  - You used the `Low` preset in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-), which breaks critical functions.
+  - You used the `Low` preset in [Configuring Game Settings](https://uraniumfever.net/docs/main/setup#-configuring-game-settings-), which breaks critical rendering functions.
 
 - **SPECIAL - What do SPECIAL do in Uranium Fever?**
   - **All SPECIALS:**
