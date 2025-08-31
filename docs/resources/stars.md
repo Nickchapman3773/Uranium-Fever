@@ -31,7 +31,6 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
       - `bWeightlessWornPowerArmor = 1`
       - `bEquipBrokenItems = 0`
 - Main File - [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927)
-- Main File - [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
 - Main File - [Pipboy Holo Panel ESPless](https://www.nexusmods.com/newvegas/mods/86483)
 - Main File - [Tranquility Lane Fix](https://www.nexusmods.com/newvegas/mods/77018?tab=files&file_id=1000094179&nmm=1)
 - Main File - [Wasteland Soldier - NV Edition Main File](https://www.nexusmods.com/newvegas/mods/46278?tab=files&file_id=105348&nmm=1)
