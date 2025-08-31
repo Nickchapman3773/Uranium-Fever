@@ -318,10 +318,7 @@ Expand - Troubleshooting Steps
   - You died. Try a different method of activating the purifier.
 
 - **Radiation - ___ is too irradiated to complete! What can I do?**
-  - Use a combination of a Radiation Suit, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the [uf-bug-reports](https://discord.gg/WswmBGXQZt) Discord channel.
-
-- **Ragdolls - Does the Ragdolls mod cause crashes?**  
-  - No. The Death Throes replacement plugin used here is stable.
+  - Use a combination of a Radiation Suits, Rad-x, Radaway, and Alcohol to mitigate the effects of radiation. However, if an area is too irradiated to even be possible, please report the location in the [uf-bug-reports](https://discord.gg/WswmBGXQZt) Discord channel.
 
 - **Reflections - Why are landscape reflections visible in windows despite there being a building or object behind me?**  
   - This is intentional to prevent significant performance degradation.
