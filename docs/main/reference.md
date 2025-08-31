@@ -106,13 +106,7 @@ sidebar_label: Mod Feature Reference List
     - Pronto (Guns/Explosives/Big Guns)
     - Durga (BS DC) (Energy/Big Guns)
     - Uncle Roe (Canterbury Commons) (Explosives/Guns/Melee/Unarmed).
-
-- **New Vegas Reloaded (NVR):**
-  - Press `End` to open the settings menu.
-  - Press `=` to manually edit a value.
-  - Press `[` to disable or decrease a value.
-  - Press `]` to enable or increase a value.
-
+      
 - **Open Inventory:**
   - Press `I`.
 
@@ -130,11 +124,7 @@ sidebar_label: Mod Feature Reference List
 
 - **Pip-Boy Flashlight:**
   - Hold `Tab`.
-
-- **Portable Craftomatic:**
-  - Portable crafting kit.
-  - Mouse over tool, press Activate (`E`).
-
+    
 - **Prone:**
   - Hold `Left Ctrl`.
 
