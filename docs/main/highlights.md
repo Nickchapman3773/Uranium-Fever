@@ -14,7 +14,7 @@ sidebar_label: Mod Highlights
 - [Bullet Time](https://www.nexusmods.com/newvegas/mods/67448) - Replaces VATS with AP-based time-scaling for precise aiming and decision-making.
 - [Armor Damage Overhaul](https://www.nexusmods.com/newvegas/mods/73267) - Revamps armor degradation for a more intuitive, customizable system.
 - [New Blood](https://www.nexusmods.com/newvegas/mods/75666) - Introduces bleeding from blade hits and knockdown effects from blunt impacts.
-- [Famine](https://www.nexusmods.com/newvegas/mods/74985) - Adds resource scarcity, encouraging bartering and crafting.
+- [Sweet Scarcity](https://www.nexusmods.com/newvegas/mods/88847?tab=description) - Adds resource scarcity, encouraging bartering and crafting.
 - [RAD - Radiation Is Actually Dangerous](https://www.nexusmods.com/newvegas/mods/71541) - Overhauls survival mechanics like radiation, hunger, and dehydration for greater impact.
 - [Sweet Consumables](https://www.nexusmods.com/newvegas/mods/73437) - Balances consumables and miscellaneous items.
 - [Aid Addon](https://www.nexusmods.com/newvegas/mods/74379) - Adds 16 hardcore-focused healing items and new survival options.
@@ -46,7 +46,6 @@ sidebar_label: Mod Highlights
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
 - [Goodies](https://www.nexusmods.com/newvegas/mods/91028) - Restores a large selection of cut content.
 - [The Living Desert](https://www.nexusmods.com/newvegas/mods/64623) - Adds dynamic NPCs and events for immersion.
-- [More Mojave - Dark Side](https://www.nexusmods.com/newvegas/mods/91060) - Adds lore-rich locations across the game.
 - [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569) & [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523) - Adds lore-rich locations across the game.
 - [Mojave Raiders](https://www.nexusmods.com/newvegas/mods/64660) - Diversifies Raider factions with unique themes.
 - [AGE (Anchorage Gameplay Expansion)](https://www.nexusmods.com/newvegas/mods/72031) - Revamps the Anchorage DLC with new gear and encounters.
@@ -56,8 +55,8 @@ sidebar_label: Mod Highlights
 - [EDGE (Early Decisions and Gameplay Enhancement)](https://www.nexusmods.com/newvegas/mods/74921) - Overhauls Tale of Two Wastelands with an emphasis on hardcore play.
 - [The Great DC Interior Overhaul](https://www.nexusmods.com/newvegas/mods/90412) - Overhauls interiors throughout the Capital Wasteland.
 - [The Great Mojave Interior Overhaul](https://www.nexusmods.com/newvegas/mods/70165) - Overhauls interiors throughout the Mojave Wasteland.
-- [Capital Wasteland Landscape](https://www.nexusmods.com/newvegas/mods/91506) - Overhauls landscape across the Capital Wasteland.
-- [Desert Landscapes - Dark Side](https://www.nexusmods.com/newvegas/mods/89810) - Overhauls landscape across the Mojave Wasteland.
+- [Capital Wasteland Landscape](https://www.nexusmods.com/newvegas/mods/91506) - Overhauls landscape and clutter across the Capital Wasteland.
+- [Mojave Scenery Overhaul](https://www.nexusmods.com/newvegas/mods/89867) - Overhauls landscape abd clutter across the Mojave Wasteland.
 - [Northern Greenery](https://www.nexusmods.com/newvegas/mods/84773) - Overhauls landscape in the Northern region of the Capital Wasteland.
 
 # <p align="center">![Content](https://github.com/user-attachments/assets/ef1a3bfa-cd8f-424a-913e-909629309682)</p>
@@ -82,7 +81,6 @@ sidebar_label: Mod Highlights
 
 - [ATMOS Ambience Overhaul Fallout 3](https://www.nexusmods.com/newvegas/mods/84054) & [ATMOS Ambience Overhaul New Vegas](https://www.nexusmods.com/newvegas/mods/85939) - Modernizes ambient sounds across both Wastelands.
 - [A Music Addition Project - Revised](https://www.nexusmods.com/newvegas/mods/84554) - Expands music with lore-friendly tracks.
-- [The Golden Archive](https://mod.pub/falloutnv/122-the-golden-archive) - Expands Radio New Vegas with lore-friendly tracks.
 - [Capital Ruins](https://www.nexusmods.com/newvegas/mods/76591) - Adds darker, horror-inspired music to the Capital Wasteland.
 
 # <p align="center">![User Interface](https://github.com/user-attachments/assets/e71f4936-aa91-408d-b9dd-bcc873ba07df)</p>
@@ -98,7 +96,6 @@ sidebar_label: Mod Highlights
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Overhauls movement with new animations and sprinting options.
 - [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Adds motion-captured stagger animations.
 - [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687) - Adds response animations for NPCs when injured.
-- [Ragdolls](https://www.nexusmods.com/newvegas/mods/59147) & [Death Throes](https://www.nexusmods.com/newvegas/mods/81591) - Improves ragdoll behavior for realistic animations.
 
 # <p align="center">![Visuals](https://github.com/user-attachments/assets/8806cbca-2b3b-47ad-8aab-53600615c425)</p>
 
@@ -106,9 +103,5 @@ sidebar_label: Mod Highlights
 - [Special FX](https://www.nexusmods.com/newvegas/mods/87817) - Reimagines all game effects for explosions, lasers, blood, and more.
 - [Lumen](https://www.nexusmods.com/newvegas/mods/81060) - Adds ambient lighting to objects.
 - [Energy Visuals Plus](https://www.nexusmods.com/newvegas/mods/80000) - Enhances lighting for explosions and energy impacts.
-- [Sandstone Desert](https://www.nexusmods.com/newvegas/mods/88796) - Overhauls the appearance of terrain and rocks throughout the game.
-- [Desolation Flora](https://www.nexusmods.com/fallout3/mods/25364) - Overhauls flora throughout the Capital Wasteland.
-- [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698) - Overhauls flora throughout the Mojave Wasteland.
-- [Rustic Grass](https://www.nexusmods.com/fallout3/mods/23991) - Overhauls grass throughout all Wastelands.
 - [Desert Natural Weathers](https://www.nexusmods.com/newvegas/mods/75437) - Overhauls weather for realistic variation across climates.
 - [Uranium Haze](https://www.nexusmods.com/newvegas/mods/88817) - Uses New Vegas Reloaded for a full-game aesthetic overhaul with day-night cycle lighting and customized presets for each worldspace.
