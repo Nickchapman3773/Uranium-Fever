@@ -459,7 +459,6 @@ Expand - Optional Mod Descriptions
     
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
- 	- **Enhanced FOV** - Allows manual adjustment of the FOV.
  	- **Sound - Uranium Fever Main Menu Music** - Uranium Fever specific menu music.
 	- **Tutorial - Uranium Fever Tutorial** - A Uranium Fever specific tutorial.
 	- **UI - 16-10 Aspect Ratio Monitor Support** - Enables support for 16:10 monitors.
