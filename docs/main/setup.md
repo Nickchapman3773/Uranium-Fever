@@ -214,13 +214,13 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) fo
 - Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
 - Do not create a new TTW folder if you cannot find the existing one. You are likely in the wrong filepath.
 
-	![TTW Install](https://github.com/user-attachments/assets/7cfc511e-df55-44d9-b26c-8aad7e624c9e)
+	![TTW Confirm](https://github.com/user-attachments/assets/406f597d-562b-407a-83f2-0d12873ae87c)
 :::
 
 - Click `Install`.
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
-	![TTW Confirm](https://github.com/user-attachments/assets/406f597d-562b-407a-83f2-0d12873ae87c)
+	<img width="363" height="77" alt="TTWComplete" src="https://github.com/user-attachments/assets/c99bd84b-0b28-4d45-a631-8b302cba49fb" />
 
 - Manual Download [YUPTTW](https://mod.pub/ttw/133/files) and extract the archive contents into `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - YUPTTW Hotfix`
 
