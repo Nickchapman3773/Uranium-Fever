@@ -220,7 +220,7 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) fo
 - Click `Install`.
 - Once the installation is complete and the confirmation screen appears, close the installer.
 
-	![TTW Confirmation](https://github.com/user-attachments/assets/6e584750-178e-4d21-b030-1fd99ab76585)
+	<img width="700" height="368" alt="TTW Confirm" src="https://github.com/user-attachments/assets/406f597d-562b-407a-83f2-0d12873ae87c" />
 
 - Manual Download [YUPTTW](https://mod.pub/ttw/133/files) and extract the archive contents into `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - YUPTTW Hotfix`
 
