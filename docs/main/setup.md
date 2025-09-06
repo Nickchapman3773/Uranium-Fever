@@ -159,7 +159,7 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 - If prompted that `FalloutNV_lang.esp` was found, select `Yes`.
 - If prompted to `register to handle nxm links`, select `Yes`.
 
-:::note Epic Game Users
+:::tip Epic Game Users
 - Open `executable settings` ![352871292-1de0e254-e1a2-4d2a-bac2-df9630e0677b](https://github.com/user-attachments/assets/744ae726-8c62-452c-8bd5-a0f75515d083).
 - Select `Uranium Fever`, select the `Arguments` box, add `-EpicPortal`, then select `Apply`.
 
