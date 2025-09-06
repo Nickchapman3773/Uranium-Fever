@@ -204,14 +204,14 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) fo
 :::danger Required Mod
 :::
 
-- Download the [Tale of Two Wastelands Installer](https://mod.pub/ttw/133/files) and extract the archive.
+- Manual Download [Tale of Two Wastelands](https://mod.pub/ttw/133/files) and extract the archive.
 - Open the extracted `Tale of Two Wastelands Installer` folder. Right-click `TTW Install.exe` and select `Run as Administrator`.
 - Verify that the `Fallout 3` file path matches your Steam/GOG Fallout 3 installation path (this should already be auto-populated).
 - Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\[NoDelete] Stock New Vegas`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Fallout New Vegas` file path.
-- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
+- Copy (`Ctrl+C`) `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`, changing the Root Directory path if necessary, and paste (`Ctrl+V`) it into the `Tale of Two Wastelands Installation Path`.
 
 :::danger CRITICAL - Confirm the File Path
-- Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [DB] Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
+- Ensure the installation file path is `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)`. Installing outside of the `MODS` folder will prevent the game from launching.
 - Do not create a new TTW folder if you cannot find the existing one. You are likely in the wrong filepath.
 
 	![TTW Install](https://github.com/user-attachments/assets/7cfc511e-df55-44d9-b26c-8aad7e624c9e)
@@ -222,10 +222,12 @@ Refer to [Frequently Asked Questions](https://uraniumfever.net/docs/main/faq) fo
 
 	![TTW Confirmation](https://github.com/user-attachments/assets/6e584750-178e-4d21-b030-1fd99ab76585)
 
-:::tip Double Check
-Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` folder, select `Properties`, and verify that the folder size is exactly 17GB.
+- Manual Download [YUPTTW](https://mod.pub/ttw/133/files) and extract the archive contents into `C:\Modding\Uranium Fever\MODS\[NoDelete] [INF] [DB] - YUPTTW Hotfix`
 
-If not, delete the `[NoDelete] [DB] Tale of Two Wastelands (TTW)` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/main/setup#-creating-clean-installs-and-backups-).
+:::tip Double Check
+Navigate to `C:\Modding\Uranium Fever\mods`, right-click the `[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)` folder, select `Properties`, and verify that the folder size is exactly 17GB.
+
+If not, delete the `[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)` and `[NoDelete] Stock New Vegas` folders, then repeat the steps starting from [Creating Clean Installs and Backups](https://uraniumfever.net/docs/main/setup#-creating-clean-installs-and-backups-).
 :::
 
 :::warning
@@ -238,28 +240,6 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 
 :::danger
 Failure to run the 4GB Patch will result in a pink screen or crash when launching the game.
-:::
-
-### <p align="center"> ![Installing New Vegas Reloaded (NVR)](https://github.com/user-attachments/assets/017153a8-2c8e-444d-af1f-83ad452d0370) </p>
-:::danger Required Mod
-:::
-
-- Navigate to [New Vegas Reloaded Discord Server](https://discord.com/invite/BYY7SNfQeJ).
-- Download the most recent release from the `Nightly Builds` channel in the `DEVELOPMENT` category.
-
-	![image](https://github.com/user-attachments/assets/41a44610-eb6a-4f89-a918-8907f30466df)
-
-:::warning
- **DO NOT** download the versions available in the Ready Builds or Testing channels.
-:::
-
-- Click the `Install a New Mod from Archive` icon in the top left corner of MO2 ![Install Mod from Archive](https://github.com/user-attachments/assets/01905765-0046-43f4-965d-207d8d4ca8be), select the downloaded `NVR archive` from the `Downloads` folder, and name it `[NoDelete] [VLQ] [LQ] - New Vegas Reloaded (NVR)`.
-- Select `Replace` when prompted `Mod Exists`.
-
-  ![Replace](https://github.com/user-attachments/assets/797e3ea3-0b16-4a70-a902-e65bae4a3767)
-
-:::note Updating New Vegas Reloaded
-When instructed to update the mod, simply repeat these steps.
 :::
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
