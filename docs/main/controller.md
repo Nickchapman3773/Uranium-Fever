@@ -10,8 +10,8 @@ We only support Steam users with Steam Input. Unfortunately there are no viable 
 
 :::tip Controller Configs Zip File
 Per the instructions below, copy/paste the folders from this file into your Uranium Fever/mods folder. 
-**[Uranium Fever Controller Instructions June 2025.zip](https://github.com/user-attachments/files/20978975/Uranium.Fever.Controller.Instructions.June.2025.zip)**
+**[Uranium Fever Controller Instructions September 2025.zip](https://github.com/user-attachments/files/22192735/Uranium.Fever.Controller.Instructions.September.2025.zip)**
 :::danger **REINSTALL AFTER EVERY UPDATE**
 :::
 
-<iframe src="https://drive.google.com/file/d/1zP41c5iK2W0X2eFwp-YmxOBDW9mZHdkw/preview" width="974" height="900" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1ySlfbbWg2upySnDgKBWJKhPqRyUClOP7/preview" width="974" height="900" allow="autoplay"></iframe>
