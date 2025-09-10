@@ -194,8 +194,10 @@ Many plugins and folders will need to be **HIDDEN** throughout the installation 
   - **HIDE** the `Courier's 3.esp` plugin.
 - Main File - [Caesar's Legion - Helmet of the 87th Tribe](https://www.nexusmods.com/newvegas/mods/90172?tab=files&file_id=1000145320&nmm=1)
   - **HIDE** the `Caesar's Legion - Helmet of the 87th Tribe.esp` plugin.
+  - **HIDE** the NVSE Folder.
 - Main File - [Fear and Loathing - Raoul Shades](https://www.nexusmods.com/newvegas/mods/88861?tab=files&file_id=1000139438&nmm=1)
   - **HIDE** the `Raoul_Shades.esp` plugin.
+  - **HIDE** the NVSE folder.
 - Main File - [Fear and Loathing Hawaiian Shirt and Panama Hat](https://www.nexusmods.com/newvegas/mods/87723?tab=files&file_id=1000134220&nmm=1)
   - **HIDE** the `FnL.esp` plugin.
 - Main File - [Zion National Park Ranger Outfit](https://www.nexusmods.com/newvegas/mods/88624?tab=files&file_id=1000140110&nmm=1)
