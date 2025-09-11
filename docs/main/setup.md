@@ -428,6 +428,7 @@ Expand - Optional Mod Descriptions
 		- Forced entry settings are more likely to break items in containers and door locks have more health.
 		- The Long Haul perk has been disabled, meaning the player can no longer fast travel when over encumbered.
 		- Locks and Terminals have a random chance to be a higher lock level.
+    - Higher level enemies will appear earlier 
  	- **Uranium Fever Softercore** - Various settings that dramatically reduce the difficulty of Uranium Fever. The mod includes the following changes:
    		- Hardcore needs accumulation rate is 33% of the base list.
 		- Weapon requirement penalties are reduced.
