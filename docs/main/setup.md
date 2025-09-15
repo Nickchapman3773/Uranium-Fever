@@ -437,6 +437,7 @@ Expand - Optional Mod Descriptions
 		- The radius of irradiated locations is reduced.
   		- Increases the material used by the Ammo Press and reduces the cooldown.
 		- Difficulty starts at normal but can be changed to Easy or Very Easy.
+    - Caps have no weight
     
 - **Optional - Settings:**
 	- **Keybinds - F Activates, Q & E Lean** - Swaps the activate key to F and enables manual leaning on the Q and E keys.
