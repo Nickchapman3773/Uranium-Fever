@@ -26,23 +26,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
       "readme": "https://uraniumfever.net/",
-      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_9f6ce1df-6eb1-45aa-9ced-300b564620e5",
+      "download": "https://authored-files.wabbajack.org/Uranium Fever.wabbajack_70b03793-9fdd-4964-9436-4f99dcc5d9c1",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu",
       "websiteURL": "https://uraniumfever.net/"
     },
     "download_metadata": {
-      "Hash": "u1WoC15SXb8=",
-      "Size": 5686495343,
-      "NumberOfArchives": 1369,
-      "SizeOfArchives": 77033627944,
-      "NumberOfInstalledFiles": 114645,
-      "SizeOfInstalledFiles": 90956485379,
-      "TotalSize": 167990113323
+      "Hash": "vkO+HVCQgUM=",
+      "Size": 5678037680,
+      "NumberOfArchives": 1366,
+      "SizeOfArchives": 77018171154,
+      "NumberOfInstalledFiles": 114687,
+      "SizeOfInstalledFiles": 90905791290,
+      "TotalSize": 167923962444
     },
-    "version": "1.5.0.2",
+    "version": "1.5.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-15T03:08:43.1819578Z",
+    "dateUpdated": "2025-09-20T04:01:17.1506909Z",
     "repositoryName": ""
   }
 ]
