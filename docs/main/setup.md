@@ -305,7 +305,8 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 - Exceeding this value, even on powerful machines, can result in significantly increased stuttering. Exceeding 120 can result in timesync abnormalities.
 - RTSS is autoconfigured in Uranium Fever, though those who wish to increase this can do so by selecting `FalloutNV.exe` and adjusting the `Framerate limit`.
 	- The absolute maximum value is 119.95, and it is highly likely that increasing to this value will increase in-game stutter.
-
+:::warning Force close RTSS from task manager before updating the list! This is known to cause issues with launching from MO2 if RTSS is open when updating the list.
+:::
 ![RTSS](https://github.com/user-attachments/assets/cb6a8927-3ad8-4f24-816c-fa4ea8f4213b)
 :::
 
