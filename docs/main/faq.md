@@ -80,6 +80,9 @@ Expand - Troubleshooting Steps
 - **BASS Init/XD3 Input Errors - I got a BASS Init/XD3 Input Error while installing TTW. How do I fix it?**
   - You are either using non-English versions of Fallout: New Vegas or Fallout 3, lack the associated DLCs, or have not completed a [clean installation](https://uraniumfever.net/docs/main/setup#-creating-clean-installs-and-backups-) appropriately.
  
+- **Black screen with crash when launching?**
+  - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Uranium Fever folder, and launch from MO2 as normal.
+ 
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
 
