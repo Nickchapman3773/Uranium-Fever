@@ -83,6 +83,9 @@ Expand - Troubleshooting Steps
 - **Black screen with crash when launching?**
   - This is caused by having RTSS open when updating the list. Force close RTSS from task manager, restart your PC, rerun RTSS from the Uranium Fever folder, and launch from MO2 as normal.
  
+- **Black screen with no crash and you can hear the startup music?**
+- This is caused by an unresolvable bug with NVR. Simply close the game and relaunch.
+ 
 - **Bobbleheads/Skill Books - I used to know exactly where to find all of the bobbleheads/skill books, but they aren't where I expect them. Why?**
   - They have all been relocated. Gone are the days of free, predictable SPECIAL/Skill points. We enjoy the sense of discovery associated with their relocation, and hope you will too.
 
