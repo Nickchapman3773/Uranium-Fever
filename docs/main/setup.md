@@ -5,9 +5,9 @@ hide_title: true
 sidebar_label: Setup Instructions
 ---
 
-# ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
+<!--# ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9) -->
 
-<!--delete down message after WJ is back up -->
+<!--delete down message and return banner after WJ is back up -->
 # ![Down Message](https://github.com/user-attachments/assets/625d2f68-dade-441f-beef-084de4cfe189)
 
 
